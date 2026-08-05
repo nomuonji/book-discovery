@@ -1,0 +1,50 @@
+name: SNS Bot Post
+
+on:
+  schedule:
+    # 毎日 12:00 JST（03:00 UTC）
+    - cron: "0 3 * * *"
+    # 毎日 20:00 JST（11:00 UTC）
+    - cron: "0 11 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "投稿せずにドライラン"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: sns-bot
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: Post to SNS
+        run: npm run bot:post
+        env:
+          BOT_ENABLED: ${{ vars.BOT_ENABLED }}
+          SITE_URL: ${{ vars.SITE_URL }}
+          BOT_PLATFORMS: ${{ vars.BOT_PLATFORMS }}
+          BOT_POSTS_PER_DAY: ${{ vars.BOT_POSTS_PER_DAY }}
+          # 12:00 JST はスロット0、20:00 JST はスロット1（BOT_POSTS_PER_DAY=2 前提）
+          BOT_SLOT: ${{ github.event.schedule == '0 3 * * *' && '0' || '1' }}
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}

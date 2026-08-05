@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "philosophy",
+    "label": "哲学・思想・批評理論",
+    "description": "実存主義からポストコロニアル理論まで、世界の見え方を変える思想書群。",
+    "order": 1,
+    "count": 73
+  },
+  {
+    "slug": "world-fiction",
+    "label": "世界文学",
+    "description": "アフリカ、アジア、ラテンアメリカ、中東、東欧——英語圏を超えた文学の地図。",
+    "order": 2,
+    "count": 81
+  },
+  {
+    "slug": "contemporary-fiction",
+    "label": "現代小説",
+    "description": "2000年以降の世界の文学シーンを牽引する作家たち。ブッカー賞、全米図書賞、ピューリッツァー賞受賞作を中心に。",
+    "order": 3,
+    "count": 79
+  },
+  {
+    "slug": "classic-fiction",
+    "label": "古典・20世紀文学",
+    "description": "1900年代から1990年代まで、世界文学の基盤を築いた名作群。",
+    "order": 4,
+    "count": 76
+  },
+  {
+    "slug": "nonfiction",
+    "label": "ノンフィクション・批評",
+    "description": "人類史から心理学、環境問題、文化批評まで——世界の見え方を更新する知の傑作群。",
+    "order": 5,
+    "count": 72
+  },
+  {
+    "slug": "sf-fantasy",
+    "label": "SF・幻想文学",
+    "description": "想像力で現実を書き換える——ヒューゴー賞、ネビュラ賞から世界のSF・幻想小説まで。",
+    "order": 6,
+    "count": 74
+  }
+]

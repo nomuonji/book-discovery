@@ -1,0 +1,1720 @@
+{
+  "recommendations": [
+    {
+      "fromSlug": "norwegian-wood",
+      "toSlug": "what-we-talk-about-when-we-talk-about-love",
+      "reasonJa": "村上春樹が翻訳し深く影響を受けた作家。日常のすきまに潜む喪失と、言葉にできない感情の描き方が響き合う。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "norwegian-wood",
+      "toSlug": "klara-and-the-sun",
+      "reasonJa": "長崎生まれのノーベル賞作家が描く、無垢な視点から見た人間の愛と喪失。静かな語り口と余白の美学が春樹作品と呼応する。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "norwegian-wood",
+      "toSlug": "my-brilliant-friend",
+      "reasonJa": "青春の痛みと人間関係の複雑さを、社会の変化のなかで描き切る物語力。ページを繰る手が止まらなくなる没入感で。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "norwegian-wood",
+      "toSlug": "normal-people",
+      "reasonJa": "声に出せない感情とすれ違い。ノルウェイの森の「喪失の青春」を、アイルランドのミレニアル世代がアップデートした。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-wind-up-bird-chronicle",
+      "toSlug": "one-hundred-years-of-solitude",
+      "reasonJa": "現実と異界が地続きになるマジックリアリズム。歴史の暴力が個人の運命と交錯する壮大な物語空間。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-wind-up-bird-chronicle",
+      "toSlug": "the-emigrants",
+      "reasonJa": "歴史のトラウマが個人の記憶にどう刻まれるかを探求する文学。写真とテクストの融合という実験性も共通する。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-wind-up-bird-chronicle",
+      "toSlug": "2666",
+      "reasonJa": "現代の暴力と記憶を描く巨大な小説。春樹の「井戸」に潜る精神の旅を、ラテンアメリカの殺戮の荒野で展開する。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-wind-up-bird-chronicle",
+      "toSlug": "cloud-atlas",
+      "reasonJa": "時空を超えてつながる複数の物語。マトリョーシカ構造で歴史と個人を結びつける手法が春樹ファンに刺さる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "what-we-talk-about-when-we-talk-about-love",
+      "toSlug": "slaughterhouse-five",
+      "reasonJa": "削ぎ落とされた文体と乾いたユーモアで人間の不条理を描く、20世紀アメリカ文学の双璧。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "what-we-talk-about-when-we-talk-about-love",
+      "toSlug": "trout-fishing-in-america",
+      "reasonJa": "ミニマリズムからさらに実験的に振り切った同世代の作家。言葉の遊びと詩的センス。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "what-we-talk-about-when-we-talk-about-love",
+      "toSlug": "the-opposite-of-loneliness",
+      "reasonJa": "短編という形式で日常の輝きと喪失を描く。カーヴァーの系譜にある、若き才能の遺作短編集。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "what-we-talk-about-when-we-talk-about-love",
+      "toSlug": "stories-of-your-life-and-others",
+      "reasonJa": "短編小説の極み。カーヴァーの日常からテッド・チャンの宇宙まで——短編で世界を変える二人。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-stranger",
+      "toSlug": "the-myth-of-sisyphus",
+      "reasonJa": "同じカミュが同年に発表した哲学的エッセイ。『異邦人』の不条理を理論として深掘りし、それでも生きる意味を探求する。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-stranger",
+      "toSlug": "the-vegetarian",
+      "reasonJa": "社会の規範から逸脱した個人を、醒めた筆致で描く現代の不条理小説。カミュのムルソーから約80年——韓国文学が到達した「異邦人」。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-stranger",
+      "toSlug": "thus-spoke-zarathustra",
+      "reasonJa": "カミュの不条理のさらに奥へ——ニーチェの「神は死んだ」と「超人」。小説から哲学へ、不条理の源泉に飛び込む。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-myth-of-sisyphus",
+      "toSlug": "existentialism-is-a-humanism",
+      "reasonJa": "カミュの不条理からサルトルの実存主義へ。自由と責任の哲学を、講演形式でわかりやすく展開する。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-myth-of-sisyphus",
+      "toSlug": "the-second-sex",
+      "reasonJa": "カミュと同時代の実存主義者ボーヴォワール。シーシュポスの神話から「女は作られる」へ——実存主義を社会に応用するとどうなるか。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "existentialism-is-a-humanism",
+      "toSlug": "discipline-and-punish",
+      "reasonJa": "実存主義の「自由な主体」から、フーコーの「権力に規定される主体」へ——現代思想の展開をたどる次の一歩。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "existentialism-is-a-humanism",
+      "toSlug": "the-second-sex",
+      "reasonJa": "サルトルの伴侶ボーヴォワールによる実存主義の応用編。「自由と責任」をジェンダーに適用すると何が起きるか。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "discipline-and-punish",
+      "toSlug": "orientalism",
+      "reasonJa": "フーコーの「知と権力」理論を、西洋の東洋表象に応用したサイードの古典。権力論を国際関係に拡張する。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "discipline-and-punish",
+      "toSlug": "seeing-like-a-state",
+      "reasonJa": "フーコーの規律権力論を国家規模で実証するスコットの人類学。「管理」が社会をどう壊すか。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "slaughterhouse-five",
+      "toSlug": "the-sympathizer",
+      "reasonJa": "戦争の不条理をユーモアと怒りで描く。ヴォネガットがドレスデン爆撃を、ウェンがベトナム戦争を——戦争文学の両極。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "slaughterhouse-five",
+      "toSlug": "annihilation",
+      "reasonJa": "SFという枠組みで人間存在の不条理に迫る。ヴォネガットのユーモアからヴァンダミアの恐怖へ——異なる方向のSF文学。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "slaughterhouse-five",
+      "toSlug": "cloud-atlas",
+      "reasonJa": "入れ子構造と時空を超える語り。ヴォネガットのポストモダンを21世紀にアップデートした野心作。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "flights",
+      "toSlug": "the-years",
+      "reasonJa": "断片的記憶と移動の文学が到達した二つの頂点——トカルチュクの解剖学的散文とエルノーの自伝的集団史。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "flights",
+      "toSlug": "outline",
+      "reasonJa": "従来の「小説」の枠を超えた断片文学。トカルチュクの移動からカスクの対話へ——プロットなき小説の二つの形。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "flights",
+      "toSlug": "the-emigrants",
+      "reasonJa": "旅と記憶と断片。トカルチュクの解剖学的旅行記とゼーバルトの写真と散文——「移動の文学」の二つの傑作。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "my-brilliant-friend",
+      "toSlug": "the-opposite-of-loneliness",
+      "reasonJa": "女性の成長と友情、若さの全能感と喪失。ナポリからイェールへ——舞台は違えど、ともに胸を打つ。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "my-brilliant-friend",
+      "toSlug": "normal-people",
+      "reasonJa": "人間関係の機微を精緻に描く現代文学の双璧。イタリアの大河的友情とアイルランドのミニマルな恋愛。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "my-brilliant-friend",
+      "toSlug": "a-little-life",
+      "reasonJa": "人間関係の闇と光を描く長編。フェッランテのナポリ4部作が好きなら、ヤナギハラのNY4人組にも没入できる。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-vegetarian",
+      "toSlug": "the-hour-of-the-star",
+      "reasonJa": "社会の底辺で生きる女性の「身体」と「拒絶」を詩的に描く。韓国とブラジル、同時代の異なる大陸から響き合う女性文学。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-vegetarian",
+      "toSlug": "on-earth-were-briefly-gorgeous",
+      "reasonJa": "身体、暴力、そして美しい散文。ハン・ガンの韓国的静けさとヴオンのベトナム系アメリカ的叙情——アジア文学の新しい波。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "between-the-world-and-me",
+      "toSlug": "things-fall-apart",
+      "reasonJa": "アフリカ系アメリカ人の「いま」と植民地化以前のアフリカの「むかし」——異なる時代と大陸から人種とアイデンティティを問う。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "between-the-world-and-me",
+      "toSlug": "the-fire-next-time",
+      "reasonJa": "コーツの直接の祖先。ボールドウィンの甥への手紙から半世紀——黒人アメリカ文学の系譜をたどる。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "between-the-world-and-me",
+      "toSlug": "the-underground-railroad",
+      "reasonJa": "理論から小説へ。コーツが言葉で描いた黒人の恐怖を、ホワイトヘッドが歴史ファンタジーとして物語化。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "one-hundred-years-of-solitude",
+      "toSlug": "flights",
+      "reasonJa": "一族の百年から断片の現在へ。マジックリアリズムの「神話的時間」とトカルチュクの「解剖学的时间」。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "one-hundred-years-of-solitude",
+      "toSlug": "ficciones",
+      "reasonJa": "ガルシア＝マルケスの源流ボルヘス。壮大な一族の物語の前に、短編でラテンアメリカ文学の魔術を体験せよ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "one-hundred-years-of-solitude",
+      "toSlug": "homegoing",
+      "reasonJa": "一族の叙事詩、大陸を越えて——マコンドのブエンディア家から、ガーナとアメリカを結ぶ300年の一族史へ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "things-fall-apart",
+      "toSlug": "season-of-migration-to-the-north",
+      "reasonJa": "アフリカ文学の二つの原点——ナイジェリアのアチェベとスーダンのサーレフ。植民地主義の異なる断面。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "things-fall-apart",
+      "toSlug": "homegoing",
+      "reasonJa": "アチェベが描いた植民地化以前のアフリカから、ジャシが描く300年のディアスポラへ——アフリカ文学の時間を旅する。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "klara-and-the-sun",
+      "toSlug": "never-let-me-go",
+      "reasonJa": "同じくイシグロによる、人工的に作られた存在の視点から人間を見つめる物語。クララの前にもこんな子がいた。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "klara-and-the-sun",
+      "toSlug": "annihilation",
+      "reasonJa": "非人間的知性が語る世界。AIのクララと、変異する自然のエリアX——SFが文学として到達した場所。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-years",
+      "toSlug": "my-struggle-book-one",
+      "reasonJa": "自伝文学の革命——エルノーの「彼女」とクナウスゴールの「私」。フランスの集団記憶とノルウェーの個人の全記録。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-years",
+      "toSlug": "the-year-of-magical-thinking",
+      "reasonJa": "記憶と喪失のノンフィクション。集団の記憶を描くエルノーと、個人の喪失を描くディディオン。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-years",
+      "toSlug": "outline",
+      "reasonJa": "女声による新しい自伝の形。エルノーの集団史とカスクの対話による自画像——形式の革新がテーマを生み出す。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "thus-spoke-zarathustra",
+      "toSlug": "the-myth-of-sisyphus",
+      "reasonJa": "「神は死んだ」から「人生に意味はない」へ——ニーチェの破壊をカミュが受け止め、そこから出発する。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-origins-of-totalitarianism",
+      "toSlug": "black-skin-white-masks",
+      "reasonJa": "全体主義と植民地主義——20世紀の二つの巨大な暴力を分析する。ヨーロッパの内部と外部から。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-origins-of-totalitarianism",
+      "toSlug": "seeing-like-a-state",
+      "reasonJa": "なぜ国家は社会を破壊するのか。アーレントの全体主義論を国家計画一般に拡張するスコットの人類学。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-second-sex",
+      "toSlug": "gender-trouble",
+      "reasonJa": "「女は作られる」から「女というカテゴリーは存在しない」へ——フェミニズム理論の進化をたどる必読の二冊。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-second-sex",
+      "toSlug": "men-explain-things-to-me",
+      "reasonJa": "ボーヴォワールの理論を日常に降ろすとこうなる——軽やかで鋭い現代フェミニズムエッセイ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "gender-trouble",
+      "toSlug": "girl-woman-other",
+      "reasonJa": "バトラーのクィア理論を文学で体現する。「女」のカテゴリーを解体したあとに残る、複数の声と身体。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "orientalism",
+      "toSlug": "imagined-communities",
+      "reasonJa": "「東洋」は作られた、「国民」も作られた——表象と想像力が社会を構築する過程を追う二つの政治学。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "orientalism",
+      "toSlug": "my-name-is-red",
+      "reasonJa": "サイードが理論で暴いた「東洋と西洋の衝突」を、16世紀オスマン帝国の細密画を舞台に小説化。理論の文学版。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "black-skin-white-masks",
+      "toSlug": "the-fire-next-time",
+      "reasonJa": "植民地の精神分析（ファノン）とアメリカ黒人の魂（ボールドウィン）——差別の内面化を描く二つの古典。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-fire-next-time",
+      "toSlug": "between-the-world-and-me",
+      "reasonJa": "ボールドウィンから半世紀——コーツが息子に宛てた現代版「次は火だ」。黒人文学の系譜を体感する。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "sapiens",
+      "toSlug": "debt-the-first-5000-years",
+      "reasonJa": "ハラリの人類史を経済という切り口で深掘りする。貨幣は虚構だが、その虚構が世界を作った。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "sapiens",
+      "toSlug": "imagined-communities",
+      "reasonJa": "ハラリが言う「虚構を信じる力」の最たる例——「国民」という虚構はいかにして生まれたか。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "thinking-fast-and-slow",
+      "toSlug": "the-black-swan",
+      "reasonJa": "人間の認知バイアス（カーネマン）と、それが引き起こす大災厄（タレブ）。理論と実践の対。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "thinking-fast-and-slow",
+      "toSlug": "outliers",
+      "reasonJa": "認知心理学（カーネマン）から成功の社会学（グラッドウェル）へ——「賢い選択」の別の側面。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "on-photography",
+      "toSlug": "seeing-like-a-state",
+      "reasonJa": "「見ることの暴力」——写真というメディア（ソンタグ）と国家という装置（スコット）。視覚と権力をめぐる二つの批評。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-lonely-city",
+      "toSlug": "the-year-of-magical-thinking",
+      "reasonJa": "孤独と喪失のノンフィクション。NYのアーティストたち（レイン）と夫の死（ディディオン）——異なる種類の「一人」を描く傑作。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-lonely-city",
+      "toSlug": "the-opposite-of-loneliness",
+      "reasonJa": "孤独の反対を探す旅。大人の孤独を巡るレインと、若者の孤独と希望を描くキーガン。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "ficciones",
+      "toSlug": "stories-of-your-life-and-others",
+      "reasonJa": "短編で世界を変える魔術——ボルヘスの哲学的幻想から、テッド・チャンの科学的幻想へ。短編小説の二つの頂点。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "2666",
+      "toSlug": "a-little-life",
+      "reasonJa": "暴力とトラウマの長編小説。メキシコの連続殺人（ボラーニョ）とNYのトラウマ（ヤナギハラ）——異なる大陸の「書くに値する苦しみ」。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "too-loud-a-solitude",
+      "toSlug": "the-opposite-of-loneliness",
+      "reasonJa": "本への愛が溢れる短い小説。廃品処理場で本を救う老人と、若さの輝きを綴ったキーガン——「書くこと」への讃歌。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "voices-from-chernobyl",
+      "toSlug": "silent-spring",
+      "reasonJa": "人災が自然と人間をどう壊すか。チェルノブイリの証言と、DDTの告発——科学技術の「沈黙の犠牲者」を描く。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "normal-people",
+      "toSlug": "on-earth-were-briefly-gorgeous",
+      "reasonJa": "言葉にできない愛を、若い世代の作家がこれ以上ない美しさで書く。アイルランドとベトナム系アメリカ——異なる出自、同じ切実さ。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "girl-woman-other",
+      "toSlug": "white-teeth",
+      "reasonJa": "イギリス多文化文学の二つのマイルストーン。2000年のスミスと2019年のエヴァリスト——多様性の描き方の進化。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "homegoing",
+      "toSlug": "the-underground-railroad",
+      "reasonJa": "奴隷制とその遺産を描く現代文学の二つの金字塔。ジャシの300年叙事詩とホワイトヘッドの歴史修正ファンタジー。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "a-little-life",
+      "toSlug": "my-struggle-book-one",
+      "reasonJa": "人間の苦しみをこれでもかと描く長編。ヤナギハラのフィクションとクナウスゴールの自伝——「書かれるべき苦しみ」への異なるアプローチ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-fifth-season",
+      "toSlug": "things-fall-apart",
+      "reasonJa": "差別と抑圧の構造をファンタジーで描くジェミシンと、植民地主義の現実を描くアチェベ——ジャンルは違うが「構造的暴力」の物語として響き合う。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-three-body-problem",
+      "toSlug": "sapiens",
+      "reasonJa": "人類史の全体像（ハラリ）と人類の未来（劉）。過去から未来へ——人類の「次」を考えるための二冊。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-nickel-boys",
+      "toSlug": "between-the-world-and-me",
+      "reasonJa": "黒人少年への暴力——コーツの理論的告発と、ホワイトヘッドの小説による証言。アメリカの人種不正義を考える補完的な二冊。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "lincoln-in-the-bardo",
+      "toSlug": "the-year-of-magical-thinking",
+      "reasonJa": "喪失と死後の世界をめぐる実験文学。ソーンダーズの幽霊たちとディディオンの現実——同じテーマへの全く異なるアプローチ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "seven-brief-lessons-on-physics",
+      "toSlug": "the-myth-of-sisyphus",
+      "reasonJa": "物理学と哲学——宇宙の真理を異なる言語で語る短い傑作。ロヴェッリの詩的科学とカミュの文学的哲学。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-stranger",
+      "toSlug": "the-plague",
+      "reasonJa": "同じカミュが書いた、不条理と向き合う市民たちの物語。『異邦人』の孤独から『ペスト』の連帯へ——カミュ思想のもう一つの顔。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-plague",
+      "toSlug": "blindness",
+      "reasonJa": "疫病で都市が封鎖される物語の系譜。カミュの連帯とサラマーゴの闇——パンデミックの二つの描き方。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-myth-of-sisyphus",
+      "toSlug": "the-rebel",
+      "reasonJa": "『シーシュポスの神話』が問うた「不条理を生きる」ことの、社会・歴史への展開。カミュ思想の集大成。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "nausea",
+      "toSlug": "the-stranger",
+      "reasonJa": "サルトルの実存的不安とカミュの不条理。同じ時代、同じパリで書かれた二つの「世界への違和感」。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "nausea",
+      "toSlug": "existentialism-is-a-humanism",
+      "reasonJa": "『嘔吐』で感じた実存を、理論として理解したいなら。講演調で語られるサルトルの実存主義入門。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "being-and-nothingness",
+      "toSlug": "being-and-time",
+      "reasonJa": "サルトルが「フランス的ハイデガー」を作る際に基盤とした、現存在の分析。実存主義の深層に挑むなら。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "being-and-time",
+      "toSlug": "the-order-of-things",
+      "reasonJa": "「人間とは何か」を問う大陸哲学の二つの頂点。ハイデガーの存在論とフーコーの考古学。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "discipline-and-punish",
+      "toSlug": "the-history-of-sexuality",
+      "reasonJa": "規律権力から生命権力へ——フーコーが身体とセクシュアリティの領域で権力論を展開する続編。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "gender-trouble",
+      "toSlug": "the-history-of-sexuality",
+      "reasonJa": "バトラーの「パフォーマティヴな性」の理論的源泉の一つがフーコーの『性の歴史』。理論史を遡る。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-order-of-things",
+      "toSlug": "orientalism",
+      "reasonJa": "認識の枠組み（エピステーメー）と表象の権力——フーコーの知の考古学を、サイードが西洋の東洋表象に応用した。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "black-skin-white-masks",
+      "toSlug": "the-wretched-of-the-earth",
+      "reasonJa": "植民地の精神分析から解放の革命へ——ファノン思想の集大成。『黒い皮膚・白い仮面』の続編として。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "orientalism",
+      "toSlug": "season-of-migration-to-the-north",
+      "reasonJa": "サイードが理論で暴いた東洋表象を、アラブ文学の側から体験できる一冊。西洋への痛烈な反撃。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "things-fall-apart",
+      "toSlug": "half-of-a-yellow-sun",
+      "reasonJa": "アチェベから60年——ナイジェリア文学は独立後の内戦をどう描いたか。アフリカ文学の現代。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-sympathizer",
+      "toSlug": "on-earth-were-briefly-gorgeous",
+      "reasonJa": "ベトナム戦争を「向こう側」の視点で描いた二世代の作家。スパイの告白と、移民二世の手紙。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "one-hundred-years-of-solitude",
+      "toSlug": "midnights-children",
+      "reasonJa": "一族の歴史と国家の歴史が重なる大河小説。マルケスの系譜をインド独立が受け継いだ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "one-hundred-years-of-solitude",
+      "toSlug": "pedro-paramo",
+      "reasonJa": "マジックリアリズムの源流へ——死者が蠢く村、亡霊たちの語り。マルケスが敬愛したルルフォの傑作。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "one-hundred-years-of-solitude",
+      "toSlug": "the-house-of-the-spirits",
+      "reasonJa": "家族の叙事詩と政治史——マルケスの技法をチリの女性作家が受け継いだ。マジックリアリズムの現代的展開。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "2666",
+      "toSlug": "hurricane-season",
+      "reasonJa": "ラテンアメリカの暴力を、女性作家がさらに苛烈に描いた『ハリケーンの季節』。ボラーニョの後継。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-savage-detectives",
+      "toSlug": "2666",
+      "reasonJa": "ボラーニョの青春編から最終到達点へ。ラテンアメリカ文学の新しい巨人を体感する2冊。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "nineteen-eighty-four",
+      "toSlug": "brave-new-world",
+      "reasonJa": "監視で支配する世界と、快楽で支配する世界——ディストピア文学の双璧を並べて読む。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "nineteen-eighty-four",
+      "toSlug": "fahrenheit-451",
+      "reasonJa": "「本を燃やす社会」という、検閲と思考停止の警告。オーウェルからブラッドベリへ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "fahrenheit-451",
+      "toSlug": "the-handmaids-tale",
+      "reasonJa": "テレビ・娯楽による無思考（ブラッドベリ）と、身体の管理による服従（アトウッド）。二つのディストピア。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-handmaids-tale",
+      "toSlug": "the-testaments",
+      "reasonJa": "『侍女の物語』の15年後を描く続編・完結編。ギレアドの内側からの証言。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "dune",
+      "toSlug": "foundation",
+      "reasonJa": "銀河規模の権力と歴史を描くSFの双璧。生態学（ハーバート）と歴史学（アシモフ）。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "dune",
+      "toSlug": "the-left-hand-of-darkness",
+      "reasonJa": "星々を舞台に「人間とは何か」を問う、哲学的なSFの二大傑作。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "neuromancer",
+      "toSlug": "do-androids-dream-of-electric-sheep",
+      "reasonJa": "人工知性と人間の境界を問うSFの系譜。サイバーパンクの父から、その源流フィリップ・K・ディックへ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-left-hand-of-darkness",
+      "toSlug": "the-dispossessed",
+      "reasonJa": "ル＝グウィンによる、性と政治を問うSFの双璧。『闇の左手』から『所有せざる人々』へ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "kindred",
+      "toSlug": "the-underground-railroad",
+      "reasonJa": "黒人の身体と歴史をめぐる、タイムトラベルと歴史改変のSF。バトラーとホワイトヘッド。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "a-wizard-of-earthsea",
+      "toSlug": "the-name-of-the-wind",
+      "reasonJa": "魔法と成長の物語の系譜。ル＝グウィンからロスファスへ——ファンタジーの新しい王。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-martian",
+      "toSlug": "project-hail-mary",
+      "reasonJa": "科学で逆境を突破する、ウィアーの冒険SF2作。『火星の人』から最新作へ。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "solaris",
+      "toSlug": "annihilation",
+      "reasonJa": "理解しえない異物との遭遇。レムの哲学的SFから、ヴァンダミアのニューウィアードへ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "station-eleven",
+      "toSlug": "the-memory-police",
+      "reasonJa": "失われていく記憶と文明を、静かな筆致で描く二人の作家。パンデミックと消去。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-remains-of-the-day",
+      "toSlug": "the-emigrants",
+      "reasonJa": "「語られなかった記憶」の修復。イシグロの執事と、ゼーバルトの亡命者たち。抑制の文学。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "never-let-me-go",
+      "toSlug": "the-memory-police",
+      "reasonJa": "記憶を操作される存在の視点。イシグロのクローンと、小川洋子の記憶警察。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-buried-giant",
+      "toSlug": "piranesi",
+      "reasonJa": "記憶を失った世界の寓話。イシグロの霧の国と、クラークの無限の館。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "when-breath-becomes-air",
+      "toSlug": "the-year-of-magical-thinking",
+      "reasonJa": "死と向き合う人の記録。医師が自分の死を書く手記と、夫を喪った作家の一年。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "educated",
+      "toSlug": "into-the-wild",
+      "reasonJa": "常識の外へ飛び出す若者たちの物語。教育から逃げたタラと、文明から逃げたクリス。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-second-sex",
+      "toSlug": "americanah",
+      "reasonJa": "ボーヴォワールの理論を、現代の交差性として小説化。移民×女性×人種が交わる地点。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "girl-woman-other",
+      "toSlug": "americanah",
+      "reasonJa": "黒人女性の声を多様に描く、2010年代の二つの金字塔。イギリスとアメリカ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "my-brilliant-friend",
+      "toSlug": "pachinko",
+      "reasonJa": "階級と抑圧を生き抜く女性たちの、世代を超えた大河。ナポリから大阪へ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-great-gatsby",
+      "toSlug": "normal-people",
+      "reasonJa": "時代と階級に翻弄される恋愛。ジャズ・エイジのロングアイランドと、現代アイルランドの大学。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-catcher-in-the-rye",
+      "toSlug": "normal-people",
+      "reasonJa": "「大人の世界に馴染めない」若者たちの物語。1951年のニューヨークと2018年のダブリン。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-grapes-of-wrath",
+      "toSlug": "evicted",
+      "reasonJa": "住む場所を失う人々——大恐慌期のスタインベックと、現代ミルウォーキーのデズモンド。80年ぶんの貧困。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "caste",
+      "toSlug": "between-the-world-and-me",
+      "reasonJa": "人種差別を「カースト」として構造化する理論（ウィルカーソン）と、身体で経験する手紙（コーツ）。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-warmth-of-other-suns",
+      "toSlug": "homegoing",
+      "reasonJa": "大移動と奴隷制の遺産——ウィルカーソンのノンフィクションと、ジャシの小説が同じ歴史を照らす。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "silent-spring",
+      "toSlug": "the-sixth-extinction",
+      "reasonJa": "環境問題の古典と現代。カーソンのDDT告発から、コルバートの第六の絶滅へ——環境文学の50年。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-overstory",
+      "toSlug": "silent-spring",
+      "reasonJa": "木を主人公にした小説（パワーズ）と、環境運動の原点（カーソン）。森を守ることの意味を問う。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-last-migration",
+      "toSlug": "the-sixth-extinction",
+      "reasonJa": "渡り鳥が消えていく世界の物語と、種の絶滅の科学。フィクションとノンフィクションで同じ危機を。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "my-brilliant-friend",
+      "toSlug": "the-god-of-small-things",
+      "reasonJa": "少女の視点から社会の抑圧と友情を描く。イタリア南部と南インド——二人の「天才的少女」。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "normal-people",
+      "toSlug": "shuggie-bain",
+      "reasonJa": "取り残される若者たちの、切実な恋と再生。アイルランドの大学生とグラスゴーの少年。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "a-little-life",
+      "toSlug": "the-body-keeps-the-score",
+      "reasonJa": "トラウマが身体に刻まれる——ヤナギハラの小説が描く苦しみを、ヴァン・デア・コークの科学が裏付ける。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "crime-and-punishment",
+      "toSlug": "the-anna-karenina",
+      "reasonJa": "ロシア文学の二大巨塔。罪と罰の心理（ドストエフスキー）と、人間社会の全体像（トルストイ）。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-anna-karenina",
+      "toSlug": "the-war-and-peace",
+      "reasonJa": "トルストイの二つの大河。個人の恋愛（カレーニナ）から、戦争と歴史の全体（戦争と平和）へ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-war-and-peace",
+      "toSlug": "the-brothers-karamazov",
+      "reasonJa": "世界文学の二つの頂点。歴史の流れ（トルストイ）と魂の深み（ドストエフスキー）。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-anna-karenina",
+      "toSlug": "the-death-of-ivan-ilyich",
+      "reasonJa": "トルストイの晩年の問い——生の意味と死の直面。大河の後に読む、短く深い名作。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-notes-from-the-dead-house",
+      "toSlug": "crime-and-punishment",
+      "reasonJa": "監獄の記録から罪と罰へ——ドストエフスキーの実体験が、その後の大作の源泉になった。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-idiot",
+      "toSlug": "crime-and-punishment",
+      "reasonJa": "「美しい魂」と「罪人」——ドストエフスキーが問う人間の二つの顔。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-possessed",
+      "toSlug": "the-notes-from-the-dead-house",
+      "reasonJa": "思想が人間を壊す（悪霊）と、人間が生き延びる（死の家の記録）。ドストエフスキーの両極。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-gambler",
+      "toSlug": "the-white-nights",
+      "reasonJa": "ドストエフスキーの二つの短編——狂熱の賭博と、一夜の純愛。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-white-nights",
+      "toSlug": "the-metamorphosis",
+      "reasonJa": "孤独な主人公の内面を描く、短編の名手たち。白夜の純粋さと変身の不条理。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-death-of-ivan-ilyich",
+      "toSlug": "when-breath-becomes-air",
+      "reasonJa": "死を前にした人間の記録——19世紀のロシアと、21世紀の医師。100年の時を超えて重なる問い。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-fathers-and-sons",
+      "toSlug": "notes-from-underground",
+      "reasonJa": "「ニヒリズム」を描いたロシア文学の双璧。ツルゲーネフの世代論と、ドストエフスキーの内面論。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-pride-and-prejudice",
+      "toSlug": "the-anna-karenina",
+      "reasonJa": "「結婚と恋愛」を描く文学の両極。オースティンの機知と、トルストイの全体性。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-pride-and-prejudice",
+      "toSlug": "the-emma",
+      "reasonJa": "オースティンの恋愛喜劇の双璧。『高慢と偏見』から『エマ』へ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-pride-and-prejudice",
+      "toSlug": "the-sense-and-sensibility",
+      "reasonJa": "オースティン処女作から代表作へ。理性と感情、そして結婚をめぐる喜劇。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-jane-eyre",
+      "toSlug": "the-wuthering-heights",
+      "reasonJa": "ブロンテ姉妹の二つの傑作。自立する女性と、破滅的な愛——対照的な二つの情熱。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-jane-eyre",
+      "toSlug": "wide-sargasso-sea",
+      "reasonJa": "『ジェイン・エア』の屋根裏の妻を主人公にした、ポストコロニアル文学の転覆作。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-wuthering-heights",
+      "toSlug": "the-bell-jar",
+      "reasonJa": "女性の情熱と自己破壊を描く、英国系文学の二つの極。荒地と鐘の壺。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-madame-bovary",
+      "toSlug": "the-anna-karenina",
+      "reasonJa": "「不倫する女性」を描いた世界文学の二大傑作。フランスの田舎とロシアの貴族社会。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-madame-bovary",
+      "toSlug": "the-bell-jar",
+      "reasonJa": "「退屈」と「理想」の落差に苦しむ女性。フローベールからプラスへ——女性の心理の系譜。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-sentimental-education",
+      "toSlug": "the-madame-bovary",
+      "reasonJa": "フローベールの二つの青春。ボヴァリー夫人の結婚と、感情教育の恋。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-moby-dick",
+      "toSlug": "the-heart-of-darkness",
+      "reasonJa": "復讐と狂気に取り憑かれた男の旅。白鯨とコンゴ川——アメリカとイギリスの深海。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-huckleberry-finn",
+      "toSlug": "the-adventures-of-tom-sawyer",
+      "reasonJa": "トウェインの二つの少年物語。トムの冒険から、ハックの自由へ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-great-gatsby",
+      "toSlug": "the-madame-bovary",
+      "reasonJa": "「夢」に取り憑かれた人間の物語。ギャツビーのデイジーと、エマの理想。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-little-women",
+      "toSlug": "my-brilliant-friend",
+      "reasonJa": "少女たちの成長と友情——19世紀アメリカと、20世紀ナポリ。時代を超えた女性の物語。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-scarlet-letter",
+      "toSlug": "the-awakening",
+      "reasonJa": "女性の罪と自立を描く、アメリカ文学の二つの古典。緋文字とめざめ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-tess-of-the-durbervilles",
+      "toSlug": "the-awakening",
+      "reasonJa": "社会に翻弄される女性の悲劇。ハーディとショパン——19世紀末の二つの告発。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "nausea",
+      "toSlug": "the-fathers-and-sons",
+      "reasonJa": "「世界への違和感」を描いた小説。サルトルの嘔吐と、ツルゲーネフのニヒリスト。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-myth-of-sisyphus",
+      "toSlug": "the-courage-to-be",
+      "reasonJa": "不条理に抗う勇気——カミュの哲学と、ティリッヒの実存神学。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "existentialism-is-a-humanism",
+      "toSlug": "the-ethics-of-ambiguity",
+      "reasonJa": "サルトル哲学の実践編。自由と責任を、ボーヴォワールが「曖昧さ」から展開する。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "being-and-time",
+      "toSlug": "the-phenomenology-of-perception",
+      "reasonJa": "現象学の二大巨匠。ハイデガーの存在論と、メルロ＝ポンティの身体論。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "discipline-and-punish",
+      "toSlug": "the-madness-and-civilization",
+      "reasonJa": "フーコーの権力論と狂気論。監獄と病院——二つの制度が人間を作る。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-history-of-sexuality",
+      "toSlug": "gender-trouble",
+      "reasonJa": "フーコーの身体論から、バトラーのジェンダー論へ——性の理論の系譜。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-order-of-things",
+      "toSlug": "the-madness-and-civilization",
+      "reasonJa": "フーコー初期の双璧。認識の枠組みと、理性の境界。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-visible-and-the-invisible",
+      "toSlug": "the-phenomenology-of-perception",
+      "reasonJa": "メルロ＝ポンティの身体哲学を完成させる、もう一つの主著。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-postmodern-condition",
+      "toSlug": "simulacra-and-simulation",
+      "reasonJa": "ポストモダン論の双璧。リオタールの「大きな物語の終焉」と、ボードリヤールのシミュラークル。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-order-of-the-signs",
+      "toSlug": "the-mythologies",
+      "reasonJa": "構造主義の基礎から、バルトの記号論へ——言語の科学と文化批評。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "of-grammatology",
+      "toSlug": "the-postmodern-condition",
+      "reasonJa": "脱構築とポストモダン。デリダとリオタールの、フランス現代思想の二つの柱。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "thousand-plateaus",
+      "toSlug": "difference-and-repetition",
+      "reasonJa": "ドゥルーズの二つの主著。単独の哲学（差異と反復）と、共著（千のプラトー）。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-gift",
+      "toSlug": "debt-the-first-5000-years",
+      "reasonJa": "贈与（モース）から負債（グレーバー）へ——交換と人間の絆を人類学で考える。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-suicide",
+      "toSlug": "the-body-keeps-the-score",
+      "reasonJa": "「個人の問題」を社会の鏡として読む、デュルケームとヴァン・デア・コーク。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-production-of-space",
+      "toSlug": "the-lonely-city",
+      "reasonJa": "都市と空間をめぐる、理論とエッセイ。ルフェーヴルの空間論と、レインの孤独論。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-essential-political",
+      "toSlug": "homo-sacer",
+      "reasonJa": "「友敵理論」（シュミット）から「剥き出しの生」（アガンベン）へ——主権論の系譜。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-german-ideology",
+      "toSlug": "the-communist-manifesto",
+      "reasonJa": "マルクスの理論と実践。唯物史観の基盤から、革命の宣言へ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-world-as-will-and-representation",
+      "toSlug": "beyond-good-and-evil",
+      "reasonJa": "意志の哲学（ショーペンハウアー）から、ニーチェの価値転換へ。ドイツ哲学の流れ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-ethics",
+      "toSlug": "the-ethics-of-ambiguity",
+      "reasonJa": "スピノザの自由論と、ボーヴォワールの実存倫理——哲学の二つの「エチカ」。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-awakening",
+      "toSlug": "the-bell-jar",
+      "reasonJa": "女性の自己解放と自己破壊——ショパンからプラスへ、女性文学の系譜。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-yellow-wallpaper",
+      "toSlug": "the-awakening",
+      "reasonJa": "19世紀末、女性の「狂気」と「解放」を描いた二つの古典。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-second-sex",
+      "toSlug": "the-yellow-wallpaper",
+      "reasonJa": "「女は作られる」——ボーヴォワールの理論が、19世紀の小説に現れる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-jane-eyre",
+      "toSlug": "girl-woman-other",
+      "reasonJa": "自立する女性の物語——1847年のジェインから、2019年の12人の女性へ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "we-should-all-be-feminists",
+      "toSlug": "the-second-sex",
+      "reasonJa": "フェミニズム入門から古典へ。アディーチェの明快な宣言と、ボーヴォワールの体系。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-island-of-sea-women",
+      "toSlug": "pachinko",
+      "reasonJa": "女性たちが歴史に翻弄され、生き抜く大河——チェジュ島と在日コリアン。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-war-of-the-worlds",
+      "toSlug": "the-time-machine",
+      "reasonJa": "H・G・ウェルズのSF二大金字塔。火星人侵略と、時間旅行。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-frankenstein",
+      "toSlug": "do-androids-dream-of-electric-sheep",
+      "reasonJa": "「作られた存在」の物語——1818年の怪物から、1968年のアンドロイドへ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-2001-a-space-odyssey",
+      "toSlug": "the-childhoods-end",
+      "reasonJa": "クラークの宇宙SF双璧。人類の進化と、宇宙の謎。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-enders-game",
+      "toSlug": "the-speaker-for-the-dead",
+      "reasonJa": "エンダーシリーズの第一部と第二部。戦争から和解へ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-the-martian-chronicles",
+      "toSlug": "fahrenheit-451",
+      "reasonJa": "ブラッドベリの二つの傑作。火星の叙情と、本を燃やす社会。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-the-midwich-cuckoos",
+      "toSlug": "never-let-me-go",
+      "reasonJa": "「特別な使命の子供たち」の物語——1957年のウィンダムから、2005年のイシグロへ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-the-ugly-american",
+      "toSlug": "slaughterhouse-five",
+      "reasonJa": "戦争をSFで描く二つの傑作。光速戦争（ホールドマン）とドレスデン（ヴォネガット）。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-solar-sail",
+      "toSlug": "the-the-door-into-summer",
+      "reasonJa": "ハインラインの名作二作。月の反乱と、夏への扉。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-the-stars-my-destination",
+      "toSlug": "neuromancer",
+      "reasonJa": "SFの反英雄の系譜。ベスターのギャリーから、ギブスンのケイスへ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-the-valis",
+      "toSlug": "the-the-ubik",
+      "reasonJa": "ディックの現実崩壊SF双璧。ヴァリスとユービック。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-the-man-in-the-high-castle",
+      "toSlug": "the-sympathizer",
+      "reasonJa": "「歴史が違っていたら」を描く並行歴史。日本が勝った世界と、ベトナム戦争の敗者。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-the-three-body-crisis",
+      "toSlug": "the-the-deaths-end",
+      "reasonJa": "『三体』三部作の核心——暗黒の森から、死神の永訣へ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-the-sea-of-translation",
+      "toSlug": "station-eleven",
+      "reasonJa": "マンデルの時空を超えるSF双璧。静寂の海と、ステーション・イレブン。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-the-gormenghast",
+      "toSlug": "the-master-and-margarita",
+      "reasonJa": "「不気味な城」と「悪魔」——ゴシック幻想の二つの頂点。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-the-norse-mythology",
+      "toSlug": "american-gods",
+      "reasonJa": "北欧神話からアメリカン・ゴッズへ——ゲイマンの神話世界の入り口と応用。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-the-wheel-of-time",
+      "toSlug": "the-lord-of-the-rings",
+      "reasonJa": "「運命の英雄」の大河ファンタジー。トールキンからジョーダンへ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-the-night-circus",
+      "toSlug": "piranesi",
+      "reasonJa": "幻想的な世界をめぐる、現代ファンタジーの二つの傑作。サーカスと無限の館。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-hidden-figures",
+      "toSlug": "the-glass-universe",
+      "reasonJa": "科学史に埋もれた女性たちの物語——NASAの計算機と、ハーバードのコンピュータ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-order-of-genius",
+      "toSlug": "the-chaos",
+      "reasonJa": "グリークの科学ノンフィクション双璧。ファインマンの天才と、カオスの科学。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-pale-blue-dot",
+      "toSlug": "the-cosmos",
+      "reasonJa": "セーガンの宇宙の書双璧。ペール・ブルー・ドットとコスモス。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-blink",
+      "toSlug": "the-tipping-point",
+      "reasonJa": "グラッドウェルの社会学双璧。直感と流行。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-fooled-by-randomness",
+      "toSlug": "the-anti-fragile",
+      "reasonJa": "タレブの不確実性四部作——偶然と、強靭さ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-skin-in-the-game",
+      "toSlug": "the-fooled-by-randomness",
+      "reasonJa": "タレブの実践哲学——偶然に惑わされず、責任を負う。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-just-society",
+      "toSlug": "the-tyranny-of-merit",
+      "reasonJa": "サンデルの正義論二部作。理想の正義から、実力主義の批判へ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-prison-industrial-complex",
+      "toSlug": "caste",
+      "reasonJa": "現代アメリカの差別構造——大量収監とカースト。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-four-tendencies",
+      "toSlug": "the-righteous-mind",
+      "reasonJa": "ハイトの幸福論と道徳論——象と象使いから、正義の脳へ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-enlightenment-now",
+      "toSlug": "the-happiness-of-peoples",
+      "reasonJa": "ピンカーの二つの大著——暴力の減少と、進歩の擁護。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-sleeping-lady",
+      "toSlug": "when-breath-becomes-air",
+      "reasonJa": "医師が考える死と生——ガワンデの終末期医療と、カラニティの手記。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-complications",
+      "toSlug": "the-sleeping-lady",
+      "reasonJa": "ガワンデの医療エッセイ二作。ミスと、死を考える。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-gods-of-money",
+      "toSlug": "debt-the-first-5000-years",
+      "reasonJa": "「お金」の歴史をめぐる二つの大著。金融の進化と、負債の人類史。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-ecology-of-commerce",
+      "toSlug": "silent-spring",
+      "reasonJa": "環境と経済——カーソンの告発と、ホーケンの解決策。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-fluent-body",
+      "toSlug": "the-tragedy-of-the-commons",
+      "reasonJa": "システム思考と共有地の悲劇——「全体を見る」ための二つの古典。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-power-of-myth",
+      "toSlug": "the-hero-with-a-thousand-faces",
+      "reasonJa": "キャンベルの神話学双璧。対話から、体系へ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-geography-of-thought",
+      "toSlug": "thinking-fast-and-slow",
+      "reasonJa": "「考える」ことを文化と認知から考える。東洋と西洋、速い思考と遅い思考。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-vegetarians-brother",
+      "toSlug": "the-vegetarian",
+      "reasonJa": "ハン・ガンの二つの代表作。身体の物語（菜食主義者）と、歴史の物語（少年が来る）。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "greek-lessons",
+      "toSlug": "the-white-book",
+      "reasonJa": "ハン・ガンの静かな二作。言語の時間と、白の瞑想。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "we-should-all-be-feminists",
+      "toSlug": "americanah",
+      "reasonJa": "アディーチェのエッセイと小説。フェミニズム宣言と、移民の物語。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-committed",
+      "toSlug": "the-sympathizer",
+      "reasonJa": "『シンパサイザー』の続編。パリでの新たな闘争へ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-riddle-of-the-labyrinth",
+      "toSlug": "the-vermeer-hat",
+      "reasonJa": "「謎解き」のノンフィクション双璧。線文字Bと、言葉の起源。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-war-and-peace-of-mind",
+      "toSlug": "the-lincoln-highway",
+      "reasonJa": "トウルズの二つの長編。軟禁された伯爵と、リンカーン・ハイウェイの旅。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-time-of-the-heroes",
+      "toSlug": "the-feast-of-the-goat",
+      "reasonJa": "リョサの二つの傑作。士官学校の暴力と、独裁者の饗宴。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-war-of-the-end",
+      "toSlug": "2666",
+      "reasonJa": "ラテンアメリカ文学の暴力の大河。リョサのカヌードスと、ボラーニョのサンタ・テレサ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-interpreter-of-maladies",
+      "toSlug": "the-namesake",
+      "reasonJa": "ラヒリの短編から長編へ。移民の日常と、名前の物語。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-lowland",
+      "toSlug": "the-namesake",
+      "reasonJa": "ラヒリの二つの長編。兄弟の物語と、名前の物語。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-kiterunner-sky",
+      "toSlug": "the-kite-runner",
+      "reasonJa": "ホッセイニの二つの傑作。少年たちの物語と、女性たちの物語。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-remains-of-memory",
+      "toSlug": "the-kiterunner-sky",
+      "reasonJa": "中東の現代史を個人の視点から描く、二つの自伝的物語。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-memoirs-of-hadrian",
+      "toSlug": "the-years-of-lyndon-johnson",
+      "reasonJa": "権力者の回想を描く、歴史ノンフィクションと歴史小説。ローマの皇帝と、上院の支配者。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-sea-the-sea",
+      "toSlug": "the-black-prince",
+      "reasonJa": "マードックの二つの傑作。自己欺瞞と芸術。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-unbearable-lightness",
+      "toSlug": "the-book-of-laughter",
+      "reasonJa": "クンデラの二つの代表作。軽さと忘却。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-crow-road",
+      "toSlug": "the-complicity",
+      "reasonJa": "バンクスの二つの傑作。スコットランドの家族と、犯罪。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-marriage-plot",
+      "toSlug": "the-virgin-suicides",
+      "reasonJa": "ユージェニデスの二つの青春小説。大学と、五人の姉妹。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-heart-is-a-lonely-hunter",
+      "toSlug": "the-member-of-the-wedding",
+      "reasonJa": "マッカラーズの孤独の二作。聾唖者と、十二歳の少女。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-painted-veil",
+      "toSlug": "the-moon-and-sixpence",
+      "reasonJa": "モームの二つの傑作。中国での償いと、芸術家の人生。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-siddhartha",
+      "toSlug": "the-demian",
+      "reasonJa": "ヘッセの自己探求の二作。悟りと、自己発見。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-hesse-glass-bead",
+      "toSlug": "steppenwolf",
+      "reasonJa": "ヘッセの双璧。荒野の狼と、ガラス玉演戯。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-call-of-the-wild",
+      "toSlug": "the-white-fang",
+      "reasonJa": "ロンドンの動物文学双璧。野性への回帰と、文明への馴化。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-sea-wolf",
+      "toSlug": "the-call-of-the-wild",
+      "reasonJa": "ロンドンの力と自然の二つの物語。海狼と、野性の呼び声。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "snow-country",
+      "toSlug": "the-wind-up-bird-chronicle",
+      "reasonJa": "日本文学の静かな美意識——川端康成から村上春樹へ。日本の名作の系譜をたどる。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "snow-country",
+      "toSlug": "kokoro",
+      "reasonJa": "川端康成から夏目漱石へ——日本近代文学の二つの頂点。恋愛と孤独をめぐる名作。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-temple-of-the-golden-pavilion",
+      "toSlug": "the-metamorphosis",
+      "reasonJa": "「美」と「自己」をめぐる病的な問い。三島由紀夫とカフカは、異なる言語で同じ深淵を覗く。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-temple-of-the-golden-pavilion",
+      "toSlug": "the-bell-jar",
+      "reasonJa": "美と破壊に取り憑かれた若者の精神。三島の金閣寺とプラスの鐘の壺——破滅へ向かう二つの魂。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "no-longer-human",
+      "toSlug": "notes-from-underground",
+      "reasonJa": "「人間失格」と「地下室の手記」——自己嫌悪と社会への疎外を描く、東洋と西洋の不条理文学。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "no-longer-human",
+      "toSlug": "a-little-life",
+      "reasonJa": "生きづらさと自己破壊を描く、時代を超えた物語。太宰治からヤナギハラへ——現代版「人間失格」。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-woman-in-the-dunes",
+      "toSlug": "the-trial",
+      "reasonJa": "不条理な状況に囚われた人間。砂の穴（安部公房）と裁判（カフカ）——自由と制度の問い。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-woman-in-the-dunes",
+      "toSlug": "the-metamorphosis",
+      "reasonJa": "日常が突然異界化する。砂に囚われる男と虫になった男——日本とチェコの不条理文学。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "frog",
+      "toSlug": "to-live",
+      "reasonJa": "中国の現代史を個人の人生から描く、ノーベル賞作家の系譜。莫言と余華。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "frog",
+      "toSlug": "the-wretched-of-the-earth",
+      "reasonJa": "国家と個人の暴力を問う、アジアとアフリカの思想。莫言の小説とファノンの理論。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "to-live",
+      "toSlug": "the-grapes-of-wrath",
+      "reasonJa": "土地を追われ、生き抜く家族の物語。中国の余華とアメリカのスタインベック——時代は違えど同じ強さ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "please-look-after-mom",
+      "toSlug": "the-year-of-magical-thinking",
+      "reasonJa": "「家族を失う」ことをめぐる二つの傑作。韓国の母と、アメリカの夫——喪失の普遍性。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "please-look-after-mom",
+      "toSlug": "the-god-of-small-things",
+      "reasonJa": "アジアの家族と社会を描く女性文学。シン・ギョンスクとロイ——抑圧と愛の物語。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "a-tale-of-love-and-darkness",
+      "toSlug": "imagined-communities",
+      "reasonJa": "イスラエル建国の物語と、ナショナリズムの理論——中東の歴史を文学と思想で読む。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "a-tale-of-love-and-darkness",
+      "toSlug": "season-of-migration-to-the-north",
+      "reasonJa": "中東の現代史を個人の人生から描く文学の双璧。イスラエルとスーダン。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "children-of-the-alley",
+      "toSlug": "the-brothers-karamazov",
+      "reasonJa": "宗教と人間をめぐる寓話の大作。マフフーズの路地とドストエフスキーの兄弟——信仰の問い。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "children-of-the-alley",
+      "toSlug": "one-hundred-years-of-solitude",
+      "reasonJa": "一つの場所に何世代もの物語を重ねる。エジプトの路地とマコンドの村——ノーベル賞作家の系譜。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "disgrace",
+      "toSlug": "the-pledge",
+      "reasonJa": "アパルトヘイト後の南アフリカを描く、ブッカー賞受賞の双璧。クッツェーとガルグート。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "disgrace",
+      "toSlug": "things-fall-apart",
+      "reasonJa": "南アフリカとナイジェリア——アフリカの近代を問う二つの古典。クッツェーとアチェベ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-famished-road",
+      "toSlug": "the-fifth-season",
+      "reasonJa": "精霊と現実が交錯する、アフリカのマジックリアリズム。オクリとジェミシン。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-famished-road",
+      "toSlug": "things-fall-apart",
+      "reasonJa": "ナイジェリア文学の二つの顔。伝統の崩壊（アチェベ）と、精霊の世界（オクリ）。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "hopscotch",
+      "toSlug": "ficciones",
+      "reasonJa": "ラテンアメリカ文学ブームの双璧。コルタサルの実験と、ボルヘスの幻想。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "hopscotch",
+      "toSlug": "one-hundred-years-of-solitude",
+      "reasonJa": "「読む」ことの可能性を広げた二人。コルタサルの石蹴りと、マルケスの百年。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-death-of-artemio-cruz",
+      "toSlug": "the-feast-of-the-goat",
+      "reasonJa": "メキシコとドミニカの独裁をめぐる文学。フエンテスとリョサ——ラテンアメリカの権力の物語。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "a-case-of-exploding-mangoes",
+      "toSlug": "the-black-swan",
+      "reasonJa": "「偶然」と「政治」をめぐる、痛快な見方。パキスタンの風刺と、タレブの不確実性論。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "gangster-we-are-all-looking-for",
+      "toSlug": "on-earth-were-briefly-gorgeous",
+      "reasonJa": "ベトナム戦争の「その後」を描く、ベトナム系文学の系譜。トゥイからヴオンへ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "gangster-we-are-all-looking-for",
+      "toSlug": "the-sympathizer",
+      "reasonJa": "ベトナム戦争を難民の視点から描く、二つの傑作。トゥイの抒情とウェンの叙情。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "changes",
+      "toSlug": "the-second-sex",
+      "reasonJa": "アフリカの女性解放を描く文学と、フェミニズムの理論。アイドゥーとボーヴォワール。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "beauty-is-a-wound",
+      "toSlug": "one-hundred-years-of-solitude",
+      "reasonJa": "家族と国家の歴史を、魔法と現実で紡ぐ。インドネシアのマルケス、クルニアワン。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-luminaries",
+      "toSlug": "2666",
+      "reasonJa": "星座と殺人事件をめぐる超大作。カットンの灯台守とボラーニョの2666——構造の驚異。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "kim-jiyoung-born-1982",
+      "toSlug": "the-awakening",
+      "reasonJa": "「女性として生きる不自由」を描く、100年の時を超えた二つの小説。韓国とアメリカ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "kim-jiyoung-born-1982",
+      "toSlug": "men-explain-things-to-me",
+      "reasonJa": "日常の性差別を描く、韓国の小説とアメリカのエッセイ。チョ・ナムジュとソルニット。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-forty-rules-of-love",
+      "toSlug": "my-name-is-red",
+      "reasonJa": "イスラム文化を描く、トルコ文学の双璧。シャファクの神秘主義とパムクの細密画。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "exit-west",
+      "toSlug": "the-beekeeper-of-alepoo",
+      "reasonJa": "難民の移動を描く、二つの現代の寓話。ハミドの扉と、レフテリの蜂。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "a-fine-balance",
+      "toSlug": "the-god-of-small-things",
+      "reasonJa": "インドの社会と家族を描く、二つの大河。ミストリーの均衡とロイの小さな神。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "seven-empty-houses",
+      "toSlug": "piranesi",
+      "reasonJa": "日常の不気味さと異界を描く、現代の幻想文学。シュウェブリンとクラーク。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-map-of-love",
+      "toSlug": "orientalism",
+      "reasonJa": "アラブと西洋の出会い——恋愛小説（スエイフ）と、表象の理論（サイード）。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-impressionist",
+      "toSlug": "white-teeth",
+      "reasonJa": "アイデンティティの変転を描く、多文化文学の新しい世代。クンズルーとスミス。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "julys-people",
+      "toSlug": "disgrace",
+      "reasonJa": "南アフリカの人種と権力を問う、ノーベル賞作家の双璧。ゴーディマーとクッツェー。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "voss",
+      "toSlug": "the-heart-of-darkness",
+      "reasonJa": "未知への探検と内面の探求。オーストラリアの荒野と、アフリカの川——冒険文学の深層。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-kingdom-of-this-world",
+      "toSlug": "one-hundred-years-of-solitude",
+      "reasonJa": "マジックリアリズムの源流と到達点。カルペンティエールからマルケスへ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "a-grain-of-wheat",
+      "toSlug": "things-fall-apart",
+      "reasonJa": "アフリカ独立と植民地支配を描く、アフリカ文学の古典。ングギとアチェベ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-bone-people",
+      "toSlug": "the-sea-the-sea",
+      "reasonJa": "傷ついた人々の再生と自己欺瞞。ニュージーランドとアイルランド——ブッカー賞の系譜。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "reading-lolita-in-tehran",
+      "toSlug": "nineteen-eighty-four",
+      "reasonJa": "全体主義下で文学を読む自由。イランの教室と、オーウェルの監視国家。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "i-am-malala",
+      "toSlug": "educated",
+      "reasonJa": "教育が人を変える物語。パキスタンのマララと、アメリカのタラ——学ぶことの力。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "behind-the-beautiful-forevers",
+      "toSlug": "evicted",
+      "reasonJa": "都市のスラムと貧困を描く、ルポルタージュの双璧。ムンバイとミルウォーキー。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-analects",
+      "toSlug": "the-prince",
+      "reasonJa": "東洋と西洋の「処世と統治」の古典。孔子の徳とマキャヴェッリの権力。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-art-of-war",
+      "toSlug": "the-essential-political",
+      "reasonJa": "「戦略」と「政治」の古典。孫子の兵法と、シュミットの友敵理論。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "an-inquiry-into-the-good",
+      "toSlug": "the-ethics",
+      "reasonJa": "東洋と西洋の「善」の哲学。西田幾多郎とスピノザ——一元論の系譜。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "japan-sinks",
+      "toSlug": "station-eleven",
+      "reasonJa": "文明崩壊後の世界を描く、災害SFの古典と現代。小松左京とマンデル。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "folding-beijing",
+      "toSlug": "the-three-body-problem",
+      "reasonJa": "中国SFの新しい波。格差を描く郝景芳と、宇宙文明論の劉慈欣。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-girl-who-leapt-through-time",
+      "toSlug": "the-time-machine",
+      "reasonJa": "時間をめぐるSFの東西。筒井康隆の少女と、ウェルズの旅人。",
+      "type": "similar-theme"
+    }
+  ]
+}

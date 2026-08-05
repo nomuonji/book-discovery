@@ -1,0 +1,1750 @@
+{
+  "category": "philosophy",
+  "label": "哲学・思想・批評理論",
+  "description": "実存主義からポストコロニアル理論まで、世界の見え方を変える思想書群。",
+  "order": 1,
+  "books": [
+    {
+      "slug": "the-stranger",
+      "title": "L'Étranger",
+      "titleJa": "異邦人",
+      "author": "Albert Camus",
+      "authorJa": "アルベール・カミュ",
+      "country": "フランス",
+      "year": 1942,
+      "genre": [
+        "小説",
+        "哲学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/13151269-L.jpg",
+      "asin": "B09NPPTNDC",
+      "descriptionJa": "母親の死に無関心を装い、やがて太陽のせいで人を殺す——不条理の哲学を小説という形で提示した20世紀文学の金字塔。主人公ムルソーの感情の希薄さが、かえって社会の偽善と生の不条理を浮き彫りにする。たった100ページ強の短さで、読んだ人の世界観を変えてしまう一冊。",
+      "whyReadJa": "哲学書を読まずして哲学に出会える稀有な小説。漱石や芥川が好きな日本人の感性にも響く、醒めた語り口と実存の問い。",
+      "tags": [
+        "不条理",
+        "実存主義",
+        "フランス文学",
+        "短編小説"
+      ],
+      "selectionReasonJa": "不条理哲学を小説として提示した20世紀文学の金字塔。カミュの代表作。",
+      "titleEn": "The Stranger"
+    },
+    {
+      "slug": "the-myth-of-sisyphus",
+      "title": "Le Mythe de Sisyphe",
+      "titleJa": "シーシュポスの神話",
+      "author": "Albert Camus",
+      "authorJa": "アルベール・カミュ",
+      "country": "フランス",
+      "year": 1942,
+      "genre": [
+        "哲学",
+        "エッセイ"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12726570-L.jpg",
+      "asin": "4102114025",
+      "descriptionJa": "「真に重大な哲学の問題はただ一つ、自殺である」——この衝撃的な一文から始まるカミュの哲学的エッセイ。人生に意味はない。それでも生きる価値はあるのか。岩を押し上げては転がり落ちるシーシュポスの神話に、カミュは意外な答えを見出す。",
+      "whyReadJa": "実存主義の入口として最適。短く、文学的で、絶望の底から希望を掘り起こす力がある。ニーチェやサルトルに進む前の最初の一冊に。",
+      "tags": [
+        "不条理",
+        "実存主義",
+        "フランス哲学",
+        "エッセイ"
+      ],
+      "selectionReasonJa": "実存主義の入口として最適なカミュの哲学的エッセイ。",
+      "titleEn": "The Myth of Sisyphus"
+    },
+    {
+      "slug": "thus-spoke-zarathustra",
+      "title": "Also sprach Zarathustra",
+      "titleJa": "ツァラトゥストラはこう語った",
+      "author": "Friedrich Nietzsche",
+      "authorJa": "フリードリヒ・ニーチェ",
+      "country": "ドイツ",
+      "year": 1883,
+      "genre": [
+        "哲学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/11161281-L.jpg",
+      "asin": "4003363922",
+      "descriptionJa": "山から下りた預言者ツァラトゥストラが民衆に「神は死んだ」と告げ、超人、力への意志、永劫回帰を詩的に説くニーチェ思想の結晶。聖書のパロディとも読める預言書形式で書かれ、近代の価値観を根底から覆した。哲学書でありながら文学としても読める唯一無二の書。",
+      "whyReadJa": "西洋哲学の最大の転換点。既存の価値観を徹底的に破壊し、自分の頭で考え始めるための起爆剤。ニーチェを読まずして現代思想は語れない。",
+      "tags": [
+        "ドイツ哲学",
+        "ニヒリズム",
+        "実存主義",
+        "近代批判"
+      ],
+      "selectionReasonJa": "西洋哲学の最大の転換点。ニーチェの価値転換を詩的に語る。",
+      "titleEn": "Also sprach Zarathustra"
+    },
+    {
+      "slug": "the-origins-of-totalitarianism",
+      "title": "The Origins of Totalitarianism",
+      "titleJa": "全体主義の起源",
+      "author": "Hannah Arendt",
+      "authorJa": "ハンナ・アーレント",
+      "country": "ドイツ/アメリカ",
+      "year": 1951,
+      "genre": [
+        "哲学",
+        "歴史"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10793645-L.jpg",
+      "asin": "4622086271",
+      "descriptionJa": "ナチズムとスターリニズム——20世紀を血に染めた二つの全体主義はなぜ生まれたのか。反ユダヤ主義、帝国主義、そして「大衆」の出現を分析し、人間の「複数性」を破壊する権力の構造を暴く。ユダヤ人としてナチスから逃れたアーレントの畢生の大作。",
+      "whyReadJa": "現代政治哲学の必読書。ポピュリズムや権威主義が再び台頭するいま、全体主義のメカニズムを理解することの切実さは増している。「悪の凡庸さ」の原点もここに。",
+      "tags": [
+        "政治哲学",
+        "ドイツ哲学",
+        "全体主義",
+        "歴史"
+      ],
+      "selectionReasonJa": "全体主義のメカニズムを分析した、現代政治哲学の必読書。",
+      "titleEn": "The Origins of Totalitarianism"
+    },
+    {
+      "slug": "the-second-sex",
+      "title": "Le Deuxième Sexe",
+      "titleJa": "第二の性",
+      "author": "Simone de Beauvoir",
+      "authorJa": "シモーヌ・ド・ボーヴォワール",
+      "country": "フランス",
+      "year": 1949,
+      "genre": [
+        "哲学",
+        "フェミニズム"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/78169-L.jpg",
+      "asin": "4309467792",
+      "descriptionJa": "「人は女に生まれない、女になるのだ」——この有名な言葉で始まる、フェミニズム理論の金字塔。生物学・精神分析・歴史・神話・文学を横断しながら、女性が「他者」として構築されてきた過程を徹底的に解剖する。刊行から70年以上、その射程はいまだ色あせない。",
+      "whyReadJa": "フェミニズムの原点にして、いまなお最も深い射程を持つ古典。現代のジェンダー論を理解するための必須の教養。サルトルの伴侶として実存主義の影響も色濃い。",
+      "tags": [
+        "フェミニズム",
+        "フランス哲学",
+        "実存主義",
+        "ジェンダー"
+      ],
+      "selectionReasonJa": "フェミニズム理論の金字塔。ボーヴォワールの代表作。",
+      "titleEn": "The Second Sex"
+    },
+    {
+      "slug": "gender-trouble",
+      "title": "Gender Trouble",
+      "titleJa": "ジェンダー・トラブル",
+      "author": "Judith Butler",
+      "authorJa": "ジュディス・バトラー",
+      "country": "アメリカ",
+      "year": 1990,
+      "genre": [
+        "哲学",
+        "フェミニズム"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10074209-L.jpg",
+      "asin": "4791770471",
+      "descriptionJa": "「女」というカテゴリーそのものを問い直し、性別は自然なものではなく「遂行的に構築される」と主張した革命的著作。フェミニズムからクィア理論まで、現代の性とアイデンティティをめぐる議論の土台を作った。発表当時は激しい論争を呼んだが、今や現代思想の基本文献。",
+      "whyReadJa": "現代のジェンダー論の基礎。『第二の性』を読んだ後に挑戦すべき次のステップ。難解だが、読めば「男らしさ」「女らしさ」をめぐる常識が根底から揺らぐ。",
+      "tags": [
+        "フェミニズム",
+        "クィア理論",
+        "現代思想",
+        "ジェンダー"
+      ],
+      "selectionReasonJa": "現代のジェンダー論の基礎。バトラーが「女」のカテゴリーを解体した。",
+      "titleEn": "Gender Trouble"
+    },
+    {
+      "slug": "orientalism",
+      "title": "Orientalism",
+      "titleJa": "オリエンタリズム",
+      "author": "Edward W. Said",
+      "authorJa": "エドワード・サイード",
+      "country": "パレスチナ/アメリカ",
+      "year": 1978,
+      "genre": [
+        "哲学",
+        "文化批評"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/254331-L.jpg",
+      "asin": "4582760112",
+      "descriptionJa": "「東洋」は西洋が作り出した幻想である——このテーゼでポストコロニアル理論の扉を開いた記念碑的著作。文学・学術・政治のなかで「オリエント」がいかに表象され、支配の道具となってきたかを暴く。現代の文化的ステレオタイプの構造を理解するための必読書。",
+      "whyReadJa": "「西洋 vs 東洋」という二分法そのものを考えるための視点。日本が「東洋」としてどう見られてきたかを知ることで、国際社会での自画像も見えてくる。",
+      "tags": [
+        "ポストコロニアル",
+        "文化批評",
+        "中東",
+        "表象"
+      ],
+      "selectionReasonJa": "ポストコロニアル理論の扉を開いた記念碑的著作。",
+      "titleEn": "Orientalism"
+    },
+    {
+      "slug": "black-skin-white-masks",
+      "title": "Peau noire, masques blancs",
+      "titleJa": "黒い皮膚・白い仮面",
+      "author": "Frantz Fanon",
+      "authorJa": "フランツ・ファノン",
+      "country": "マルティニーク/アルジェリア",
+      "year": 1952,
+      "genre": [
+        "哲学",
+        "精神分析"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/482467-L.jpg",
+      "descriptionJa": "植民地主義が人間の精神に何をもたらすのか——マルティニーク出身の精神科医が、黒人であることの心理的葛藤を鮮烈に描く。言語、欲望、人種差別の内面化を分析し、植民地支配が「支配される側」の魂をいかに破壊するかを告発した。現代の人種論の原点。",
+      "whyReadJa": "差別が「される側」の精神をどう蝕むかを描いた古典。サイードの『オリエンタリズム』と併読すれば、植民地主義の外と内の両面から理解できる。",
+      "tags": [
+        "ポストコロニアル",
+        "人種",
+        "精神分析",
+        "植民地主義"
+      ],
+      "selectionReasonJa": "植民地主義が精神に何をするかを描く、人種論の原点。",
+      "titleEn": "Peau noire, masques blancs"
+    },
+    {
+      "slug": "debt-the-first-5000-years",
+      "title": "Debt: The First 5,000 Years",
+      "titleJa": "負債論——貨幣と暴力の5000年",
+      "author": "David Graeber",
+      "authorJa": "デヴィッド・グレーバー",
+      "country": "アメリカ",
+      "year": 2011,
+      "genre": [
+        "経済学",
+        "人類学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/6299464-L.jpg",
+      "asin": "475310334X",
+      "descriptionJa": "「物々交換から貨幣が生まれた」という経済学の定説は完全な虚構だった——オキュパイ運動の理論的支柱だった人類学者が、負債と貨幣の5000年史を書き換える。古代メソポタミアの帳簿から中世の道徳哲学、現代の金融危機まで、借りと返済の概念が社会をどう形作ってきたかを暴く。",
+      "whyReadJa": "「お金の常識」がひっくり返る一冊。資本主義のオルタナティブを考えるための必読書で、しかも驚くほど面白い。ハラリの『サピエンス全史』的世界史が好きな人に。",
+      "tags": [
+        "経済学",
+        "人類学",
+        "資本主義批判",
+        "歴史"
+      ],
+      "selectionReasonJa": "「お金の常識」を人類学でひっくり返す、資本主義批判の必読書。",
+      "titleEn": "Debt: The First 5,000 Years"
+    },
+    {
+      "slug": "on-photography",
+      "title": "On Photography",
+      "titleJa": "写真論",
+      "author": "Susan Sontag",
+      "authorJa": "スーザン・ソンタグ",
+      "country": "アメリカ",
+      "year": 1977,
+      "genre": [
+        "エッセイ",
+        "文化批評"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/238890-L.jpg",
+      "asin": "4794980248",
+      "descriptionJa": "「写真を撮ることは、世界を消費することだ」——写真というメディアの暴力性と魅力を、哲学的かつ官能的に論じた批評の傑作。SNSで誰もが写真家になった現代を予見していたかのような洞察の連続。批評家ソンタグの代表作で、読み物としての面白さでも群を抜く。",
+      "whyReadJa": "批評を読む楽しさを教えてくれる本。写真やSNSに囲まれて生きる現代人にこそ響く。文芸批評・文化批評の入門としても最適。",
+      "tags": [
+        "文化批評",
+        "アメリカ文学",
+        "エッセイ",
+        "視覚文化"
+      ],
+      "selectionReasonJa": "写真というメディアを哲学的・官能的に論じた批評の傑作。",
+      "titleEn": "On Photography"
+    },
+    {
+      "slug": "men-explain-things-to-me",
+      "title": "Men Explain Things to Me",
+      "titleJa": "説教したがる男たち",
+      "author": "Rebecca Solnit",
+      "authorJa": "レベッカ・ソルニット",
+      "country": "アメリカ",
+      "year": 2014,
+      "genre": [
+        "エッセイ",
+        "フェミニズム"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/7436971-L.jpg",
+      "asin": "B07KGPR24V",
+      "descriptionJa": "あるパーティで、男性がソルニットに彼女自身の書いた本を「解説」し始めた——この笑えないエピソードから「マンスプレイニング」という言葉が生まれた。日常の性差別から暴力まで、フェミニズムの視点をエッセイという親しみやすい形で届ける。軽やかに読めて、深く刺さる。",
+      "whyReadJa": "フェミニズム入門に最適な一冊。難解な理論書ではなく、日常生活の違和感から始まるので誰でも共感できる。ボーヴォワールやバトラーの後に読むと、実践編として腑に落ちる。",
+      "tags": [
+        "フェミニズム",
+        "エッセイ",
+        "ジェンダー",
+        "現代思想"
+      ],
+      "selectionReasonJa": "日常の性差別を描く、フェミニズム入門の最良の一冊。",
+      "titleEn": "Men Explain Things to Me"
+    },
+    {
+      "slug": "seeing-like-a-state",
+      "title": "Seeing Like a State",
+      "titleJa": "国家による視覚——なぜ国家計画は失敗するのか",
+      "author": "James C. Scott",
+      "authorJa": "ジェームズ・C・スコット",
+      "country": "アメリカ",
+      "year": 1998,
+      "genre": [
+        "政治学",
+        "人類学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12242192-L.jpg",
+      "descriptionJa": "なぜ国家による大規模な社会計画はほとんど失敗するのか——ソ連の集団農場からタンザニアの強制移住まで、国家が社会を「上から」見て単純化することで起きる悲劇を分析する。グレーバーと並ぶアナーキズム人類学の重要作で、「現場の知恵（メティス）」の重要性を説く。",
+      "whyReadJa": "政治や行政に携わる人にこそ読んでほしい一冊。「効率化」や「DX」の名の下で繰り返される失敗のパターンが見えてくる。グレーバー『負債論』の次に。",
+      "tags": [
+        "政治学",
+        "人類学",
+        "国家批判",
+        "アナーキズム"
+      ],
+      "selectionReasonJa": "国家計画がなぜ失敗するかを分析する、政治人類学の傑作。",
+      "titleEn": "Seeing Like a State"
+    },
+    {
+      "slug": "imagined-communities",
+      "title": "Imagined Communities",
+      "titleJa": "想像の共同体",
+      "author": "Benedict Anderson",
+      "authorJa": "ベネディクト・アンダーソン",
+      "country": "アメリカ",
+      "year": 1983,
+      "genre": [
+        "政治学",
+        "歴史"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/652236-L.jpg",
+      "asin": "4904701089",
+      "descriptionJa": "「国民（ネーション）」とは、実際には会ったこともない人々が「私たちは同じ国民だ」と想像することで成立する共同体である——このシンプルで革命的な洞察から、ナショナリズムの起源を印刷技術と言語の歴史に求めた政治学の名著。現代のナショナリズム理解の土台。",
+      "whyReadJa": "「日本とは何か」を考えるための最良のレンズ。サイード『オリエンタリズム』やファノンと合わせて読むと、植民地主義とナショナリズムの複合的理解が得られる。",
+      "tags": [
+        "政治学",
+        "ナショナリズム",
+        "歴史",
+        "東南アジア"
+      ],
+      "selectionReasonJa": "「国民」という概念の起源を解き明かした政治学の名著。",
+      "titleEn": "Imagined Communities"
+    },
+    {
+      "slug": "existentialism-is-a-humanism",
+      "title": "L'existentialisme est un humanisme",
+      "titleJa": "実存主義とは何か",
+      "author": "Jean-Paul Sartre",
+      "authorJa": "ジャン＝ポール・サルトル",
+      "country": "フランス",
+      "year": 1946,
+      "genre": [
+        "哲学",
+        "講演"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/2355635-L.jpg",
+      "asin": "4409030426",
+      "descriptionJa": "「実存は本質に先立つ」——この有名なテーゼを軸に、サルトルが一般向けに行った講演の記録。人間はまず存在し、その後に自分で自分を作り上げていく。自由の重さと責任を引き受けることこそが人間の条件だとする、20世紀で最も影響力のある哲学の入口。",
+      "whyReadJa": "カミュの次に読むべき哲学の入門書。難解な用語を使わずに語られる「自由と責任」の思想は、現代を生きる私たちに直接語りかけてくる。",
+      "tags": [
+        "実存主義",
+        "フランス哲学",
+        "自由",
+        "入門"
+      ],
+      "selectionReasonJa": "サルトルの実存主義を講演調で語る、哲学入門の定番。",
+      "titleEn": "L'existentialisme est un humanisme"
+    },
+    {
+      "slug": "discipline-and-punish",
+      "title": "Surveiller et punir",
+      "titleJa": "監獄の誕生——監視と処罰",
+      "author": "Michel Foucault",
+      "authorJa": "ミシェル・フーコー",
+      "country": "フランス",
+      "year": 1975,
+      "genre": [
+        "哲学",
+        "歴史"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/5539160-L.jpg",
+      "asin": "B0HCZGR9LC",
+      "descriptionJa": "近代以前の公開処刑から、規律・訓練としての監獄システムへ——権力のあり方はどう変わったのか。学校、工場、病院、軍隊に共通する「規律権力」の構造を暴き、現代社会が「監視する社会」であることを喝破したフーコーの主著。パノプティコン（一望監視施設）の概念は現代のデジタル監視社会を予見していた。",
+      "whyReadJa": "現代思想のマスターピース。SNSの「見られることへの欲望」から企業の人事評価まで、社会の見え方が変わる。サルトルの後に挑戦したいフーコー。",
+      "tags": [
+        "フランス現代思想",
+        "権力",
+        "監視",
+        "規律"
+      ],
+      "selectionReasonJa": "フーコーの主著。監視と規律の社会を喝破した現代思想のマスターピース。",
+      "titleEn": "Surveiller et punir"
+    },
+    {
+      "slug": "season-of-migration-to-the-north",
+      "title": "Mawsim al-Hijra ilâ al-Shamâl",
+      "titleJa": "北への回帰の季節",
+      "author": "Tayeb Salih",
+      "authorJa": "タイーブ・サーレフ",
+      "country": "スーダン",
+      "year": 1966,
+      "genre": [
+        "小説",
+        "アフリカ文学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/692835-L.jpg",
+      "descriptionJa": "イギリス留学からスーダンの村に戻った語り手は、謎めいた男ムスタファ・サイードの秘密を知る——植民地の逆襲、東洋と西洋の欲望の逆転を描くアラブ文学の至宝。「20世紀のアラブ小説で最も重要な作品」と称され、コンラッド『闇の奥』への痛烈なアンサーでもある。",
+      "whyReadJa": "アフリカ文学／アラブ文学の必読書。西洋への「逆植民地化」という視点が衝撃的。アチェベ『崩れゆく絆』と対になる名作。",
+      "tags": [
+        "アフリカ文学",
+        "アラブ文学",
+        "植民地主義",
+        "ポストコロニアル"
+      ],
+      "selectionReasonJa": "ポストコロニアル文学の至宝。西洋への痛烈なアンサー。",
+      "titleEn": "Season of Migration to the North"
+    },
+    {
+      "slug": "the-black-swan",
+      "title": "The Black Swan",
+      "titleJa": "ブラック・スワン",
+      "author": "Nassim Nicholas Taleb",
+      "authorJa": "ナシーム・ニコラス・タレブ",
+      "country": "レバノン/アメリカ",
+      "year": 2007,
+      "genre": [
+        "ノンフィクション",
+        "経済学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/5721840-L.jpg",
+      "asin": "4478001251",
+      "descriptionJa": "「黒い白鳥」——誰も予測できず、起これば世界を激変させる出来事。リーマンショックを予見したかのような（実際には予見していないと自称する）本書は、人間の「わかったつもり」の危険性を哲学・数学・歴史を駆使して暴く。傲慢な専門家を信用しなくなる、危険で痛快な一冊。",
+      "whyReadJa": "不確実性の時代の思考法。『ファスト&スロー』と対になる「人間の認知の限界」本。タレブの喧嘩腰の文章は好き嫌いが分かれるが、それも含めて読む価値がある。",
+      "tags": [
+        "ノンフィクション",
+        "経済学",
+        "リスク",
+        "哲学"
+      ],
+      "selectionReasonJa": "不確実性と認知の限界を哲学・数学・歴史で暴く、リーマンショック以後に必読となった痛快な一冊。",
+      "titleEn": "The Black Swan"
+    },
+    {
+      "slug": "beyond-good-and-evil",
+      "title": "Jenseits von Gut und Böse",
+      "titleJa": "善悪の彼岸",
+      "author": "Friedrich Nietzsche",
+      "authorJa": "フリードリヒ・ニーチェ",
+      "country": "ドイツ",
+      "year": 1886,
+      "genre": [
+        "哲学"
+      ],
+      "descriptionJa": "「神は死んだ」の後にニーチェが書いた主著の一つ。既存の道徳観を「系譜学的」に解体し、主人道徳と奴隷道徳という視点から西洋哲学の裏側を暴く。アフォリズム形式で書かれ、後の実存主義やポストモダニズムのすべての源泉になったと言ってよい。",
+      "whyReadJa": "『ツァラトゥストラ』が詩なら、こちらは理論。ニーチェ思想の中核を論理的に追体験できる。フーコーやデリダに進む前の必須の基礎。",
+      "tags": [
+        "ドイツ哲学",
+        "ニヒリズム",
+        "道徳哲学",
+        "近代批判"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/9681801-L.jpg",
+      "selectionReasonJa": "ニーチェ思想の中核を論理的に追体験できる主著。",
+      "titleEn": "Beyond Good and Evil"
+    },
+    {
+      "slug": "nausea",
+      "title": "La Nausée",
+      "titleJa": "嘔吐",
+      "author": "Jean-Paul Sartre",
+      "authorJa": "ジャン＝ポール・サルトル",
+      "country": "フランス",
+      "year": 1938,
+      "genre": [
+        "小説",
+        "哲学"
+      ],
+      "descriptionJa": "孤独な歴史家アントワーヌ・ロカンタンは、ある日突然「吐き気」に襲われる。それは世界に意味がなく、偶然に溢れているという実存の啓示だった。実存主義を小説の形で初めて提示したサルトルのデビュー作。哲学書ではなく物語として書かれたことの意味は大きい。",
+      "whyReadJa": "「実存は本質に先立つ」を感覚で理解したい人に。カミュの『異邦人』と並ぶ、実存主義文学の二大入口。",
+      "tags": [
+        "実存主義",
+        "フランス文学",
+        "不条理",
+        "現代思想"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/9393973-L.jpg",
+      "selectionReasonJa": "実存主義を小説の形で初めて提示した、サルトルのデビュー作。",
+      "titleEn": "Nausea"
+    },
+    {
+      "slug": "being-and-nothingness",
+      "title": "L'Être et le Néant",
+      "titleJa": "存在と無",
+      "author": "Jean-Paul Sartre",
+      "authorJa": "ジャン＝ポール・サルトル",
+      "country": "フランス",
+      "year": 1943,
+      "genre": [
+        "哲学"
+      ],
+      "descriptionJa": "サルトル実存主義の理論的総体。自由、他者のまなざし、自己欺瞞（マウヴェ・フォワ）といった概念を体系化し、「人間は自由の刑に処せられている」というテーゼに至る。20世紀フランス哲学の最重要テクストの一つ。",
+      "whyReadJa": "『嘔吐』や『実存主義とは何か』で興味を持ったら、この本格的な理論に挑戦できる。ハイデガー以降の現象学の流れを掴む鍵。",
+      "tags": [
+        "実存主義",
+        "フランス哲学",
+        "自由",
+        "現象学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10847649-L.jpg",
+      "selectionReasonJa": "サルトル実存主義の理論的総体。20世紀フランス哲学の最重要テクスト。",
+      "titleEn": "Being and Nothingness"
+    },
+    {
+      "slug": "the-protestant-ethic",
+      "title": "Die protestantische Ethik und der Geist des Kapitalismus",
+      "titleJa": "プロテスタンティズムの倫理と資本主義の精神",
+      "author": "Max Weber",
+      "authorJa": "マックス・ヴェーバー",
+      "country": "ドイツ",
+      "year": 1905,
+      "genre": [
+        "社会学",
+        "哲学"
+      ],
+      "descriptionJa": "資本主義はなぜ西洋でのみ発展したのか——ヴェーバーは宗教改革後の禁欲的プロテスタンティズムが「天職としての労働」という精神を生み、資本主義の原動力になったと論じる。社会学の古典中の古典であり、近代社会論のすべての出発点。",
+      "whyReadJa": "「資本主義の精神」という言葉の由来を知りたい人に。グレーバー『負債論』と対比すると、近代経済論の見取り図が立体的になる。",
+      "tags": [
+        "社会学",
+        "資本主義",
+        "宗教",
+        "近代批判"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/15045630-L.jpg",
+      "selectionReasonJa": "資本主義の精神の起源を問う、社会学の古典中の古典。",
+      "titleEn": "The Protestant Ethic and the Spirit of Capitalism"
+    },
+    {
+      "slug": "the-wretched-of-the-earth",
+      "title": "Les Damnés de la terre",
+      "titleJa": "地に呪われたる者",
+      "author": "Frantz Fanon",
+      "authorJa": "フランツ・ファノン",
+      "country": "アルジェリア",
+      "year": 1961,
+      "genre": [
+        "哲学",
+        "政治思想"
+      ],
+      "descriptionJa": "脱植民地化の暴力と、新たな人間の創造。精神病医であり革命家でもあったファノンが、植民地支配が植民者の精神に刻む暴力と、被抑圧者が人間として再生する道を描いた遺著。サルトルが序文を書き、世界中の解放運動に影響を与えた。",
+      "whyReadJa": "『黒い皮膚・白い仮面』の続編にして、ポストコロニアル思想の実践編。独立運動の現場から書かれた理論の力に圧倒される。",
+      "tags": [
+        "ポストコロニアル",
+        "植民地主義",
+        "暴力",
+        "アルジェリア"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/14325884-L.jpg",
+      "selectionReasonJa": "脱植民地化と解放を描く、ポストコロニアル思想の実践編。",
+      "titleEn": "The Wretched of the Earth"
+    },
+    {
+      "slug": "the-human-condition",
+      "title": "The Human Condition",
+      "titleJa": "人間の条件",
+      "author": "Hannah Arendt",
+      "authorJa": "ハンナ・アーレント",
+      "country": "アメリカ",
+      "year": 1958,
+      "genre": [
+        "哲学",
+        "政治哲学"
+      ],
+      "descriptionJa": "労働、仕事、活動——人間の営みを三つに分け、公共性（ポリスの空間）が失われていく近代を批判したアーレントの主著。「活動」が人間を人間にするという洞察は、現代の消費社会と労働中心主義を考えるための最良のレンズ。",
+      "whyReadJa": "『全体主義の起源』で歴史を、こちらで人間の根本条件を考える。現代の「仕事に生きる」という感覚を相対化したい人に。",
+      "tags": [
+        "政治哲学",
+        "労働",
+        "公共性",
+        "ドイツ哲学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/5746840-L.jpg",
+      "selectionReasonJa": "労働・仕事・活動を分け、公共性を問うアーレントの主著。",
+      "titleEn": "The Human Condition"
+    },
+    {
+      "slug": "eichmann-in-jerusalem",
+      "title": "Eichmann in Jerusalem",
+      "titleJa": "エルサレムのアイヒマン——悪の凡庸さについての報告",
+      "author": "Hannah Arendt",
+      "authorJa": "ハンナ・アーレント",
+      "country": "アメリカ",
+      "year": 1963,
+      "genre": [
+        "哲学",
+        "ノンフィクション"
+      ],
+      "descriptionJa": "ナチの大量虐殺の実行役アイヒマンの裁判を傍聴したアーレントが書いたルポルタージュ。「彼は怪物ではなく、考えることを怠った普通の人間だった」という「悪の凡庸さ」論は、世界に激しい論争を巻き起こした。善悪の境界を再考させる不滅の一冊。",
+      "whyReadJa": "「悪人」を自分と切り離して安心したい人への強烈な警鐘。全体主義が日常に忍び込む仕組みを、裁判記録という具体的な形で読める。",
+      "tags": [
+        "政治哲学",
+        "ホロコースト",
+        "悪",
+        "ノンフィクション"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/97789-L.jpg",
+      "selectionReasonJa": "「悪の凡庸さ」を問い、世界に論争を巻き起こしたアーレントの報告。",
+      "titleEn": "Eichmann in Jerusalem"
+    },
+    {
+      "slug": "the-structure-of-scientific-revolutions",
+      "title": "The Structure of Scientific Revolutions",
+      "titleJa": "科学革命の構造",
+      "author": "Thomas S. Kuhn",
+      "authorJa": "トマス・クーン",
+      "country": "アメリカ",
+      "year": 1962,
+      "genre": [
+        "哲学",
+        "科学哲学"
+      ],
+      "descriptionJa": "科学は直線的に進歩するのではなく、「パラダイム」の交代によって革命的に跳躍する——このテーゼで科学史の常識を覆した。知識社会学の金字塔であり、「パラダイムシフト」という言葉は今や日常語になった。",
+      "whyReadJa": "「科学は絶対的な真理の蓄積」という思い込みを解体してくれる。ファスト&スローと合わせて、人間の知の限界を考える入口に。",
+      "tags": [
+        "科学哲学",
+        "知識社会学",
+        "パラダイム",
+        "アメリカ"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/6566386-L.jpg",
+      "selectionReasonJa": "「パラダイムシフト」の概念で科学史を変えた、知識社会学の金字塔。",
+      "titleEn": "The Structure of Scientific Revolutions"
+    },
+    {
+      "slug": "the-society-of-the-spectacle",
+      "title": "La Société du spectacle",
+      "titleJa": "スペクタクルの社会",
+      "author": "Guy Debord",
+      "authorJa": "ギー・ドゥボール",
+      "country": "フランス",
+      "year": 1967,
+      "genre": [
+        "哲学",
+        "文化批評"
+      ],
+      "descriptionJa": "「スペクタクルは資本が蓄積しただけのものだ」——現代社会では、あらゆる経験がイメージの消費に置き換えられている。ドゥボールは状況主義の立場から、メディアと消費社会の全体をアフォリズムで批判する。SNS時代の私たちの状況を60年前に予言していた。",
+      "whyReadJa": "「映え」や「承認」に追われる感覚が、実は資本の仕組みだと気づかされる。ソシュールやバルトの記号論と合わせて読むとさらに面白い。",
+      "tags": [
+        "文化批評",
+        "メディア",
+        "資本主義批判",
+        "フランス現代思想"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/1052263-L.jpg",
+      "selectionReasonJa": "メディア消費社会を60年前に予言した、状況主義の批判書。",
+      "titleEn": "The Society of the Spectacle"
+    },
+    {
+      "slug": "a-theory-of-justice",
+      "title": "A Theory of Justice",
+      "titleJa": "正義論",
+      "author": "John Rawls",
+      "authorJa": "ジョン・ロールズ",
+      "country": "アメリカ",
+      "year": 1971,
+      "genre": [
+        "哲学",
+        "政治哲学"
+      ],
+      "descriptionJa": "「無知のヴェール」の背後で社会のルールを決めるとしたら、あなたはどんな社会を選ぶか——ロールズはこの思考実験から「格差原理」を導き、現代政治哲学の全体を刷新した。リベラリズムの理論的支柱として、いまなお議論の中心にある。",
+      "whyReadJa": "「格差」について本気で考えるための最良の出発点。分配の正義をめぐる現代の議論は、ほぼすべてこの本への応答である。",
+      "tags": [
+        "政治哲学",
+        "正義",
+        "リベラリズム",
+        "格差"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/4516035-L.jpg",
+      "selectionReasonJa": "「無知のヴェール」で正義を考える、現代政治哲学の支柱。",
+      "titleEn": "A Theory of Justice"
+    },
+    {
+      "slug": "the-history-of-sexuality",
+      "title": "Histoire de la sexualité",
+      "titleJa": "性の歴史",
+      "author": "Michel Foucault",
+      "authorJa": "ミシェル・フーコー",
+      "country": "フランス",
+      "year": 1976,
+      "genre": [
+        "哲学",
+        "歴史"
+      ],
+      "descriptionJa": "「性は抑圧されてきた」という常識をひっくり返し、近代こそが「語られる性」を増殖させ、セクシュアリティという概念そのものを生産してきたと論じる。「告白」「生命権力」といった概念で、身体と権力の関係を徹底的に問い直す。",
+      "whyReadJa": "『監獄の誕生』の権力論を身体の領域に応用した続編。ジェンダー・トラブルと併読すれば、身体と権力の現代思想が俯瞰できる。",
+      "tags": [
+        "フランス現代思想",
+        "権力",
+        "身体",
+        "ジェンダー"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10164010-L.jpg",
+      "selectionReasonJa": "「性は抑圧されてきた」という常識を覆した、フーコーの身体論。",
+      "titleEn": "The History of Sexuality"
+    },
+    {
+      "slug": "the-order-of-things",
+      "title": "Les Mots et les Choses",
+      "titleJa": "言葉と物——人間科学の考古学",
+      "author": "Michel Foucault",
+      "authorJa": "ミシェル・フーコー",
+      "country": "フランス",
+      "year": 1966,
+      "genre": [
+        "哲学",
+        "歴史"
+      ],
+      "descriptionJa": "「人間は神話である」——ルネサンス、古典主義、近代という三つの時代で、世界を秩序づける「認識枠（エピステーメー）」がいかに移り変わったかを描き、近代的人間概念の誕生と終焉を告げた問題作。20世紀最大の思想的ベストセラーの一つ。",
+      "whyReadJa": "「当たり前」だと思っている認識の枠組みが、実は歴史的に作られたものだと気づかされる。現代思想の最高峰の一つ。",
+      "tags": [
+        "フランス現代思想",
+        "認識論",
+        "歴史",
+        "人間科学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8703131-L.jpg",
+      "selectionReasonJa": "認識の枠組みの歴史を描き、近代的人間の終焉を告げた問題作。",
+      "titleEn": "Les Mots et les Choses"
+    },
+    {
+      "slug": "being-and-time",
+      "title": "Sein und Zeit",
+      "titleJa": "存在と時間",
+      "author": "Martin Heidegger",
+      "authorJa": "マルティン・ハイデガー",
+      "country": "ドイツ",
+      "year": 1927,
+      "genre": [
+        "哲学"
+      ],
+      "descriptionJa": "20世紀哲学の金字塔。ハイデガーは人間のあり方（現存在）を「世界内存在」として捉え直し、不安、死への先駆、時間性といった概念から「存在の問い」に挑む。サルトル、メルロ=ポンティ、デリダまで、その後の大陸哲学はすべてこの一冊への応答である。",
+      "whyReadJa": "難解さで知られるが、実存哲学の最深部に触れる唯一の道。サルトルやフーコーを本気で読みたい人に、挑戦する価値のある一冊。",
+      "tags": [
+        "現象学",
+        "存在論",
+        "ドイツ哲学",
+        "現代思想"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/15221434-L.jpg",
+      "selectionReasonJa": "20世紀哲学の金字塔。存在の問いに挑んだハイデガーの主著。",
+      "titleEn": "Being and Time"
+    },
+    {
+      "slug": "the-prince",
+      "title": "Il Principe",
+      "titleJa": "君主論",
+      "author": "Niccolò Machiavelli",
+      "authorJa": "ニッコロ・マキャヴェッリ",
+      "country": "イタリア",
+      "year": 1532,
+      "genre": [
+        "哲学",
+        "政治哲学"
+      ],
+      "descriptionJa": "「目的は手段を正当化する」と要約されることも多い、政治思想史上最も有名で最も誤解されてきた本。君主はどう振る舞えば権力を維持できるか——理想ではなく現実の権力闘争から書かれたこの小冊子は、近代政治学の原点となった。",
+      "whyReadJa": "理想主義を排して「現実の権力」を考える態度の原型。『正義論』の理想主義と並べて読むと、政治哲学の両極が分かる。",
+      "tags": [
+        "政治哲学",
+        "権力",
+        "ルネサンス",
+        "イタリア"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12726168-L.jpg",
+      "selectionReasonJa": "「現実の権力」を書いた、近代政治学の原点。",
+      "titleEn": "Il Principe"
+    },
+    {
+      "slug": "the-genealogy-of-morals",
+      "title": "Zur Genealogie der Moral",
+      "titleJa": "道徳の系譜",
+      "author": "Friedrich Nietzsche",
+      "authorJa": "フリードリヒ・ニーチェ",
+      "country": "ドイツ",
+      "year": 1887,
+      "genre": [
+        "哲学"
+      ],
+      "descriptionJa": "善悪の概念はいったいどこから来たのか——ニーチェが道徳の「価値の起源」を歴史的にたどり、恨みと罪悪感の力学から奴隷道徳の成立を描いた書。現代の批判理論が必ず参照する、道徳哲学を破壊的に組み替えた古典。",
+      "whyReadJa": "「正しさ」を疑う力を養うための最強の教科書。フーコーの系譜学的方法はここから始まっている。",
+      "tags": [
+        "ドイツ哲学",
+        "道徳哲学",
+        "ニヒリズム",
+        "近代批判"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/9236701-L.jpg",
+      "selectionReasonJa": "道徳の起源を歴史的にたどり、批判理論の源泉となったニーチェの書。",
+      "titleEn": "On the Genealogy of Morality"
+    },
+    {
+      "slug": "simulacra-and-simulation",
+      "title": "Simulacres et simulation",
+      "titleJa": "シミュラークルとシミュレーション",
+      "author": "Jean Baudrillard",
+      "authorJa": "ジャン・ボードリヤール",
+      "country": "フランス",
+      "year": 1981,
+      "genre": [
+        "哲学",
+        "文化批評"
+      ],
+      "descriptionJa": "ディズニーランドは本物の「偽物」であり、現実はすでにコピーのコピーとして拡散している——ボードリヤールはメディア社会の全体を「シミュレーション」の概念で読み解いた。『マトリックス』のネオが読む本として一躍有名になった、ポストモダン論の最重要書。",
+      "whyReadJa": "SNSやバーチャル空間に生きる私たちの現実感覚を考えるための必読書。メディア論・ポストモダン思想の入口。",
+      "tags": [
+        "ポストモダン",
+        "メディア",
+        "表象",
+        "フランス現代思想"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/307858-L.jpg",
+      "selectionReasonJa": "メディア社会を「シミュラークル」で読み解く、ポストモダン論の最重要書。",
+      "titleEn": "Simulacra and Simulation"
+    },
+    {
+      "slug": "homo-sacer",
+      "title": "Homo Sacer",
+      "titleJa": "ホモ・サケル——主権権力と剥き出しの生",
+      "author": "Giorgio Agamben",
+      "authorJa": "ジョルジョ・アガンベン",
+      "country": "イタリア",
+      "year": 1995,
+      "genre": [
+        "哲学",
+        "政治哲学"
+      ],
+      "descriptionJa": "古代ローマで「殺しても構わないが生贄にもできない」とされた人間——ホモ・サケル。アガンベンはこの概念から、主権権力が「剥き出しの生」を生み出す構造を解き明かし、現代の難民・収容所・生命政治を貫く視座を打ち立てた。フーコー以後の政治哲学を代表する書。",
+      "whyReadJa": "国家の暴力と人間の生命の関係を考える、現代政治哲学の最重要書。難民問題や生命倫理の議論に必須の理論枠を提供する。",
+      "tags": [
+        "政治哲学",
+        "生命政治",
+        "主権",
+        "現代思想"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/577626-L.jpg",
+      "selectionReasonJa": "主権権力と「剥き出しの生」を問う、現代政治哲学の最重要書。",
+      "titleEn": "Homo Sacer"
+    },
+    {
+      "slug": "the-rebel",
+      "title": "L'Homme révolté",
+      "titleJa": "反抗的人間",
+      "author": "Albert Camus",
+      "authorJa": "アルベール・カミュ",
+      "country": "フランス",
+      "year": 1951,
+      "genre": [
+        "哲学",
+        "エッセイ"
+      ],
+      "descriptionJa": "不条理の世界で「ノー」と言うことの意味。カミュは形而上の反抗から歴史的な革命までを振り返り、絶対的自由（ニヒリズム）と絶対的正義（全体主義）の両方の過ちを批判して、「反抗」の倫理を打ち立てる。カミュ思想の集大成。",
+      "whyReadJa": "『シーシュポスの神話』の答え編。不条理を受け入れた後にどう生きるのかを考える、実存思想の到達点の一つ。",
+      "tags": [
+        "実存主義",
+        "フランス哲学",
+        "反抗",
+        "不条理"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/14913446-L.jpg",
+      "selectionReasonJa": "反抗の倫理を打ち立てた、カミュ思想の集大成。",
+      "titleEn": "The Rebel"
+    },
+    {
+      "slug": "critique-of-pure-reason",
+      "title": "Kritik der reinen Vernunft",
+      "titleJa": "純粋理性批判",
+      "author": "Immanuel Kant",
+      "authorJa": "イマヌエル・カント",
+      "country": "ドイツ",
+      "year": 1781,
+      "genre": [
+        "哲学"
+      ],
+      "descriptionJa": "近代哲学の出発点。人間の理性は何を知ることができ、何を知ることができないのか——カントは認識の限界を「先験的」な方法で体系的に問い、哲学のコペルニクス的転回を成し遂げた。以降の西洋哲学はすべてこの一冊への応答である。",
+      "whyReadJa": "近代哲学の文法を学ぶならここから。ニーチェやフーコーが「乗り越えよう」とした土台が、この書に立っている。",
+      "tags": [
+        "認識論",
+        "ドイツ哲学",
+        "近代哲学",
+        "倫理"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/2336629-L.jpg",
+      "selectionReasonJa": "近代哲学の出発点。認識の限界を体系的に問い、哲学のコペルニクス的転回を成し遂げた。",
+      "titleEn": "Critique of Pure Reason"
+    },
+    {
+      "slug": "the-world-as-will-and-representation",
+      "title": "Die Welt als Wille und Vorstellung",
+      "titleJa": "意志と表象としての世界",
+      "author": "Arthur Schopenhauer",
+      "authorJa": "アルトゥル・ショーペンハウアー",
+      "country": "ドイツ",
+      "year": 1818,
+      "genre": [
+        "哲学"
+      ],
+      "descriptionJa": "世界は「私の表象」であり、その背後には止むことのない「意志」が流れている。苦悩と欲求を肯定から解放へと導く独自の哲学は、ニーチェ、ヴァーグナー、東洋思想への橋ともなった。西洋哲学と厭世観の出会い。",
+      "whyReadJa": "ニーチェの直接の師であり、実存思想の先駆け。カントの後のドイツ哲学の流れを掴む重要な一冊。",
+      "tags": [
+        "意志",
+        "ドイツ哲学",
+        "厭世",
+        "近代哲学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8823973-L.jpg",
+      "selectionReasonJa": "意志と表象から世界を解く、ショーペンハウアーの主著。ニーチェの師。",
+      "titleEn": "The World as Will and Representation"
+    },
+    {
+      "slug": "either-or",
+      "title": "Enten-Eller",
+      "titleJa": "あれか、これか",
+      "author": "Søren Kierkegaard",
+      "authorJa": "セーレン・キェルケゴール",
+      "country": "デンマーク",
+      "year": 1843,
+      "genre": [
+        "哲学"
+      ],
+      "descriptionJa": "「美的に生きるか、倫理的に生きるか」。キェルケゴールは人間の生き方の二つのステージを、鋭い散文と語りの技巧で描き出す。「実存哲学の父」と呼ばれる彼の出発点となった大著。",
+      "whyReadJa": "実存主義の起源。カミュやサルトルがその後に問うた「選択」の問題は、ここから始まっている。",
+      "tags": [
+        "実存主義",
+        "選択",
+        "デンマーク",
+        "近代哲学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/7356233-L.jpg",
+      "selectionReasonJa": "「美的か倫理的か」を問う、実存哲学の父キェルケゴールの出発点。",
+      "titleEn": "Either/Or"
+    },
+    {
+      "slug": "fear-and-trembling",
+      "title": "Frygt og Bæven",
+      "titleJa": "おそれとおののき",
+      "author": "Søren Kierkegaard",
+      "authorJa": "セーレン・キェルケゴール",
+      "country": "デンマーク",
+      "year": 1843,
+      "genre": [
+        "哲学"
+      ],
+      "descriptionJa": "アブラハムが神の命令でイサクを捧げようとした「跳躍」。合理的な倫理を超える信仰のパラドクスを、キェルケゴールは多層的な語りで描く。「信仰の騎士」という概念で実存哲学の深みを示した代表作。",
+      "whyReadJa": "「合理的には説明できない選択」を哲学として考えた先駆的著作。実存主義の核心に触れたい人に。",
+      "tags": [
+        "実存主義",
+        "信仰",
+        "選択",
+        "デンマーク"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/15095511-L.jpg",
+      "selectionReasonJa": "信仰のパラドクスを描く、実存哲学の代表作。",
+      "titleEn": "Fear and Trembling"
+    },
+    {
+      "slug": "the-ethics-of-ambiguity",
+      "title": "Pour une morale de l'ambiguïté",
+      "titleJa": "曖昧さの倫理",
+      "author": "Simone de Beauvoir",
+      "authorJa": "シモーヌ・ド・ボーヴォワール",
+      "country": "フランス",
+      "year": 1947,
+      "genre": [
+        "哲学",
+        "倫理学"
+      ],
+      "descriptionJa": "人間は「世界の中で自由」でありながら「世界によって制限」される——その曖昧さの中でどう倫理的に生きるか。ボーヴォワールがサルトル哲学を実践の倫理として体系化した、実存主義倫理学の金字塔。",
+      "whyReadJa": "『第二の性』の土台にある哲学。自由と責任を本気で考えたい人への、実存主義の実践編。",
+      "tags": [
+        "実存主義",
+        "倫理学",
+        "自由",
+        "フランス哲学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/14956458-L.jpg",
+      "selectionReasonJa": "自由と責任の実存倫理を体系化した、ボーヴォワールの主著。",
+      "titleEn": "The Ethics of Ambiguity"
+    },
+    {
+      "slug": "the-critique-of-practical-reason",
+      "title": "Kritik der praktischen Vernunft",
+      "titleJa": "実践理性批判",
+      "author": "Immanuel Kant",
+      "authorJa": "イマヌエル・カント",
+      "country": "ドイツ",
+      "year": 1788,
+      "genre": [
+        "哲学",
+        "倫理学"
+      ],
+      "descriptionJa": "「汝の意志の格率が、いつでも同時に普遍的立法の原理として妥当しうるように行為せよ」。道徳の根拠を理性に求めた、近代倫理学の最重要テクスト。自由と道徳法則の関係を問う。",
+      "whyReadJa": "「べき」の哲学がここにある。現代の規範倫理学を学ぶ出発点として、カント倫理の全体像を知れる。",
+      "tags": [
+        "倫理学",
+        "ドイツ哲学",
+        "道徳",
+        "近代哲学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/662409-L.jpg",
+      "selectionReasonJa": "道徳の根拠を理性に求めた、近代倫理学の最重要テクスト。",
+      "titleEn": "Critique of Practical Reason"
+    },
+    {
+      "slug": "the-visible-and-the-invisible",
+      "title": "Le Visible et l'invisible",
+      "titleJa": "見えるものと見えないもの",
+      "author": "Maurice Merleau-Ponty",
+      "authorJa": "モーリス・メルロ＝ポンティ",
+      "country": "フランス",
+      "year": 1964,
+      "genre": [
+        "哲学"
+      ],
+      "descriptionJa": "身体と世界の関係を根源から問い直した現象学者の遺作。「肉（シャール）」という概念で、主観と客観、見るものと見られるものの二元論を解体する。20世紀フランス哲学の最重要遺産の一つ。",
+      "whyReadJa": "サルトルとは異なる方向の現象学。身体をめぐる現代思想（バトラーも参照）の源泉を辿りたい人に。",
+      "tags": [
+        "現象学",
+        "身体",
+        "フランス哲学",
+        "認識論"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/9791967-L.jpg",
+      "selectionReasonJa": "身体と世界を「肉」で結ぶ、メルロ＝ポンティの遺作。",
+      "titleEn": "The Visible and the Invisible"
+    },
+    {
+      "slug": "the-concept-of-anxiety",
+      "title": "Begrebet Angest",
+      "titleJa": "不安の概念",
+      "author": "Søren Kierkegaard",
+      "authorJa": "セーレン・キェルケゴール",
+      "country": "デンマーク",
+      "year": 1844,
+      "genre": [
+        "哲学"
+      ],
+      "descriptionJa": "不安は罪の可能性として人間に訪れる。キェルケゴールは「不安」を心理学的・哲学的に精緻に分析し、後の実存主義と精神分析の双方に影響を与えた。ハイデガーの『存在と時間』の「不安の分析」もここに負う。",
+      "whyReadJa": "「不安」を哲学の中心に据えた古典。現代人の不安の構造を理解するための思想的基盤。",
+      "tags": [
+        "実存主義",
+        "不安",
+        "デンマーク",
+        "近代哲学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12196222-L.jpg",
+      "selectionReasonJa": "「不安」を哲学の中心に据えた、実存主義と精神分析の源流。",
+      "titleEn": "The Concept of Anxiety"
+    },
+    {
+      "slug": "the-phenomenology-of-perception",
+      "title": "Phénoménologie de la perception",
+      "titleJa": "知覚の現象学",
+      "author": "Maurice Merleau-Ponty",
+      "authorJa": "モーリス・メルロ＝ポンティ",
+      "country": "フランス",
+      "year": 1945,
+      "genre": [
+        "哲学"
+      ],
+      "descriptionJa": "知覚は心と身体、主体と世界の出会いそのものだ。メルロ＝ポンティは「生きられた身体」の概念から、伝統的な認識論を書き換える。サルトルと並ぶフランス実存主義の基盤を築いた大著。",
+      "whyReadJa": "身体論の古典。人間を「考える主体」ではなく「生きる身体」として捉える視点が、現代思想の出発点となる。",
+      "tags": [
+        "現象学",
+        "身体",
+        "認識論",
+        "フランス哲学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/1213679-L.jpg",
+      "selectionReasonJa": "身体論の古典。知覚と身体をめぐる現象学の金字塔。",
+      "titleEn": "Phenomenology of Perception"
+    },
+    {
+      "slug": "the-mirror-stage",
+      "title": "Écrits",
+      "titleJa": "エクリ",
+      "author": "Jacques Lacan",
+      "authorJa": "ジャック・ラカン",
+      "country": "フランス",
+      "year": 1966,
+      "genre": [
+        "哲学",
+        "精神分析"
+      ],
+      "descriptionJa": "「無意識は言語のように構造化されている」。フロイトを言語学と構造主義で読み直したラカンの主著。鏡像段階、他者の欲望、象徴界——現代思想と文学理論に決定的な影響を与えた記念碑的テクスト集。",
+      "whyReadJa": "精神分析と構造主義の交点。フーコーやバルト、デリダを理解するために知っておきたい思想家。",
+      "tags": [
+        "精神分析",
+        "フランス現代思想",
+        "無意識",
+        "言語"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/247654-L.jpg",
+      "selectionReasonJa": "無意識と言語を問う、ラカンの主著。現代思想と文学理論の基盤。",
+      "titleEn": "Écrits"
+    },
+    {
+      "slug": "the-mythologies",
+      "title": "Mythologies",
+      "titleJa": "神話作用",
+      "author": "Roland Barthes",
+      "authorJa": "ロラン・バルト",
+      "country": "フランス",
+      "year": 1957,
+      "genre": [
+        "哲学",
+        "文化批評"
+      ],
+      "descriptionJa": "ステーキのフライドポテト、プロレス、洗剤CM——日常の「当たり前」を記号論で読み解き、ブルジョワ神話の仕組みを暴く。カルチュラル・スタディーズの原点となった、バルトの最も有名なエッセイ集。",
+      "whyReadJa": "「当たり前」を疑う技術の入門書。広告やSNSを批評的に見る目を養いたい人に最適。",
+      "tags": [
+        "記号論",
+        "文化批評",
+        "フランス現代思想",
+        "表象"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/4490230-L.jpg",
+      "selectionReasonJa": "日常の「当たり前」を記号論で読み解き、ブルジョワ神話の仕組みを暴いたカルチュラル・スタディーズの原点。",
+      "titleEn": "Mythologies"
+    },
+    {
+      "slug": "of-grammatology",
+      "title": "De la grammatologie",
+      "titleJa": "グラマトロジーについて",
+      "author": "Jacques Derrida",
+      "authorJa": "ジャック・デリダ",
+      "country": "フランス",
+      "year": 1967,
+      "genre": [
+        "哲学"
+      ],
+      "descriptionJa": "「脱構築」の思想を提示したデリダの主著。西洋形而上学における文字の抑圧を暴き、「差延」という概念で意味の生成を問い直す。ポスト構造主義の出発点であり、哲学・文学理論・法学まで影響を及ぼした。",
+      "whyReadJa": "「脱構築」という言葉の出典。近代思想の枠組みを解体するポスト構造主義に触れたい人に。",
+      "tags": [
+        "脱構築",
+        "ポスト構造主義",
+        "フランス現代思想",
+        "言語"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12191607-L.jpg",
+      "selectionReasonJa": "「脱構築」を提示したデリダの主著。ポスト構造主義の出発点。",
+      "titleEn": "Of Grammatology"
+    },
+    {
+      "slug": "the-postmodern-condition",
+      "title": "La Condition postmoderne",
+      "titleJa": "ポストモダンの条件",
+      "author": "Jean-François Lyotard",
+      "authorJa": "ジャン＝フランソワ・リオタール",
+      "country": "フランス",
+      "year": 1979,
+      "genre": [
+        "哲学",
+        "社会思想"
+      ],
+      "descriptionJa": "「大きな物語の終焉」。科学と知識の正当性は、もはや壮大な物語によって担保されない。ポストモダンという言葉を思想界に定着させた、社会哲学の最重要テクスト。情報化社会の理論的基盤。",
+      "whyReadJa": "「ポストモダン」という概念の出典。SNS時代の知識と情報を考えるための思想的背景。",
+      "tags": [
+        "ポストモダン",
+        "知識",
+        "フランス現代思想",
+        "情報社会"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/983820-L.jpg",
+      "selectionReasonJa": "「大きな物語の終焉」を宣言した、ポストモダン論の原点。",
+      "titleEn": "The Postmodern Condition"
+    },
+    {
+      "slug": "the-ticklish-subject",
+      "title": "The Ticklish Subject",
+      "titleJa": "くすぐったい主体",
+      "author": "Slavoj Žižek",
+      "authorJa": "スラヴォイ・ジジェク",
+      "country": "スロベニア",
+      "year": 1999,
+      "genre": [
+        "哲学"
+      ],
+      "descriptionJa": "政治的主体は消滅したのか？ ヘーゲルとラカン、マルクスを接続し、ポスト政治的な時代における「主体」の可能性を探る。現代を代表する哲学者の、最も体系的な政治哲学論。",
+      "whyReadJa": "ジジェクの理論の全体像を掴む入門。ヘーゲル弁証法と精神分析を現代政治に使う技法に圧倒される。",
+      "tags": [
+        "政治哲学",
+        "精神分析",
+        "現代思想",
+        "ヘーゲル"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/913733-L.jpg",
+      "selectionReasonJa": "ヘーゲルとラカン、マルクスを接続する、ジジェクの政治哲学。",
+      "titleEn": "The Ticklish Subject"
+    },
+    {
+      "slug": "the-ethics",
+      "title": "Ethica",
+      "titleJa": "エチカ",
+      "author": "Baruch Spinoza",
+      "authorJa": "バールーフ・デ・スピノザ",
+      "country": "オランダ",
+      "year": 1677,
+      "genre": [
+        "哲学"
+      ],
+      "descriptionJa": "幾何学の形式で神・人間・幸福を論じる、近代哲学の奇跡。神＝自然（ Deus sive Natura）という一元論と、感情論・自由の思想は、ニーチェやドゥルーズが最も愛した哲学の一つとなった。",
+      "whyReadJa": "「近代哲学の隠れた王」と呼ばれるスピノザの主著。ニーチェ、ドゥルーズ、そしてスピノザ派哲学の土台。",
+      "tags": [
+        "近代哲学",
+        "一元論",
+        "自由",
+        "オランダ"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8941881-L.jpg",
+      "selectionReasonJa": "神＝自然の一元論で自由を問う、スピノザの主著。",
+      "titleEn": "Ethics"
+    },
+    {
+      "slug": "the-german-ideology",
+      "title": "Die deutsche Ideologie",
+      "titleJa": "ドイツ・イデオロギー",
+      "author": "Karl Marx",
+      "authorJa": "カール・マルクス",
+      "country": "ドイツ",
+      "year": 1846,
+      "genre": [
+        "哲学",
+        "政治思想"
+      ],
+      "descriptionJa": "「意識は生活を規定するのではなく、生活が意識を規定する」。唯物史観の宣言書として知られるマルクス=エンゲルスの共同著作。イデオロギーの社会的根源を暴き、後の社会理論の基盤を作った。",
+      "whyReadJa": "マルクス主義の核心的な概念（上部構造・下部構造）の出典。社会を批判的に見る視点の基本。",
+      "tags": [
+        "唯物史観",
+        "イデオロギー",
+        "政治思想",
+        "マルクス"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/14918283-L.jpg",
+      "selectionReasonJa": "唯物史観を宣言した、マルクス=エンゲルスの共同著作。",
+      "titleEn": "The German Ideology"
+    },
+    {
+      "slug": "the-communist-manifesto",
+      "title": "Manifest der Kommunistischen Partei",
+      "titleJa": "共産党宣言",
+      "author": "Karl Marx",
+      "authorJa": "カール・マルクス",
+      "country": "ドイツ",
+      "year": 1848,
+      "genre": [
+        "哲学",
+        "政治思想"
+      ],
+      "descriptionJa": "「すべての社会の歴史は階級闘争の歴史である」。マルクスとエンゲルスが書いたこの小冊子は、世界史を最も動かした文書の一つとなった。資本主義批判の原点として、いまなお読むべきテクスト。",
+      "whyReadJa": "世界史を動かした思想の原点。資本主義を批判的に理解するための、最短の入門。",
+      "tags": [
+        "マルクス",
+        "政治思想",
+        "階級",
+        "資本主義批判"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/14837538-L.jpg",
+      "selectionReasonJa": "世界史を最も動かした文書。資本主義批判の原点。",
+      "titleEn": "The Communist Manifesto"
+    },
+    {
+      "slug": "the-two-sources",
+      "title": "Les Deux Sources de la morale et de la religion",
+      "titleJa": "道徳と宗教の二つの源泉",
+      "author": "Henri Bergson",
+      "authorJa": "アンリ・ベルクソン",
+      "country": "フランス",
+      "year": 1932,
+      "genre": [
+        "哲学"
+      ],
+      "descriptionJa": "「閉じた道徳」と「開いた道徳」——社会を維持する道徳と、人間を超えて開かれる道徳。ベルクソンの最晩年の主著は、生命の躍動（エラン・ヴィタル）の哲学を倫理と宗教の領域へと押し広げた。",
+      "whyReadJa": "20世紀フランス哲学のもう一つの源流。実存主義と並行する、生命と精神の哲学を体験できる。",
+      "tags": [
+        "生命哲学",
+        "フランス哲学",
+        "道徳",
+        "時間"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10884401-L.jpg",
+      "selectionReasonJa": "「閉じた道徳」と「開いた道徳」を問う、ベルクソンの主著。",
+      "titleEn": "The Two Sources of Morality and Religion"
+    },
+    {
+      "slug": "creative-evolution",
+      "title": "L'Évolution créatrice",
+      "titleJa": "創造的進化",
+      "author": "Henri Bergson",
+      "authorJa": "アンリ・ベルクソン",
+      "country": "フランス",
+      "year": 1907,
+      "genre": [
+        "哲学"
+      ],
+      "descriptionJa": "進化は機械的な適応ではなく、生命の創造的な跳躍だ。時間（デュレ）を中心概念に据え、知性と直観を対比させたベルクソンの主著。ノーベル文学賞を受賞した、20世紀初頭の思想的出来事。",
+      "whyReadJa": "「時間」を哲学した巨匠の代表作。デリダやドゥルーズの前に、フランス思想の基盤を築いた書。",
+      "tags": [
+        "生命哲学",
+        "時間",
+        "フランス哲学",
+        "直観"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/4858256-L.jpg",
+      "selectionReasonJa": "「時間」と「生命の躍動」を哲学した、ベルクソンの代表作。",
+      "titleEn": "Creative Evolution"
+    },
+    {
+      "slug": "difference-and-repetition",
+      "title": "Différence et répétition",
+      "titleJa": "差異と反復",
+      "author": "Gilles Deleuze",
+      "authorJa": "ジル・ドゥルーズ",
+      "country": "フランス",
+      "year": 1968,
+      "genre": [
+        "哲学"
+      ],
+      "descriptionJa": "「同じものの反復」ではなく「差異の反復」——同一性を前提にしない思想を、ドゥルーズはニーチェとスピノザを接続して構築する。ポスト構造主義の哲学的核心を示した主著。",
+      "whyReadJa": "ポスト構造主義の最重要哲学書。ドゥルーズの世界を理解するための出発点。",
+      "tags": [
+        "ドゥルーズ",
+        "ポスト構造主義",
+        "差異",
+        "フランス現代思想"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/4647637-L.jpg",
+      "selectionReasonJa": "同一性を解体し「差異」を考える、ドゥルーズの主著。",
+      "titleEn": "Difference and Repetition"
+    },
+    {
+      "slug": "thousand-plateaus",
+      "title": "Mille plateaux",
+      "titleJa": "千のプラトー",
+      "author": "Gilles Deleuze",
+      "authorJa": "ジル・ドゥルーズ",
+      "country": "フランス",
+      "year": 1980,
+      "genre": [
+        "哲学"
+      ],
+      "descriptionJa": "フェリックス・ガタリとの共同著作。根茎（リゾーム）、器官なき身体、生成——階層的なツリー構造に代わる、水平で多様な思考の地図を提示する。ポスト構造主義を代表する、自由で野心的なテクスト。",
+      "whyReadJa": "「中心のない思考」の提案。組織論、芸術、政治にまで応用された、20世紀思想の金字塔。",
+      "tags": [
+        "ドゥルーズ",
+        "リゾーム",
+        "ポスト構造主義",
+        "フランス現代思想"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/983826-L.jpg",
+      "selectionReasonJa": "「リゾーム」の思考を提示した、ドゥルーズ=ガタリの金字塔。",
+      "titleEn": "A Thousand Plateaus"
+    },
+    {
+      "slug": "the-essential-political",
+      "title": "The Essential Political",
+      "titleJa": "政治的なものの本質",
+      "author": "Carl Schmitt",
+      "authorJa": "カール・シュミット",
+      "country": "ドイツ",
+      "year": 1932,
+      "genre": [
+        "哲学",
+        "政治思想"
+      ],
+      "descriptionJa": "「政治的なものの基準は味方と敵の区別にある」。主権とは例外状態を決定する者であるという「友敵理論」は、政治思想史上最も刺激的で議論を呼んだテーゼ。アガンベンやムフが参照する現代政治理論の源泉。",
+      "whyReadJa": "リベラルな政治観の対極にある、現実主義的な政治理論。『ホモ・サケル』のアガンベンが強く影響を受けた書。",
+      "tags": [
+        "政治哲学",
+        "主権",
+        "友敵理論",
+        "ドイツ"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/1148661-L.jpg",
+      "selectionReasonJa": "「友敵理論」で政治の本質を問う、シュミットの刺激的な主著。",
+      "titleEn": "The Concept of the Political"
+    },
+    {
+      "slug": "the-origins-of-social",
+      "title": "The Social Construction of Reality",
+      "titleJa": "現実の社会的構成",
+      "author": "Peter L. Berger",
+      "authorJa": "ピーター・バーガー",
+      "country": "アメリカ",
+      "year": 1966,
+      "genre": [
+        "哲学",
+        "社会学"
+      ],
+      "descriptionJa": "現実は客観的に存在するのではなく、人間の日常的相互作用によって「社会的に構成」される。現象学的社会学の古典。社会が個人を作り、個人が社会を作る循環を、日常世界の分析から明らかにする。",
+      "whyReadJa": "「当たり前の世界は作られたもの」という視点の古典的根拠。社会学と知識論の架け橋。",
+      "tags": [
+        "社会学",
+        "構築主義",
+        "知識社会",
+        "現象学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/238146-L.jpg",
+      "selectionReasonJa": "現実は社会的に構成されることを示した、現象学的社会学の古典。",
+      "titleEn": "The Social Construction of Reality"
+    },
+    {
+      "slug": "the-gift",
+      "title": "Essai sur le don",
+      "titleJa": "贈与論",
+      "author": "Marcel Mauss",
+      "authorJa": "マルセル・モース",
+      "country": "フランス",
+      "year": 1925,
+      "genre": [
+        "哲学",
+        "人類学"
+      ],
+      "descriptionJa": "「贈与には必ず返礼が伴う」。原始社会の交換システムを分析し、贈与・受領・返礼の三つの義務が社会を結びつけることを示す。現代社会学・人類学・哲学（デリダの『贈与の時間』）の原点となった古典。",
+      "whyReadJa": "グレーバー『負債論』や経済人類学の理論的源泉。資本主義を相対化するための最重要人類学書。",
+      "tags": [
+        "人類学",
+        "贈与",
+        "交換",
+        "フランス"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/13073465-L.jpg",
+      "selectionReasonJa": "贈与が社会を結ぶことを示した、人類学の古典。",
+      "titleEn": "The Gift"
+    },
+    {
+      "slug": "the-division-of-labor",
+      "title": "De la division du travail social",
+      "titleJa": "社会分業論",
+      "author": "Émile Durkheim",
+      "authorJa": "エミール・デュルケーム",
+      "country": "フランス",
+      "year": 1893,
+      "genre": [
+        "哲学",
+        "社会学"
+      ],
+      "descriptionJa": "近代社会はなぜ「個」を重視するのか。デュルケームは社会の連帯を「機械的連帯」と「有機的連帯」に分け、分業が道徳秩序を作ることを論じる。社会学という学問の成立を告げた古典。",
+      "whyReadJa": "社会学の創設者の主著。社会と個人の関係を考えるための、理論的出発点。",
+      "tags": [
+        "社会学",
+        "連帯",
+        "分業",
+        "デュルケーム"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/18720-L.jpg",
+      "selectionReasonJa": "社会の連帯を問う、社会学の創設者デュルケームの主著。",
+      "titleEn": "The Division of Labour in Society"
+    },
+    {
+      "slug": "the-suicide",
+      "title": "Le Suicide",
+      "titleJa": "自殺論",
+      "author": "Émile Durkheim",
+      "authorJa": "エミール・デュルケーム",
+      "country": "フランス",
+      "year": 1897,
+      "genre": [
+        "哲学",
+        "社会学"
+      ],
+      "descriptionJa": "自殺は個人の心理の問題ではなく、社会の状態を映す鏡である。デュルケームは統計データから自殺の社会的類型を析出し、「社会的事実」を実証する方法を確立した。社会学の方法論的転換点。",
+      "whyReadJa": "「個人の問題」を社会学的に読み直す古典。データと理論を組み合わせる学問の手本。",
+      "tags": [
+        "社会学",
+        "自殺",
+        "社会的事実",
+        "デュルケーム"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/972713-L.jpg",
+      "selectionReasonJa": "自殺を社会の鏡として読み解く、社会学の方法論的転換点。",
+      "titleEn": "Suicide"
+    },
+    {
+      "slug": "the-elementary-forms",
+      "title": "Les Formes élémentaires de la vie religieuse",
+      "titleJa": "宗教生活の原初形態",
+      "author": "Émile Durkheim",
+      "authorJa": "エミール・デュルケーム",
+      "country": "フランス",
+      "year": 1912,
+      "genre": [
+        "哲学",
+        "人類学"
+      ],
+      "descriptionJa": "宗教は社会が自分自身を祀る儀式である。オーストラリアのトーテム宗教を分析し、集合的沸騰と聖と俗の区別から宗教の起源を論じる。宗教社会学と象徴論の古典。",
+      "whyReadJa": "「神話・宗教の社会的起源」を考える基本文献。アンダーソン『想像の共同体』も参照する重要な書。",
+      "tags": [
+        "宗教",
+        "人類学",
+        "社会学",
+        "象徴"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/7494543-L.jpg",
+      "selectionReasonJa": "宗教の社会的起源を論じた、宗教社会学の古典。",
+      "titleEn": "The Elementary Forms of Religious Life"
+    },
+    {
+      "slug": "the-protestant-ethic-and-the-spirit",
+      "title": "Wirtschaft und Gesellschaft",
+      "titleJa": "経済と社会",
+      "author": "Max Weber",
+      "authorJa": "マックス・ヴェーバー",
+      "country": "ドイツ",
+      "year": 1921,
+      "genre": [
+        "哲学",
+        "社会学"
+      ],
+      "descriptionJa": "官僚制、支配の諸類型、資本主義の精神——ヴェーバーの社会学を体系化した大著。近代化とは「合理化」の過程であるという分析は、現代社会論の最重要の枠組みとなった。",
+      "whyReadJa": "近代社会の「型」を体系化した書。組織論・政治学・社会学の基本的な概念の出典。",
+      "tags": [
+        "社会学",
+        "官僚制",
+        "合理化",
+        "近代"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8802389-L.jpg",
+      "selectionReasonJa": "官僚制と支配の類型で近代を体系化した、ヴェーバー社会学の金字塔。",
+      "titleEn": "Economy and Society"
+    },
+    {
+      "slug": "the-order-of-events",
+      "title": "L'Archéologie du savoir",
+      "titleJa": "知の考古学",
+      "author": "Michel Foucault",
+      "authorJa": "ミシェル・フーコー",
+      "country": "フランス",
+      "year": 1969,
+      "genre": [
+        "哲学"
+      ],
+      "descriptionJa": "「言説」の分析を方法論として確立する、フーコーの理論的主著。知は断絶とともに形成され、権力と結びつく。『言葉と物』の方法的基礎を明らかにし、言説分析の出発点となった。",
+      "whyReadJa": "フーコーの方法論の中核。『監獄の誕生』『性の歴史』の理論的土台を理解したい人に。",
+      "tags": [
+        "フランス現代思想",
+        "言説分析",
+        "認識論",
+        "方法論"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/5410825-L.jpg",
+      "selectionReasonJa": "言説分析の方法論を確立した、フーコーの理論的主著。",
+      "titleEn": "The Archaeology of Knowledge"
+    },
+    {
+      "slug": "the-birth-of-clinic",
+      "title": "Naissance de la clinique",
+      "titleJa": "臨床医学の誕生",
+      "author": "Michel Foucault",
+      "authorJa": "ミシェル・フーコー",
+      "country": "フランス",
+      "year": 1963,
+      "genre": [
+        "哲学",
+        "歴史"
+      ],
+      "descriptionJa": "近代医学は「まなざし」を獲得した。病院という空間と医学の言語が、人間の身体をどう構成してきたかを歴史的に分析する。フーコーの初期三部作をなす、権力と知の考古学。",
+      "whyReadJa": "「医療は科学以前に権力構造である」という視点。身体と制度をめぐるフーコー思想の出発点。",
+      "tags": [
+        "フランス現代思想",
+        "医学",
+        "権力",
+        "歴史"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/4622256-L.jpg",
+      "selectionReasonJa": "医療と権力の関係を問う、フーコー初期の考古学。",
+      "titleEn": "The Birth of the Clinic"
+    },
+    {
+      "slug": "the-madness-and-civilization",
+      "title": "Folie et déraison",
+      "titleJa": "狂気の歴史",
+      "author": "Michel Foucault",
+      "authorJa": "ミシェル・フーコー",
+      "country": "フランス",
+      "year": 1961,
+      "genre": [
+        "哲学",
+        "歴史"
+      ],
+      "descriptionJa": "狂気は「自然の病」ではなく、近代が作り出した排除のカテゴリーである。精神病院の誕生とともに、理性と非理性の境界がどう引かれたかを歴史的に追う。フーコーを一躍有名にした問題作。",
+      "whyReadJa": "「排除」を制度の歴史として描いた古典。精神病・障害・マイノリティを考えるための思想的地平。",
+      "tags": [
+        "フランス現代思想",
+        "狂気",
+        "排除",
+        "歴史"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/1212372-L.jpg",
+      "selectionReasonJa": "「狂気」を排除の制度として描いた、フーコーの問題作。",
+      "titleEn": "Madness and Civilization"
+    },
+    {
+      "slug": "the-order-of-the-signs",
+      "title": "Saussure's Course in General Linguistics",
+      "titleJa": "一般言語学講義",
+      "author": "Ferdinand de Saussure",
+      "authorJa": "フェルディナン・ド・ソシュール",
+      "country": "フランス",
+      "year": 1916,
+      "genre": [
+        "哲学",
+        "言語学"
+      ],
+      "descriptionJa": "「言語は差異の体系である」。シニフィアンとシニフィエ、ラングとパロール——構造主義の理論的基盤を築いたソシュールの講義録。現代思想のあらゆる領域が参照する、20世紀思想の最重要テクストの一つ。",
+      "whyReadJa": "構造主義の原点。記号の仕組みを知れば、バルト、ラカン、デリダが一気に理解しやすくなる。",
+      "tags": [
+        "言語学",
+        "構造主義",
+        "記号",
+        "言語"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/13588701-L.jpg",
+      "selectionReasonJa": "構造主義の理論的基盤。言語は差異の体系である、ソシュールの講義録。",
+      "titleEn": "Course in General Linguistics"
+    },
+    {
+      "slug": "the-truth-and-method",
+      "title": "Wahrheit und Methode",
+      "titleJa": "真理と方法",
+      "author": "Hans-Georg Gadamer",
+      "authorJa": "ハンス＝ゲオルク・ガーダマー",
+      "country": "ドイツ",
+      "year": 1960,
+      "genre": [
+        "哲学"
+      ],
+      "descriptionJa": "解釈学の復権。理解とは方法の適用ではなく、伝統と現在が融合する「地平の融合」である。自然科学の客観主義に対し、人文科学の真理を擁護した20世紀ドイツ哲学の古典。",
+      "whyReadJa": "「理解すること」の本質を哲学した書。テクスト解釈の理論を知りたい人に必読。",
+      "tags": [
+        "解釈学",
+        "ドイツ哲学",
+        "理解",
+        "方法論"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/630822-L.jpg",
+      "selectionReasonJa": "解釈学の復権。理解を「地平の融合」として問う、ガーダマーの古典。",
+      "titleEn": "Truth and Method"
+    },
+    {
+      "slug": "the-concept-of-irony",
+      "title": "Om Begrebet Ironi",
+      "titleJa": "イロニーの概念",
+      "author": "Søren Kierkegaard",
+      "authorJa": "セーレン・キェルケゴール",
+      "country": "デンマーク",
+      "year": 1841,
+      "genre": [
+        "哲学"
+      ],
+      "descriptionJa": "イロニーは単なる修辞ではなく、有限なものへの無限な否定である。ソクラテスの実践を分析し、イロニーを実存の哲学的態度として確立した、キェルケゴールの学位論文。",
+      "whyReadJa": "「イロニー」という概念の哲学的源泉。文学批評や現代思想が使う用語の背景を理解する。",
+      "tags": [
+        "実存主義",
+        "イロニー",
+        "デンマーク",
+        "近代哲学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/440417-L.jpg",
+      "selectionReasonJa": "イロニーを実存の哲学的態度として確立した、キェルケゴールの学位論文。",
+      "titleEn": "The Concept of Irony"
+    },
+    {
+      "slug": "the-production-of-space",
+      "title": "La Production de l'espace",
+      "titleJa": "空間の生産",
+      "author": "Henri Lefebvre",
+      "authorJa": "アンリ・ルフェーヴル",
+      "country": "フランス",
+      "year": 1974,
+      "genre": [
+        "哲学",
+        "社会学"
+      ],
+      "descriptionJa": "空間は容器ではなく、社会的に生産される。都市、資本、日常生活を貫く空間論を提示し、現代の都市研究・地理学・カルチュラル・スタディーズの基盤を築いた。20世紀フランス社会思想の金字塔。",
+      "whyReadJa": "「空間」を社会理論の中核に据えた書。都市論やデザイン、建築に興味がある人に必読。",
+      "tags": [
+        "空間論",
+        "都市",
+        "マルクス主義",
+        "日常生活"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/7372450-L.jpg",
+      "selectionReasonJa": "空間は社会的に生産されることを示した、ルフェーヴルの金字塔。",
+      "titleEn": "The Production of Space"
+    },
+    {
+      "slug": "the-analects",
+      "title": "論語",
+      "titleEn": "The Analects",
+      "titleJa": "論語",
+      "author": "Confucius",
+      "authorJa": "孔子",
+      "country": "中国",
+      "year": -479,
+      "genre": [
+        "哲学"
+      ],
+      "descriptionJa": "「学んで時にこれを習う、亦た説ばしからずや」。孔子と弟子たちの対話をまとめた、東アジア2000年の思想の源泉。仁・義・礼・智の徳を、簡潔な言葉で語る。",
+      "whyReadJa": "東アジアの思考の基盤。西洋哲学と並ぶ、もう一つの知の系譜に触れるための最重要書。",
+      "selectionReasonJa": "東アジア思想の源流。西洋哲学と対になる、もう一つの哲学的伝統の古典。",
+      "tags": [
+        "中国哲学",
+        "儒教",
+        "東洋思想",
+        "古典"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12921740-L.jpg"
+    },
+    {
+      "slug": "the-art-of-war",
+      "title": "孫子",
+      "titleEn": "The Art of War",
+      "titleJa": "孫子",
+      "author": "Sun Tzu",
+      "authorJa": "孫子",
+      "country": "中国",
+      "year": -512,
+      "genre": [
+        "哲学",
+        "兵法"
+      ],
+      "descriptionJa": "「彼を知り己を知らば、百戦して殆からず」。2500年前の兵法書が、戦争を超えて現代のビジネスや政治に読まれ続ける理由。戦略的思考の古典。",
+      "whyReadJa": "「戦略」を考える基本書。西洋の哲学書とは異なる、東アジアの実践的知恵の源泉。",
+      "selectionReasonJa": "東アジア戦略思想の古典。ビジネス・政治にも応用される、最も読まれる東洋の書。",
+      "tags": [
+        "中国哲学",
+        "兵法",
+        "戦略",
+        "東洋思想"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/4849549-L.jpg"
+    },
+    {
+      "slug": "an-inquiry-into-the-good",
+      "title": "善の研究",
+      "titleEn": "An Inquiry into the Good",
+      "titleJa": "善の研究",
+      "author": "Nishida Kitaro",
+      "authorJa": "西田幾多郎",
+      "country": "日本",
+      "year": 1911,
+      "genre": [
+        "哲学"
+      ],
+      "descriptionJa": "「純粋経験」から出発し、善と美、宗教を一元論的に論じる。西洋哲学を土台にしながら、東洋の体験を哲学として結晶させた、日本哲学の出発点。",
+      "whyReadJa": "日本発の哲学。西洋思想を輸入するだけでなく、日本から哲学を生み出した記念碑。",
+      "selectionReasonJa": "日本哲学の出発点。西洋哲学と東洋思想を統合した、アジア思想の金字塔。",
+      "tags": [
+        "日本哲学",
+        "純粋経験",
+        "東洋思想",
+        "近代哲学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/159760-L.jpg"
+    }
+  ]
+}

@@ -1,0 +1,1790 @@
+{
+  "category": "classic-fiction",
+  "label": "古典・20世紀文学",
+  "description": "1900年代から1990年代まで、世界文学の基盤を築いた名作群。",
+  "order": 4,
+  "books": [
+    {
+      "slug": "what-we-talk-about-when-we-talk-about-love",
+      "title": "What We Talk About When We Talk About Love",
+      "titleJa": "愛について語るときに我々の語ること",
+      "author": "Raymond Carver",
+      "authorJa": "レイモンド・カーヴァー",
+      "country": "アメリカ",
+      "year": 1981,
+      "genre": [
+        "小説",
+        "短編集"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/914747-L.jpg",
+      "asin": "4124034997",
+      "descriptionJa": "削ぎ落とされた文体で日常の裂け目を描く、アメリカ文学の転換点となった短編集。何気ない会話のなかに潜む不安、言葉にできない感情の機微。村上春樹が翻訳し「カーヴァー・カントリー」と呼んだ、静かで深い文学世界。",
+      "whyReadJa": "村上春樹のルーツ。最小限の言葉で最大の余白を生み出す技法は、春樹文学を読む目も変える。ミニマリズム文学の頂点。",
+      "tags": [
+        "ミニマリズム",
+        "短編集",
+        "アメリカ文学",
+        "村上春樹好きに"
+      ],
+      "selectionReasonJa": "ミニマリズム文学の頂点。レイモンド・カーヴァーの代表作で、村上春樹が翻訳し大きな影響を受けた一冊。",
+      "titleEn": "What We Talk About When We Talk About Love"
+    },
+    {
+      "slug": "norwegian-wood",
+      "title": "Norwegian Wood",
+      "titleJa": "ノルウェイの森",
+      "author": "Haruki Murakami",
+      "authorJa": "村上春樹",
+      "country": "日本",
+      "year": 1987,
+      "genre": [
+        "小説",
+        "日本文学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/2237620-L.jpg",
+      "asin": "4062748681",
+      "descriptionJa": "1960年代末の東京を舞台に、ワタナベと直子、そして緑とのあいだで揺れる喪失と再生の物語。ビートルズの「ノルウェイの森」が流れるなか、青春の痛みと愛の不確かさを描いて世界的ベストセラーとなった。日本語で書かれた小説が、なぜ世界中でこれほど読まれるのか——その理由がここにある。",
+      "whyReadJa": "海外で最も読まれた日本文学の一つ。ここを起点に、世界が評価する日本文学と、その文学が影響を受けた海外作品の両方を探索できる。",
+      "tags": [
+        "日本文学",
+        "喪失",
+        "青春",
+        "恋愛",
+        "レコメンド起点"
+      ],
+      "selectionReasonJa": "海外で最も読まれた日本文学の一つ。村上春樹を世界的作家に押し上げ、本サイトの「村上春樹好きに」入口の起点。",
+      "titleEn": "Norwegian Wood"
+    },
+    {
+      "slug": "trout-fishing-in-america",
+      "title": "Trout Fishing in America",
+      "titleJa": "アメリカの鱒釣り",
+      "author": "Richard Brautigan",
+      "authorJa": "リチャード・ブローティガン",
+      "country": "アメリカ",
+      "year": 1967,
+      "genre": [
+        "小説",
+        "実験小説"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/6571467-L.jpg",
+      "asin": "4102147020",
+      "descriptionJa": "小説とも詩ともつかない、ひたすらに自由なテキスト。「アメリカの鱒釣り」という言葉が繰り返されるたびに意味がずれ、溶け、風景が立ち上がる。ヒッピー文化とカウンターカルチャーの只中で書かれた、60年代アメリカ文学の異色の傑作。村上春樹が影響を受けた作家の一人。",
+      "whyReadJa": "言葉そのものを遊び倒す快感。村上作品の「比喩の飛躍」が好きな人には、その源泉に出会える体験になる。詩のように読める小説。",
+      "tags": [
+        "実験小説",
+        "カウンターカルチャー",
+        "アメリカ文学",
+        "村上春樹好きに"
+      ],
+      "selectionReasonJa": "60年代カウンターカルチャーの象徴。詩と小説の境界を越えた実験的傑作で、村上春樹文学の比喩感覚の源泉。",
+      "titleEn": "Trout Fishing in America"
+    },
+    {
+      "slug": "the-emigrants",
+      "title": "Die Ausgewanderten",
+      "titleJa": "移民たち",
+      "author": "W.G. Sebald",
+      "authorJa": "W.G.ゼーバルト",
+      "country": "ドイツ",
+      "year": 1992,
+      "genre": [
+        "小説",
+        "ノンフィクション"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10675261-L.jpg",
+      "asin": "B08KVDL4TG",
+      "descriptionJa": "写真と記憶と旅の散文。四つの亡命者たちの人生をたどりながら、ユダヤ人虐殺の記憶がヨーロッパの風景にどう刻まれているかを静かに浮かび上がらせる。小説とも紀行文とも歴史書ともつかない、唯一無二の文学。死後に評価が高まり続けている20世紀最後の巨匠。",
+      "whyReadJa": "文学の可能性を拡張した作家。写真とテクストが織りなす記憶の探求は、村上春樹のノンフィクション作品や、写真を使った現代文学に興味がある人に。",
+      "tags": [
+        "記憶",
+        "ホロコースト",
+        "ドイツ文学",
+        "実験文学"
+      ],
+      "selectionReasonJa": "20世紀最後の文学の巨匠ゼーバルトの代表作。写真と散文で記憶と喪失を描き、小説の可能性を拡張した。",
+      "titleEn": "The Emigrants"
+    },
+    {
+      "slug": "the-wind-up-bird-chronicle",
+      "title": "The Wind-Up Bird Chronicle",
+      "titleJa": "ねじまき鳥クロニクル",
+      "author": "Haruki Murakami",
+      "authorJa": "村上春樹",
+      "country": "日本",
+      "year": 1994,
+      "genre": [
+        "小説",
+        "日本文学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12627437-L.jpg",
+      "asin": "4101001413",
+      "descriptionJa": "飼い猫の行方から始まり、井戸に降り、歴史の闇へと潜っていく——村上春樹の最高傑作との呼び声も高い大河小説。ノモンハン事件や満州国の記憶が現代の東京に不気味に侵食し、個人の喪失が歴史の暴力と結びつく。海外で最も高く評価された村上作品の一つ。",
+      "whyReadJa": "村上文学のエッセンスが凝縮された一冊。ここから海外文学に飛ぶなら、マジックリアリズム（ガルシア＝マルケス）や歴史的トラウマ文学（ゼーバルト）へ。",
+      "tags": [
+        "日本文学",
+        "マジックリアリズム",
+        "歴史",
+        "村上春樹"
+      ],
+      "selectionReasonJa": "村上春樹の最高傑作の一つ。個人の喪失と歴史の暴力を結ぶ大河小説で、海外評価が最も高い日本文学。",
+      "titleEn": "The Wind-Up Bird Chronicle"
+    },
+    {
+      "slug": "ficciones",
+      "title": "Ficciones",
+      "titleJa": "伝奇集",
+      "author": "Jorge Luis Borges",
+      "authorJa": "ホルヘ・ルイス・ボルヘス",
+      "country": "アルゼンチン",
+      "year": 1944,
+      "genre": [
+        "小説",
+        "短編集"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10832290-L.jpg",
+      "asin": "4003279212",
+      "descriptionJa": "無限の図書館、記憶の正確な男、宝くじで運営される社会——わずか数ページで宇宙を創造するボルヘスの短編集。メタフィクションと哲学的思索が融合した作品群は、世界中の作家に影響を与え「ボルヘス的」という形容詞まで生んだ。ラテンアメリカ文学が世界を変えた起点。",
+      "whyReadJa": "短編集として最高傑作。一話読むごとに世界の見え方が変わる。ガルシア＝マルケスに進む前に、まずここから。村上春樹にも大きな影響。",
+      "tags": [
+        "短編集",
+        "ラテンアメリカ文学",
+        "メタフィクション",
+        "幻想文学"
+      ],
+      "selectionReasonJa": "ラテンアメリカ文学の出発点。ボルヘスの短編集で、メタフィクションと幻想文学の原型を作った。",
+      "titleEn": "Ficciones"
+    },
+    {
+      "slug": "the-great-gatsby",
+      "title": "The Great Gatsby",
+      "titleJa": "華麗なるギャツビー",
+      "author": "F. Scott Fitzgerald",
+      "authorJa": "F・スコット・フィッツジェラルド",
+      "country": "アメリカ",
+      "year": 1925,
+      "genre": [
+        "小説",
+        "アメリカ文学"
+      ],
+      "descriptionJa": "1920年代ニューヨーク。謎の大富豪ギャツビーが毎晩開く豪華なパーティ——そのすべては、かつて愛した女性デイジーを呼び寄せるためにあった。「ジャズ・エイジ」の光と翳を、きらめく文体で描いたアメリカ文学の古典中の古典。",
+      "whyReadJa": "アメリカ文学を読むならまずこの一冊。村上春樹が翻訳したことでも知られる。短く、しかし何度読んでも新しい。",
+      "tags": [
+        "アメリカ文学",
+        "ジャズエイジ",
+        "愛",
+        "古典"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10590366-L.jpg",
+      "selectionReasonJa": "ジャズ・エイジの象徴。アメリカン・ドリームの光と翳を描く、アメリカ文学の古典中の古典。",
+      "titleEn": "The Great Gatsby"
+    },
+    {
+      "slug": "to-the-lighthouse",
+      "title": "To the Lighthouse",
+      "titleJa": "灯台へ",
+      "author": "Virginia Woolf",
+      "authorJa": "ヴァージニア・ウルフ",
+      "country": "イギリス",
+      "year": 1927,
+      "genre": [
+        "小説",
+        "実験小説"
+      ],
+      "descriptionJa": "スコットランドの海辺の別荘。ラムゼイ夫人とその家族、訪れる客人たちの一日と、10年後の別の一日。「灯台に行こう」という幼い約束を軸に、意識の流れと時間の経過を描く。モダニズム文学の最高峰の一つ。",
+      "whyReadJa": "「意識の流れ」で読者を包み込む、20世紀文学の転換点。プルーストの後の記憶文学を読みたい人に。",
+      "tags": [
+        "イギリス文学",
+        "モダニズム",
+        "実験小説",
+        "意識の流れ"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8231846-L.jpg",
+      "selectionReasonJa": "モダニズム文学の最高峰。意識の流れと時間の経過を描く、ウルフの代表作。",
+      "titleEn": "To the Lighthouse"
+    },
+    {
+      "slug": "mrs-dalloway",
+      "title": "Mrs Dalloway",
+      "titleJa": "ダロウェイ夫人",
+      "author": "Virginia Woolf",
+      "authorJa": "ヴァージニア・ウルフ",
+      "country": "イギリス",
+      "year": 1925,
+      "genre": [
+        "小説",
+        "実験小説"
+      ],
+      "descriptionJa": "ロンドンのある一日。パーティの準備をするダロウェイ夫人の脳内を、通りを歩く人々の意識と交互にたどる。第一次世界大戦後のロンドンの一日に、生と死、社交と孤独のすべてを詰め込んだ、ウルフの傑作。",
+      "whyReadJa": "「一日」だけで小説が書けることを証明した本。ダロウェイ夫人の内面の揺れが、都市そのものの鼓動と重なる。",
+      "tags": [
+        "イギリス文学",
+        "モダニズム",
+        "実験小説",
+        "一日"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/6397580-L.jpg",
+      "selectionReasonJa": "「一日」で小説が書けることを証明した傑作。都市と意識が交差する、ウルフの代表作。",
+      "titleEn": "Mrs Dalloway"
+    },
+    {
+      "slug": "the-sound-and-the-fury",
+      "title": "The Sound and the Fury",
+      "titleJa": "響きと怒り",
+      "author": "William Faulkner",
+      "authorJa": "ウィリアム・フォークナー",
+      "country": "アメリカ",
+      "year": 1929,
+      "genre": [
+        "小説",
+        "実験小説"
+      ],
+      "descriptionJa": "アメリカ南部の没落貴族コンプソン家の崩壊を、知的障害を持つ弟ベンジャミン、自殺した兄、そして家長の息子——四人の異なる語りで描く。時間を解体し、語り手を次々に変える20世紀文学最大の実験の一つ。ノーベル文学賞受賞。",
+      "whyReadJa": "「難しい小説」の代名詞。しかし読み解いた時の快感は格別。モダニズムの頂点に挑みたい人に。",
+      "tags": [
+        "アメリカ文学",
+        "モダニズム",
+        "実験小説",
+        "家族"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8292212-L.jpg",
+      "selectionReasonJa": "20世紀文学最大の実験の一つ。フォークナーの意識の流れと時間の解体が、ノーベル賞に繋がった。",
+      "titleEn": "The Sound and the Fury"
+    },
+    {
+      "slug": "journey-to-the-end-of-the-night",
+      "title": "Voyage au bout de la nuit",
+      "titleJa": "夜の果てへの旅",
+      "author": "Louis-Ferdinand Céline",
+      "authorJa": "ルイ＝フェルディナン・セリーヌ",
+      "country": "フランス",
+      "year": 1932,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "第一次世界大戦、アフリカの植民地、アメリカ、そしてパリの貧しい診療所——自称「ばか者」のバルダミュが、世界中の失望を旅する。怒りと絶望と下品さに満ちたこの小説は、20世紀文学の文体を根底から変えた。",
+      "whyReadJa": "「皮肉」と「ニヒリズム」を文学に定着させた記念碑。ベケットやサルトル、さらにはタランティーノまで、あらゆる「毒舌」の祖先。",
+      "tags": [
+        "フランス文学",
+        "皮肉",
+        "戦争",
+        "20世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/14054027-L.jpg",
+      "selectionReasonJa": "20世紀文学の文体を変えた書。皮肉とニヒリズムの表現を確立し、後のあらゆる「毒舌」の祖先となった。",
+      "titleEn": "Journey to the End of the Night"
+    },
+    {
+      "slug": "the-master-and-margarita",
+      "title": "Мастер и Маргарита",
+      "titleJa": "巨匠とマルガリータ",
+      "author": "Mikhail Bulgakov",
+      "authorJa": "ミハイル・ブルガーコフ",
+      "country": "ロシア",
+      "year": 1967,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "悪魔ウォランドが猫を従えて1930年代のモスクワに現れ、無神論者の街を混乱に陥れる。一方、迫害を受けた「巨匠」とその恋人マルガリータは、復讐と救済の物語を紡ぐ。ソ連で長く禁じられた、20世紀幻想文学の最高峰。",
+      "whyReadJa": "悪魔と猫の冗談、そして歴史の闇。世界で最も愛されているロシア小説の一つ。『百年の孤独』好きに。",
+      "tags": [
+        "ロシア文学",
+        "幻想文学",
+        "悪魔",
+        "20世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12947486-L.jpg",
+      "selectionReasonJa": "ソ連で長く禁じられた幻想文学の最高峰。悪魔と猫のユーモアで歴史の闇を描く、世界で最も愛されるロシア文学。",
+      "titleEn": "The Master and Margarita"
+    },
+    {
+      "slug": "invisible-man",
+      "title": "Invisible Man",
+      "titleJa": "見えない人間",
+      "author": "Ralph Ellison",
+      "authorJa": "ラルフ・エリスン",
+      "country": "アメリカ",
+      "year": 1952,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "南部からハーレムへ。「見えない人間」を自称する黒人青年が、人種差別、共産主義、暴力と暴力のあいだを彷徨う。アメリカ黒人文学の金字塔にして、全米図書賞を受賞した20世紀最高の小説の一つ。",
+      "whyReadJa": "「見えない」とは何か——アメリカの人種問題を文学として最も深く問うた一冊。『世界と僕のあいだで』の系譜の出発点。",
+      "tags": [
+        "アメリカ文学",
+        "人種",
+        "黒人文学",
+        "全米図書賞"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/998256-L.jpg",
+      "selectionReasonJa": "アメリカ黒人文学の金字塔。人種とアイデンティティを問う、全米図書賞受賞の20世紀最高傑作の一つ。",
+      "titleEn": "Invisible Man"
+    },
+    {
+      "slug": "lolita",
+      "title": "Lolita",
+      "titleJa": "ロリータ",
+      "author": "Vladimir Nabokov",
+      "authorJa": "ウラジーミル・ナボコフ",
+      "country": "ロシア/アメリカ",
+      "year": 1955,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "中年の文学者ハンバート・ハンバートによる、少女ロリータへの禁じられた愛の告白。読者を震撼させたこの小説は、しかし何よりも言葉の美しさと語りの罠で知られる。文学史上最もスキャンダラスで、最も高度な文体の小説。",
+      "whyReadJa": "「不道徳なテーマをどう語るか」の極限の答え。ナボコフの言葉の魔法に酔いしれる、文学的快楽の極致。",
+      "tags": [
+        "アメリカ文学",
+        "語り",
+        "愛",
+        "20世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12984540-L.jpg",
+      "selectionReasonJa": "文学史上最もスキャンダラスで最も高度な文体。ナボコフの言葉の魔法の極致。",
+      "titleEn": "Lolita"
+    },
+    {
+      "slug": "the-catcher-in-the-rye",
+      "title": "The Catcher in the Rye",
+      "titleJa": "ライ麦畑でつかまえて",
+      "author": "J.D. Salinger",
+      "authorJa": "J・D・サリンジャー",
+      "country": "アメリカ",
+      "year": 1951,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "退学処分になった16歳のホールデン・コールフィールドが、ニューヨークの街を二日間さまよう。世の中の「偽物」が許せない少年のモノローグは、10代の孤独と反抗の代名詞として何世代もの読者を魅了してきた。",
+      "whyReadJa": "「大人の世界にうんざりする」すべての人に。青春小説の原点にして頂点。日本語訳も読みやすい。",
+      "tags": [
+        "アメリカ文学",
+        "青春",
+        "反抗",
+        "孤独"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/9273490-L.jpg",
+      "selectionReasonJa": "青春小説の原点にして頂点。10代の孤独と反抗の代名詞として、何世代もの読者を魅了した。",
+      "titleEn": "The Catcher in the Rye"
+    },
+    {
+      "slug": "one-day-in-the-life-of-ivan-denisovich",
+      "title": "Один день Ивана Денисовича",
+      "titleJa": "イワン・デニーソヴィチの一日",
+      "author": "Aleksandr Solzhenitsyn",
+      "authorJa": "アレクサンドル・ソルジェニーツィン",
+      "country": "ロシア",
+      "year": 1962,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "ソ連の収容所（グラグ）での、ただの一日。朝の点呼から夜の点呼まで、囚人イワンの一日を極限まで淡々と描くことで、全体主義の日常の恐怖を可視化した。ノーベル文学賞受賞。20世紀の告発文学の原点。",
+      "whyReadJa": "「普通の一日」がどれほど重いか。全体主義が人間の生活をどう破壊するかを、装飾なしで描き切る。",
+      "tags": [
+        "ロシア文学",
+        "グラグ",
+        "ノーベル賞",
+        "全体主義"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/14921148-L.jpg",
+      "selectionReasonJa": "ソ連収容所の一日を淡々と描いた告発文学。全体主義の日常を可視化し、ノーベル賞受賞の作家の代表作。",
+      "titleEn": "One Day in the Life of Ivan Denisovich"
+    },
+    {
+      "slug": "the-plague",
+      "title": "La Peste",
+      "titleJa": "ペスト",
+      "author": "Albert Camus",
+      "authorJa": "アルベール・カミュ",
+      "country": "フランス",
+      "year": 1947,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "アルジェの港町オランに、突然ペストが流行する。封鎖された街で、医師リウーをはじめとする市民たちは、日常を失った世界の中でそれぞれの道を選ぶ。「ノー」と言い続ける勇気を描く、カミュの代表作。",
+      "whyReadJa": "疫病と封鎖という状況が、現実の私たちの経験と重なる。不条理と連帯をめぐる、カミュ文学の到達点。",
+      "tags": [
+        "フランス文学",
+        "疫病",
+        "不条理",
+        "連帯"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/13151272-L.jpg",
+      "selectionReasonJa": "疫病と封鎖を描くカミュの代表作。不条理と連帯を問い、現代の私たちの経験と重なる。",
+      "titleEn": "The Plague"
+    },
+    {
+      "slug": "the-heart-of-darkness",
+      "title": "Heart of Darkness",
+      "titleJa": "闇の奥",
+      "author": "Joseph Conrad",
+      "authorJa": "ジョゼフ・コンラッド",
+      "country": "イギリス",
+      "year": 1899,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "アフリカのコンゴ川を遡行する船長マーロウ。象牙を求めてジャングルに君臨する「聖人」クルツを探して川を上るにつれ、植民地主義の闇と人間の欲望が露わになる。コッポラ監督『地獄の黙示録』の原作。",
+      "whyReadJa": "植民地主義文学の原点にして、それを最も深く批判する書。アチェベ『崩れゆく絆』と対で読むと完璧。",
+      "tags": [
+        "イギリス文学",
+        "植民地主義",
+        "冒険",
+        "闇"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12307847-L.jpg",
+      "selectionReasonJa": "植民地主義の闇を描く20世紀文学の原点。アチェベ『崩れゆく絆』と対で読むと深い。",
+      "titleEn": "Heart of Darkness"
+    },
+    {
+      "slug": "nineteen-eighty-four",
+      "title": "Nineteen Eighty-Four",
+      "titleJa": "一九八四年",
+      "author": "George Orwell",
+      "authorJa": "ジョージ・オーウェル",
+      "country": "イギリス",
+      "year": 1949,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "「ビッグブラザーはあなたを見つめている」。極権国家オセアニアで、思想警察がすべてを監視する世界。ウィンストン・スミスの反逆と破滅を描き、「ビッグブラザー」「二重思考」といった言葉を生んだディストピア文学の最高峰。",
+      "whyReadJa": "監視社会を考えるなら必読。『監獄の誕生』と合わせて、権力と監視の二つの視点を得られる。",
+      "tags": [
+        "ディストピア",
+        "監視",
+        "SF",
+        "全体主義"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/9267242-L.jpg",
+      "selectionReasonJa": "ディストピア文学の最高峰。監視社会を予言し、「ビッグブラザー」という言葉を生んだ。",
+      "titleEn": "Nineteen Eighty-Four"
+    },
+    {
+      "slug": "brave-new-world",
+      "title": "Brave New World",
+      "titleJa": "すばらしい新世界",
+      "author": "Aldous Huxley",
+      "authorJa": "オルダス・ハクスリー",
+      "country": "イギリス",
+      "year": 1932,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "人間は試験管で階級別に生産され、幸福は「ソーマ」という薬で保証される完璧な未来社会。しかしその幸福から「落ちこぼれた」野蛮人が反乱を起こす。快楽による支配を描いた、オーウェルと並ぶディストピア文学の双璧。",
+      "whyReadJa": "「気持ちよく支配される」世界の警告。監視と快楽、二つの全体主義のうち、現代はこちら側に近いかもしれない。",
+      "tags": [
+        "ディストピア",
+        "SF",
+        "テクノロジー",
+        "幸福"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8231823-L.jpg",
+      "selectionReasonJa": "快楽による支配を描いたディストピア文学の双璧。現代社会に最も近い未来予言とも言われる。",
+      "titleEn": "Brave New World"
+    },
+    {
+      "slug": "the-old-man-and-the-sea",
+      "title": "The Old Man and the Sea",
+      "titleJa": "老人と海",
+      "author": "Ernest Hemingway",
+      "authorJa": "アーネスト・ヘミングウェイ",
+      "country": "アメリカ",
+      "year": 1952,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "84日間魚が釣れない老漁夫サンチャゴ。85日目、巨大なカジキと激闘を繰り広げ、しかし帰路にはサメに食い荒らされてしまう。「人間は負けるように造られてはいない」——ノーベル文学賞受賞作。ヘミングウェイの硬質な文体の極致。",
+      "whyReadJa": "短く、力強く、美しい。英語も平易で洋書入門にも最適。生きることの意味を、海と老漁夫だけの物語で。",
+      "tags": [
+        "アメリカ文学",
+        "ヘミングウェイ",
+        "海",
+        "古典"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/463307-L.jpg",
+      "selectionReasonJa": "ノーベル賞受賞のヘミングウェイの極致。短く力強く、生きる意味を海と老漁夫だけで描く。",
+      "titleEn": "The Old Man and the Sea"
+    },
+    {
+      "slug": "for-whom-the-bell-tolls",
+      "title": "For Whom the Bell Tolls",
+      "titleJa": "誰がために鐘は鳴る",
+      "author": "Ernest Hemingway",
+      "authorJa": "アーネスト・ヘミングウェイ",
+      "country": "アメリカ",
+      "year": 1940,
+      "genre": [
+        "小説",
+        "戦争"
+      ],
+      "descriptionJa": "スペイン内戦。アメリカ人青年ロバート・ジョーダンは、ゲリラとともに橋の爆破任務に臨む。三日間の物語の中で、愛と義務、死と理想をめぐる人間の姿が描かれる。「誰のためにも鐘は鳴る」の原点。",
+      "whyReadJa": "戦争文学の最高峰の一つ。理想のために戦うことの意味を、静かで力強い散文で描く。",
+      "tags": [
+        "戦争",
+        "スペイン内戦",
+        "アメリカ文学",
+        "愛"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/2560810-L.jpg",
+      "selectionReasonJa": "スペイン内戦を描く戦争文学の最高峰。愛と義務、死と理想を静かで力強い散文で。",
+      "titleEn": "For Whom the Bell Tolls"
+    },
+    {
+      "slug": "the-grapes-of-wrath",
+      "title": "The Grapes of Wrath",
+      "titleJa": "怒りの葡萄",
+      "author": "John Steinbeck",
+      "authorJa": "ジョン・スタインベック",
+      "country": "アメリカ",
+      "year": 1939,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "1930年代、干ばつで土地を追われたオクラホマの農民ジョード一家が、カリフォルニアへと車で移動する。しかしそこには搾取と差別が待っていた。ピューリッツァー賞受賞。大恐慌期アメリカを描く、最も深い社会小説。",
+      "whyReadJa": "貧困と移動をめぐる文学の古典。現代の格差や移民問題にも通じる、普遍的な問いがここにある。",
+      "tags": [
+        "アメリカ文学",
+        "大恐慌",
+        "貧困",
+        "ピューリッツァー賞"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12715902-L.jpg",
+      "selectionReasonJa": "大恐慌期アメリカを描く最も深い社会小説。ピューリッツァー賞受賞。",
+      "titleEn": "The Grapes of Wrath"
+    },
+    {
+      "slug": "steppenwolf",
+      "title": "Der Steppenwolf",
+      "titleJa": "荒野の狼",
+      "author": "Hermann Hesse",
+      "authorJa": "ヘルマン・ヘッセ",
+      "country": "ドイツ",
+      "year": 1927,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "「人の心には狼が棲んでいる」——自己と社会の葛藤に苦しむ知識人ハラーが、道徳と快楽、精神と肉体のあいだで引き裂かれる。1920年代ドイツの精神危機を描き、後の若者文化に絶大な影響を与えたノーベル文学賞受賞作。",
+      "whyReadJa": "自己分裂を文学として描いた代表作。村上春樹作品に通じる「内面の迷宮」を体験したい人に。",
+      "tags": [
+        "ドイツ文学",
+        "自己",
+        "ノーベル賞",
+        "20世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/3221083-L.jpg",
+      "selectionReasonJa": "ノーベル賞作家ヘッセの代表作。自己分裂を文学として描き、後の若者文化に絶大な影響を与えた。",
+      "titleEn": "Steppenwolf"
+    },
+    {
+      "slug": "wide-sargasso-sea",
+      "title": "Wide Sargasso Sea",
+      "titleJa": "藻の海の広いサルガッソー海",
+      "author": "Jean Rhys",
+      "authorJa": "ジーン・リース",
+      "country": "イギリス",
+      "year": 1966,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "『ジェイン・エア』の屋根裏の狂女アントワネット——彼女は本当は誰だったのか。19世紀のカリブ海、クレオールの女性が愛と植民地の暴力のなかで壊れていく過程を描く。植民地文学の視点を文学史に刻んだ記念碑的転覆作。",
+      "whyReadJa": "「語られなかった側の物語」を書くとはどういうことか。ポストコロニアル文学の先駆けとして必読。",
+      "tags": [
+        "ポストコロニアル",
+        "イギリス文学",
+        "女性",
+        "カリブ"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/9269373-L.jpg",
+      "selectionReasonJa": "『ジェイン・エア』の屋根裏の妻を主人公にした、ポストコロニアル文学の先駆け。",
+      "titleEn": "Wide Sargasso Sea"
+    },
+    {
+      "slug": "the-golden-notebook",
+      "title": "The Golden Notebook",
+      "titleJa": "黄金のノートブック",
+      "author": "Doris Lessing",
+      "authorJa": "ドリス・レッシング",
+      "country": "イギリス",
+      "year": 1962,
+      "genre": [
+        "小説",
+        "実験小説"
+      ],
+      "descriptionJa": "女流作家アンナは、自分の人生を黒・赤・黄・青の四冊のノートに分けて書きつける。それらを束ねる「黄金のノートブック」とは何か——形式と内容の両方で女性の分裂を描き、ノーベル文学賞受賞。フェミニズム文学の金字塔。",
+      "whyReadJa": "「女性であることの分裂」を実験的な構造で描いた最高傑作。ボーヴォワールと並ぶ、女性の解放をめぐる文学。",
+      "tags": [
+        "フェミニズム",
+        "実験小説",
+        "イギリス文学",
+        "女性"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/42601-L.jpg",
+      "selectionReasonJa": "フェミニズム文学の金字塔。女性の分裂を実験的な構造で描く、ノーベル賞作家レッシングの代表作。",
+      "titleEn": "The Golden Notebook"
+    },
+    {
+      "slug": "on-the-road",
+      "title": "On the Road",
+      "titleJa": "オン・ザ・ロード",
+      "author": "Jack Kerouac",
+      "authorJa": "ジャック・ケルアック",
+      "country": "アメリカ",
+      "year": 1957,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "「ビート・ジェネレーション」の宣言書。サルとディーン・モリアーティが、アメリカ大陸をヒッチハイクで横断し、ジャズ、酒、薬物、友情を求めて疾走する。即興の散文で書かれた、自由への賛歌。カウンターカルチャーの聖典。",
+      "whyReadJa": "「人生は移動である」という感覚の原点。ブローティガンと合わせて、60年代アメリカの自由を体感。",
+      "tags": [
+        "アメリカ文学",
+        "ビートニク",
+        "旅",
+        "60年代"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/34655-L.jpg",
+      "selectionReasonJa": "ビート・ジェネレーションの宣言書。カウンターカルチャーと自由への賛歌。",
+      "titleEn": "On the Road"
+    },
+    {
+      "slug": "one-flew-over-the-cuckoos-nest",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "titleJa": "カッコーの巣の上で",
+      "author": "Ken Kesey",
+      "authorJa": "ケン・キージー",
+      "country": "アメリカ",
+      "year": 1962,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "精神科病棟を支配する「ビッグ・マザー」ラチェッド看護婦と、そこに現れた自由人マクマーフィの闘い。制度による人間の管理を、ブラックユーモアと詩的な文体で描く。60年代アメリカの反体制精神を象徴する小説。",
+      "whyReadJa": "「制度に飼いならされるな」という問い。フーコー『監獄の誕生』の文学版として読むとさらに深い。",
+      "tags": [
+        "アメリカ文学",
+        "精神科",
+        "反体制",
+        "60年代"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/9272688-L.jpg",
+      "selectionReasonJa": "制度による人間の管理を描く、60年代アメリカの反体制文学。",
+      "titleEn": "One Flew Over the Cuckoo's Nest"
+    },
+    {
+      "slug": "a-clockwork-orange",
+      "title": "A Clockwork Orange",
+      "titleJa": "時計じかけのオレンジ",
+      "author": "Anthony Burgess",
+      "authorJa": "アンソニー・バージェス",
+      "country": "イギリス",
+      "year": 1962,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "近未来のイギリス。少年ギャングのアレックスは、暴力とベートーヴェンを愛する狂人だった。刑務所で「治療」を受けて無害になった彼を待つものは——「自由意志」の根絶を問う、ディストピアSFの名作。",
+      "whyReadJa": "「善を選ぶ自由」とは何か。クブラックの映画で有名だが、原作の結末はさらに深い。",
+      "tags": [
+        "ディストピア",
+        "SF",
+        "暴力",
+        "自由意志"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/13151224-L.jpg",
+      "selectionReasonJa": "自由意志と暴力を問うディストピアSF。クブラック映画で有名な、バージェスの代表作。",
+      "titleEn": "A Clockwork Orange"
+    },
+    {
+      "slug": "notes-from-underground",
+      "title": "Записки из подполья",
+      "titleJa": "地下室の手記",
+      "author": "Fyodor Dostoevsky",
+      "authorJa": "フョードル・ドストエフスキー",
+      "country": "ロシア",
+      "year": 1864,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "「私は病気だ……しかし私は私の病気を誇りに思っている」。社会から退却し、地下室で自己嫌悪と誇りを紡ぐ男の独白。近代の合理主義と人間の矛盾を問う、ドストエフスキーにして実存主義の先駆けとなった問題作。",
+      "whyReadJa": "サルトルが「実存主義の始まり」と呼んだ一冊。ニーチェやカミュに至る思想の原点を、文学として体験できる。",
+      "tags": [
+        "ロシア文学",
+        "実存主義",
+        "自己",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10445973-L.jpg",
+      "selectionReasonJa": "実存主義の先駆け。ドストエフスキーが人間の矛盾と自己欺瞞を描いた問題作。",
+      "titleEn": "Notes from Underground"
+    },
+    {
+      "slug": "crime-and-punishment",
+      "title": "Преступление и наказание",
+      "titleJa": "罪と罰",
+      "author": "Fyodor Dostoevsky",
+      "authorJa": "フョードル・ドストエフスキー",
+      "country": "ロシア",
+      "year": 1866,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "貧しい元大学生ラスコーリニコフは、「並外れた人間には罪が許される」という理論を実践し、質屋の老婆を殺してしまう。しかし罪の重みは彼を苛む。人間の魂の深みを描く、ドストエフスキーの最高傑作の一つ。",
+      "whyReadJa": "「罪とは何か」を文学として最も深く問うた一冊。ニーチェの超人思想と対比して読むと、さらに面白い。",
+      "tags": [
+        "ロシア文学",
+        "罪",
+        "19世紀",
+        "心理小説"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/15183762-L.jpg",
+      "selectionReasonJa": "罪と罰を問う、ドストエフスキーの最高傑作。世界文学の頂点の一つ。",
+      "titleEn": "Crime and Punishment"
+    },
+    {
+      "slug": "the-brothers-karamazov",
+      "title": "Братья Карамазовы",
+      "titleJa": "カラマーゾフの兄弟",
+      "author": "Fyodor Dostoevsky",
+      "authorJa": "フョードル・ドストエフスキー",
+      "country": "ロシア",
+      "year": 1880,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "放蕩の父と三人の兄弟——信仰のアリョーシャ、理性のイヴァン、情欲のドミートリー。父殺しの事件を軸に、信仰と無神論、理性と情欲、自由と神をめぐる壮大な対話が展開する。世界文学の頂点と呼ばれる大河小説。",
+      "whyReadJa": "「神がいなければすべて許されるのか」——この問いに正面から挑む。西洋哲学と文学の交点。",
+      "tags": [
+        "ロシア文学",
+        "哲学",
+        "19世紀",
+        "大河小説"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/14889167-L.jpg",
+      "selectionReasonJa": "「神がいなければすべて許されるのか」。世界文学最大の問いを描く大河。",
+      "titleEn": "The Brothers Karamazov"
+    },
+    {
+      "slug": "the-metamorphosis",
+      "title": "Die Verwandlung",
+      "titleJa": "変身",
+      "author": "Franz Kafka",
+      "authorJa": "フランツ・カフカ",
+      "country": "チェコ",
+      "year": 1915,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "ある朝、セールスマンのグレゴール・ザムザは目を覚ますと、巨大な虫になっていた。家族は驚き、やがて彼を「役立たず」として扱う。人間の疎外をこれほど簡潔に描いた物語はない。カフカの名を不朽にした傑作。",
+      "whyReadJa": "「ある日突然、役に立たないものになる」という恐怖。日本のサラリーマン小説や村上春樹にも通じる、不条理の原点。",
+      "tags": [
+        "不条理",
+        "カフカ",
+        "疎外",
+        "短編"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12820198-L.jpg",
+      "selectionReasonJa": "不条理文学の原点。ある朝、虫になっていた男の物語。カフカの名を不朽にした。",
+      "titleEn": "The Metamorphosis"
+    },
+    {
+      "slug": "the-strange-case-of-dr-jekyll-and-mr-hyde",
+      "title": "Strange Case of Dr Jekyll and Mr Hyde",
+      "titleJa": "ジキル博士とハイド氏",
+      "author": "Robert Louis Stevenson",
+      "authorJa": "ロバート・ルイス・スティーヴンソン",
+      "country": "イギリス",
+      "year": 1886,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "人格を善悪に分離する薬を飲んだジキル博士は、悪の化身ハイド氏に変身するようになる。近代人の内面の分裂をゴシックホラーとして描き、「ジキルとハイド」を比喩として世界に定着させた。",
+      "whyReadJa": "人間の善悪の二重性をめぐる最も有名な物語。心理学や精神分析と併せて読むと、さらに面白い。",
+      "tags": [
+        "ゴシック",
+        "イギリス文学",
+        "二重人格",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/295773-L.jpg",
+      "selectionReasonJa": "人間の善悪の二重性を描く、ゴシックホラーの名作。",
+      "titleEn": "Strange Case of Dr Jekyll and Mr Hyde"
+    },
+    {
+      "slug": "the-picture-of-dorian-gray",
+      "title": "The Picture of Dorian Gray",
+      "titleJa": "ドリアン・グレイの肖像",
+      "author": "Oscar Wilde",
+      "authorJa": "オスカー・ワイルド",
+      "country": "イギリス",
+      "year": 1890,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "永遠の美を願った青年ドリアン・グレイ。彼の肖像画が代わりに老い、彼は罪の美しさに溺れていく。耽美と道徳、美と堕落をめぐる、ワイルド唯一の長編小説。鋭い警句の連続で読ませる。",
+      "whyReadJa": "「美」と「善」の分裂を、ゴシックの形で描いた傑作。ポップカルチャーのあらゆる「美の堕落」物語の原型。",
+      "tags": [
+        "イギリス文学",
+        "ゴシック",
+        "美",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/14314858-L.jpg",
+      "selectionReasonJa": "美と堕落をめぐる、ワイルド唯一の長編。耽美文学の頂点。",
+      "titleEn": "The Picture of Dorian Gray"
+    },
+    {
+      "slug": "the-wardrobe",
+      "title": "The Lion, the Witch and the Wardrobe",
+      "titleJa": "ライオンと魔女と衣装だんす",
+      "author": "C.S. Lewis",
+      "authorJa": "C・S・ルイス",
+      "country": "イギリス",
+      "year": 1950,
+      "genre": [
+        "小説",
+        "ファンタジー"
+      ],
+      "descriptionJa": "古い衣装だんすの奥に、もう一つの世界「ナルニア国」があった。四人の兄弟姉妹は、白い魔女に支配されたナルニアを救うため、ライオンの王アスランと出会う。「ナルニア国物語」の開幕。",
+      "whyReadJa": "「扉の向こうに別の世界」という設定の原型。ファンタジー文学を読むなら、まずここから。",
+      "tags": [
+        "ファンタジー",
+        "イギリス文学",
+        "児童文学",
+        "ナルニア"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8441376-L.jpg",
+      "selectionReasonJa": "「扉の向こうに別の世界」の原型。ファンタジー文学の金字塔ナルニアの開幕。",
+      "titleEn": "The Lion, the Witch and the Wardrobe"
+    },
+    {
+      "slug": "the-bell-jar",
+      "title": "The Bell Jar",
+      "titleJa": "鐘の壺",
+      "author": "Sylvia Plath",
+      "authorJa": "シルヴィア・プラス",
+      "country": "アメリカ",
+      "year": 1963,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "天才詩人プラスが自伝的に描く、少女の精神の瓦解。才能ある女性が、社会の「ガラスの壺」に押し込められ、息ができなくなる。フェミニズム文学の古典にして、最も痛切な語りの一つ。",
+      "whyReadJa": "「女性であること」と「生きること」の葛藤を、半自伝として描いた古典。",
+      "tags": [
+        "フェミニズム",
+        "精神",
+        "アメリカ文学",
+        "自伝"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8477115-L.jpg",
+      "selectionReasonJa": "フェミニズム文学の古典。天才詩人プラスが描く、女性の精神の瓦解。",
+      "titleEn": "The Bell Jar"
+    },
+    {
+      "slug": "the-collected-poems-of-sylvia-plath",
+      "title": "Ariel",
+      "titleJa": "アリエル",
+      "author": "Sylvia Plath",
+      "authorJa": "シルヴィア・プラス",
+      "country": "アメリカ",
+      "year": 1965,
+      "genre": [
+        "詩"
+      ],
+      "descriptionJa": "死後に発表されたプラスの詩集。激しい情熱と鋭い痛みが、独特の韻律で炸裂する。20世紀英語詩の最高到達点の一つとして、詩の歴史を変えた。",
+      "whyReadJa": "英語詩の金字塔。プラスの世界を、詩の形で直接体験したい人に。",
+      "tags": [
+        "詩",
+        "アメリカ文学",
+        "女性",
+        "20世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/33279-L.jpg",
+      "selectionReasonJa": "20世紀英語詩の最高到達点。プラスの死後発表の詩集で、詩の歴史を変えた。",
+      "titleEn": "Ariel"
+    },
+    {
+      "slug": "the-awakening",
+      "title": "The Awakening",
+      "titleJa": "めざめ",
+      "author": "Kate Chopin",
+      "authorJa": "ケイト・ショパン",
+      "country": "アメリカ",
+      "year": 1899,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "19世紀末のニューオーリンズ。人妻エドナは、自らの欲望と自立に目覚めていく。発表当時はスキャンダルとなった、アメリカ・フェミニズム文学の先駆け。",
+      "whyReadJa": "「女性の自己解放」を描いた最初期のアメリカ小説。『鐘の壺』の先駆者。",
+      "tags": [
+        "フェミニズム",
+        "女性",
+        "アメリカ文学",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8750241-L.jpg",
+      "selectionReasonJa": "「女性の自己解放」を描いた最初期のアメリカ小説。発表当時はスキャンダルとなった。",
+      "titleEn": "The Awakening"
+    },
+    {
+      "slug": "the-yellow-wallpaper",
+      "title": "The Yellow Wallpaper",
+      "titleJa": "黄色い壁紙",
+      "author": "Charlotte Perkins Gilman",
+      "authorJa": "シャーロット・パーキンズ・ギルマン",
+      "country": "アメリカ",
+      "year": 1892,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "「休息療法」のために監禁された女性が、部屋の黄色い壁紙の模様に見えるものを見始める。精神医療と女性の抑圧を描いた、フェミニズム文学の古典的ホラー。",
+      "whyReadJa": "短くて強烈。「女性の狂気」の表象を描いた先駆作。",
+      "tags": [
+        "フェミニズム",
+        "ホラー",
+        "精神",
+        "アメリカ文学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/652029-L.jpg",
+      "selectionReasonJa": "精神医療と女性の抑圧を描く、フェミニズム文学の古典的ホラー。",
+      "titleEn": "The Yellow Wallpaper"
+    },
+    {
+      "slug": "the-jane-eyre",
+      "title": "Jane Eyre",
+      "titleJa": "ジェイン・エア",
+      "author": "Charlotte Brontë",
+      "authorJa": "シャーロット・ブロンテ",
+      "country": "イギリス",
+      "year": 1847,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "孤児として育ったジェイン・エア。家庭教師として赴いた屋敷で、主人ロチェスターとの愛と、屋根裏に隠された秘密が明らかになる。女性の自立と尊厳を描く、ヴィクトリア朝文学の金字塔。",
+      "whyReadJa": "「自立する女性」の物語の原型。ゴシックとリアリズムの融合。",
+      "tags": [
+        "イギリス文学",
+        "女性",
+        "恋愛",
+        "ゴシック"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8235363-L.jpg",
+      "selectionReasonJa": "「自立する女性」の物語の原型。ヴィクトリア朝文学の金字塔。",
+      "titleEn": "Jane Eyre"
+    },
+    {
+      "slug": "the-wuthering-heights",
+      "title": "Wuthering Heights",
+      "titleJa": "嵐が丘",
+      "author": "Emily Brontë",
+      "authorJa": "エミリー・ブロンテ",
+      "country": "イギリス",
+      "year": 1847,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "ヨークシャーの荒涼とした丘。拾われ子のヒースクリフとキャサリンの、破滅的な愛と復讐の物語。情熱と暴力、自然と社会——英国ロマン主義文学の最高峰。",
+      "whyReadJa": "「愛」の文学として史上最高。荒々しく、美しく、救いがない。",
+      "tags": [
+        "イギリス文学",
+        "恋愛",
+        "復讐",
+        "ゴシック"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12818862-L.jpg",
+      "selectionReasonJa": "「愛」の文学として史上最高。英国ロマン主義文学の荒々しい頂点。",
+      "titleEn": "Wuthering Heights"
+    },
+    {
+      "slug": "the-villette",
+      "title": "Villette",
+      "titleJa": "ヴィレット",
+      "author": "Charlotte Brontë",
+      "authorJa": "シャーロット・ブロンテ",
+      "country": "イギリス",
+      "year": 1853,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "孤児のルーシーは、フランス語圏の都市ヴィレットの寄宿学校で働きながら、独立と愛を求める。ブロンテの最も内省的で成熟した作品。",
+      "whyReadJa": "『ジェイン・エア』の成熟形。孤独と自立を深く描く。",
+      "tags": [
+        "イギリス文学",
+        "女性",
+        "恋愛",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/5737854-L.jpg",
+      "selectionReasonJa": "ブロンテの最も成熟した作品。孤独と自立を深く描く。",
+      "titleEn": "Villette"
+    },
+    {
+      "slug": "the-tess-of-the-durbervilles",
+      "title": "Tess of the d'Urbervilles",
+      "titleJa": "テス",
+      "author": "Thomas Hardy",
+      "authorJa": "トマス・ハーディ",
+      "country": "イギリス",
+      "year": 1891,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "田舎の少女テスの悲劇。「純粋な女性」の運命を、社会と運命が翻弄する。ハーディの最も有名な作品で、ビクトリア朝道徳への痛烈な批判でもある。",
+      "whyReadJa": "「運命」と「社会」が個人を壊す過程を描く、悲劇の古典。",
+      "tags": [
+        "イギリス文学",
+        "悲劇",
+        "女性",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/13109386-L.jpg",
+      "selectionReasonJa": "社会と運命に翻弄される女性の悲劇。ビクトリア朝道徳への痛烈な批判。",
+      "titleEn": "Tess of the d'Urbervilles"
+    },
+    {
+      "slug": "the-far-from-the-madding-crowd",
+      "title": "Far from the Madding Crowd",
+      "titleJa": "遥か群衆を離れて",
+      "author": "Thomas Hardy",
+      "authorJa": "トマス・ハーディ",
+      "country": "イギリス",
+      "year": 1874,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "自立した農場主バスシバをめぐる三人の求婚者。田園の四季と人間の情熱が交錯する、ハーディの明朗な傑作。映画化もされた。",
+      "whyReadJa": "「女と男と恋」の傑作。ハーディの自然観と人間観が冴える。",
+      "tags": [
+        "イギリス文学",
+        "恋愛",
+        "田園",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/902038-L.jpg",
+      "selectionReasonJa": "田園と恋の傑作。ハーディの明朗な代表作。",
+      "titleEn": "Far from the Madding Crowd"
+    },
+    {
+      "slug": "the-madame-bovary",
+      "title": "Madame Bovary",
+      "titleJa": "ボヴァリー夫人",
+      "author": "Gustave Flaubert",
+      "authorJa": "ギュスターヴ・フローベール",
+      "country": "フランス",
+      "year": 1857,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "退屈な田舎の医師の妻エマは、ロマンチックな恋愛に憧れ、借金と不倫に身を滅ぼす。リアリズム小説の原点として、近代小説の手法を確立した記念碑的作品。",
+      "whyReadJa": "「退屈」と「欲望」を描いた近代小説の出発点。文体の完璧さで知られる。",
+      "tags": [
+        "フランス文学",
+        "不倫",
+        "リアリズム",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12993424-L.jpg",
+      "selectionReasonJa": "リアリズム小説の原点。近代小説の手法を確立した記念碑的作品。",
+      "titleEn": "Madame Bovary"
+    },
+    {
+      "slug": "the-sentimental-education",
+      "title": "L'Éducation sentimentale",
+      "titleJa": "感情教育",
+      "author": "Gustave Flaubert",
+      "authorJa": "ギュスターヴ・フローベール",
+      "country": "フランス",
+      "year": 1869,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "1848年革命の時代のパリ。青年フレデリックの、叶わぬ恋と平凡な人生。フローベールが「人生の絶望的な真実」を描いた、近代小説の完成形。",
+      "whyReadJa": "「夢と現実の落差」を描く、フローベールの最高傑作。",
+      "tags": [
+        "フランス文学",
+        "青春",
+        "19世紀",
+        "恋愛"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12602042-L.jpg",
+      "selectionReasonJa": "フローベールの最高傑作。夢と現実の落差を描く近代小説の完成形。",
+      "titleEn": "Sentimental Education"
+    },
+    {
+      "slug": "the-bel-ami",
+      "title": "Bel-Ami",
+      "titleJa": "女の一生",
+      "author": "Guy de Maupassant",
+      "authorJa": "ギ・ド・モーパッサン",
+      "country": "フランス",
+      "year": 1885,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "貧しい元軍人デュロワは、女性たちを踏み台にしてパリ社交界をのし上がる。野心と美と権力——モーパッサンの、シニカルで痛快な出世物語。",
+      "whyReadJa": "「成り上がり」を描く風刺小説の名作。権力のリアリズム。",
+      "tags": [
+        "フランス文学",
+        "出世",
+        "恋愛",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/997432-L.jpg",
+      "selectionReasonJa": "成り上がりを描く風刺小説の名作。権力のリアリズム。",
+      "titleEn": "Bel-Ami"
+    },
+    {
+      "slug": "the-stendhal-red-and-black",
+      "title": "Le Rouge et le Noir",
+      "titleJa": "赤と黒",
+      "author": "Stendhal",
+      "authorJa": "スタンダール",
+      "country": "フランス",
+      "year": 1830,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "野心に燃える青年ジュリアン・ソレル。僧院（黒）と軍（赤）の二つの道で成り上がろうとするが、愛と階級社会に翻弄される。近代心理小説の先駆け。",
+      "whyReadJa": "「野望」をめぐる心理小説の古典。スタンダール文学の到達点。",
+      "tags": [
+        "フランス文学",
+        "野心",
+        "恋愛",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/15050012-L.jpg",
+      "selectionReasonJa": "野心と恋愛をめぐる心理小説の古典。近代心理小説の先駆け。",
+      "titleEn": "The Red and the Black"
+    },
+    {
+      "slug": "the-bouvard",
+      "title": "Bouvard et Pécuchet",
+      "titleJa": "ブヴァールとペキュシェ",
+      "author": "Gustave Flaubert",
+      "authorJa": "ギュスターヴ・フローベール",
+      "country": "フランス",
+      "year": 1881,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "二人の写本屋が、相続した田舎で知識のすべてに挑戦するが、すべて失敗する。人間の知性へのあくなき不信を、ユーモアと皮肉で描く、フローベール晩年の狂気の傑作。",
+      "whyReadJa": "「知識」と「人間の愚かさ」をめぐる、空前のコメディ。",
+      "tags": [
+        "フランス文学",
+        "ユーモア",
+        "知識",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10735314-L.jpg",
+      "selectionReasonJa": "「知識」と「人間の愚かさ」をめぐる、フローベール晩年の空前のコメディ。",
+      "titleEn": "Bouvard and Pécuchet"
+    },
+    {
+      "slug": "the-moby-dick",
+      "title": "Moby-Dick",
+      "titleJa": "白鯨",
+      "author": "Herman Melville",
+      "authorJa": "ハーマン・メルヴィル",
+      "country": "アメリカ",
+      "year": 1851,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "エイハブ船長は、自分の脚を奪った白鯨モビー・ディックへの復讐に全船員を巻き込む。捕鯨、海、そして人間の狂気と知識——アメリカ文学最大の冒険叙事詩。",
+      "whyReadJa": "「復讐と狂気」を描く、アメリカ文学の最高峰。深い読解を誘う。",
+      "tags": [
+        "アメリカ文学",
+        "海洋",
+        "復讐",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10544254-L.jpg",
+      "selectionReasonJa": "アメリカ文学最大の冒険叙事詩。復讐と狂気と知識の深遠。",
+      "titleEn": "Moby-Dick"
+    },
+    {
+      "slug": "the-billy-budd",
+      "title": "Billy Budd",
+      "titleJa": "ビリー・バッド",
+      "author": "Herman Melville",
+      "authorJa": "ハーマン・メルヴィル",
+      "country": "アメリカ",
+      "year": 1924,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "無垢な水夫ビリー・バッド。上官の陰謀と、善と悪の境界をめぐる、メルヴィルの遺作。英国海軍を舞台にした、寓意的な傑作。",
+      "whyReadJa": "「善と悪」の純粋な対立を描く、メルヴィル晩年の小品。",
+      "tags": [
+        "アメリカ文学",
+        "海軍",
+        "善悪",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/9223569-L.jpg",
+      "selectionReasonJa": "善と悪を純粋に描く、メルヴィル晩年の寓話。",
+      "titleEn": "Billy Budd"
+    },
+    {
+      "slug": "the-huckleberry-finn",
+      "title": "Adventures of Huckleberry Finn",
+      "titleJa": "ハックルベリー・フィンの冒険",
+      "author": "Mark Twain",
+      "authorJa": "マーク・トウェイン",
+      "country": "アメリカ",
+      "year": 1884,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "ミシシッピ川を筏で下る少年ハックと逃亡奴隷ジム。自由と友情、そして人種問題を描いた、アメリカ文学の代表作。ヘミングウェイが「すべてのアメリカ文学はここから始まる」と言った。",
+      "whyReadJa": "アメリカ文学の原点。少年の語りで人種と自由を描く。",
+      "tags": [
+        "アメリカ文学",
+        "ミシシッピ",
+        "自由",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/1237481-L.jpg",
+      "selectionReasonJa": "アメリカ文学の原点。ミシシッピ川で自由を描いた、人種を問う名作。",
+      "titleEn": "Adventures of Huckleberry Finn"
+    },
+    {
+      "slug": "the-adventures-of-tom-sawyer",
+      "title": "The Adventures of Tom Sawyer",
+      "titleJa": "トム・ソーヤーの冒険",
+      "author": "Mark Twain",
+      "authorJa": "マーク・トウェイン",
+      "country": "アメリカ",
+      "year": 1876,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "ミシシッピ川沿いの町を舞台に、いたずら好きの少年トムの冒険。子ども時代の自由と冒険の楽しさを描く、アメリカ児童文学の古典。",
+      "whyReadJa": "「少年の冒険」の原型。自由で楽しい物語。",
+      "tags": [
+        "アメリカ文学",
+        "少年",
+        "冒険",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12043351-L.jpg",
+      "selectionReasonJa": "「少年の冒険」の原型。トウェインの自由で楽しい代表作。",
+      "titleEn": "The Adventures of Tom Sawyer"
+    },
+    {
+      "slug": "the-little-women",
+      "title": "Little Women",
+      "titleJa": "若草物語",
+      "author": "Louisa May Alcott",
+      "authorJa": "ルイーザ・メイ・オルコット",
+      "country": "アメリカ",
+      "year": 1868,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "南北戦争下のアメリカ。四姉妹の成長を描く、世界中で愛され続ける青春小説。女の子たちの自立と家族の絆を、温かくユーモラスに描く。",
+      "whyReadJa": "「少女の成長」を描く文学の古典。映画化でも繰り返し話題に。",
+      "tags": [
+        "アメリカ文学",
+        "家族",
+        "成長",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8775559-L.jpg",
+      "selectionReasonJa": "少女の成長を描く、世界中で愛される青春小説。",
+      "titleEn": "Little Women"
+    },
+    {
+      "slug": "the-scarlet-letter",
+      "title": "The Scarlet Letter",
+      "titleJa": "緋文字",
+      "author": "Nathaniel Hawthorne",
+      "authorJa": "ナサニエル・ホーソーン",
+      "country": "アメリカ",
+      "year": 1850,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "17世紀の清教徒社会。姦通の罪を負い、胸に「A」の文字を縫い付けたヘスター。罪と罰、恥と自立を描く、アメリカ・ロマン主義文学の古典。",
+      "whyReadJa": "「罪」をめぐる道徳劇。アメリカ文学の祖の代表作。",
+      "tags": [
+        "アメリカ文学",
+        "罪",
+        "女性",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/5654516-L.jpg",
+      "selectionReasonJa": "罪と恥を描く、アメリカ・ロマン主義文学の古典。",
+      "titleEn": "The Scarlet Letter"
+    },
+    {
+      "slug": "the-house-of-the-seven-gables",
+      "title": "The House of the Seven Gables",
+      "titleJa": "七破風の家",
+      "author": "Nathaniel Hawthorne",
+      "authorJa": "ナサニエル・ホーソーン",
+      "country": "アメリカ",
+      "year": 1851,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "祖先の呪いに苛まれる一族と、七つの破風を持つ古い家。過去の罪と現在の解放を描く、ホーソーンのゴシック小説。",
+      "whyReadJa": "「家」に宿る呪いと記憶。ゴシック文学の名作。",
+      "tags": [
+        "アメリカ文学",
+        "ゴシック",
+        "家族",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12506481-L.jpg",
+      "selectionReasonJa": "家に宿る呪いと記憶のゴシック名作。",
+      "titleEn": "The House of the Seven Gables"
+    },
+    {
+      "slug": "the-red-badge-of-courage",
+      "title": "The Red Badge of Courage",
+      "titleJa": "赤い勇敢章",
+      "author": "Stephen Crane",
+      "authorJa": "スティーヴン・クレイン",
+      "country": "アメリカ",
+      "year": 1895,
+      "genre": [
+        "小説",
+        "戦争"
+      ],
+      "descriptionJa": "南北戦争に出征した若者ヘンリーの、恐怖と臆病、そして勇気への目覚め。戦場の心理をリアルに描いた、戦争文学の先駆け。",
+      "whyReadJa": "「戦場の心理」を描いた、戦争文学の原点。",
+      "tags": [
+        "アメリカ文学",
+        "戦争",
+        "勇気",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8236915-L.jpg",
+      "selectionReasonJa": "戦場の心理を描いた、戦争文学の原点。",
+      "titleEn": "The Red Badge of Courage"
+    },
+    {
+      "slug": "the-last-of-the-mohicans",
+      "title": "The Last of the Mohicans",
+      "titleJa": "モヒカン族の最後",
+      "author": "James Fenimore Cooper",
+      "authorJa": "ジェイムズ・フェニモア・クーパー",
+      "country": "アメリカ",
+      "year": 1826,
+      "genre": [
+        "小説",
+        "冒険"
+      ],
+      "descriptionJa": "植民地戦争時代のアメリカ。辺境に生きる人々と、インディアンの世界を描く冒険小説の古典。「レザーストッキング物語」の代表作。",
+      "whyReadJa": "アメリカの「辺境」を描いた、冒険文学の原点。",
+      "tags": [
+        "アメリカ文学",
+        "冒険",
+        "インディアン",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8236937-L.jpg",
+      "selectionReasonJa": "アメリカの辺境とインディアンの世界を描く、冒険文学の原点。",
+      "titleEn": "The Last of the Mohicans"
+    },
+    {
+      "slug": "the-ivanhoe",
+      "title": "Ivanhoe",
+      "titleJa": "アイヴァンホー",
+      "author": "Walter Scott",
+      "authorJa": "ウォルター・スコット",
+      "country": "イギリス",
+      "year": 1819,
+      "genre": [
+        "小説",
+        "歴史"
+      ],
+      "descriptionJa": "リチャード獅子心王の時代の中世イングランド。騎士アイヴァンホーの冒険と恋。歴史小説の父スコットの代表作で、騎士道物語の原型。",
+      "whyReadJa": "「歴史小説」というジャンルを作った書。中世の騎士道世界を。",
+      "tags": [
+        "イギリス文学",
+        "歴史",
+        "騎士",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/314235-L.jpg",
+      "selectionReasonJa": "歴史小説の父スコットの代表作。騎士道物語の原型。",
+      "titleEn": "Ivanhoe"
+    },
+    {
+      "slug": "the-waverley",
+      "title": "Waverley",
+      "titleJa": "ウェイヴァリー",
+      "author": "Walter Scott",
+      "authorJa": "ウォルター・スコット",
+      "country": "イギリス",
+      "year": 1814,
+      "genre": [
+        "小説",
+        "歴史"
+      ],
+      "descriptionJa": "1745年のジャコバイト蜂起を背景に、イングランド人の青年がスコットランドの高地社会に飛び込む。歴史小説の元祖として、文学史を変えた作品。",
+      "whyReadJa": "「歴史小説」の出発点。スコットの名を不朽にした。",
+      "tags": [
+        "イギリス文学",
+        "歴史",
+        "スコットランド",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/5966880-L.jpg",
+      "selectionReasonJa": "「歴史小説」というジャンルを作った、スコットの元祖。",
+      "titleEn": "Waverley"
+    },
+    {
+      "slug": "the-pride-and-prejudice",
+      "title": "Pride and Prejudice",
+      "titleJa": "高慢と偏見",
+      "author": "Jane Austen",
+      "authorJa": "ジェイン・オースティン",
+      "country": "イギリス",
+      "year": 1813,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "「独身の男は財産持ちなら、妻を欲しがっているに違いない」。田舎の名家に生まれた五人の娘たちの結婚をめぐる、機知とユーモアに満ちた古典。恋愛小説の最高峰。",
+      "whyReadJa": "「恋愛」と「社会」を描く、英語文学の頂点。何度読んでも新しい。",
+      "tags": [
+        "イギリス文学",
+        "恋愛",
+        "結婚",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/14348537-L.jpg",
+      "selectionReasonJa": "恋愛小説の最高峰。オースティンの機知が冴える英語文学の頂点。",
+      "titleEn": "Pride and Prejudice"
+    },
+    {
+      "slug": "the-sense-and-sensibility",
+      "title": "Sense and Sensibility",
+      "titleJa": "分別と多感",
+      "author": "Jane Austen",
+      "authorJa": "ジェイン・オースティン",
+      "country": "イギリス",
+      "year": 1811,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "理性のエリノアと、感情のマリアンヌ。性格の異なる姉妹が、恋と結婚を通じて成長する物語。オースティンの処女出版作。",
+      "whyReadJa": "「理性と感情」の対比を描く、オースティン文学の出発点。",
+      "tags": [
+        "イギリス文学",
+        "恋愛",
+        "家族",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/9278292-L.jpg",
+      "selectionReasonJa": "理性と感情を描く、オースティンの処女出版作。",
+      "titleEn": "Sense and Sensibility"
+    },
+    {
+      "slug": "the-emma",
+      "title": "Emma",
+      "titleJa": "エマ",
+      "author": "Jane Austen",
+      "authorJa": "ジェイン・オースティン",
+      "country": "イギリス",
+      "year": 1815,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "おせっかいな社交界の娘エマが、周囲の結婚を取り持とうとして、次々と失敗する。愛と自己認識を描く、オースティンの最も完成度の高い喜劇。",
+      "whyReadJa": "「おせっかい」を描いた、機知に富む喜劇の傑作。",
+      "tags": [
+        "イギリス文学",
+        "恋愛",
+        "喜劇",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/9278312-L.jpg",
+      "selectionReasonJa": "「おせっかい」を描いた、オースティン最高の喜劇。",
+      "titleEn": "Emma"
+    },
+    {
+      "slug": "the-northanger-abbey",
+      "title": "Northanger Abbey",
+      "titleJa": "ノーサンガー僧院",
+      "author": "Jane Austen",
+      "authorJa": "ジェイン・オースティン",
+      "country": "イギリス",
+      "year": 1817,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "ゴシック小説を読みすぎた少女キャサリンが、現実の屋敷に謎を重ねていく。ゴシック文学への愛情と皮肉を込めた、オースティンの最も遊び心ある作品。",
+      "whyReadJa": "「読書が人生を誤らせる」話の古典。文学的メタファーが楽しい。",
+      "tags": [
+        "イギリス文学",
+        "恋愛",
+        "ゴシック",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12567961-L.jpg",
+      "selectionReasonJa": "ゴシック文学への愛情と皮肉を込めた、オースティンの遊び心あふれる作品。",
+      "titleEn": "Northanger Abbey"
+    },
+    {
+      "slug": "the-persuasion",
+      "title": "Persuasion",
+      "titleJa": "説得",
+      "author": "Jane Austen",
+      "authorJa": "ジェイン・オースティン",
+      "country": "イギリス",
+      "year": 1817,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "かつて周囲に説得されて婚約を破棄したアン。八年後、海軍士官となった彼と再会し、後悔と希望の間で揺れる。オースティン晩年の、最も成熟した恋愛小説。",
+      "whyReadJa": "「失われた愛の再会」を描く、オースティン文学の到達点。",
+      "tags": [
+        "イギリス文学",
+        "恋愛",
+        "再会",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12824691-L.jpg",
+      "selectionReasonJa": "失われた愛の再会を描く、オースティン晩年の成熟した傑作。",
+      "titleEn": "Persuasion"
+    },
+    {
+      "slug": "the-cranford",
+      "title": "Cranford",
+      "titleJa": "クランフォード",
+      "author": "Elizabeth Gaskell",
+      "authorJa": "エリザベス・ギャスケル",
+      "country": "イギリス",
+      "year": 1853,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "ヴィクトリア朝イギリスの小さな町クランフォードに暮らす老嬢たちの日常を、ユーモアと愛情で描く。女性たちの世界の温かさと滑稽さ。",
+      "whyReadJa": "「老女たちの社交」を描く、優しく機知に富んだ傑作。",
+      "tags": [
+        "イギリス文学",
+        "女性",
+        "ユーモア",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/5188445-L.jpg",
+      "selectionReasonJa": "老女たちの社交を温かく描く、ギャスケルの傑作。",
+      "titleEn": "Cranford"
+    },
+    {
+      "slug": "the-north-and-south",
+      "title": "North and South",
+      "titleJa": "北と南",
+      "author": "Elizabeth Gaskell",
+      "authorJa": "エリザベス・ギャスケル",
+      "country": "イギリス",
+      "year": 1854,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "田舎から工業都市へ引っ越したマーガレットと、工場主ソーントンの恋。階級対立と労使問題を背景にした、産業革命時代の恋愛小説。",
+      "whyReadJa": "「階級」と「愛」を描く、ヴィクトリア朝の傑作。",
+      "tags": [
+        "イギリス文学",
+        "恋愛",
+        "階級",
+        "産業革命"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8242253-L.jpg",
+      "selectionReasonJa": "階級と恋愛を描く、産業革命時代の傑作。",
+      "titleEn": "North and South"
+    },
+    {
+      "slug": "the-anna-karenina",
+      "title": "Анна Каренина",
+      "titleJa": "アンナ・カレーニナ",
+      "author": "Leo Tolstoy",
+      "authorJa": "レフ・トルストイ",
+      "country": "ロシア",
+      "year": 1877,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "「幸福な家族はどれも似ているが、不幸な家族はそれぞれの仕方で不幸である」。不倫に陥るアンナと、対照的な家族の物語。人間と社会を描く、世界文学最高の大河小説の一つ。",
+      "whyReadJa": "「人生の全体」を小説で描くとは何か——その究極の答えの一つ。",
+      "tags": [
+        "ロシア文学",
+        "恋愛",
+        "家族",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/2560652-L.jpg",
+      "selectionReasonJa": "世界文学最高の大河小説の一つ。人生の全体を描く究極の小説。",
+      "titleEn": "Anna Karenina"
+    },
+    {
+      "slug": "kokoro",
+      "title": "こころ",
+      "titleEn": "Kokoro",
+      "titleJa": "こころ",
+      "author": "Natsume Soseki",
+      "authorJa": "夏目漱石",
+      "country": "日本",
+      "year": 1914,
+      "genre": [
+        "小説",
+        "日本文学"
+      ],
+      "descriptionJa": "先生と私の交流、そして先生の告白「私のこの過去」。孤独と罪、近代日本の知識人の内面を描いた、夏目漱石の最高傑作。日本文学の古典として、最も読み継がれる作品の一つ。",
+      "whyReadJa": "日本文学の古典中の古典。孤独と人間の内面を描く普遍性で、世界文学としても読まれる。",
+      "selectionReasonJa": "夏目漱石の最高傑作。日本近代文学の金字塔として、海外でも高く評価される。",
+      "tags": [
+        "日本文学",
+        "孤独",
+        "近代",
+        "夏目漱石"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/3970410-L.jpg"
+    },
+    {
+      "slug": "the-life-of-the-mind",
+      "title": "The Life of the Mind",
+      "titleEn": "The Life of the Mind",
+      "titleJa": "精神の生活",
+      "author": "Hannah Arendt",
+      "authorJa": "ハンナ・アーレント",
+      "country": "アメリカ",
+      "year": 1978,
+      "genre": [
+        "哲学",
+        "ノンフィクション"
+      ],
+      "descriptionJa": "「考える」とは何か。アーレントが未完のまま遺した、精神の三部作（思考・意志・判断）。全体主義の経験を踏まえ、人間の精神活動を根源から問う、晩年の金字塔。",
+      "whyReadJa": "『全体主義の起源』『人間の条件』と並ぶ、アーレント思想の集大成。哲学と政治の交点。",
+      "selectionReasonJa": "アーレントの晩年の主著。20世紀政治哲学の金字塔として、非英語圏の女性思想家を代表する。",
+      "tags": [
+        "哲学",
+        "政治哲学",
+        "アーレント",
+        "精神"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/116286-L.jpg"
+    },
+    {
+      "slug": "julys-people",
+      "title": "July's People",
+      "titleEn": "July's People",
+      "titleJa": "七月の人々",
+      "author": "Nadine Gordimer",
+      "authorJa": "ナディン・ゴーディマー",
+      "country": "南アフリカ",
+      "year": 1981,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "南アフリカで黒人革命が起き、白人家族が使用人ジュライの村に避難する。権力関係が逆転した世界で、白人と黒人の関係が揺らぐ。ノーベル文学賞作家ゴーディマーの代表作。",
+      "whyReadJa": "アパルトヘイトの崩壊を予見した、南アフリカ文学の傑作。人種と権力の逆転を描く。",
+      "selectionReasonJa": "ノーベル文学賞受賞作家ゴーディマーの代表作。南アフリカ文学の金字塔。",
+      "tags": [
+        "南アフリカ",
+        "アパルトヘイト",
+        "人種",
+        "ノーベル賞"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/5374535-L.jpg"
+    },
+    {
+      "slug": "voss",
+      "title": "Voss",
+      "titleEn": "Voss",
+      "titleJa": "ヴォス",
+      "author": "Patrick White",
+      "authorJa": "パトリック・ホワイト",
+      "country": "オーストラリア",
+      "year": 1957,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "19世紀、オーストラリア内陸部への探検を率いる男ヴォス。野望と自己への問いを抱えた探検の物語を、ノーベル賞作家ホワイトが壮大に描く。オーストラリア文学の最高傑作。",
+      "whyReadJa": "オーストラリア文学の頂点。ノーベル賞を受賞したホワイトの、最も野心的な作品。",
+      "selectionReasonJa": "ノーベル文学賞受賞作家ホワイトの最高傑作。オセアニア文学の金字塔。",
+      "tags": [
+        "オーストラリア",
+        "オセアニア",
+        "探検",
+        "ノーベル賞"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/6961991-L.jpg"
+    },
+    {
+      "slug": "the-kingdom-of-this-world",
+      "title": "El reino de este mundo",
+      "titleEn": "The Kingdom of This World",
+      "titleJa": "この世の王国",
+      "author": "Alejo Carpentier",
+      "authorJa": "アレホ・カルペンティエール",
+      "country": "キューバ",
+      "year": 1949,
+      "genre": [
+        "小説",
+        "歴史"
+      ],
+      "descriptionJa": "18世紀末のハイチ。奴隷のティ・ノエルが体験する、人々の現実と超自然の交錯。「驚異的現実（lo real maravilloso）」の概念で、マジックリアリズムの先駆けとなった、ラテンアメリカ文学の源泉。",
+      "whyReadJa": "マジックリアリズムの原点。ラテンアメリカ文学が世界を変えた起点の一つ。",
+      "selectionReasonJa": "マジックリアリズムの先駆け。ラテンアメリカ文学の最重要の源泉。",
+      "tags": [
+        "キューバ",
+        "ハイチ",
+        "ラテンアメリカ",
+        "マジックリアリズム"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/5519447-L.jpg"
+    },
+    {
+      "slug": "a-grain-of-wheat",
+      "title": "A Grain of Wheat",
+      "titleEn": "A Grain of Wheat",
+      "titleJa": "一粒の麦",
+      "author": "Ngũgĩ wa Thiong'o",
+      "authorJa": "ングギ・ワ・ジオンゴ",
+      "country": "ケニア",
+      "year": 1967,
+      "genre": [
+        "小説",
+        "歴史"
+      ],
+      "descriptionJa": "ケニア独立前夜。マウマウ闘争の英雄とされた男の帰還をめぐり、村の人々の記憶と裏切りが交錯する。アフリカ文学の巨匠ングギが、独立の理想と現実を描いた傑作。",
+      "whyReadJa": "アフリカ文学の最重要作家ングギの代表作。ケニア独立史を、個人の視点から描く。",
+      "selectionReasonJa": "アフリカ文学の巨匠ングギの代表作。ケニア文学の金字塔。",
+      "tags": [
+        "ケニア",
+        "アフリカ",
+        "独立",
+        "歴史"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/14342094-L.jpg"
+    },
+    {
+      "slug": "the-bone-people",
+      "title": "The Bone People",
+      "titleEn": "The Bone People",
+      "titleJa": "骨の人々",
+      "author": "Keri Hulme",
+      "authorJa": "ケリ・ヒューム",
+      "country": "ニュージーランド",
+      "year": 1984,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "ニュージーランドの孤島に暮らす、孤独な女性キリン。聾唖の少年サイモンと、その養父ジョー。三人の心の傷と絆を描く、ブッカー賞受賞のオセアニア文学の金字塔。",
+      "whyReadJa": "マオリの文化と、傷ついた人々の再生を描く。ニュージーランド文学を世界に知らしめた傑作。",
+      "selectionReasonJa": "ブッカー賞を受賞した、ニュージーランド文学の金字塔。",
+      "tags": [
+        "ニュージーランド",
+        "マオリ",
+        "ブッカー賞",
+        "再生"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/3080172-L.jpg"
+    }
+  ]
+}

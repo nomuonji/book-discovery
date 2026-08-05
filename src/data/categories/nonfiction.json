@@ -1,0 +1,1745 @@
+{
+  "category": "nonfiction",
+  "label": "ノンフィクション・批評",
+  "description": "人類史から心理学、環境問題、文化批評まで——世界の見え方を更新する知の傑作群。",
+  "order": 5,
+  "books": [
+    {
+      "slug": "the-fire-next-time",
+      "title": "The Fire Next Time",
+      "titleJa": "次は火だ",
+      "author": "James Baldwin",
+      "authorJa": "ジェームズ・ボールドウィン",
+      "country": "アメリカ",
+      "year": 1963,
+      "genre": [
+        "エッセイ",
+        "ノンフィクション"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/2980395-L.jpg",
+      "asin": "B000JA5WXQ",
+      "descriptionJa": "「おまえは黒人として生まれた。それだけで十分に悲惨だ」——14歳の甥に宛てた手紙と、ハーレムでの宗教体験を綴ったエッセイで構成される、アメリカ文学の至宝。怒りと愛、絶望と希望がせめぎ合うなかで、人種差別の本質を言葉の力で抉り出す。半世紀を経てなお、その問いは新しい。",
+      "whyReadJa": "黒人文学の真髄。コーツの『世界と僕のあいだで』の直接の祖先であり、文学としての美しさで圧倒する。短いので、週末に読める人生を変える一冊。",
+      "tags": [
+        "黒人文学",
+        "アメリカ",
+        "エッセイ",
+        "人種"
+      ],
+      "selectionReasonJa": "ボールドウィンの黒人文学の古典。コーツの系譜の出発点。",
+      "titleEn": "The Fire Next Time"
+    },
+    {
+      "slug": "sapiens",
+      "title": "Sapiens: A Brief History of Humankind",
+      "titleJa": "サピエンス全史",
+      "author": "Yuval Noah Harari",
+      "authorJa": "ユヴァル・ノア・ハラリ",
+      "country": "イスラエル",
+      "year": 2011,
+      "genre": [
+        "歴史",
+        "科学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8634250-L.jpg",
+      "asin": "430922671X",
+      "descriptionJa": "ホモ・サピエンスはいかにして地球を支配するに至ったか——認知革命から農業革命、科学革命、そして未来までを一気に駆け抜ける人類史のベストセラー。歴史学・生物学・経済学を横断し、「虚構を信じる力」こそが人類最大の武器だと喝破する。世界で4500万部を売り上げた現代の必読書。",
+      "whyReadJa": "世界で最も読まれている知の巨人の入門書。細かい歴史より「なぜそうなったか」のフレームを知りたい人に最適。これを読むとニュースの見え方が変わる。",
+      "tags": [
+        "人類史",
+        "ベストセラー",
+        "科学",
+        "文明"
+      ],
+      "selectionReasonJa": "「虚構を信じる力」で人類史を語る、現代最強の世界史入門。",
+      "titleEn": "Sapiens: A Brief History of Humankind"
+    },
+    {
+      "slug": "thinking-fast-and-slow",
+      "title": "Thinking, Fast and Slow",
+      "titleJa": "ファスト&スロー",
+      "author": "Daniel Kahneman",
+      "authorJa": "ダニエル・カーネマン",
+      "country": "イスラエル/アメリカ",
+      "year": 2011,
+      "genre": [
+        "科学",
+        "心理学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/13290711-L.jpg",
+      "asin": "B0716S2Z29",
+      "descriptionJa": "ノーベル経済学賞を受賞した心理学者による、人間の意思決定の科学。直感的で素早い「システム1」と、論理的で遅い「システム2」——この二つの思考モードが、認知バイアスをどう生み出すかを実験的なエピソード満載で解き明かす。あなたの「直感」がいかに当てにならないかのカタログ。",
+      "whyReadJa": "自分の思考のクセを知ることで、広告に騙されず、投資で失敗しにくくなり、人間関係も改善する。実用性と知的興奮を両立した稀有な一冊。",
+      "tags": [
+        "心理学",
+        "行動経済学",
+        "ノーベル賞",
+        "科学"
+      ],
+      "selectionReasonJa": "ノーベル経済学賞受賞。人間の認知バイアスを科学する決定版。",
+      "titleEn": "Thinking, Fast and Slow"
+    },
+    {
+      "slug": "the-lonely-city",
+      "title": "The Lonely City: Adventures in the Art of Being Alone",
+      "titleJa": "ロンリー・シティ",
+      "author": "Olivia Laing",
+      "authorJa": "オリヴィア・レイン",
+      "country": "イギリス",
+      "year": 2016,
+      "genre": [
+        "ノンフィクション",
+        "エッセイ"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12672997-L.jpg",
+      "descriptionJa": "ニューヨークで孤独になったイギリス人作家が、エドワード・ホッパー、アンディ・ウォーホル、ヘンリー・ダーガーなど孤独な芸術家たちの人生と作品を訪ね歩く。孤独を「恥ずべきもの」から「創造の源泉」へと読み替える、優しくて知的なノンフィクション。",
+      "whyReadJa": "孤独について書かれた本の中で最も美しい。アートと文学のガイドとしても優れており、読み終えるとニューヨークの美術館に行きたくなる。",
+      "tags": [
+        "エッセイ",
+        "孤独",
+        "アート",
+        "都市"
+      ],
+      "selectionReasonJa": "NYのアーティストたちの孤独を描く、都市と孤独の傑作。",
+      "titleEn": "The Lonely City: Adventures in the Art of Being Alone"
+    },
+    {
+      "slug": "silent-spring",
+      "title": "Silent Spring",
+      "titleJa": "沈黙の春",
+      "author": "Rachel Carson",
+      "authorJa": "レイチェル・カーソン",
+      "country": "アメリカ",
+      "year": 1962,
+      "genre": [
+        "科学",
+        "ノンフィクション"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/3825693-L.jpg",
+      "asin": "4102074015",
+      "descriptionJa": "農薬DDTが鳥たちのさえずりを消し去り、生態系全体を破壊している——海洋生物学者が科学の言葉で環境破壊を告発した、エコロジー運動の原点。発表当時は化学業界から猛攻撃を受けたが、この本がなければ現代の環境保護運動は存在しなかった。科学が世界を変えうることを証明した一冊。",
+      "whyReadJa": "いま読むべき環境問題の古典。気候変動の時代に、科学が社会を変えた最も成功した事例として。科学ジャーナリズムの教科書でもある。",
+      "tags": [
+        "環境",
+        "科学",
+        "ノンフィクション",
+        "アメリカ文学"
+      ],
+      "selectionReasonJa": "環境運動の原点。DDTの危険を告発した科学と情熱の書。",
+      "titleEn": "Silent Spring"
+    },
+    {
+      "slug": "the-year-of-magical-thinking",
+      "title": "The Year of Magical Thinking",
+      "titleJa": "悲しみにある者は",
+      "author": "Joan Didion",
+      "authorJa": "ジョーン・ディディオン",
+      "country": "アメリカ",
+      "year": 2005,
+      "genre": [
+        "ノンフィクション",
+        "自伝"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/13693-L.jpg",
+      "asin": "4766418700",
+      "descriptionJa": "年末、夫が夕食の席で心臓発作を起こし、そのまま帰らぬ人となった——アメリカを代表する作家が、突然の死とその後の「狂気の一年」を克明に綴る喪の文学。悲しみとは何か、記憶とは何かをこれほど明晰に書いた本はない。全米図書賞受賞作。",
+      "whyReadJa": "喪失について人類が書いた最もすぐれた本の一つ。涙なしには読めないが、それ以上に「生きること」への深い洞察に満ちている。エルノーの『歳月』と併読を。",
+      "tags": [
+        "自伝",
+        "喪失",
+        "アメリカ文学",
+        "ノンフィクション"
+      ],
+      "selectionReasonJa": "喪失を書く、ノンフィクションの到達点。ディディオンの傑作。",
+      "titleEn": "The Year of Magical Thinking"
+    },
+    {
+      "slug": "voices-from-chernobyl",
+      "title": "Чернобыльская молитва",
+      "titleJa": "チェルノブイリの祈り",
+      "author": "Svetlana Alexievich",
+      "authorJa": "スヴェトラーナ・アレクシエーヴィチ",
+      "country": "ベラルーシ",
+      "year": 1997,
+      "genre": [
+        "ノンフィクション",
+        "口述史"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/9310554-L.jpg",
+      "asin": "B094PHFF3H",
+      "descriptionJa": "チェルノブイリ原発事故の被災者500人以上にインタビューし、その声だけで構成された衝撃のノンフィクション。消防士の妻、科学者、元ソ連官僚、そして自殺した人々の遺書——複数の声が重なり合い、「技術の黙示録」の全貌を浮かび上がらせる。2015年ノーベル文学賞受賞。",
+      "whyReadJa": "福島を経験した日本人だからこそ読むべき本。ノンフィクションが文学としてここまでの力を持ちうることを証明した傑作。アレクシエーヴィチの手法は『歳月』のエルノーとも呼応する。",
+      "tags": [
+        "ノーベル賞",
+        "ノンフィクション",
+        "原発",
+        "ロシア"
+      ],
+      "selectionReasonJa": "ノーベル賞受賞。チェルノブイリの証言で科学技術の闇を描く。",
+      "titleEn": "Voices from Chernobyl"
+    },
+    {
+      "slug": "seven-brief-lessons-on-physics",
+      "title": "Sette brevi lezioni di fisica",
+      "titleJa": "すごい物理学講義",
+      "author": "Carlo Rovelli",
+      "authorJa": "カルロ・ロヴェッリ",
+      "country": "イタリア",
+      "year": 2014,
+      "genre": [
+        "科学",
+        "エッセイ"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/7398110-L.jpg",
+      "asin": "B0842ND5YD",
+      "descriptionJa": "イタリアの理論物理学者が、一般相対性理論から量子力学、宇宙論までをわずか80ページで美しく語る科学エッセイ。数式は一切出てこないが、宇宙の成り立ちと「私たちは何者か」をめぐる最も深い問いにたどり着く。哲学と科学の境界が溶ける読書体験。",
+      "whyReadJa": "科学書の新たなスタンダード。詩のように美しい科学エッセイで、難しさゼロなのに深い。ハラリ『サピエンス全史』の宇宙物理版として。",
+      "tags": [
+        "科学",
+        "物理学",
+        "エッセイ",
+        "イタリア"
+      ],
+      "selectionReasonJa": "科学書の新スタンダード。詩のように美しい物理学入門。",
+      "titleEn": "Sette brevi lezioni di fisica"
+    },
+    {
+      "slug": "the-undoing-project",
+      "title": "The Undoing Project",
+      "titleJa": "ザ・アンドゥーイング・プロジェクト",
+      "author": "Michael Lewis",
+      "authorJa": "マイケル・ルイス",
+      "country": "アメリカ",
+      "year": 2016,
+      "genre": [
+        "ノンフィクション",
+        "科学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/9595637-L.jpg",
+      "descriptionJa": "行動経済学を創ったイスラエル人心理学者カーネマンとトヴェルスキーの友情と確執を描くノンフィクション。『ファスト&スロー』の裏側で起きていた天才たちのドラマ。人間の不合理を研究することで世界を変えた二人の物語は、友情の儚さと知の創造の喜びに満ちている。",
+      "whyReadJa": "『ファスト&スロー』の「人間ドラマ編」。理論書の背景にある人間模様を知ると、カーネマンの研究がもっと愛おしくなる。ノンフィクションの名手による最高の科学ドラマ。",
+      "tags": [
+        "ノンフィクション",
+        "科学",
+        "心理学",
+        "物語"
+      ],
+      "selectionReasonJa": "行動経済学を創った二人の天才の人間ドラマ。",
+      "titleEn": "The Undoing Project"
+    },
+    {
+      "slug": "outliers",
+      "title": "Outliers: The Story of Success",
+      "titleJa": "天才! 成功する人々の法則",
+      "author": "Malcolm Gladwell",
+      "authorJa": "マルコム・グラッドウェル",
+      "country": "カナダ",
+      "year": 2008,
+      "genre": [
+        "ノンフィクション",
+        "社会学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10021591-L.jpg",
+      "asin": "4062153920",
+      "descriptionJa": "「天才」は生まれつきではない——ビル・ゲイツもビートルズも、1万時間の練習と時代の幸運に恵まれた「アウトライアー（外れ値）」だった。成功の神話をデータとストーリーで解体する、ポピュラー社会学の最高峰。読みやすさと知的な刺激を両立したグッドウェルの代表作。",
+      "whyReadJa": "「成功本」の枠を超えた現代社会学の入門書。『ファスト&スロー』や『サピエンス全史』と並んで「現代リベラルアーツ」の必読書。軽やかで深い。",
+      "tags": [
+        "ノンフィクション",
+        "社会学",
+        "成功",
+        "ベストセラー"
+      ],
+      "selectionReasonJa": "成功の神話をデータで解体する、グラッドウェルの代表作。",
+      "titleEn": "Outliers: The Story of Success"
+    },
+    {
+      "slug": "the-opposite-of-loneliness",
+      "title": "The Opposite of Loneliness",
+      "titleJa": "孤独の反対",
+      "author": "Marina Keegan",
+      "authorJa": "マリーナ・キーガン",
+      "country": "アメリカ",
+      "year": 2014,
+      "genre": [
+        "エッセイ",
+        "短編集"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/7305680-L.jpg",
+      "asin": "147675361X",
+      "descriptionJa": "イェール大学を卒業直前にして交通事故でこの世を去った22歳の才能による、唯一の作品集。表題作は卒業式で読まれ世界中で拡散された。若さの全能感と、それが永遠ではないことの切なさが美しく綴られる。遺作として出版され全米ベストセラーに。",
+      "whyReadJa": "夭折した才能の、これからを奪われた声。若い世代の不安と希望に直接響くエッセイ集。英語も平易で、洋書入門としても最適。",
+      "tags": [
+        "エッセイ",
+        "青春",
+        "アメリカ文学",
+        "洋書入門"
+      ],
+      "selectionReasonJa": "夭折した若き才能の、青春の不安と希望を描く短編集。",
+      "titleEn": "The Opposite of Loneliness"
+    },
+    {
+      "slug": "between-the-world-and-me",
+      "title": "Between the World and Me",
+      "titleJa": "世界と僕のあいだで",
+      "author": "Ta-Nehisi Coates",
+      "authorJa": "タナハシ・コーツ",
+      "country": "アメリカ",
+      "year": 2015,
+      "genre": [
+        "ノンフィクション",
+        "エッセイ"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/11328078-L.jpg",
+      "asin": "4766423917",
+      "descriptionJa": "黒人であることの恐怖と誇りを、10代の息子に宛てた手紙の形式で綴る。ボールドウィンの『次は火だ』から半世紀——現代アメリカの人種問題の心臓部に触れる全米図書賞受賞作。トニ・モリスンは「これは手紙であり、祈りであり、警告である」と評した。",
+      "whyReadJa": "アメリカ文学のもう一つの系譜——ボールドウィンからコーツに至る黒人文学の流れを知る入口。日本の差別の問題を考えるレンズにもなる。",
+      "tags": [
+        "黒人文学",
+        "アメリカ",
+        "人種",
+        "ノンフィクション"
+      ],
+      "selectionReasonJa": "黒人であることを息子に伝える手紙。全米図書賞受賞。",
+      "titleEn": "Between the World and Me"
+    },
+    {
+      "slug": "the-years",
+      "title": "Les Années",
+      "titleJa": "歳月",
+      "author": "Annie Ernaux",
+      "authorJa": "アニー・エルノー",
+      "country": "フランス",
+      "year": 2008,
+      "genre": [
+        "ノンフィクション",
+        "自伝"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/968944-L.jpg",
+      "descriptionJa": "1940年代から2000年代まで、フランス社会の変遷を一人の女性の身体と記憶を通して描く、自伝とも集団史ともつかない傑作。写真の描写から始まる各章が「彼女（elle）」で語られ、個人の記憶が世代の記憶に溶けていく。2022年ノーベル文学賞受賞。",
+      "whyReadJa": "自伝文学の概念を拡張した革新的な作品。ポップカルチャーや日用品の描写が時代を立体的に蘇らせる手法は、日本の読者にも新しい読書体験になる。",
+      "tags": [
+        "ノーベル賞",
+        "自伝",
+        "フランス文学",
+        "記憶"
+      ],
+      "selectionReasonJa": "ノーベル賞受賞。個人の記憶を集団の記憶として描く自伝文学の革命。",
+      "titleEn": "The Years"
+    },
+    {
+      "slug": "guns-germs-and-steel",
+      "title": "Guns, Germs, and Steel",
+      "titleJa": "銃・病原菌・鉄",
+      "author": "Jared Diamond",
+      "authorJa": "ジャレド・ダイアモンド",
+      "country": "アメリカ",
+      "year": 1997,
+      "genre": [
+        "ノンフィクション",
+        "歴史"
+      ],
+      "descriptionJa": "なぜヨーロッパ人が世界を征服したのか——人種ではなく「地理と環境」にその理由を求めた、ピューリッツァー賞受賞の大著。文明の発展が食料生産の可能性によって分岐したという壮大な仮説は、世界史の見方を根底から変えた。",
+      "whyReadJa": "『サピエンス全史』の前に読むべきもう一つの世界史。環境決定論と人種論の間にある、歴史の複雑さを考える。",
+      "tags": [
+        "歴史",
+        "世界史",
+        "ピューリッツァー賞",
+        "文明"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/7884018-L.jpg",
+      "selectionReasonJa": "文明の発展を地理と環境から解く、ピューリッツァー賞受賞の世界史。",
+      "titleEn": "Guns, Germs, and Steel"
+    },
+    {
+      "slug": "the-sixth-extinction",
+      "title": "The Sixth Extinction",
+      "titleJa": "第六の絶滅",
+      "author": "Elizabeth Kolbert",
+      "authorJa": "エリザベス・コルバート",
+      "country": "アメリカ",
+      "year": 2014,
+      "genre": [
+        "ノンフィクション",
+        "科学"
+      ],
+      "descriptionJa": "地球上で六回目の大量絶滅が進行中だ。そして今回は自然現象ではなく、人間が引き起こしている。ピューリッツァー賞受賞。世界中の現場を取材し、生物多様性の崩壊という現在進行形の危機を克明に描く。",
+      "whyReadJa": "気候変動や環境問題を「種の絶滅」という壮大な視点で捉え直す。『沈黙の春』の現代版。",
+      "tags": [
+        "環境",
+        "絶滅",
+        "ピューリッツァー賞",
+        "科学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/7910870-L.jpg",
+      "selectionReasonJa": "人間が引き起こす大量絶滅を描く、ピューリッツァー賞受賞作。",
+      "titleEn": "The Sixth Extinction"
+    },
+    {
+      "slug": "the-immortal-life-of-henrietta-lacks",
+      "title": "The Immortal Life of Henrietta Lacks",
+      "titleJa": "ヘンリエッタ・ラックスの永遠の命",
+      "author": "Rebecca Skloot",
+      "authorJa": "レベッカ・スクルート",
+      "country": "アメリカ",
+      "year": 2010,
+      "genre": [
+        "ノンフィクション",
+        "科学"
+      ],
+      "descriptionJa": "子宮頸がんで1951年に亡くなった黒人女性ヘンリエッタ・ラックス。彼女のがん細胞は「HeLa細胞」として不死化し、医学研究に革命的貢献をした。しかし彼女の家族はそれを何十年も知らず、貧しいままだった。医療倫理と科学の闇を描く傑作ルポ。",
+      "whyReadJa": "「科学の進歩の影にある人々」を描く最重要の一冊。医療、人種、倫理を一つの物語で。",
+      "tags": [
+        "科学",
+        "医療倫理",
+        "人種",
+        "ノンフィクション"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8364866-L.jpg",
+      "selectionReasonJa": "医療の影に生きた女性と、科学と人種を描く傑作ルポ。",
+      "titleEn": "The Immortal Life of Henrietta Lacks"
+    },
+    {
+      "slug": "into-the-wild",
+      "title": "Into the Wild",
+      "titleJa": "荒野へ",
+      "author": "Jon Krakauer",
+      "authorJa": "ジョン・クラカワー",
+      "country": "アメリカ",
+      "year": 1996,
+      "genre": [
+        "ノンフィクション"
+      ],
+      "descriptionJa": "名門大学を捨て、全財産を寄付して、アラスカの荒野に「魔法のバス」で乗り込んだ青年クリストファー・マッカンドレス。彼はなぜ死んだのか。理想と現実、自由と孤独をめぐる、ノンフィクションの金字塔。",
+      "whyReadJa": "「自由とは何か」を問う、最も有名なノンフィクション。旅と自己探求の物語としても最高。",
+      "tags": [
+        "冒険",
+        "自由",
+        "アメリカ",
+        "旅"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/1377482-L.jpg",
+      "selectionReasonJa": "「自由とは何か」を問う、最も有名なノンフィクション。",
+      "titleEn": "Into the Wild"
+    },
+    {
+      "slug": "the-man-who-mistook-his-wife-for-a-hat",
+      "title": "The Man Who Mistook His Wife for a Hat",
+      "titleJa": "妻を帽子とまちがえた男",
+      "author": "Oliver Sacks",
+      "authorJa": "オリヴァー・サックス",
+      "country": "イギリス",
+      "year": 1985,
+      "genre": [
+        "ノンフィクション",
+        "科学"
+      ],
+      "descriptionJa": "脳の障害によって「見えているのに分からない」患者たち——妻を帽子と間違えた男性、自分を忘れ続ける男。神経科医サックスは、医学の症例報告を文学の域に高めた。人間の意識と脳の不思議を、優しい眼差しで描く。",
+      "whyReadJa": "脳科学入門として最も読まれている古典。医学の枠を超えた、人間性の探求として読める。",
+      "tags": [
+        "脳科学",
+        "心理学",
+        "医学",
+        "人間"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/6986188-L.jpg",
+      "selectionReasonJa": "脳と人間性を優しく描く、医学ノンフィクションの古典。",
+      "titleEn": "The Man Who Mistook His Wife for a Hat"
+    },
+    {
+      "slug": "stumbling-on-happiness",
+      "title": "Stumbling on Happiness",
+      "titleJa": "幸福の計算",
+      "author": "Daniel Gilbert",
+      "authorJa": "ダニエル・ギルバート",
+      "country": "アメリカ",
+      "year": 2006,
+      "genre": [
+        "ノンフィクション",
+        "科学"
+      ],
+      "descriptionJa": "人間は「将来何が自分を幸せにするか」を想像するのが極端に下手。ハーバードの心理学者ギルバートが、認知科学の研究から「幸福の予測の失敗」を痛快に解説する。幸福感についての科学的入門の決定版。",
+      "whyReadJa": "『ファスト&スロー』の幸福編。自分の「幸せの勘違い」に気づかされる、知的で楽しい一冊。",
+      "tags": [
+        "心理学",
+        "幸福",
+        "認知科学",
+        "科学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/6803663-L.jpg",
+      "selectionReasonJa": "「幸福の予測の失敗」を科学で解く、幸福研究の決定版。",
+      "titleEn": "Stumbling on Happiness"
+    },
+    {
+      "slug": "the-power-of-habit",
+      "title": "The Power of Habit",
+      "titleJa": "習慣の力",
+      "author": "Charles Duhigg",
+      "authorJa": "チャールズ・デュヒッグ",
+      "country": "アメリカ",
+      "year": 2012,
+      "genre": [
+        "ノンフィクション",
+        "科学"
+      ],
+      "descriptionJa": "キュー（きっかけ）、ルーティン（行動）、リワード（報酬）——習慣は脳の中で「ループ」として作動する。ニューヨーク・タイムズ記者が、企業や個人の習慣の科学的な仕組みを、豊富な事例で解き明かす。",
+      "whyReadJa": "「やめられない」を科学で理解したい人に。自己啓発と科学の良いとこ取りをした、実用的な一冊。",
+      "tags": [
+        "心理学",
+        "習慣",
+        "自己啓発",
+        "科学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/9078085-L.jpg",
+      "selectionReasonJa": "習慣の科学的メカニズムを解く、実用的な一冊。",
+      "titleEn": "The Power of Habit"
+    },
+    {
+      "slug": "the-checklist-manifesto",
+      "title": "The Checklist Manifesto",
+      "titleJa": "チェックリストが人を救う",
+      "author": "Atul Gawande",
+      "authorJa": "アトゥール・ガワンデ",
+      "country": "アメリカ",
+      "year": 2009,
+      "genre": [
+        "ノンフィクション",
+        "科学"
+      ],
+      "descriptionJa": "外科医ガワンデが、医療・航空・建設の現場で「チェックリスト」が如何に事故を防いできたかを検証する。シンプルな道具が複雑な世界でなぜ有効なのか——「複雑さの時代の知恵」を考える。",
+      "whyReadJa": "「道具を増やすより仕組みを整える」ことの重要性。仕事や生活の質を上げる実践的な示唆に満ちる。",
+      "tags": [
+        "医療",
+        "科学",
+        "実用",
+        "仕事"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8231866-L.jpg",
+      "selectionReasonJa": "複雑な世界でチェックリストが人を救う、実践的な知恵。",
+      "titleEn": "The Checklist Manifesto"
+    },
+    {
+      "slug": "the-gene-an-intimate-history",
+      "title": "The Gene: An Intimate History",
+      "titleJa": "遺伝子——親密な人類史",
+      "author": "Siddhartha Mukherjee",
+      "authorJa": "シッダールタ・ムカジー",
+      "country": "アメリカ",
+      "year": 2016,
+      "genre": [
+        "ノンフィクション",
+        "科学"
+      ],
+      "descriptionJa": "メンデルからCRISPRまで、遺伝学の全歴史を、自らの家族の精神疾患の歴史と重ねながら描く大著。ヒトゲノムが私たちに何を約束し、何を脅かすのか——「運命」をめぐる科学と哲学の対話。",
+      "whyReadJa": "『がんの皇帝』の著者による、遺伝子の決定版歴史書。生命科学の全体像を掴みたい人に。",
+      "tags": [
+        "科学",
+        "遺伝子",
+        "医療",
+        "歴史"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/11320163-L.jpg",
+      "selectionReasonJa": "遺伝子の全歴史を家族の歴史と重ねて描く、生命科学の決定版。",
+      "titleEn": "The Gene: An Intimate History"
+    },
+    {
+      "slug": "the-emperor-of-all-maladies",
+      "title": "The Emperor of All Maladies",
+      "titleJa": "がんの皇帝",
+      "author": "Siddhartha Mukherjee",
+      "authorJa": "シッダールタ・ムカジー",
+      "country": "アメリカ",
+      "year": 2010,
+      "genre": [
+        "ノンフィクション",
+        "科学"
+      ],
+      "descriptionJa": "がんの歴史は、人間の歴史そのものだ。4000年の記録から現代の分子標的治療まで、がんという「病」を一つの生物として描き切った、ピューリッツァー賞受賞の大著。医療ジャーナリズムの最高峰。",
+      "whyReadJa": "「がん」を理解することは「生命」を理解すること。科学ノンフィクションの金字塔。",
+      "tags": [
+        "医療",
+        "科学",
+        "がん",
+        "ピューリッツァー賞"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/11320203-L.jpg",
+      "selectionReasonJa": "がんの4000年の歴史を描く、ピューリッツァー賞受賞の医療ノンフィクション。",
+      "titleEn": "The Emperor of All Maladies"
+    },
+    {
+      "slug": "the-warmth-of-other-suns",
+      "title": "The Warmth of Other Suns",
+      "titleJa": "他者の太陽のぬくもり",
+      "author": "Isabel Wilkerson",
+      "authorJa": "イザベル・ウィルカーソン",
+      "country": "アメリカ",
+      "year": 2010,
+      "genre": [
+        "ノンフィクション",
+        "歴史"
+      ],
+      "descriptionJa": "1915年から1970年まで、600万人の黒人がアメリカ南部から北部・西部へ移住した「大移動」。三人の実在人物の人生を追いながら、人種差別の構造と、それでも「他者の太陽」を求めた人々を描く。ピューリッツァー賞受賞。",
+      "whyReadJa": "アメリカの人種問題を、数字ではなく個人の人生として読める。『世界と僕のあいだで』の背景を知る一冊。",
+      "tags": [
+        "人種",
+        "歴史",
+        "アメリカ",
+        "ピューリッツァー賞"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10129368-L.jpg",
+      "selectionReasonJa": "大移動を個人の人生から描く、ピューリッツァー賞受賞の黒人史。",
+      "titleEn": "The Warmth of Other Suns"
+    },
+    {
+      "slug": "caste",
+      "title": "Caste: The Origins of Our Discontents",
+      "titleJa": "カースト——身分差別の起源と原理",
+      "author": "Isabel Wilkerson",
+      "authorJa": "イザベル・ウィルカーソン",
+      "country": "アメリカ",
+      "year": 2020,
+      "genre": [
+        "ノンフィクション",
+        "社会"
+      ],
+      "descriptionJa": "アメリカの人種差別は「人種」ではなく「カースト（身分制度）」として理解すべきだ——インドのカースト、ナチスの人種政策と比較しながら、アメリカ社会の隠れた階層システムを暴く。現代社会論の必読書。",
+      "whyReadJa": "「差別はなぜなくならないのか」を構造として理解する。日本社会の身分意識を考える鏡にもなる。",
+      "tags": [
+        "人種",
+        "社会",
+        "差別",
+        "アメリカ"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10201429-L.jpg",
+      "selectionReasonJa": "人種差別をカーストとして構造化する、現代社会論の必読書。",
+      "titleEn": "Caste: The Origins of Our Discontents"
+    },
+    {
+      "slug": "evicted",
+      "title": "Evicted: Poverty and Profit in the American City",
+      "titleJa": "追い立てられる人々——アメリカ都市の貧困と利益",
+      "author": "Matthew Desmond",
+      "authorJa": "マシュー・デズモンド",
+      "country": "アメリカ",
+      "year": 2016,
+      "genre": [
+        "ノンフィクション",
+        "社会"
+      ],
+      "descriptionJa": "アメリカの最貧困地区で、家賃滞納で「追い立て」られる人々の一年を追った、ピューリッツァー賞受賞のルポ。貧困は怠惰ではなく、住宅市場という仕組みが生むものだ——日本にも通じる、居住の不平等を考える。",
+      "whyReadJa": "「家を失う」とはどういうことか。貧困を構造として捉え直す、現代社会論の最重要の一冊。",
+      "tags": [
+        "貧困",
+        "住宅",
+        "社会",
+        "ピューリッツァー賞"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12915110-L.jpg",
+      "selectionReasonJa": "追い立てられる人々から貧困の構造を描く、ピューリッツァー賞受賞作。",
+      "titleEn": "Evicted: Poverty and Profit in the American City"
+    },
+    {
+      "slug": "when-breath-becomes-air",
+      "title": "When Breath Becomes Air",
+      "titleJa": "呼吸しながら、空の光るとき",
+      "author": "Paul Kalanithi",
+      "authorJa": "ポール・カラニティ",
+      "country": "アメリカ",
+      "year": 2016,
+      "genre": [
+        "ノンフィクション"
+      ],
+      "descriptionJa": "36歳の脳神経外科医が、自らが末期がんに罹患したことを知る。医師として「死を扱う仕事」をしてきた男が、患者として死と向き合う。未完のままこの世を去った彼の遺稿は、死と生をめぐる最も誠実な手記となった。",
+      "whyReadYa": "",
+      "whyReadJa": "「限られた時間をどう生きるか」を、これほど直截に問う手記はない。涙なしには読めない。",
+      "tags": [
+        "死",
+        "医療",
+        "人生",
+        "自伝"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/11463139-L.jpg",
+      "selectionReasonJa": "死を目前にした医師の手記。死と生をめぐる最も誠実な記録。",
+      "titleEn": "When Breath Becomes Air"
+    },
+    {
+      "slug": "the-body-keeps-the-score",
+      "title": "The Body Keeps the Score",
+      "titleJa": "身体はトラウマを記録する",
+      "author": "Bessel van der Kolk",
+      "authorJa": "ベッセル・ヴァン・デア・コーク",
+      "country": "アメリカ",
+      "year": 2014,
+      "genre": [
+        "ノンフィクション",
+        "科学"
+      ],
+      "descriptionJa": "トラウマ（心的外傷）は言葉や記憶だけに残るのではなく、身体そのものに刻まれる。世界のトラウマ研究を牽引してきた精神科医が、臨床の現場から治療の全体像を描く。PTSD研究の決定版。",
+      "whyReadJa": "『ほんの小さな人生』のジュードの内面を理解する鍵にもなる。心と体のつながりを本気で知りたい人に。",
+      "tags": [
+        "トラウマ",
+        "精神医学",
+        "心理学",
+        "科学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8315367-L.jpg",
+      "selectionReasonJa": "トラウマは身体に刻まれる。PTSD研究の決定版。",
+      "titleEn": "The Body Keeps the Score"
+    },
+    {
+      "slug": "educated",
+      "title": "Educated",
+      "titleJa": "エデュケイテッド——地の果てで教育を求めて",
+      "author": "Tara Westover",
+      "authorJa": "タラ・ウェストオーバー",
+      "country": "アメリカ",
+      "year": 2018,
+      "genre": [
+        "ノンフィクション",
+        "自伝"
+      ],
+      "descriptionJa": "アンチ・スクール思想を信じる家族の元、学校にも病院にも行かず、山の麓で育ったタラ。17歳で初めて試験を受け、ケンブリッジ大学で歴史学博士になるまでの、驚異の自伝。教育が人を変えることの証明。",
+      "whyReadJa": "「学ぶこと」の意味を、その根源から問い直させる。読者を圧倒する、最も有名な現代の自伝。",
+      "tags": [
+        "教育",
+        "自伝",
+        "家族",
+        "アメリカ"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8314077-L.jpg",
+      "selectionReasonJa": "ケンブリッジ大学博士に至る、教育が人を変える証明。",
+      "titleEn": "Educated"
+    },
+    {
+      "slug": "the-right-stuff",
+      "title": "The Right Stuff",
+      "titleJa": "ライトスタッフ",
+      "author": "Tom Wolfe",
+      "authorJa": "トム・ウルフ",
+      "country": "アメリカ",
+      "year": 1979,
+      "genre": [
+        "ノンフィクション"
+      ],
+      "descriptionJa": "戦闘機パイロットから選ばれた最初の宇宙飛行士たち、マーキュリー7。彼らが体現した「男の中の男」という神話と、宇宙開発の黄金期を、ニュージャーナリズムの文体で描く。ノンフィクション文学の傑作。",
+      "whyReadJa": "「勇気」と「男らしさ」の神話を最も面白く描いた一冊。ノンフィクションの文体革命の代表作。",
+      "tags": [
+        "宇宙",
+        "アメリカ",
+        "ノンフィクション",
+        "冒険"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/3326778-L.jpg",
+      "selectionReasonJa": "最初の宇宙飛行士たちを描く、ノンフィクション文学の傑作。",
+      "titleEn": "The Right Stuff"
+    },
+    {
+      "slug": "the-looming-tower",
+      "title": "The Looming Tower",
+      "titleJa": "ルーミング・タワー",
+      "author": "Lawrence Wright",
+      "authorJa": "ローレンス・ライト",
+      "country": "アメリカ",
+      "year": 2006,
+      "genre": [
+        "ノンフィクション",
+        "歴史"
+      ],
+      "descriptionJa": "9・11はなぜ防げなかったのか。アルカイダの誕生から、FBIとCIAの確執、そしてビンラディンまでの伏線を、極上のルポタージュとして描く。ピューリッツァー賞受賞。現代史ノンフィクションの最高峰。",
+      "whyReadJa": "「歴史の歯車がどう噛み合ったか」を知るための最高の一冊。国際政治とテロを深く理解できる。",
+      "tags": [
+        "歴史",
+        "9・11",
+        "国際政治",
+        "ピューリッツァー賞"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8172445-L.jpg",
+      "selectionReasonJa": "9・11はなぜ防げなかったのかを描く、ピューリッツァー賞受賞作。",
+      "titleEn": "The Looming Tower"
+    },
+    {
+      "slug": "nothing-to-envy",
+      "title": "Nothing to Envy",
+      "titleJa": "何ひとつうらやまない——北朝鮮の日常",
+      "author": "Barbara Demick",
+      "authorJa": "バーバラ・デミック",
+      "country": "アメリカ",
+      "year": 2009,
+      "genre": [
+        "ノンフィクション",
+        "歴史"
+      ],
+      "descriptionJa": "北朝鮮を離れた6人の「普通の人々」の証言から、北朝鮮社会の日常を再構築する。飢餓、情報統制、身分制度——全体主義が人々の私生活をどう支配してきたかを、生活の細部から描く。国際報道の傑作。",
+      "whyReadJa": "「向こうの社会」を実名の個人の生活として読める。日本に隣接する国の現実を、視点を変えて理解できる。",
+      "tags": [
+        "北朝鮮",
+        "歴史",
+        "ノンフィクション",
+        "全体主義"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/7948097-L.jpg",
+      "selectionReasonJa": "北朝鮮の日常を6人の証言で描く、全体主義を生活から理解する。",
+      "titleEn": "Nothing to Envy"
+    },
+    {
+      "slug": "the-new-york-times-street-smart",
+      "title": "Comedy at the Edge",
+      "titleJa": "コメディの果て",
+      "author": "Richard Zoglin",
+      "authorJa": "リチャード・ゾグリン",
+      "country": "アメリカ",
+      "year": 2009,
+      "genre": [
+        "ノンフィクション",
+        "歴史"
+      ],
+      "descriptionJa": "「戦後のアメリカの笑い」はどこから生まれたのか。レニー・ブルース、ジョージ・カーリンから、スタンダップ・コメディの歴史を丹念にたどる。社会のタブーを笑いで突破した人々の物語。",
+      "whyReadJa": "「笑い」を文化史として読む面白さ。アメリカの社会風刺の深さを、背景知識とともに味わえる。",
+      "tags": [
+        "コメディ",
+        "アメリカ",
+        "文化史",
+        "笑い"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/2936447-L.jpg",
+      "selectionReasonJa": "スタンダップコメディの歴史を描く、アメリカ社会風刺の文化史。",
+      "titleEn": "Comedy at the Edge"
+    },
+    {
+      "slug": "the-years-of-lyndon-johnson",
+      "title": "Master of the Senate",
+      "titleJa": "上院の支配者",
+      "author": "Robert A. Caro",
+      "authorJa": "ロバート・A・キャロ",
+      "country": "アメリカ",
+      "year": 2002,
+      "genre": [
+        "ノンフィクション",
+        "歴史"
+      ],
+      "descriptionJa": "リンドン・ジョンソンはどうやって「史上最強の上院議員」になったのか。権力の構造と人間の野望を、比類なき取材で描き切ったキャロの『LBJ伝』第三巻。政治ノンフィクションの最高峰と称される。",
+      "whyReadJa": "権力のリアリズムを最も深く描いた一冊。政治に興味がある人なら、必ず影響を受ける。",
+      "tags": [
+        "政治",
+        "アメリカ",
+        "権力",
+        "歴史"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12869915-L.jpg",
+      "selectionReasonJa": "権力のリアリズムを最も深く描く、政治ノンフィクションの最高峰。",
+      "titleEn": "Master of the Senate"
+    },
+    {
+      "slug": "the-soul-of-a-new-machine",
+      "title": "The Soul of a New Machine",
+      "titleJa": "魂の新しい機械",
+      "author": "Tracy Kidder",
+      "authorYa": "トレイシー・キダー",
+      "authorJa": "トレイシー・キダー",
+      "country": "アメリカ",
+      "year": 1981,
+      "genre": [
+        "ノンフィクション",
+        "技術"
+      ],
+      "descriptionJa": "1970年代末、データゼネラル社の若き技術者チームが、次世代ミニコンピュータ「イーグル」をわずか12ヶ月で開発する。ピューリッツァー賞受賞。シリコンバレーの神話が生まれる前の、エンジニアたちの情熱を描く古典。",
+      "whyReadJa": "「作り手の熱狂」を描いたノンフィクションの傑作。エンジニアという仕事の本質を今に伝える。",
+      "tags": [
+        "技術",
+        "エンジニア",
+        "コンピュータ",
+        "ピューリッツァー賞"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/5290886-L.jpg",
+      "selectionReasonJa": "エンジニアたちの情熱を描く、ピューリッツァー賞受賞の古典。",
+      "titleEn": "The Soul of a New Machine"
+    },
+    {
+      "slug": "the-battle-of-the-labyrinth",
+      "title": "1491",
+      "titleJa": "1491——コロンブス以前のアメリカ大陸",
+      "author": "Charles C. Mann",
+      "authorJa": "チャールズ・C・マン",
+      "country": "アメリカ",
+      "year": 2005,
+      "genre": [
+        "ノンフィクション",
+        "歴史"
+      ],
+      "descriptionJa": "コロンブス以前のアメリカ大陸は、人口過疎の「新世界」だったのか？ 近年の考古学・人類学は、先住民の高度な文明と繁栄を明らかにした。西洋中心史観を揺さぶる、歴史ノンフィクションの金字塔。",
+      "whyReadJa": "「教科書の世界史」がひっくり返る。環境と文明を考えるための重要書。",
+      "tags": [
+        "歴史",
+        "先住民",
+        "文明",
+        "アメリカ"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/803118-L.jpg",
+      "selectionReasonJa": "コロンブス以前のアメリカ大陸の高度文明を描く、歴史ノンフィクションの金字塔。",
+      "titleEn": "1491"
+    },
+    {
+      "slug": "the-glass-universe",
+      "title": "The Glass Universe",
+      "titleJa": "ガラスの宇宙",
+      "author": "Dava Sobel",
+      "authorJa": "ダヴァ・ソーベル",
+      "country": "アメリカ",
+      "year": 2016,
+      "genre": [
+        "ノンフィクション",
+        "科学"
+      ],
+      "descriptionJa": "19世紀末のハーバード天文台。「女性コンピュータ」たちは、夜空の写真乾板を解析し、星の分類という天文学の基盤を築いた。知られざる女性科学者たちの物語。",
+      "whyReadJa": "科学史に埋もれた女性たちの功績を描く、感動のノンフィクション。",
+      "tags": [
+        "科学",
+        "女性",
+        "天文学",
+        "歴史"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/7893959-L.jpg",
+      "selectionReasonJa": "ハーバード天文台の女性コンピュータたちを描く、科学史の感動作。",
+      "titleEn": "The Glass Universe"
+    },
+    {
+      "slug": "the-hidden-figures",
+      "title": "Hidden Figures",
+      "titleJa": "ドリーム",
+      "author": "Margot Lee Shetterly",
+      "authorJa": "マーゴット・リー・シェタリー",
+      "country": "アメリカ",
+      "year": 2016,
+      "genre": [
+        "ノンフィクション",
+        "科学"
+      ],
+      "descriptionJa": "宇宙開発の陰で、計算を担った黒人女性数学者たち。「色付きの計算機室」で働いた彼女たちの実績と、人種と性別の二重の壁。映画『ドリーム』の原作。",
+      "whyReadJa": "人種差別と性差別の壁を越えた科学者たちの物語。",
+      "tags": [
+        "科学",
+        "女性",
+        "人種",
+        "宇宙"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10661694-L.jpg",
+      "selectionReasonJa": "宇宙開発を支えた黒人女性数学者たちを描く、映画『ドリーム』の原作。",
+      "titleEn": "Hidden Figures"
+    },
+    {
+      "slug": "the-order-of-genius",
+      "title": "Genius",
+      "titleJa": "ジーニアス——天才の科学",
+      "author": "James Gleick",
+      "authorJa": "ジェイムズ・グリーク",
+      "country": "アメリカ",
+      "year": 1992,
+      "genre": [
+        "ノンフィクション",
+        "科学"
+      ],
+      "descriptionJa": "物理学者リチャード・ファインマンの伝記。ノーベル賞物理学者であり、カリスマ的講師であり、ジョーク好きでもあった「天才」の生涯と思考。科学の楽しさの体現者を描く。",
+      "whyReadJa": "「天才とは何か」を描いた科学伝記の最高傑作。",
+      "tags": [
+        "科学",
+        "物理",
+        "伝記",
+        "天才"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/417398-L.jpg",
+      "selectionReasonJa": "天才物理学者ファインマンの生涯を描く、科学伝記の最高傑作。",
+      "titleEn": "Genius"
+    },
+    {
+      "slug": "the-chaos",
+      "title": "Chaos",
+      "titleJa": "カオス——新しい科学",
+      "author": "James Gleick",
+      "authorJa": "ジェイムズ・グリーク",
+      "country": "アメリカ",
+      "year": 1987,
+      "genre": [
+        "ノンフィクション",
+        "科学"
+      ],
+      "descriptionJa": "蝶の羽ばたきが遠くの嵐を引き起こす？ 決定論的だが予測不能な「カオス」の科学を、一般読者向けに初めて描いた傑作。科学のパラダイム転換を伝える古典。",
+      "whyReadJa": "「予測不可能性」の科学。複雑系の世界を理解するための入門書。",
+      "tags": [
+        "科学",
+        "カオス",
+        "数学",
+        "複雑系"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/94249-L.jpg",
+      "selectionReasonJa": "カオス理論を一般読者に初めて伝えた、科学ジャーナリズムの古典。",
+      "titleEn": "Chaos"
+    },
+    {
+      "slug": "the-sleeping-lady",
+      "title": "Being Mortal",
+      "titleJa": "死すべき定め",
+      "author": "Atul Gawande",
+      "authorJa": "アトゥール・ガワンデ",
+      "country": "アメリカ",
+      "year": 2014,
+      "genre": [
+        "ノンフィクション",
+        "医療"
+      ],
+      "descriptionJa": "死を医療で延命することが、必ずしも「良き生」ではない。外科医ガワンデが、高齢化と終末期医療の現実を描き、「どう生き、どう死ぬか」を問う。現代の必読書。",
+      "whyReadJa": "「老い」と「死」を医療の現場から考える、感動的で示唆的な一冊。",
+      "tags": [
+        "医療",
+        "老い",
+        "死",
+        "生命"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8477368-L.jpg",
+      "selectionReasonJa": "高齢化と終末期医療を描く、現代の必読書。",
+      "titleEn": "Being Mortal"
+    },
+    {
+      "slug": "the-complications",
+      "title": "Complications",
+      "titleJa": "合併症",
+      "author": "Atul Gawande",
+      "authorJa": "アトゥール・ガワンデ",
+      "country": "アメリカ",
+      "year": 2002,
+      "genre": [
+        "ノンフィクション",
+        "医療"
+      ],
+      "descriptionJa": "医者は間違いを犯す。外科医ガワンデが、医療の不確かさと、医師たちの人間的な失敗を率直に語る。医療の内側から見た、力強く誠実なエッセイ集。",
+      "whyReadJa": "「完璧ではない医療」を描く、医療ノンフィクションの秀作。",
+      "tags": [
+        "医療",
+        "外科",
+        "失敗",
+        "医療倫理"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/5277801-L.jpg",
+      "selectionReasonJa": "医療の不確かさを率直に語る、外科医の誠実なエッセイ集。",
+      "titleEn": "Complications"
+    },
+    {
+      "slug": "the-gods-of-money",
+      "title": "The Ascent of Money",
+      "titleJa": "マネーの進化史",
+      "author": "Niall Ferguson",
+      "authorJa": "ニーアル・ファーガソン",
+      "country": "イギリス",
+      "year": 2008,
+      "genre": [
+        "ノンフィクション",
+        "歴史"
+      ],
+      "descriptionJa": "債券、株式、保険、不動産——金融の歴史は文明の歴史そのもの。歴史家ファーガソンが、銀行家メディチ家からサブプライム危機まで、金融の進化を壮大に描く。",
+      "whyReadJa": "「お金」の歴史を知れば、世界が違って見える。金融リテラシーの基礎。",
+      "tags": [
+        "歴史",
+        "金融",
+        "経済",
+        "資本主義"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/6327852-L.jpg",
+      "selectionReasonJa": "金融の歴史は文明の歴史。マネーの進化を壮大に描く。",
+      "titleEn": "The Ascent of Money"
+    },
+    {
+      "slug": "the-civilization",
+      "title": "Civilization",
+      "titleJa": "シヴィリゼーション",
+      "author": "Niall Ferguson",
+      "authorJa": "ニーアル・ファーガソン",
+      "country": "イギリス",
+      "year": 2011,
+      "genre": [
+        "ノンフィクション",
+        "歴史"
+      ],
+      "descriptionJa": "なぜ西洋文明が世界を支配したのか。競争、科学、財産権、医学、消費社会、労働倫理——六つの「キラーアプリ」が西洋を強くしたという大胆な仮説を展開する。",
+      "whyReadJa": "世界史の大きな問いへの刺激的な答え。サピエンス全史の続きとして。",
+      "tags": [
+        "歴史",
+        "文明",
+        "西洋",
+        "比較史"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/7117712-L.jpg",
+      "selectionReasonJa": "西洋文明が世界を支配した六つの理由を問う、刺激的な比較史。",
+      "titleEn": "Civilization"
+    },
+    {
+      "slug": "the-happiness-of-peoples",
+      "title": "The Better Angels of Our Nature",
+      "titleJa": "暴力の人類史",
+      "author": "Steven Pinker",
+      "authorJa": "スティーヴン・ピンカー",
+      "country": "アメリカ",
+      "year": 2011,
+      "genre": [
+        "ノンフィクション",
+        "社会科学"
+      ],
+      "descriptionJa": "「現代は過去より暴力が少ない」。認知心理学者ピンカーが、大量のデータから歴史的な暴力の減少傾向を明らかにする。人類史をめぐる、最も刺激的で議論を呼んだ大著。",
+      "whyReadJa": "「世界は悪くなっている」という思い込みをデータで覆す。歴史の希望を論じる。",
+      "tags": [
+        "社会科学",
+        "暴力",
+        "歴史",
+        "心理学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/7906239-L.jpg",
+      "selectionReasonJa": "現代は過去より暴力が少ない、をデータで示す大著。",
+      "titleEn": "The Better Angels of Our Nature"
+    },
+    {
+      "slug": "the-enlightenment-now",
+      "title": "Enlightenment Now",
+      "titleJa": "啓蒙の現在",
+      "author": "Steven Pinker",
+      "authorJa": "スティーヴン・ピンカー",
+      "country": "アメリカ",
+      "year": 2018,
+      "genre": [
+        "ノンフィクション",
+        "社会科学"
+      ],
+      "descriptionJa": "理性、科学、ヒューマニズム、進歩——ピンカーはデータから「人類は過去半世紀で劇的に改善した」と論じ、反啓蒙的な悲観論に挑む。現代思想の最前線をめぐる白熱の議論。",
+      "whyReadJa": "「進歩」を信じるか。データで語る近代への擁護と批判を読み比べたい人に。",
+      "tags": [
+        "社会科学",
+        "啓蒙",
+        "進歩",
+        "理性"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8147013-L.jpg",
+      "selectionReasonJa": "理性と進歩をデータで擁護する、現代思想の白熱の議論。",
+      "titleEn": "Enlightenment Now"
+    },
+    {
+      "slug": "the-power-of-myth",
+      "title": "The Power of Myth",
+      "titleJa": "神話の力",
+      "author": "Joseph Campbell",
+      "authorJa": "ジョゼフ・キャンベル",
+      "country": "アメリカ",
+      "year": 1988,
+      "genre": [
+        "ノンフィクション",
+        "神話"
+      ],
+      "descriptionJa": "「英雄の旅」の理論で知られる神話学者キャンベルと、ジャーナリストの対話。神話が私たちの人生にどう働くのかを、宗教・心理学・文学を横断して語る。スター・ウォーズ制作にも影響を与えた。",
+      "whyReadJa": "神話の構造を知れば、物語のすべてが読める。文化を読むための教養。",
+      "tags": [
+        "神話",
+        "心理学",
+        "物語",
+        "英雄"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/240505-L.jpg",
+      "selectionReasonJa": "神話の構造を知れば物語が読める。キャンベルの対話。",
+      "titleEn": "The Power of Myth"
+    },
+    {
+      "slug": "the-hero-with-a-thousand-faces",
+      "title": "The Hero with a Thousand Faces",
+      "titleJa": "千の顔を持つ英雄",
+      "author": "Joseph Campbell",
+      "authorJa": "ジョゼフ・キャンベル",
+      "country": "アメリカ",
+      "year": 1949,
+      "genre": [
+        "ノンフィクション",
+        "神話"
+      ],
+      "descriptionJa": "世界中の神話には、同じ「英雄の旅」のパターンが繰り返し現れる。神話学の金字塔として、あらゆる物語論・脚本術の基礎となった古典。",
+      "whyReadJa": "「物語の型」を知るための最重要書。創作者なら必読。",
+      "tags": [
+        "神話",
+        "英雄",
+        "物語",
+        "原型"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/443668-L.jpg",
+      "selectionReasonJa": "「英雄の旅」の理論。すべての物語論の基礎となった古典。",
+      "titleEn": "The Hero with a Thousand Faces"
+    },
+    {
+      "slug": "the-courage-to-be",
+      "title": "The Courage to Be",
+      "titleJa": "存在の勇気",
+      "author": "Paul Tillich",
+      "authorJa": "パウル・ティリッヒ",
+      "country": "ドイツ/アメリカ",
+      "year": 1952,
+      "genre": [
+        "ノンフィクション",
+        "宗教"
+      ],
+      "descriptionJa": "「不安」とは何か、そしてそれに対抗する「勇気」とは何か。神学者ティリッヒが、実存的不安と、それにもかかわらず「存在する勇気」を論じる。深い慰めを与える哲学の古典。",
+      "whyReadJa": "「生きる勇気」を哲学と神学から考える。不安の時代に読みたい一冊。",
+      "tags": [
+        "宗教",
+        "実存",
+        "不安",
+        "勇気"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/161349-L.jpg",
+      "selectionReasonJa": "不安とそれに抗う勇気を哲学と神学から論じる。",
+      "titleEn": "The Courage to Be"
+    },
+    {
+      "slug": "the-ecology-of-commerce",
+      "title": "The Ecology of Commerce",
+      "titleJa": "商業の生態学",
+      "author": "Paul Hawken",
+      "authorJa": "ポール・ホーケン",
+      "country": "アメリカ",
+      "year": 1993,
+      "genre": [
+        "ノンフィクション",
+        "環境"
+      ],
+      "descriptionJa": "環境破壊の根源にビジネスの在り方を見、持続可能な経済の可能性を提唱する。環境運動のビジネス論として、いまなお読み継がれる。",
+      "whyReadJa": "「経済と環境」を両立させる道を考える。エコ資本主義の古典。",
+      "tags": [
+        "環境",
+        "経済",
+        "ビジネス",
+        "サステナビリティ"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/3941250-L.jpg",
+      "selectionReasonJa": "環境破壊とビジネスを結び、持続可能な経済を提唱。",
+      "titleEn": "The Ecology of Commerce"
+    },
+    {
+      "slug": "the-tragedy-of-the-commons",
+      "title": "The Tragedy of the Commons",
+      "titleJa": "共有地の悲劇",
+      "author": "Garrett Hardin",
+      "authorJa": "ギャレット・ハーディン",
+      "country": "アメリカ",
+      "year": 1968,
+      "genre": [
+        "ノンフィクション",
+        "社会科学"
+      ],
+      "descriptionJa": "共有の牧草地で、誰もが自分の家畜を増やせば、草は枯れ尽きる。個人の利益が全体を破壊する「共有地の悲劇」の概念を提示し、環境問題と人口問題の古典となったエッセイ。",
+      "whyReadJa": "「コモンズ」問題の出発点。環境・資源問題の理論的基礎。",
+      "tags": [
+        "環境",
+        "社会科学",
+        "資源",
+        "コモンズ"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/1646253-L.jpg",
+      "selectionReasonJa": "「共有地の悲劇」の概念を提示した、環境論の古典。",
+      "titleEn": "The Tragedy of the Commons"
+    },
+    {
+      "slug": "the-geography-of-thought",
+      "title": "The Geography of Thought",
+      "titleJa": "思考の地理学",
+      "author": "Richard E. Nisbett",
+      "authorJa": "リチャード・E・ニスベット",
+      "country": "アメリカ",
+      "year": 2003,
+      "genre": [
+        "ノンフィクション",
+        "心理学"
+      ],
+      "descriptionJa": "東洋人は「文脈」で、西洋人は「対象」で世界を見る——認知心理学者が、文化が思考様式をどう形作るかを実証的に明らかにする。文化心理学の古典。",
+      "whyReadJa": "「考え方の文化差」を知れば、日本人の思考の特徴も見えてくる。",
+      "tags": [
+        "心理学",
+        "文化",
+        "思考",
+        "比較文化"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/910322-L.jpg",
+      "selectionReasonJa": "文化が思考様式をどう形作るかを実証する、文化心理学の古典。",
+      "titleEn": "The Geography of Thought"
+    },
+    {
+      "slug": "the-blink",
+      "title": "Blink",
+      "titleJa": "第1感",
+      "author": "Malcolm Gladwell",
+      "authorJa": "マルコム・グラッドウェル",
+      "country": "カナダ",
+      "year": 2005,
+      "genre": [
+        "ノンフィクション",
+        "心理学"
+      ],
+      "descriptionJa": "最初の2秒間の判断は、熟考よりも正確なことがある。直感の力と危険を、豊富な事例から描く。グラッドウェルが「瞬間の判断」の科学を解き明かす。",
+      "whyReadJa": "「直感を信じるべきか」。意思決定の科学を面白く知る。",
+      "tags": [
+        "心理学",
+        "直感",
+        "意思決定",
+        "ベストセラー"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/14421850-L.jpg",
+      "selectionReasonJa": "直感の力と危険を事例で解く、グラッドウェルの代表作。",
+      "titleEn": "Blink"
+    },
+    {
+      "slug": "the-tipping-point",
+      "title": "The Tipping Point",
+      "titleJa": "感染爆発の3つの法則",
+      "author": "Malcolm Gladwell",
+      "authorJa": "マルコム・グラッドウェル",
+      "country": "カナダ",
+      "year": 2000,
+      "genre": [
+        "ノンフィクション",
+        "社会学"
+      ],
+      "descriptionJa": "流行はなぜ、突然爆発するのか。商品、情報、流行の「臨界点（ティッピング・ポイント）」を、心理と社会の力学から解き明かす。グラッドウェルのデビュー作。",
+      "whyReadJa": "「流行」のメカニズムを知りたい人に。マーケティングと社会心理学の橋渡し。",
+      "tags": [
+        "社会学",
+        "流行",
+        "マーケティング",
+        "心理学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10873292-L.jpg",
+      "selectionReasonJa": "「流行の臨界点」を解き明かした、グラッドウェルのデビュー作。",
+      "titleEn": "The Tipping Point"
+    },
+    {
+      "slug": "the-four-tendencies",
+      "title": "The Happiness Hypothesis",
+      "titleJa": "幸福仮説",
+      "author": "Jonathan Haidt",
+      "authorJa": "ジョナサン・ハイト",
+      "country": "アメリカ",
+      "year": 2006,
+      "genre": [
+        "ノンフィクション",
+        "心理学"
+      ],
+      "descriptionJa": "「象と象使い」——感情は巨大な象、理性は象使い。幸福の科学と古代の知恵を統合し、人生の意味を探る。ポジティブ心理学の最良の入門。",
+      "whyReadJa": "「幸せになる方法」を科学と哲学から考える。幸福研究の名著。",
+      "tags": [
+        "心理学",
+        "幸福",
+        "感情",
+        "哲学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/298622-L.jpg",
+      "selectionReasonJa": "幸福の科学と古代の知恵を統合する、ポジティブ心理学の名著。",
+      "titleEn": "The Happiness Hypothesis"
+    },
+    {
+      "slug": "the-righteous-mind",
+      "title": "The Righteous Mind",
+      "titleJa": "正義の脳",
+      "author": "Jonathan Haidt",
+      "authorJa": "ジョナサン・ハイト",
+      "country": "アメリカ",
+      "year": 2012,
+      "genre": [
+        "ノンフィクション",
+        "心理学"
+      ],
+      "descriptionJa": "なぜ人々は政治や道徳で対立するのか。人間の道徳的直感は、六つの「味蕾」から成り立つ——道徳心理学が政治的分断を解き明かす、現代の重要書。",
+      "whyReadJa": "「なぜあの人は考えが違うのか」を理解する鍵。現代の分断を考える。",
+      "tags": [
+        "心理学",
+        "道徳",
+        "政治",
+        "社会"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/7256782-L.jpg",
+      "selectionReasonJa": "道徳的分断を六つの「味蕾」で解く、現代の重要書。",
+      "titleEn": "The Righteous Mind"
+    },
+    {
+      "slug": "the-fooled-by-randomness",
+      "title": "Fooled by Randomness",
+      "titleJa": "ランダムウォークの嘘",
+      "author": "Nassim Nicholas Taleb",
+      "authorJa": "ナシーム・ニコラス・タレブ",
+      "country": "レバノン/アメリカ",
+      "year": 2001,
+      "genre": [
+        "ノンフィクション",
+        "経済学"
+      ],
+      "descriptionJa": "成功したトレーダーは、才能なのか偶然なのか。運と実力の区別を問い、成功の物語に潜む偶然性を暴く。タレブ「不確実性」四部作の第一作。",
+      "whyReadJa": "「運と実力」を見分ける眼を養う。自己啓発の常識を疑う知的冒険。",
+      "tags": [
+        "経済学",
+        "偶然",
+        "リスク",
+        "成功"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/855791-L.jpg",
+      "selectionReasonJa": "運と実力を区別する、タレブ「不確実性」四部作の第一作。",
+      "titleEn": "Fooled by Randomness"
+    },
+    {
+      "slug": "the-anti-fragile",
+      "title": "Antifragile",
+      "titleJa": "アンチフラジャイル",
+      "author": "Nassim Nicholas Taleb",
+      "authorJa": "ナシーム・ニコラス・タレブ",
+      "country": "レバノン/アメリカ",
+      "year": 2012,
+      "genre": [
+        "ノンフィクション",
+        "哲学"
+      ],
+      "descriptionJa": "壊れないだけでなく、混乱やストレスによって「より強くなる」もの——タレブはそれを「アンチフラジャイル」と名付け、世界の不確実性をどう生きるかを論じる。",
+      "whyReadJa": "「不確実性を味方にする」思想。黒い白鳥の続編として、人生設計に効く。",
+      "tags": [
+        "哲学",
+        "不確実性",
+        "リスク",
+        "思考法"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/9180157-L.jpg",
+      "selectionReasonJa": "混乱でより強くなる「アンチフラジャイル」の思想。",
+      "titleEn": "Antifragile"
+    },
+    {
+      "slug": "the-skin-in-the-game",
+      "title": "Skin in the Game",
+      "titleJa": "身銭を切れ",
+      "author": "Nassim Nicholas Taleb",
+      "authorJa": "ナシーム・ニコラス・タレブ",
+      "country": "レバノン/アメリカ",
+      "year": 2018,
+      "genre": [
+        "ノンフィクション",
+        "哲学"
+      ],
+      "descriptionJa": "他人にリスクを押し付けて利益を得る「無謀な決定者」——タレブは、リスクを負わない者の危険性を喝破し、行動と責任の一致を説く。実践的で痛快な哲学書。",
+      "whyReadJa": "「責任を負う」ことの意味を問う。ビジネスと人生の両方に効く。",
+      "tags": [
+        "哲学",
+        "リスク",
+        "責任",
+        "実践"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10856868-L.jpg",
+      "selectionReasonJa": "リスクを負わない者の危険性を喝破する、痛快な哲学書。",
+      "titleEn": "Skin in the Game"
+    },
+    {
+      "slug": "the-physics-of-the-future",
+      "title": "Physics of the Future",
+      "titleJa": "未来の物理学",
+      "author": "Michio Kaku",
+      "authorJa": "ミチオ・カク",
+      "country": "アメリカ",
+      "year": 2011,
+      "genre": [
+        "ノンフィクション",
+        "科学"
+      ],
+      "descriptionJa": "コンピュータ、医学、エネルギー、宇宙——科学が50年後の世界をどう変えるか。理論物理学者カクが、最先端の科学から未来を予測する。SFのような現実を楽しめる。",
+      "whyReadJa": "「未来」を科学から見通す。科学リテラシーの向上に。",
+      "tags": [
+        "科学",
+        "未来",
+        "テクノロジー",
+        "予測"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/6712851-L.jpg",
+      "selectionReasonJa": "科学が50年後の世界をどう変えるかを予測する。",
+      "titleEn": "Physics of the Future"
+    },
+    {
+      "slug": "the-singularity-is-near",
+      "title": "The Singularity Is Near",
+      "titleJa": "シンギュラリティは近い",
+      "author": "Ray Kurzweil",
+      "authorJa": "レイ・カーツワイル",
+      "country": "アメリカ",
+      "year": 2005,
+      "genre": [
+        "ノンフィクション",
+        "科学"
+      ],
+      "descriptionJa": "人工知能が人類の知能を超える「シンギュラリティ」。発明家カーツワイルが、技術的特異点と人類の未来を大胆に予測する。AI時代を論じるすべての議論の出発点。",
+      "whyReadJa": "AI時代の「予言の書」。技術と人間の未来を考えるための基本文献。",
+      "tags": [
+        "AI",
+        "未来",
+        "テクノロジー",
+        "シンギュラリティ"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/400518-L.jpg",
+      "selectionReasonJa": "AI時代の「予言の書」。技術的特異点を論じた基本文献。",
+      "titleEn": "The Singularity Is Near"
+    },
+    {
+      "slug": "the-prison-industrial-complex",
+      "title": "The New Jim Crow",
+      "titleJa": "新たなジム・クロウ法",
+      "author": "Michelle Alexander",
+      "authorJa": "ミシェル・アレクサンダー",
+      "country": "アメリカ",
+      "year": 2010,
+      "genre": [
+        "ノンフィクション",
+        "社会"
+      ],
+      "descriptionJa": "麻薬戦争と大量収監は、人種差別の「新しい形態」だ。黒人男性の多くが犯罪者として排除されるシステムを、徹底的に分析する。アメリカの人種問題をめぐる最重要書。",
+      "whyReadJa": "「犯罪と人種」をめぐる現代アメリカの核心。カーストと対で読むと深い。",
+      "tags": [
+        "人種",
+        "社会",
+        "犯罪",
+        "アメリカ"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/14826736-L.jpg",
+      "selectionReasonJa": "大量収監という新しい人種差別を暴く、現代アメリカの核心。",
+      "titleEn": "The New Jim Crow"
+    },
+    {
+      "slug": "the-just-society",
+      "title": "Justice",
+      "titleJa": "これからの「正義」の話をしよう",
+      "author": "Michael J. Sandel",
+      "authorJa": "マイケル・サンデル",
+      "country": "アメリカ",
+      "year": 2009,
+      "genre": [
+        "ノンフィクション",
+        "哲学"
+      ],
+      "descriptionJa": "「受精卵は人か」「身代金は払うべきか」。ハーバード大学の大人気講義を書籍化した、哲学入門の金字塔。正義をめぐる対話を通して、考える力を鍛える。",
+      "whyReadJa": "「哲学入門」として最も売れた本。正義と倫理を自分の問題として考える。",
+      "tags": [
+        "哲学",
+        "正義",
+        "倫理",
+        "入門"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/1129014-L.jpg",
+      "selectionReasonJa": "ハーバード大人気講義を書籍化。正義を考える哲学入門の金字塔。",
+      "titleEn": "Justice"
+    },
+    {
+      "slug": "the-tyranny-of-merit",
+      "title": "The Tyranny of Merit",
+      "titleJa": "実力主義の暴政",
+      "author": "Michael J. Sandel",
+      "authorJa": "マイケル・サンデル",
+      "country": "アメリカ",
+      "year": 2020,
+      "genre": [
+        "ノンフィクション",
+        "哲学"
+      ],
+      "descriptionJa": "「努力すれば報われる」——実力主義は平等の夢ではなく、格差を正当化するイデオロギーではないか。サンデルが「メリトクラシー」の負の側面を鋭く問う、現代を代表する社会論。",
+      "whyReadJa": "「格差と分断」の時代に、成功と失敗の意味を問い直す。日本人にも刺さる。",
+      "tags": [
+        "哲学",
+        "格差",
+        "社会",
+        "倫理"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10431529-L.jpg",
+      "selectionReasonJa": "実力主義が格差を正当化する、現代を代表する社会論。",
+      "titleEn": "The Tyranny of Merit"
+    },
+    {
+      "slug": "the-pale-blue-dot",
+      "title": "Pale Blue Dot",
+      "titleJa": "ペール・ブルー・ドット",
+      "author": "Carl Sagan",
+      "authorJa": "カール・セーガン",
+      "country": "アメリカ",
+      "year": 1994,
+      "genre": [
+        "ノンフィクション",
+        "科学"
+      ],
+      "descriptionJa": "「私たちの惑星は、広大な宇宙のほこりの中の、かすかな青い点にすぎない」。宇宙科学の父セーガンが、地球と人類の位置を壮大に語る。科学と人間性の融合した名著。",
+      "whyReadJa": "宇宙から地球を見つめ直す、科学の最高の感動体験。",
+      "tags": [
+        "宇宙",
+        "科学",
+        "地球",
+        "セーガン"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/14417175-L.jpg",
+      "selectionReasonJa": "宇宙から地球を見つめ直す、セーガンの感動の名著。",
+      "titleEn": "Pale Blue Dot"
+    },
+    {
+      "slug": "the-cosmos",
+      "title": "Cosmos",
+      "titleJa": "コスモス",
+      "author": "Carl Sagan",
+      "authorJa": "カール・セーガン",
+      "country": "アメリカ",
+      "year": 1980,
+      "genre": [
+        "ノンフィクション",
+        "科学"
+      ],
+      "descriptionJa": "宇宙の歴史と人類の科学史を、テレビ番組とともに伝えた、20世紀最大の科学普及書。銀河、星、生命の進化を語り、科学の歓びを全人類に伝えた。",
+      "whyReadJa": "科学の面白さの原点。宇宙と生命について、一度は読むべき名著。",
+      "tags": [
+        "宇宙",
+        "科学",
+        "生命",
+        "歴史"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8283901-L.jpg",
+      "selectionReasonJa": "宇宙の歴史と科学史を語る、20世紀最大の科学普及書。",
+      "titleEn": "Cosmos"
+    },
+    {
+      "slug": "the-fluent-body",
+      "title": "Thinking in Systems",
+      "titleJa": "システム思考",
+      "author": "Donella Meadows",
+      "authorJa": "ドネラ・メドウズ",
+      "country": "アメリカ",
+      "year": 2008,
+      "genre": [
+        "ノンフィクション",
+        "社会科学"
+      ],
+      "descriptionJa": "世界は要素の集まりではなく、関係の網の目である。「システム思考」の金字塔として、環境問題から組織論まで、複雑な世界を捉える枠組みを提供する。",
+      "whyReadJa": "「全体を見る」思考法の古典。問題の構造を理解したいすべての人に。",
+      "tags": [
+        "システム思考",
+        "複雑系",
+        "社会科学",
+        "思考法"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/14420637-L.jpg",
+      "selectionReasonJa": "システム思考の金字塔。複雑な世界を捉える枠組み。",
+      "titleEn": "Thinking in Systems"
+    },
+    {
+      "slug": "reading-lolita-in-tehran",
+      "title": "Reading Lolita in Tehran",
+      "titleEn": "Reading Lolita in Tehran",
+      "titleJa": "テヘランでロリータを読む",
+      "author": "Azar Nafisi",
+      "authorJa": "アザール・ナフィーシー",
+      "country": "イラン",
+      "year": 2003,
+      "genre": [
+        "ノンフィクション",
+        "自伝"
+      ],
+      "descriptionJa": "イラン革命後のテヘラン。大学教授ナフィーシーは、自宅に7人の女子学生を集め、ナボコフやフィッツジェラルドを密かに講読する。検閲と抑圧の下で文学を読むことの意味を描いた、世界的ベストセラー。",
+      "whyReadJa": "全体主義下で「文学を読む自由」を問う、感動のノンフィクション。イラン現代史と文学の交差。",
+      "selectionReasonJa": "イラン革命後の抑圧を描き、世界で最も読まれたノンフィクションの一つ。",
+      "tags": [
+        "イラン",
+        "中東",
+        "文学",
+        "自由"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/227873-L.jpg"
+    },
+    {
+      "slug": "i-am-malala",
+      "title": "I Am Malala",
+      "titleEn": "I Am Malala",
+      "titleJa": "わたしはマララ",
+      "author": "Malala Yousafzai",
+      "authorJa": "マララ・ユスフザイ",
+      "country": "パキスタン",
+      "year": 2013,
+      "genre": [
+        "ノンフィクション",
+        "自伝"
+      ],
+      "descriptionJa": "タリバンに銃撃されながらも、女性の教育の権利を訴え続けた少女マララ。その驚異の半生と信念を綴った、ノーベル平和賞最年少受賞者の自伝。",
+      "whyReadJa": "「女の子が学校に行く」ことがどれほど尊いか。パキスタンの現実と、教育の力を描く。",
+      "selectionReasonJa": "ノーベル平和賞受賞者マララの自伝。世界中で読まれた、教育の普遍的な価値を描く書。",
+      "tags": [
+        "パキスタン",
+        "教育",
+        "女性",
+        "ノーベル賞"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/9358664-L.jpg"
+    },
+    {
+      "slug": "behind-the-beautiful-forevers",
+      "title": "Behind the Beautiful Forevers",
+      "titleEn": "Behind the Beautiful Forevers",
+      "titleJa": "美しき世界の裏側で",
+      "author": "Katherine Boo",
+      "authorJa": "キャサリン・ブー",
+      "country": "アメリカ",
+      "year": 2012,
+      "genre": [
+        "ノンフィクション",
+        "ルポ"
+      ],
+      "descriptionJa": "ムンバイ国際空港の隣に広がるスラム、アンナワディ。そこに暮らす人々の一年を、著者が三年間密着して描く。貧困、汚職、そして希望。全米図書賞受賞の、傑作ルポルタージュ。",
+      "whyReadJa": "「貧困」を単なる統計ではなく、生きた人間の物語として描く。現代インドの縮図。",
+      "selectionReasonJa": "全米図書賞受賞。ムンバイのスラムを描いた、現代ルポルタージュの金字塔。",
+      "tags": [
+        "インド",
+        "ルポ",
+        "貧困",
+        "全米図書賞"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/7166857-L.jpg"
+    },
+    {
+      "slug": "no-map-to-south",
+      "title": "A Long Way Gone",
+      "titleEn": "A Long Way Gone",
+      "titleJa": "遠い道のり",
+      "author": "Ishmael Beah",
+      "authorJa": "イシュマエル・ベア",
+      "country": "シエラレオネ",
+      "year": 2007,
+      "genre": [
+        "ノンフィクション",
+        "自伝"
+      ],
+      "descriptionJa": "12歳で内戦に巻き込まれ、少年兵として戦ったイシュマエル・ベアの回想録。暴力と喪失、そして更生。アフリカの悲劇と、人間の回復力を描く、世界的ベストセラー。",
+      "whyReadJa": "「少年兵」のリアルを、当事者の言葉で知る。アフリカ紛争の実相と人間の強さ。",
+      "selectionReasonJa": "シエラレオネ内戦を描く、世界的に読まれた自伝的ノンフィクション。",
+      "tags": [
+        "シエラレオネ",
+        "アフリカ",
+        "戦争",
+        "自伝"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/11592698-L.jpg"
+    },
+    {
+      "slug": "the-sheep-and-the-rain",
+      "title": "Wild Swans",
+      "titleEn": "Wild Swans",
+      "titleJa": "野生の白鳥",
+      "author": "Jung Chang",
+      "authorJa": "チョン・チャン",
+      "country": "中国/イギリス",
+      "year": 1991,
+      "genre": [
+        "ノンフィクション",
+        "自伝"
+      ],
+      "descriptionJa": "祖母、母、そして自分——中国の三世代の女性の人生を通して、毛沢東時代から改革開放までの中国現代史を描く。世界中で1000万部以上売れた、中国をめぐる最高のノンフィクション。",
+      "whyReadJa": "中国現代史を、三人の女性の人生として読む。中国社会を理解するための必読書。",
+      "selectionReasonJa": "中国現代史を三世代の女性から描き、世界で最も読まれた中国ノンフィクション。",
+      "tags": [
+        "中国",
+        "歴史",
+        "女性",
+        "自伝"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/6809006-L.jpg"
+    }
+  ]
+}

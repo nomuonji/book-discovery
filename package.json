@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "bot:dry-run": "tsx bot/post.ts --dry-run",
+    "bot:preview": "tsx bot/post.ts --preview=3",
+    "bot:post": "tsx bot/post.ts"
   },
   "dependencies": {
     "next": "16.3.0",
@@ -21,6 +24,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.3.0",
     "tailwindcss": "^4",
+    "tsx": "^4.23.8",
     "typescript": "^5"
   }
 }

@@ -1,0 +1,1791 @@
+{
+  "category": "sf-fantasy",
+  "label": "SF・幻想文学",
+  "description": "想像力で現実を書き換える——ヒューゴー賞、ネビュラ賞から世界のSF・幻想小説まで。",
+  "order": 6,
+  "books": [
+    {
+      "slug": "slaughterhouse-five",
+      "title": "Slaughterhouse-Five",
+      "titleJa": "スローターハウス5",
+      "author": "Kurt Vonnegut",
+      "authorJa": "カート・ヴォネガット",
+      "country": "アメリカ",
+      "year": 1969,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12727001-L.jpg",
+      "asin": "B00BN5GYC4",
+      "descriptionJa": "第二次世界大戦のドレスデン爆撃を生き延びた男が、時空を飞び回りながらトラルファマドール星人にさらわれる——戦争の狂気をSFの皮をかぶせて描いた、笑えて泣ける反戦小説。すべての出来事のあとに「So it goes.」と繰り返される refrain が、深い諦念とともに胸に残る。",
+      "whyReadJa": "村上春樹のユーモア感覚と「異世界」感が好きなら間違いなく刺さる。ポストモダン文学の入り口としても最適。",
+      "tags": [
+        "反戦",
+        "SF",
+        "ポストモダン",
+        "アメリカ文学",
+        "村上春樹好きに"
+      ],
+      "selectionReasonJa": "戦争の狂気をSFで描いた、笑えて泣ける反戦小説。",
+      "titleEn": "Slaughterhouse-Five"
+    },
+    {
+      "slug": "cloud-atlas",
+      "title": "Cloud Atlas",
+      "titleJa": "クラウド・アトラス",
+      "author": "David Mitchell",
+      "authorJa": "デイヴィッド・ミッチェル",
+      "country": "イギリス",
+      "year": 2004,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/6714077-L.jpg",
+      "asin": "B00C4TUDRK",
+      "descriptionJa": "19世紀の太平洋航海記から、未来のクローン社会、文明崩壊後のハワイまで——6つの時代と場所をまたぐ物語が、マトリョーシカのように入れ子構造で展開する驚異の小説。ブッカー賞候補。村上春樹の世界観をさらに複雑にしたような構造美。読めば読むほど新たなつながりが見えてくる。",
+      "whyReadJa": "「小説にしかできないこと」を追求した野心作。映画化もされたが、この構造は小説でしか味わえない。村上春樹とヴォネガットの中間地点を行く快作。",
+      "tags": [
+        "イギリス文学",
+        "SF",
+        "実験小説",
+        "入れ子構造"
+      ],
+      "selectionReasonJa": "6つの時代がマトリョーシカ構造でつながる、現代SF文学の野心作。",
+      "titleEn": "Cloud Atlas"
+    },
+    {
+      "slug": "the-fifth-season",
+      "title": "The Fifth Season",
+      "titleJa": "第五の季節",
+      "author": "N.K. Jemisin",
+      "authorJa": "N・K・ジェミシン",
+      "country": "アメリカ",
+      "year": 2015,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8133598-L.jpg",
+      "asin": "4488784011",
+      "descriptionJa": "大地震が日常の世界で、地震を操る能力を持つ「オロジェン」たちは差別と搾取の対象——SFファンタジーの枠組みで人種差別と環境破壊の寓話を描き、ヒューゴー賞を史上初の3年連続受賞した金字塔。SFというジャンルを根本から書き換えた現代の必読書。",
+      "whyReadJa": "SFに偏見がある人にこそ読んでほしい。文学としても最高水準で、差別の構造、環境危機、母と子の物語が絡み合う。読み始めたら止まらない。",
+      "tags": [
+        "SF",
+        "ファンタジー",
+        "人種",
+        "環境",
+        "ヒューゴー賞"
+      ],
+      "selectionReasonJa": "ヒューゴー賞3年連続受賞の金字塔。SFとファンタジーの境界を破った。",
+      "titleEn": "The Fifth Season"
+    },
+    {
+      "slug": "annihilation",
+      "title": "Annihilation",
+      "titleJa": "全滅領域",
+      "author": "Jeff VanderMeer",
+      "authorJa": "ジェフ・ヴァンダミア",
+      "country": "アメリカ",
+      "year": 2014,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8408974-L.jpg",
+      "asin": "B00QA172S6",
+      "descriptionJa": "未知の環境災害で閉鎖された「エリアX」に、女性生物学者が調査隊として足を踏み入れる——そこで彼女が見たものは、自然と人間の境界を溶解させる、おぞましくも美しい光景だった。映画化もされたニューウィアードの傑作。SFとホラーと環境文学の境界を消し去る。",
+      "whyReadJa": "短くて強烈。読後感が他の本と違う——「理解できないもの」に触れるカタルシス。カフカとラヴクラフトとレイチェル・カーソンの融合。",
+      "tags": [
+        "SF",
+        "ホラー",
+        "環境",
+        "ニューウィアード"
+      ],
+      "selectionReasonJa": "未知の環境と人間を描く、ニューウィアードの傑作。",
+      "titleEn": "Annihilation"
+    },
+    {
+      "slug": "stories-of-your-life-and-others",
+      "title": "Stories of Your Life and Others",
+      "titleJa": "あなたの人生の物語",
+      "author": "Ted Chiang",
+      "authorJa": "テッド・チャン",
+      "country": "アメリカ",
+      "year": 2002,
+      "genre": [
+        "小説",
+        "SF",
+        "短編集"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/524046-L.jpg",
+      "asin": "B00O2O7JEA",
+      "descriptionJa": "映画『メッセージ』の原作「あなたの人生の物語」を含む、たった8編でSF史を塗り替えた短編集。言語学、物理学、宗教学、計算機科学をモチーフに、人間の認識の限界に挑む。一編ごとに世界の見え方が変わる知性の結晶。SFを読まない人にこそ読んでほしい。",
+      "whyReadJa": "短編集の最高傑作の一つ。文学的にも科学的にも極上で、思考実験がこれほどエモーショナルな体験になるのかと驚く。ボルヘス『伝奇集』好きに。",
+      "tags": [
+        "SF",
+        "短編集",
+        "言語学",
+        "哲学"
+      ],
+      "selectionReasonJa": "映画『メッセージ』の原作。短編SFの最高傑作の一つ。",
+      "titleEn": "Stories of Your Life and Others"
+    },
+    {
+      "slug": "klara-and-the-sun",
+      "title": "Klara and the Sun",
+      "titleJa": "クララとお日さま",
+      "author": "Kazuo Ishiguro",
+      "authorJa": "カズオ・イシグロ",
+      "country": "イギリス",
+      "year": 2021,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10648686-L.jpg",
+      "asin": "4151201092",
+      "descriptionJa": "病弱な少女の「人工友人（AF）」として購入されたクララ。太陽の力で人間を癒せるのではないかと信じる彼女の純粋な視点を通して、愛とは、意識とは、人間であることの意味とは何かが静かに問われる。ノーベル賞作家が長篇デビュー作以来44年ぶりにSF的装置を使った話題作。",
+      "whyReadJa": "日本人の感性を持つノーベル賞作家の最新作。村上春樹ファンにも響く「異質な語り手が人間を見つめる」視点。AI時代の愛を考える一冊としても。",
+      "tags": [
+        "SF",
+        "イギリス文学",
+        "ノーベル賞",
+        "AI",
+        "アイデンティティ"
+      ],
+      "selectionReasonJa": "ノーベル賞作家が描く、AIと人間の愛。",
+      "titleEn": "Klara and the Sun"
+    },
+    {
+      "slug": "dune",
+      "title": "Dune",
+      "titleJa": "デューン",
+      "author": "Frank Herbert",
+      "authorJa": "フランク・ハーバート",
+      "country": "アメリカ",
+      "year": 1965,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "宇宙の覇権を握る「香料」が産出される砂の惑星アラキス。そこに追放された貴族アトレイデス家の若き当主ポールは、砂漠の民フレメンと出会い、救世主としての運命に引きずり込まれる。SF文学の最高傑作にして、生態学と宗教と権力を巡る壮大な叙事詩。",
+      "whyReadJa": "SFを読むならまずこれ。映画化で再注目される、宇宙オペラの金字塔。世界観の深さが桁違い。",
+      "tags": [
+        "SF",
+        "生態学",
+        "宇宙",
+        "権力"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/11481354-L.jpg",
+      "selectionReasonJa": "SF文学の最高傑作。生態学と宗教と権力の壮大な叙事詩。",
+      "titleEn": "Dune"
+    },
+    {
+      "slug": "foundation",
+      "title": "Foundation",
+      "titleJa": "ファウンデーション",
+      "author": "Isaac Asimov",
+      "authorJa": "アイザック・アシモフ",
+      "country": "アメリカ",
+      "year": 1951,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "数学によって未来を予測する「心理歴史学」。銀河帝国の崩壊を予見したハリ・セルダンは、文明の暗黒時代を短縮するため「ファウンデーション」を創設する。人類史の縮図として読める、SF黄金時代を代表する名著。",
+      "whyReadJa": "「文明はどう崩壊し、どう再建されるか」を一つの仮説で描いた、構想力の怪物。ドラマ化でも再注目。",
+      "tags": [
+        "SF",
+        "宇宙",
+        "文明",
+        "未来予測"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/14612610-L.jpg",
+      "selectionReasonJa": "文明の崩壊と再建を描く、SF黄金時代を代表する名著。",
+      "titleEn": "Foundation"
+    },
+    {
+      "slug": "neuromancer",
+      "title": "Neuromancer",
+      "titleJa": "ニューロマンサー",
+      "author": "William Gibson",
+      "authorJa": "ウィリアム・ギブスン",
+      "country": "アメリカ",
+      "year": 1984,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "「サイバースペース」という言葉を生んだ、サイバーパンクの金字塔。雇われハッカー「ケイス」が、謎の依頼で巨大AIの世界へ潜入する。1980年代に書かれたにもかかわらず、ネット社会の原型を予言していた。",
+      "whyReadJa": "今の私たちの生活を形作った「デジタル世界観」の起源。SF史を変えた一冊。",
+      "tags": [
+        "SF",
+        "サイバーパンク",
+        "ハッカー",
+        "AI"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/283860-L.jpg",
+      "selectionReasonJa": "「サイバースペース」を生んだ、サイバーパンクの金字塔。",
+      "titleEn": "Neuromancer"
+    },
+    {
+      "slug": "the-left-hand-of-darkness",
+      "title": "The Left Hand of Darkness",
+      "titleJa": "闇の左手",
+      "author": "Ursula K. Le Guin",
+      "authorJa": "アーシュラ・K・ル＝グウィン",
+      "country": "アメリカ",
+      "year": 1969,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "性別を持たず、月に一度だけ性別が発生する惑星ゲセン。大使として派遣された地球人のジェンリーは、性の概念を超えた「人間」の可能性に直面する。SF作家協会賞・ヒューゴー賞を受賞。性と人を問い直すSFの最高峰。",
+      "whyReadJa": "「性別がなかったら、人間はどうなるか」を描いた、フェミニズムSFの先駆け。イシグロも愛読。",
+      "tags": [
+        "SF",
+        "ジェンダー",
+        "宇宙",
+        "ヒューゴー賞"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10618463-L.jpg",
+      "selectionReasonJa": "性別を持たない惑星を描く、ヒューゴー賞受賞のフェミニズムSF。",
+      "titleEn": "The Left Hand of Darkness"
+    },
+    {
+      "slug": "the-dispossessed",
+      "title": "The Dispossessed",
+      "titleJa": "所有せざる人々",
+      "author": "Ursula K. Le Guin",
+      "authorJa": "アーシュラ・K・ル＝グウィン",
+      "country": "アメリカ",
+      "year": 1974,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "無政府主義の理想郷アナレスと、資本主義の惑星ウラス。数学者シェヴェクは、二つの世界の橋渡しとしてウラスに旅立つ。理想社会の現実と、自由の意味を問う、ル＝グウィンの最高傑作。ヒューゴー賞・ネビュラ賞受賞。",
+      "whyReadJa": "「理想の社会」をSFとして真剣に考えた、思想性の高い傑作。政治と社会に興味のある人に。",
+      "tags": [
+        "SF",
+        "無政府主義",
+        "理想社会",
+        "ヒューゴー賞"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/6979680-L.jpg",
+      "selectionReasonJa": "理想社会を真剣に考えた、ル＝グウィンの最高傑作。",
+      "titleEn": "The Dispossessed"
+    },
+    {
+      "slug": "kindred",
+      "title": "Kindred",
+      "titleJa": "キンドレッド",
+      "author": "Octavia Butler",
+      "authorJa": "オクティヴィア・バトラー",
+      "country": "アメリカ",
+      "year": 1979,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "1976年、黒人女性編集者のダナは、突然19世紀の奴隷制時代のメリーランドに呼び寄せられる。時代を超えて祖先の白人少年を守るたび、彼女は「黒人であり女性である」ことの歴史的現実を身体で経験する。タイムトラベルSFの傑作。",
+      "whyReadJa": "「タイムトラベル」を人種問題に使った、SF史に残る最重要作。人種文学とSFの交点。",
+      "tags": [
+        "SF",
+        "人種",
+        "タイムトラベル",
+        "黒人文学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8745330-L.jpg",
+      "selectionReasonJa": "タイムトラベルで奴隷制時代へ。人種と歴史を問うSF史の傑作。",
+      "titleEn": "Kindred"
+    },
+    {
+      "slug": "parable-of-the-sower",
+      "title": "Parable of the Sower",
+      "titleJa": "種まく者のたとえ",
+      "author": "Octavia Butler",
+      "authorJa": "オクティヴィア・バトラー",
+      "country": "アメリカ",
+      "year": 1993,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "環境崩壊と格差で社会が瓦解した2024年のアメリカ。共感覚を持つ黒人少女ローレンは、新たな宗教「アースシード」を胸に、崩壊する世界を北へ歩く。現代の気候危機を予見した、ディストピアSFの傑作。",
+      "whyReadJa": "「神は変化である」——独自の宗教観を持つ、思想性の高いSF。バトラーの代表作。",
+      "tags": [
+        "SF",
+        "ディストピア",
+        "環境",
+        "黒人文学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10466266-L.jpg",
+      "selectionReasonJa": "環境崩壊後のアメリカを描く、バトラーの代表作。",
+      "titleEn": "Parable of the Sower"
+    },
+    {
+      "slug": "fahrenheit-451",
+      "title": "Fahrenheit 451",
+      "titleJa": "華氏451度",
+      "author": "Ray Bradbury",
+      "authorJa": "レイ・ブラッドベリ",
+      "country": "アメリカ",
+      "year": 1953,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "本を燃やすことが使命の「消防士」モンターグ。しかし彼は、本が燃やされる世界の空虚さに気づき始める。「華氏451度」は紙が発火する温度。検閲と無知を描いた、ディストピア文学の古典にして、読書の意味を問う作品。",
+      "whyReadJa": "「本を読まない社会」を描いた警告。SNS時代の私たちにも通じる、思考の自由を問う一冊。",
+      "tags": [
+        "ディストピア",
+        "SF",
+        "検閲",
+        "本"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12993656-L.jpg",
+      "selectionReasonJa": "本を燃やす社会を描く、検閲と思考の自由を問う古典。",
+      "titleEn": "Fahrenheit 451"
+    },
+    {
+      "slug": "do-androids-dream-of-electric-sheep",
+      "title": "Do Androids Dream of Electric Sheep?",
+      "titleJa": "アンドロイドは電気羊の夢を見るか?",
+      "author": "Philip K. Dick",
+      "authorJa": "フィリップ・K・ディック",
+      "country": "アメリカ",
+      "year": 1968,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "核戦争後の地球。賞金稼ぎのリックは、逃亡アンドロイドを「退役」させるため、感情を検出するテストを駆使する。映画『ブレードランナー』の原作。人間と機械の境界、記憶と共感の意味を問う、SFの金字塔。",
+      "whyReadJa": "「人間らしさ」とは何か——AI時代の私たちが読むべき、先見の明を持つ一冊。",
+      "tags": [
+        "SF",
+        "アンドロイド",
+        "AI",
+        "記憶"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/207515-L.jpg",
+      "selectionReasonJa": "人間と機械の境界を問う、映画『ブレードランナー』の原作。",
+      "titleEn": "Do Androids Dream of Electric Sheep?"
+    },
+    {
+      "slug": "solaris",
+      "title": "Solaris",
+      "titleJa": "ソラリス",
+      "author": "Stanisław Lem",
+      "authorJa": "スタニスワフ・レム",
+      "country": "ポーランド",
+      "year": 1961,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "知性を持った海に覆われた惑星ソラリス。研究員クリスが、かつて亡くした妻の「複製」と再会する。理解しえないものとの遭遇を描き、SFと哲学を融合させたレムの最高傑作。",
+      "whyReadJa": "「宇宙人は理解できるか」——接触SFの最高峰。難解だが、そこに文学的な深みがある。",
+      "tags": [
+        "SF",
+        "宇宙",
+        "哲学",
+        "ポーランド"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12313764-L.jpg",
+      "selectionReasonJa": "理解しえないものとの遭遇を描く、接触SFの最高峰。",
+      "titleEn": "Solaris"
+    },
+    {
+      "slug": "roadside-picnic",
+      "title": "Пикник на обочине",
+      "titleJa": "路傍のピクニック",
+      "author": "Arkady Strugatsky",
+      "authorJa": "アルカジイ・ストルガツキー",
+      "country": "ロシア",
+      "year": 1972,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "地球に来訪した何者かが残した「ゾーン」——危険な異界と化した地域。その中に残された文明の遺物を狙う「スタルカー」たちがいた。映画『ストーカー』の原作。人間の欲望と未知との遭遇を描く、ロシアSFの傑作。",
+      "whyReadJa": "タルコフスキー映画の原作としても有名。ゾーンという比喩が、今の世界にも強く響く。",
+      "tags": [
+        "SF",
+        "ロシア",
+        "未知",
+        "映画原作"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/6752719-L.jpg",
+      "selectionReasonJa": "映画『ストーカー』の原作。ゾーンという比喩が現代に響くロシアSF。",
+      "titleEn": "Roadside Picnic"
+    },
+    {
+      "slug": "a-wizard-of-earthsea",
+      "title": "A Wizard of Earthsea",
+      "titleJa": "ゲド戦記 影との戦い",
+      "author": "Ursula K. Le Guin",
+      "authorJa": "アーシュラ・K・ル＝グウィン",
+      "country": "アメリカ",
+      "year": 1968,
+      "genre": [
+        "ファンタジー"
+      ],
+      "descriptionJa": "島々の群れ「アースシー」。若き魔法使いゲドは、力を試すために死の影を呼び出してしまう。その影から逃れ、名前と死と向き合う物語。トールキン以後のファンタジー文学を最も深く変えた、ル＝グウィンの傑作。",
+      "whyReadJa": "「名前」と「死」をテーマにした、ファンタジーの最高傑作。宮﨑駿監督が映画化を試みた。",
+      "tags": [
+        "ファンタジー",
+        "魔法",
+        "成長",
+        "ル＝グウィン"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/13617691-L.jpg",
+      "selectionReasonJa": "名前と死をめぐる、ファンタジーの最高傑作。",
+      "titleEn": "A Wizard of Earthsea"
+    },
+    {
+      "slug": "the-martian",
+      "title": "The Martian",
+      "titleJa": "火星の人",
+      "author": "Andy Weir",
+      "authorJa": "アンディ・ウィアー",
+      "country": "アメリカ",
+      "year": 2011,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "火星に取り残された宇宙飛行士マーク・ワトニー。仲間からは死亡と思われ、食料は限られる。しかし彼は植物学者であり、全人類が持つ道具「科学」と「ユーモア」で生き延びようとする。科学で一歩ずつ問題を解決する、感動の生存譚。",
+      "whyReadJa": "「科学で世界を攻略する」面白さ。SF初心者にも読める、ポジティブで痛快な一冊。",
+      "tags": [
+        "SF",
+        "火星",
+        "科学",
+        "生存"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/11447888-L.jpg",
+      "selectionReasonJa": "科学で火星で生き延びる、ポジティブで痛快なSF。",
+      "titleEn": "The Martian"
+    },
+    {
+      "slug": "project-hail-mary",
+      "title": "Project Hail Mary",
+      "titleJa": "プロジェクト・ヘイル・メアリー",
+      "author": "Andy Weir",
+      "authorJa": "アンディ・ウィアー",
+      "country": "アメリカ",
+      "year": 2021,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "記憶を失ったまま、未知の宇宙船で目覚めた男グレース。地球は危機に瀕しており、彼はその解決のための「一人の希望」だった。科学、友情、そして地球を救うミッション。『火星の人』の著者による、最高に心温まるSF。",
+      "whyReadJa": "「科学の面白さ」と「友情」を同時に味わえる。全人類が楽しめる、近年のSFの最高傑作の一つ。",
+      "tags": [
+        "SF",
+        "宇宙",
+        "科学",
+        "友情"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/11200092-L.jpg",
+      "selectionReasonJa": "科学と友情を描く、近年のSFの最高傑作の一つ。",
+      "titleEn": "Project Hail Mary"
+    },
+    {
+      "slug": "station-eleven",
+      "title": "Station Eleven",
+      "titleJa": "ステーション・イレブン",
+      "author": "Emily St. John Mandel",
+      "authorJa": "エミリー・セント・ジョン・マンデル",
+      "country": "カナダ",
+      "year": 2014,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "新型インフルエンザで文明が崩壊した20年後。廃墟となった北米を、移動演劇一座が旅する。疫病前後の世界を描き、芸術と記憶、人間の営みの意味を問う。全米図書賞候補。ディストピア文学の新しい古典。",
+      "whyReadJa": "「パンデミック後の世界」を描いたことで再評価された傑作。文明が壊れても残るものは何か。",
+      "tags": [
+        "SF",
+        "パンデミック",
+        "芸術",
+        "ディストピア"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/7369961-L.jpg",
+      "selectionReasonJa": "パンデミック後の世界を描く、ディストピア文学の新しい古典。",
+      "titleEn": "Station Eleven"
+    },
+    {
+      "slug": "the-city-and-the-city",
+      "title": "The City & the City",
+      "titleJa": "都市と都市",
+      "author": "China Miéville",
+      "authorJa": "チャイナ・ミエヴィル",
+      "country": "イギリス",
+      "year": 2009,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "同じ土地に重なって存在しながら、互いを「見てはいけない」二つの都市、ベジェルとウル・コマ。殺人事件の捜査が、二つの都市の禁忌に踏み込んでいく。世界SF賞受賞。都市の政治と「見ること」をめぐる、異色のSFミステリ。",
+      "whyReadJa": "「見えてはいけないものを無視する」という社会的規律のSF化。現実の排他性を考える傑作。",
+      "tags": [
+        "SF",
+        "ミステリ",
+        "都市",
+        "世界SF賞"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8455453-L.jpg",
+      "selectionReasonJa": "「見てはいけない」都市をめぐる、世界SF賞受賞のSFミステリ。",
+      "titleEn": "The City & the City"
+    },
+    {
+      "slug": "piranesi",
+      "title": "Piranesi",
+      "titleJa": "ピラネージ",
+      "author": "Susanna Clarke",
+      "authorJa": "スザンナ・クラーク",
+      "country": "イギリス",
+      "year": 2020,
+      "genre": [
+        "小説",
+        "ファンタジー"
+      ],
+      "descriptionJa": "無数の広間と彫像が並ぶ巨大な「館」に住むピラネージ。彼はその館が「世界のすべて」だと信じている。しかし別の住人である「もう一人」が、彼に館の外の世界を教え始める。孤独と記憶をめぐる、静かで美しいファンタジー。",
+      "whyReadJa": "『ナルニア国物語』の著者クラークの復活作。世界で最も美しい構造物についての小説。",
+      "tags": [
+        "ファンタジー",
+        "記憶",
+        "孤独",
+        "イギリス"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10226290-L.jpg",
+      "selectionReasonJa": "無限の館に住む男の物語。孤独と記憶の美しいファンタジー。",
+      "titleEn": "Piranesi"
+    },
+    {
+      "slug": "american-gods",
+      "title": "American Gods",
+      "titleJa": "アメリカン・ゴッズ",
+      "author": "Neil Gaiman",
+      "authorJa": "ニール・ゲイマン",
+      "country": "イギリス",
+      "year": 2001,
+      "genre": [
+        "小説",
+        "ファンタジー"
+      ],
+      "descriptionJa": "オーディンやアナンシといった「古い神々」は、移民とともにアメリカに渡ってきた。しかし今、彼らは「テレビ・神」「インターネット・神」といった新しい神々に取って代わられようとしている。神々の戦争に巻き込まれた男シャドウの、アメリカ横断の物語。",
+      "whyReadYa": "",
+      "whyReadJa": "「移民の神々」と「消費社会の神々」の戦争。アメリカという国を神話の視点から読む、壮大なファンタジー。",
+      "tags": [
+        "ファンタジー",
+        "神話",
+        "アメリカ",
+        "ヒューゴー賞"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8494659-L.jpg",
+      "selectionReasonJa": "移民の神々と消費社会の神々の戦争を描く、ヒューゴー賞受賞作。",
+      "titleEn": "American Gods"
+    },
+    {
+      "slug": "the-hobbit",
+      "title": "The Hobbit",
+      "titleJa": "ホビットの冒険",
+      "author": "J.R.R. Tolkien",
+      "authorJa": "J・R・R・トールキン",
+      "country": "イギリス",
+      "year": 1937,
+      "genre": [
+        "ファンタジー"
+      ],
+      "descriptionJa": "「ゆかいで、あなたにぴったりの一歩を踏み出す物語」。臆病なホビットのビルボが、ドワーフたちとともに竜の財宝を求めて旅に出る。ファンタジー文学の原型を築いた、トールキンの不朽の名作。",
+      "whyReadJa": "ファンタジーを読むなら、必ず通る道。物語の黄金時代の始まりがここにある。",
+      "tags": [
+        "ファンタジー",
+        "トールキン",
+        "冒険",
+        "ホビット"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/14627509-L.jpg",
+      "selectionReasonJa": "ファンタジー文学の原型を築いた、トールキンの不朽の名作。",
+      "titleEn": "The Hobbit"
+    },
+    {
+      "slug": "the-lord-of-the-rings",
+      "title": "The Lord of the Rings",
+      "titleJa": "指輪物語",
+      "author": "J.R.R. Tolkien",
+      "authorJa": "J・R・R・トールキン",
+      "country": "イギリス",
+      "year": 1954,
+      "genre": [
+        "ファンタジー"
+      ],
+      "descriptionJa": "「一つの指輪はすべてを統べる」。世界を支配する力を持つ指輪を破壊するため、ホビットのフロドは危険な旅に出る。善と悪、友情と自己犠牲を描く、ファンタジー文学の頂点。",
+      "whyReadJa": "ファンタジーの「聖書」。世界中の物語に影響を与えた、想像力の金字塔。",
+      "tags": [
+        "ファンタジー",
+        "トールキン",
+        "指輪",
+        "冒険"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/14625765-L.jpg",
+      "selectionReasonJa": "ファンタジー文学の聖書。想像力の金字塔。",
+      "titleEn": "The Lord of the Rings"
+    },
+    {
+      "slug": "the-name-of-the-wind",
+      "title": "The Name of the Wind",
+      "titleJa": "風の名前",
+      "author": "Patrick Rothfuss",
+      "authorJa": "パトリック・ロスファス",
+      "country": "アメリカ",
+      "year": 2007,
+      "genre": [
+        "ファンタジー"
+      ],
+      "descriptionJa": "「伝説の魔術師」クォースが、自らの真実の物語を語り始める——貧しい旅一座の少年から、大学で魔法を学ぶまで。語りの美しさと、それに隠された秘密。ファンタジー界に衝撃を与えたデビュー作。",
+      "whyReadJa": "「語ること」を主題にした、最も美しいファンタジーの一つ。次巻が待ちきれなくなる中毒性。",
+      "tags": [
+        "ファンタジー",
+        "魔法",
+        "冒険",
+        "物語"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/11480483-L.jpg",
+      "selectionReasonJa": "「語ること」を主題にした、最も美しいファンタジー。",
+      "titleEn": "The Name of the Wind"
+    },
+    {
+      "slug": "the-sandman",
+      "title": "The Sandman",
+      "titleJa": "サンドマン",
+      "author": "Neil Gaiman",
+      "authorJa": "ニール・ゲイマン",
+      "country": "イギリス",
+      "year": 1989,
+      "genre": [
+        "ファンタジー",
+        "グラフィックノベル"
+      ],
+      "descriptionJa": "「夢の主」モーフィアスことサンドマンは、囚われから解放され、失われた王国を再建する旅に出る。神話、文学、歴史を横断する、グラフィックノベル史上最も文学的で壮大な作品。",
+      "whyReadJa": "コミックの枠を超えた「物語の殿堂」。文学ファンにも、是非読んでほしい一冊。",
+      "tags": [
+        "ファンタジー",
+        "グラフィックノベル",
+        "神話",
+        "夢"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12207327-L.jpg",
+      "selectionReasonJa": "コミックの枠を超えた、グラフィックノベル史上最も文学的で壮大な作品。",
+      "titleEn": "The Sandman"
+    },
+    {
+      "slug": "solarpunk",
+      "title": "A Psalm for the Wild-Built",
+      "titleJa": "野生のための詩篇",
+      "author": "Becky Chambers",
+      "authorJa": "ベッキー・チェンバース",
+      "country": "アメリカ",
+      "year": 2021,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "ロボットが人間の元を離れて200年後の、環境再生が進む未来。お茶を淹れることに生きがいを見つけた修道士デクスは、「何が足りないのか」を求めて旅に出る。ソーラーパンクSFの金字塔。心が温かくなる、優しい未来。",
+      "whyReadJa": "「破滅ではなく再生」を描いた、ソーラーパンクの代表作。息苦しいSFに疲れた人に。",
+      "tags": [
+        "SF",
+        "ソーラーパンク",
+        "環境",
+        "ほっこり"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10476616-L.jpg",
+      "selectionReasonJa": "破滅ではなく再生を描く、ソーラーパンクの代表作。",
+      "titleEn": "A Psalm for the Wild-Built"
+    },
+    {
+      "slug": "the-war-of-the-worlds",
+      "title": "The War of the Worlds",
+      "titleJa": "宇宙戦争",
+      "author": "H.G. Wells",
+      "authorJa": "H・G・ウェルズ",
+      "country": "イギリス",
+      "year": 1898,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "火星人が空から降り立ち、イギリスを破壊する。新聞社が実際の事件として放送しパニックを起こした、SF黎明期の金字塔。地球外生命との接触というテーマの原型。",
+      "whyReadJa": "「エイリアン侵略」SFの原点。現在の宇宙SFのすべてはここから始まった。",
+      "tags": [
+        "SF",
+        "火星",
+        "侵略",
+        "古典SF"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/36314-L.jpg",
+      "selectionReasonJa": "エイリアン侵略SFの原点。火星人とイギリスの戦い。",
+      "titleEn": "The War of the Worlds"
+    },
+    {
+      "slug": "the-time-machine",
+      "title": "The Time Machine",
+      "titleJa": "タイムマシン",
+      "author": "H.G. Wells",
+      "authorJa": "H・G・ウェルズ",
+      "country": "イギリス",
+      "year": 1895,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "時間旅行者（タイム・トラベラー）が、80万年後の未来へ旅する。エロイとモーロック——階級が進化した二種族の世界。タイムトラベルというジャンルを作った、SFの原典。",
+      "whyReadJa": "「時間」をSFにした最初の名作。未来社会の比喩としても深い。",
+      "tags": [
+        "SF",
+        "タイムトラベル",
+        "未来",
+        "古典SF"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/9009316-L.jpg",
+      "selectionReasonJa": "タイムトラベルというジャンルを作った、SFの原典。",
+      "titleEn": "The Time Machine"
+    },
+    {
+      "slug": "the-invisible-man",
+      "title": "The Invisible Man",
+      "titleJa": "透明人間",
+      "author": "H.G. Wells",
+      "authorJa": "H・G・ウェルズ",
+      "country": "イギリス",
+      "year": 1897,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "透明になることに成功した科学者グリフィン。しかし目に見えない彼は、社会から追い詰められ、暴走していく。科学の欲望と人間性の喪失を描く、ウェルズのSF傑作。",
+      "whyReadJa": "「見えない力」を持つ人間の孤立。サイエンス・フィクションの名作。",
+      "tags": [
+        "SF",
+        "科学",
+        "透明",
+        "古典SF"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/6419199-L.jpg",
+      "selectionReasonJa": "透明になる科学者の暴走を描く、ウェルズのSF傑作。",
+      "titleEn": "The Invisible Man"
+    },
+    {
+      "slug": "the-island-of-dr-moreau",
+      "title": "The Island of Doctor Moreau",
+      "titleJa": "モロー博士の島",
+      "author": "H.G. Wells",
+      "authorJa": "H・G・ウェルズ",
+      "country": "イギリス",
+      "year": 1896,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "動物を人間に改造するモロー博士の孤島。人間と動物の境界をめぐる、禁じられた科学の物語。バイオエシックスを先取りした、SFの古典中の古典。",
+      "whyReadJa": "「人間とは何か」をSFで問う。科学と倫理の原点。",
+      "tags": [
+        "SF",
+        "科学",
+        "倫理",
+        "古典SF"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/968312-L.jpg",
+      "selectionReasonJa": "人間と動物の境界を問う、バイオエシックスの先駆け。",
+      "titleEn": "The Island of Doctor Moreau"
+    },
+    {
+      "slug": "the-frankenstein",
+      "title": "Frankenstein",
+      "titleJa": "フランケンシュタイン",
+      "author": "Mary Shelley",
+      "authorJa": "メアリー・シェリー",
+      "country": "イギリス",
+      "year": 1818,
+      "genre": [
+        "小説",
+        "SF",
+        "ホラー"
+      ],
+      "descriptionJa": "生命を創造した科学者フランケンシュタイン。しかし、その「怪物」は愛を求め、世界に絶望していく。SFとホラーと人間性の問いをすべて含む、近代ゴシックの原点。",
+      "whyReadJa": "「創造者と被造物」の物語。すべてのAI・ロボット物語の原型。",
+      "tags": [
+        "SF",
+        "ホラー",
+        "科学",
+        "古典"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/15118068-L.jpg",
+      "selectionReasonJa": "「創造者と被造物」の物語。すべてのAI・ロボット物語の原型。",
+      "titleEn": "Frankenstein"
+    },
+    {
+      "slug": "the-journey-to-the-centre",
+      "title": "Voyage au centre de la Terre",
+      "titleJa": "地底旅行",
+      "author": "Jules Verne",
+      "authorJa": "ジュール・ヴェルヌ",
+      "country": "フランス",
+      "year": 1864,
+      "genre": [
+        "小説",
+        "SF",
+        "冒険"
+      ],
+      "descriptionJa": "教授と甥、そして案内人が、氷河の火口から地球の中心へと降りていく。冒険SFの父ヴェルヌの、恐竜と海が待つ地下世界への旅。",
+      "whyReadJa": "「探検SF」の原型。科学と冒険が融合した、ヴェルヌの代表作。",
+      "tags": [
+        "SF",
+        "冒険",
+        "地底",
+        "ヴェルヌ"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/11410416-L.jpg",
+      "selectionReasonJa": "探検SFの原型。ヴェルヌの地底冒険。",
+      "titleEn": "Journey to the Centre of the Earth"
+    },
+    {
+      "slug": "the-twenty-thousand-leagues",
+      "title": "Vingt mille lieues sous les mers",
+      "titleJa": "海底二万里",
+      "author": "Jules Verne",
+      "authorJa": "ジュール・ヴェルヌ",
+      "country": "フランス",
+      "year": 1870,
+      "genre": [
+        "小説",
+        "SF",
+        "冒険"
+      ],
+      "descriptionJa": "謎の巨大生物の調査に赴いた科学者たちが、潜水艦ノーチラス号とネモ船長に囚われる。神秘の海底世界を描く、海洋SFの最高傑作。",
+      "whyReadJa": "「海の神秘」と「孤独な天才」の物語。ヴェルヌの最高傑作。",
+      "tags": [
+        "SF",
+        "海洋",
+        "潜水艦",
+        "ヴェルヌ"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/7063711-L.jpg",
+      "selectionReasonJa": "海洋SFの最高傑作。ネモ船長とノーチラス号。",
+      "titleEn": "Twenty Thousand Leagues Under the Seas"
+    },
+    {
+      "slug": "the-first-men-in-the-moon",
+      "title": "The First Men in the Moon",
+      "titleJa": "月世界最初の人間",
+      "author": "H.G. Wells",
+      "authorJa": "H・G・ウェルズ",
+      "country": "イギリス",
+      "year": 1901,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "反重力物質「カヴォライト」で月へ向かった二人の男。月の地下に広がる、昆虫型の知的生命の社会。月面探検の物語として、最も早く書かれたSFの一つ。",
+      "whyReadJa": "「月」を舞台にした最初期のSF。ウェルズの想像力の原点。",
+      "tags": [
+        "SF",
+        "月",
+        "宇宙",
+        "古典SF"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8081288-L.jpg",
+      "selectionReasonJa": "月を舞台にした最初期のSF。ウェルズの想像力の原点。",
+      "titleEn": "The First Men in the Moon"
+    },
+    {
+      "slug": "the-childhoods-end",
+      "title": "Childhood's End",
+      "titleJa": "幼年期の終わり",
+      "author": "Arthur C. Clarke",
+      "authorJa": "アーサー・C・クラーク",
+      "country": "イギリス",
+      "year": 1953,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "地球を支配した「オーバーロード」は、人類を導くために来たのではなく、人類の「進化の終着点」を待っていた。地球外生命と人類の未来を描く、SF黄金期の最高傑作。",
+      "whyReadJa": "「人類の次」を描く、最も壮大なSF。クラークの代表作。",
+      "tags": [
+        "SF",
+        "宇宙",
+        "進化",
+        "黄金期SF"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/210200-L.jpg",
+      "selectionReasonJa": "人類の「進化の終着点」を描く、クラークの代表作。",
+      "titleEn": "Childhood's End"
+    },
+    {
+      "slug": "the-2001-a-space-odyssey",
+      "title": "2001: A Space Odyssey",
+      "titleJa": "2001年宇宙の旅",
+      "author": "Arthur C. Clarke",
+      "authorJa": "アーサー・C・クラーク",
+      "country": "イギリス",
+      "year": 1968,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "神秘のモノリス。自我を持つコンピュータHAL9000。人類の進化と宇宙の謎をめぐる、SF史上最も影響力のある物語。映画と小説の両方で語り継がれる傑作。",
+      "whyReadJa": "「AI」と「人類の進化」を描いた、宇宙SFの最高峰。",
+      "tags": [
+        "SF",
+        "宇宙",
+        "AI",
+        "進化"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/15170836-L.jpg",
+      "selectionReasonJa": "AIと人類の進化を描く、宇宙SFの最高峰。",
+      "titleEn": "2001: A Space Odyssey"
+    },
+    {
+      "slug": "the-rampage-of-the-future",
+      "title": "Rendezvous with Rama",
+      "titleJa": "宇宙のランデブー",
+      "author": "Arthur C. Clarke",
+      "authorJa": "アーサー・C・クラーク",
+      "country": "イギリス",
+      "year": 1973,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "太陽系に突入してきた謎の巨大物体「ラマ」。人類はその内部を調査するが、それは未知の宇宙船だった。ヒューゴー賞・ネビュラ賞受賞。未知との遭遇SFの傑作。",
+      "whyReadJa": "「未知の物体との接触」をリアルに描く、ハードSFの金字塔。",
+      "tags": [
+        "SF",
+        "宇宙",
+        "接触",
+        "ハードSF"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/13472608-L.jpg",
+      "selectionReasonJa": "未知の物体との接触をリアルに描く、ハードSFの金字塔。",
+      "titleEn": "Rendezvous with Rama"
+    },
+    {
+      "slug": "the-enders-game",
+      "title": "Ender's Game",
+      "titleJa": "エンダーのゲーム",
+      "author": "Orson Scott Card",
+      "authorJa": "オーソン・スコット・カード",
+      "country": "アメリカ",
+      "year": 1985,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "天才児エンダーは、宇宙戦争の指揮官になるために、ゲームで「訓練」される。しかし、そのゲームの本当の意味を知ったとき——。戦争と教育と倫理を問う、SFの金字塔。ヒューゴー賞・ネビュラ賞受賞。",
+      "whyReadJa": "「子どもと戦争」を描く、SF史に残る傑作。映画化もされた。",
+      "tags": [
+        "SF",
+        "戦争",
+        "子ども",
+        "ヒューゴー賞"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12996033-L.jpg",
+      "selectionReasonJa": "子どもと戦争を描く、ヒューゴー賞・ネビュラ賞受賞の金字塔。",
+      "titleEn": "Ender's Game"
+    },
+    {
+      "slug": "the-speaker-for-the-dead",
+      "title": "Speaker for the Dead",
+      "titleJa": "死者の代弁者",
+      "author": "Orson Scott Card",
+      "authorJa": "オーソン・スコット・カード",
+      "country": "アメリカ",
+      "year": 1986,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "エンダーは、「死者の代弁者」として別の惑星の植民地に赴き、異星種族「ペキニーノ」の謎に挑む。シリーズ第二作。ヒューゴー賞・ネビュラ賞受賞。",
+      "whyReadJa": "「異種族との和解」を描く、エンダーシリーズの頂点。",
+      "tags": [
+        "SF",
+        "異星人",
+        "和解",
+        "ヒューゴー賞"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/9315123-L.jpg",
+      "selectionReasonJa": "異種族との和解を描く、エンダーシリーズの頂点。",
+      "titleEn": "Speaker for the Dead"
+    },
+    {
+      "slug": "the-left-handed-story",
+      "title": "The Lathe of Heaven",
+      "titleJa": "天の回転",
+      "author": "Ursula K. Le Guin",
+      "authorJa": "アーシュラ・K・ル＝グウィン",
+      "country": "アメリカ",
+      "year": 1971,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "夢で現実を書き換えてしまう男ジョージ・オア。精神科医は彼の能力を利用し、世界を「より良く」作り替えようとする。現実の本質を問う、ル＝グウィンの傑作SF。",
+      "whyReadJa": "「夢と現実」をめぐる、知的なSF。ル＝グウィンの最高傑作の一つ。",
+      "tags": [
+        "SF",
+        "夢",
+        "現実",
+        "ル＝グウィン"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/26458-L.jpg",
+      "selectionReasonJa": "夢で現実を書き換える男を描く、ル＝グウィンの傑作SF。",
+      "titleEn": "The Lathe of Heaven"
+    },
+    {
+      "slug": "the-solar-sail",
+      "title": "The Moon Is a Harsh Mistress",
+      "titleJa": "月は無慈悲な夜の女王",
+      "author": "Robert A. Heinlein",
+      "authorJa": "ロバート・A・ハインライン",
+      "country": "アメリカ",
+      "year": 1966,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "月の流刑地は、地球からの独立を計画する。自己意識を持つコンピュータ・マイクとともに、月の反乱を描く。ハインラインの代表作で、自由と政治のSF。",
+      "whyReadJa": "「月の独立戦争」を描く、政治的SFの最高峰。",
+      "tags": [
+        "SF",
+        "月",
+        "独立",
+        "政治"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/14631258-L.jpg",
+      "selectionReasonJa": "月の独立戦争を描く、政治的SFの最高峰。",
+      "titleEn": "The Moon Is a Harsh Mistress"
+    },
+    {
+      "slug": "the-stranger-in-a-strange-land",
+      "title": "Stranger in a Strange Land",
+      "titleJa": "異星の客",
+      "author": "Robert A. Heinlein",
+      "authorJa": "ロバート・A・ハインライン",
+      "country": "アメリカ",
+      "year": 1961,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "火星で育った人間ヴァレンタイン・マイケル・スミスが、地球に来て文明の「タブー」を破っていく。愛と宗教と自由を問う、1960年代カウンターカルチャーの聖典。",
+      "whyReadJa": "「自由とは何か」をSFで問う。ヒッピー世代に影響を与えた名著。",
+      "tags": [
+        "SF",
+        "火星",
+        "自由",
+        "宗教"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/14630668-L.jpg",
+      "selectionReasonJa": "火星育ちの人間が地球のタブーを破る、60年代カウンターカルチャーの聖典。",
+      "titleEn": "Stranger in a Strange Land"
+    },
+    {
+      "slug": "the-the-drowned-world",
+      "title": "The Drowned World",
+      "titleJa": "溺れた世界",
+      "author": "J.G. Ballard",
+      "authorJa": "J・G・バラード",
+      "country": "イギリス",
+      "year": 1962,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "太陽フレアで氷河が溶け、海水が大陸を呑み込んだ未来。水没したロンドンで、人間は「退行」していく。環境破壊と精神の変容を描く、気候SFの先駆け。",
+      "whyReadJa": "「気候崩壊後」を描いた最初のSF。環境文学の原点。",
+      "tags": [
+        "SF",
+        "環境",
+        "気候変動",
+        "ディストピア"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/5540959-L.jpg",
+      "selectionReasonJa": "気候崩壊後を描いた最初のSF。環境文学の原点。",
+      "titleEn": "The Drowned World"
+    },
+    {
+      "slug": "the-thermo-nuclear-war",
+      "title": "On the Beach",
+      "titleJa": "渚にて",
+      "author": "Nevil Shute",
+      "authorJa": "ネヴィル・シュート",
+      "country": "イギリス/オーストラリア",
+      "year": 1957,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "核戦争の放射能雲が、少しずつ南半球へ迫る。滅びゆく世界で、人々はどのように日常を送るのか。SFであると同時に、人類の終末をめぐる最も静かな警告。",
+      "whyReadJa": "「核戦争後の世界」を描く、最初期の終末SF。現在のディストピアの原点。",
+      "tags": [
+        "SF",
+        "核戦争",
+        "終末",
+        "古典SF"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/997896-L.jpg",
+      "selectionReasonJa": "核戦争後の世界を描く、最初期の終末SF。",
+      "titleEn": "On the Beach"
+    },
+    {
+      "slug": "the-the-martian-chronicles",
+      "title": "The Martian Chronicles",
+      "titleJa": "火星年代記",
+      "author": "Ray Bradbury",
+      "authorJa": "レイ・ブラッドベリ",
+      "country": "アメリカ",
+      "year": 1950,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "火星入植の物語を、詩的な断章として紡ぐ。火星の古代文明と、地球人の入植の結末。ブラッドベリの叙情とSFが融合した、火星をめぐる文学の古典。",
+      "whyReadJa": "「火星」を詩として描く。ブラッドベリの最も美しいSF。",
+      "tags": [
+        "SF",
+        "火星",
+        "叙情",
+        "ブラッドベリ"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/9346537-L.jpg",
+      "selectionReasonJa": "火星を詩として描く、ブラッドベリの最も美しいSF。",
+      "titleEn": "The Martian Chronicles"
+    },
+    {
+      "slug": "the-the-day-of-the-trifids",
+      "title": "The Day of the Triffids",
+      "titleJa": "トリフィドの日",
+      "author": "John Wyndham",
+      "authorJa": "ジョン・ウィンダム",
+      "country": "イギリス",
+      "year": 1951,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "彗星の光が世界中の人間の視力を奪う。そして、動く植物「トリフィド」が人類を襲う。パンデミック後世界のSF古典。文明の脆弱さを描く。",
+      "whyReadJa": "「文明崩壊」を描くSFの原型。現在のパンデミック文学の祖先。",
+      "tags": [
+        "SF",
+        "パンデミック",
+        "終末",
+        "植物"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/535027-L.jpg",
+      "selectionReasonJa": "文明崩壊を描くSFの原型。パンデミック文学の祖先。",
+      "titleEn": "The Day of the Triffids"
+    },
+    {
+      "slug": "the-the-midwich-cuckoos",
+      "title": "The Midwich Cuckoos",
+      "titleJa": "ミッドウィッチのカッコウ",
+      "author": "John Wyndham",
+      "authorJa": "ジョン・ウィンダム",
+      "country": "イギリス",
+      "year": 1957,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "ある日、イギリスの村の全員が気絶する。そして、村の全ての女性が妊娠していた。異星人の子供「カッコウ」たちとの対峙を描く、SFミステリの傑作。映画『ビレッジ・オブ・ザ・ダムド』の原作。",
+      "whyReadJa": "「異星人の子」をめぐる、知的な恐怖。ウィンダムの代表作。",
+      "tags": [
+        "SF",
+        "ミステリ",
+        "異星人",
+        "古典SF"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/4773719-L.jpg",
+      "selectionReasonJa": "異星人の子をめぐる、SFミステリの傑作。",
+      "titleEn": "The Midwich Cuckoos"
+    },
+    {
+      "slug": "the-the-shape-of-things",
+      "title": "The Chrysalids",
+      "titleJa": "新生",
+      "author": "John Wyndham",
+      "authorJa": "ジョン・ウィンダム",
+      "country": "イギリス",
+      "year": 1955,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "核戦争後の世界で、遺伝子の「変異」を狩る社会。テレパシーを持つ少年デビッドは、異端として追われる。差異をめぐる、ウィンダムの最も深いSF。",
+      "whyReadJa": "「異質な者」への迫害を描く。差別とアイデンティティのSF。",
+      "tags": [
+        "SF",
+        "変異",
+        "迫害",
+        "古典SF"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/6669244-L.jpg",
+      "selectionReasonJa": "差異と迫害を描く、ウィンダムの最も深いSF。",
+      "titleEn": "The Chrysalids"
+    },
+    {
+      "slug": "the-the-ugly-american",
+      "title": "The Forever War",
+      "titleJa": "終わりなき戦い",
+      "author": "Joe Haldeman",
+      "authorJa": "ジョー・ホールドマン",
+      "country": "アメリカ",
+      "year": 1974,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "光速戦争で戦う兵士たちは、戦争のたびに時間が経過する宇宙で「戻る」たびに、社会が変化している。ベトナム戦争を経験した作者が描く、時間と戦争のSF傑作。ヒューゴー賞・ネビュラ賞受賞。",
+      "whyReadJa": "「戦争と時間」を描く、反戦SFの金字塔。",
+      "tags": [
+        "SF",
+        "戦争",
+        "時間",
+        "反戦"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10693768-L.jpg",
+      "selectionReasonJa": "時間と戦争を描く、反戦SFの金字塔。",
+      "titleEn": "The Forever War"
+    },
+    {
+      "slug": "the-the-door-into-summer",
+      "title": "The Door into Summer",
+      "titleJa": "夏への扉",
+      "author": "Robert A. Heinlein",
+      "authorJa": "ロバート・A・ハインライン",
+      "country": "アメリカ",
+      "year": 1957,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "冷凍睡眠で未来へ跳ぶ発明家ダニエル・デイビス。裏切り、猫、そして「夏への扉」——ハインラインの中でも最も愛される、タイムトラベルとロボットの物語。",
+      "whyReadJa": "「猫とタイムトラベル」の名作。ハインラインの入門に最適。",
+      "tags": [
+        "SF",
+        "タイムトラベル",
+        "ロボット",
+        "猫"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10118264-L.jpg",
+      "selectionReasonJa": "猫とタイムトラベルの名作。ハインラインの入門に最適。",
+      "titleEn": "The Door into Summer"
+    },
+    {
+      "slug": "the-the-stars-my-destination",
+      "title": "The Stars My Destination",
+      "titleJa": "わが赴くは星の群",
+      "author": "Alfred Bester",
+      "authorJa": "アルフレッド・ベスター",
+      "country": "アメリカ",
+      "year": 1956,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "瞬間移動（ジャンテ）が普及した未来。復讐に燃える男ガリ・グレイの物語。SF史上最もハードボイルドで、ウィリアム・ギブスンやフィリップ・K・ディックに影響を与えた。",
+      "whyReadJa": "「復讐」をめぐるSFの最高傑作。サイバーパンクの源流。",
+      "tags": [
+        "SF",
+        "復讐",
+        "テレポート",
+        "古典SF"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/911114-L.jpg",
+      "selectionReasonJa": "復讐をめぐるSFの最高傑作。サイバーパンクの源流。",
+      "titleEn": "The Stars My Destination"
+    },
+    {
+      "slug": "the-the-zone-one",
+      "title": "Zone One",
+      "titleJa": "ゾーン・ワン",
+      "author": "Colson Whitehead",
+      "authorJa": "コルソン・ホワイトヘッド",
+      "country": "アメリカ",
+      "year": 2011,
+      "genre": [
+        "小説",
+        "SF",
+        "ホラー"
+      ],
+      "descriptionJa": "ゾンビ疫病後のマンハッタン。掃討部隊の一員として、壊れた世界を歩く男の日常。ピューリッツァー賞作家が描く、ゾンビ文学の知的な傑作。",
+      "whyReadJa": "「終末後の日常」を描く、文学的ゾンビ小説。ホワイトヘッドの異色作。",
+      "tags": [
+        "SF",
+        "ゾンビ",
+        "終末",
+        "文学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/6935551-L.jpg",
+      "selectionReasonJa": "終末後の日常を描く、ピューリッツァー賞作家のゾンビ文学。",
+      "titleEn": "Zone One"
+    },
+    {
+      "slug": "the-the-sea-of-translation",
+      "title": "Sea of Tranquility",
+      "titleJa": "静寂の海",
+      "author": "Emily St. John Mandel",
+      "authorJa": "エミリー・セント・ジョン・マンデル",
+      "country": "カナダ",
+      "year": 2022,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "1912年、2020年、2203年、2401年——四つの時代に現れる、時間と空間を超えた「異変」。宇宙植民地とシミュレーションをめぐる、マンデルの傑作SF。",
+      "whyReadJa": "『ステーション・イレブン』の著者が描く、時空をめぐる新しい物語。",
+      "tags": [
+        "SF",
+        "時間",
+        "宇宙",
+        "カナダ"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/11465138-L.jpg",
+      "selectionReasonJa": "四つの時代を超える、マンデルの時空SF。",
+      "titleEn": "Sea of Tranquility"
+    },
+    {
+      "slug": "the-the-glass-hotel",
+      "title": "The Glass Hotel",
+      "titleJa": "ガラスのホテル",
+      "author": "Emily St. John Mandel",
+      "authorJa": "エミリー・セント・ジョン・マンデル",
+      "country": "カナダ",
+      "year": 2020,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "バンクーバー島のガラスのホテルに現れる女の幻。金融詐欺、沈没したタンカー、そして失踪。『ステーション・イレブン』の著者が描く、現代の寓話。",
+      "whyReadJa": "「消える人」と「残る人」を描く、マンデルの成熟した傑作。",
+      "tags": [
+        "カナダ",
+        "金融",
+        "寓話",
+        "現代文学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/9314949-L.jpg",
+      "selectionReasonJa": "「消える人」と「残る人」を描く、マンデルの成熟した傑作。",
+      "titleEn": "The Glass Hotel"
+    },
+    {
+      "slug": "the-the-light-of-other-days",
+      "title": "The Light of Other Days",
+      "titleJa": "光の他の日々",
+      "author": "Stephen Baxter",
+      "authorJa": "スティーヴン・バクスター",
+      "country": "イギリス",
+      "year": 2000,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "「ワームホール望遠鏡」が発明され、過去を見ることが可能になる。歴史のすべてが明らかになった世界で、プライバシーとは何か。アーサー・C・クラークとの共著。",
+      "whyReadJa": "「過去を見る」技術がもたらす倫理。ハードSFの知的な傑作。",
+      "tags": [
+        "SF",
+        "時間",
+        "未来",
+        "ハードSF"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/183223-L.jpg",
+      "selectionReasonJa": "「過去を見る」技術の倫理を問う、ハードSFの知的な傑作。",
+      "titleEn": "The Light of Other Days"
+    },
+    {
+      "slug": "the-the-three-body-crisis",
+      "title": "The Dark Forest",
+      "titleJa": "暗黒の森",
+      "author": "Cixin Liu",
+      "authorJa": "劉慈欣",
+      "country": "中国",
+      "year": 2008,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "『三体』の続編。宇宙文明の「暗黒の森の法則」——宇宙は無数の狩人が、互いを殺し合う暗黒の森である。宇宙社会学という、劉慈欣が打ち立てた独創的なSF世界の頂点。",
+      "whyReadJa": "「宇宙の暗黒の森」という概念。三体シリーズの核心にして、現代SFの最高峰。",
+      "tags": [
+        "SF",
+        "宇宙",
+        "中国",
+        "宇宙社会学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10526598-L.jpg",
+      "selectionReasonJa": "「暗黒の森の法則」を打ち立てた、『三体』の核心。",
+      "titleEn": "The Dark Forest"
+    },
+    {
+      "slug": "the-the-deaths-end",
+      "title": "Death's End",
+      "titleJa": "死神の永訣",
+      "author": "Cixin Liu",
+      "authorJa": "劉慈欣",
+      "country": "中国",
+      "year": 2010,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "『三体』三部作の最終章。宇宙の滅亡と人類の選択、そして「宇宙の再誕」の可能性。劉慈欣の壮大な宇宙観が、完結に向けて疾走する。",
+      "whyReadJa": "「三体」シリーズの集大成。宇宙の行く末を描く、スケールの頂点。",
+      "tags": [
+        "SF",
+        "宇宙",
+        "中国",
+        "三部作"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/7893958-L.jpg",
+      "selectionReasonJa": "『三体』三部作の集大成。宇宙の行く末を描くスケールの頂点。",
+      "titleEn": "Death's End"
+    },
+    {
+      "slug": "the-the-brave-new-world-of-dystopia",
+      "title": "We",
+      "titleJa": "われら",
+      "author": "Yevgeny Zamyatin",
+      "authorYa": "エフゲニー・ザミャーチン",
+      "authorJa": "エフゲニー・ザミャーチン",
+      "country": "ロシア",
+      "year": 1924,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "数学的に管理された「単一国家」。ディストピア文学の原点として、オーウェルとハクスリーに影響を与えた、ロシアSFの傑作。",
+      "whyReadJa": "「ディストピア文学の祖」。1984年とすばらしい新世界の原型。",
+      "tags": [
+        "ディストピア",
+        "SF",
+        "全体主義",
+        "古典SF"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/5484189-L.jpg",
+      "selectionReasonJa": "ディストピア文学の祖。オーウェルとハクスリーの原型。",
+      "titleEn": "We"
+    },
+    {
+      "slug": "the-the-man-in-the-high-castle",
+      "title": "The Man in the High Castle",
+      "titleJa": "高い城の男",
+      "author": "Philip K. Dick",
+      "authorJa": "フィリップ・K・ディック",
+      "country": "アメリカ",
+      "year": 1962,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "もしも枢軸国が第二次世界大戦に勝っていたら——日本とドイツが世界を分け合う1962年。ディックが「if」の歴史を描いた、並行歴史SFの古典。ヒューゴー賞受賞。",
+      "whyReadJa": "「もし歴史が違っていたら」を描く、ヒューゴー賞受賞の傑作。",
+      "tags": [
+        "SF",
+        "並行歴史",
+        "ディック",
+        "ヒューゴー賞"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/420452-L.jpg",
+      "selectionReasonJa": "枢軸国が勝っていた世界を描く、ヒューゴー賞受賞の並行歴史SF。",
+      "titleEn": "The Man in the High Castle"
+    },
+    {
+      "slug": "the-the-valis",
+      "title": "VALIS",
+      "titleJa": "ヴァリス",
+      "author": "Philip K. Dick",
+      "authorJa": "フィリップ・K・ディック",
+      "country": "アメリカ",
+      "year": 1981,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "神が「ヴァリス」という衛星から映像を送ってきた——自らの神秘体験をSF化した、ディック晩年の問題作。現実と幻覚の境界を問う、狂気と悟りの文学。",
+      "whyReadJa": "「現実とは何か」を極限まで問う、ディック文学の集大成。",
+      "tags": [
+        "SF",
+        "神",
+        "現実",
+        "ディック"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/9251944-L.jpg",
+      "selectionReasonJa": "神からの映像を受け取る男を描く、ディック晩年の問題作。",
+      "titleEn": "VALIS"
+    },
+    {
+      "slug": "the-the-ubik",
+      "title": "Ubik",
+      "titleJa": "ユービック",
+      "author": "Philip K. Dick",
+      "authorJa": "フィリップ・K・ディック",
+      "country": "アメリカ",
+      "year": 1969,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "死者の意識が半死半生の状態で生き続ける世界。時間が逆行するなかで、現実の境界が揺らぐ。「ユービック」という万能の物質をめぐる、ディックの傑作。",
+      "whyReadJa": "「現実の崩壊」を描く、ディックの最高傑作の一つ。",
+      "tags": [
+        "SF",
+        "現実",
+        "死",
+        "ディック"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/5018327-L.jpg",
+      "selectionReasonJa": "現実の崩壊を描く、ディックの最高傑作の一つ。",
+      "titleEn": "Ubik"
+    },
+    {
+      "slug": "the-the-crying-of-lot-49",
+      "title": "The Crying of Lot 49",
+      "titleJa": "第四十九番の嘆き",
+      "author": "Thomas Pynchon",
+      "authorJa": "トマス・ピンチョン",
+      "country": "アメリカ",
+      "year": 1966,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "元夫の遺産相続をめぐり、謎の「トリステロ」という地下組織の痕跡を追う主婦オーディパ。ポストモダン文学の傑作にして、最も短く入門しやすいピンチョン。",
+      "whyReadJa": "「陰謀と記号」をめぐるポストモダン文学の古典。",
+      "tags": [
+        "ポストモダン",
+        "ミステリ",
+        "陰謀",
+        "アメリカ文学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/39754-L.jpg",
+      "selectionReasonJa": "陰謀と記号をめぐる、ポストモダン文学の古典。",
+      "titleEn": "The Crying of Lot 49"
+    },
+    {
+      "slug": "the-the-left-hand-of-cities",
+      "title": "The City of Glass",
+      "titleJa": "ガラスの街",
+      "author": "Paul Auster",
+      "authorJa": "ポール・オースター",
+      "country": "アメリカ",
+      "year": 1985,
+      "genre": [
+        "小説",
+        "ミステリ"
+      ],
+      "descriptionJa": "探偵小説家クインは、間違い電話で「探偵」を依頼され、尾行を始める。しかし尾行の対象は、尾行する彼を尾行していた——。ポストモダン・ミステリの傑作。",
+      "whyReadJa": "「ニューヨーク三部作」の第一作。探偵小説の枠を破る傑作。",
+      "tags": [
+        "ミステリ",
+        "ポストモダン",
+        "ニューヨーク",
+        "オースター"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/94333-L.jpg",
+      "selectionReasonJa": "探偵小説の枠を破る、ポール・オースターの傑作。",
+      "titleEn": "The City of Glass"
+    },
+    {
+      "slug": "the-the-night-circus",
+      "title": "The Night Circus",
+      "titleJa": "夜のサーカス",
+      "author": "Erin Morgenstern",
+      "authorJa": "エリン・モーゲンスターン",
+      "country": "アメリカ",
+      "year": 2011,
+      "genre": [
+        "小説",
+        "ファンタジー"
+      ],
+      "descriptionJa": "夜だけ開かれる幻のサーカス「ル・シルク・デ・レーヴ」。その中で、二人の魔術師の弟子が決闘を続ける。美しく幻想的な世界で繰り広げられる、愛と魔法の物語。",
+      "whyReadJa": "「夜のサーカス」の世界観が圧倒的。ファンタジーと恋愛の傑作。",
+      "tags": [
+        "ファンタジー",
+        "サーカス",
+        "魔法",
+        "恋愛"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8773134-L.jpg",
+      "selectionReasonJa": "夜のサーカスをめぐる、ファンタジーと恋愛の傑作。",
+      "titleEn": "The Night Circus"
+    },
+    {
+      "slug": "the-the-slow-regard",
+      "title": "The Slow Regard of Silent Things",
+      "titleJa": "静かなものたちの静かな敬愛",
+      "author": "Patrick Rothfuss",
+      "authorJa": "パトリック・ロスファス",
+      "country": "アメリカ",
+      "year": 2014,
+      "genre": [
+        "ファンタジー"
+      ],
+      "descriptionJa": "『風の名前』の登場人物アウリの、大学地下での孤独な物語。物語がほとんど起きない「静かな」一冊が、ファンタジーの可能性を広げた。ロスファスの異色作。",
+      "whyReadJa": "「物語のない物語」の試み。ファンタジー文学の実験。",
+      "tags": [
+        "ファンタジー",
+        "孤独",
+        "実験",
+        "ロスファス"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/7309640-L.jpg",
+      "selectionReasonJa": "「物語のない物語」の試み。ファンタジー文学の実験。",
+      "titleEn": "The Slow Regard of Silent Things"
+    },
+    {
+      "slug": "the-the-wheel-of-time",
+      "title": "The Eye of the World",
+      "titleJa": "世界の目",
+      "author": "Robert Jordan",
+      "authorJa": "ロバート・ジョーダン",
+      "country": "アメリカ",
+      "year": 1990,
+      "genre": [
+        "ファンタジー"
+      ],
+      "descriptionJa": "時の車輪は回り続け、英雄は再び生まれる。15巻に及ぶ超大河ファンタジー『時の車輪』の開幕。村の少年ランドが、運命に引き込まれていく。",
+      "whyReadJa": "「英雄の旅」を極めた、現代ファンタジーの金字塔。",
+      "tags": [
+        "ファンタジー",
+        "英雄",
+        "大河",
+        "時の車輪"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/980232-L.jpg",
+      "selectionReasonJa": "「英雄の旅」を極めた、現代ファンタジーの金字塔。",
+      "titleEn": "The Eye of the World"
+    },
+    {
+      "slug": "the-the-gormenghast",
+      "title": "Titus Groan",
+      "titleJa": "タイタス・グローン",
+      "author": "Mervyn Peake",
+      "authorJa": "マーヴィン・ピーク",
+      "country": "イギリス",
+      "year": 1946,
+      "genre": [
+        "ファンタジー"
+      ],
+      "descriptionJa": "崩れゆく巨大な城ゴーメンガースト。その継承者として生まれたタイタス。ゴシック幻想文学の最高峰として、後のファンタジーに決定的な影響を与えた。",
+      "whyReadJa": "「不気味な城」をめぐる、ゴシック幻想の傑作。",
+      "tags": [
+        "ファンタジー",
+        "ゴシック",
+        "城",
+        "イギリス"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/11730146-L.jpg",
+      "selectionReasonJa": "不気味な城をめぐる、ゴシック幻想の最高峰。",
+      "titleEn": "Titus Groan"
+    },
+    {
+      "slug": "the-the-norse-mythology",
+      "title": "Norse Mythology",
+      "titleJa": "北欧神話",
+      "author": "Neil Gaiman",
+      "authorJa": "ニール・ゲイマン",
+      "country": "イギリス",
+      "year": 2017,
+      "genre": [
+        "ファンタジー",
+        "神話"
+      ],
+      "descriptionJa": "オーディン、トール、ロキ。北欧神話の物語を、ゲイマンが現代の語り口で再話する。神々の生と死、ラグナロクまでの物語。",
+      "whyReadJa": "「神話」を面白く読む最高の入門。ゲイマンの語りの力。",
+      "tags": [
+        "神話",
+        "北欧",
+        "ゲイマン",
+        "物語"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/7898682-L.jpg",
+      "selectionReasonJa": "北欧神話をゲイマンが再話した、神話入門の最高傑作。",
+      "titleEn": "Norse Mythology"
+    },
+    {
+      "slug": "japan-sinks",
+      "title": "日本沈没",
+      "titleEn": "Japan Sinks",
+      "titleJa": "日本沈没",
+      "author": "Komatsu Sakyo",
+      "authorJa": "小松左京",
+      "country": "日本",
+      "year": 1973,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "日本列島が数年のうちに沈没する——政府の極秘計画と、そこに翻弄される人々。日本SFの金字塔にして、出版当時400万部を超えるベストセラー。映画化も繰り返された、ディザスターSFの古典。",
+      "whyReadJa": "日本発の世界的SF。災害と国家を描く先駆けとして、世界のディザスター文学に影響を与えた。",
+      "selectionReasonJa": "日本SFの金字塔。世界に先駆けたディザスター文学の代表作。",
+      "tags": [
+        "SF",
+        "日本",
+        "災害",
+        "ディザスター"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/4469467-L.jpg"
+    },
+    {
+      "slug": "folding-beijing",
+      "title": "北京折叠",
+      "titleEn": "Folding Beijing",
+      "titleJa": "北京折りたたみ",
+      "author": "Hao Jingfang",
+      "authorJa": "郝景芳",
+      "country": "中国",
+      "year": 2014,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "未来の北京。都市は三つの空間に折りたたまれ、24時間ごとに交代する。富裕層の住む第一空間、中産階級の第二空間、労働者の第三空間。ヒューゴー賞受賞の、格差を描く中国SF。",
+      "whyReadJa": "アジア人女性初のヒューゴー賞受賞。SFで現代中国の格差を問う、注目の中国SF。",
+      "selectionReasonJa": "ヒューゴー賞受賞。中国の格差をSFで描き、世界のSFシーンを変えた。",
+      "tags": [
+        "SF",
+        "中国",
+        "格差",
+        "ヒューゴー賞"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10856414-L.jpg"
+    },
+    {
+      "slug": "the-girl-who-leapt-through-time",
+      "title": "時をかける少女",
+      "titleEn": "The Girl Who Leapt Through Time",
+      "titleJa": "時間のトンネル",
+      "author": "Tsutsui Yasutaka",
+      "authorJa": "筒井康隆",
+      "country": "日本",
+      "year": 1965,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "SF小説の父、筒井康隆の代表作。家に突然かかってくる未来からの電話。「未来から来た自分」との対話を通して、時間と記憶をめぐる物語が展開する。映画・アニメーション化もされ、日本のSF・幻想文学を代表する名作。",
+      "whyReadJa": "日本のSFの巨匠筒井康隆の代表作。時間をめぐる物語として、世界のSFにも通じる普遍性を持つ。",
+      "selectionReasonJa": "筒井康隆の代表作。日本のSF・幻想文学を代表する名作で、繰り返し映像化された。",
+      "tags": [
+        "SF",
+        "日本",
+        "時間旅行",
+        "幻想文学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/7609979-L.jpg"
+    }
+  ]
+}

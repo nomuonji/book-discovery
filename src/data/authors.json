@@ -1,0 +1,617 @@
+{
+  "authors": [
+    {
+      "slug": "albert-camus",
+      "name": "Albert Camus",
+      "nameJa": "アルベール・カミュ",
+      "country": "フランス",
+      "bioJa": "",
+      "books": [
+        "the-stranger",
+        "the-myth-of-sisyphus"
+      ]
+    },
+    {
+      "slug": "friedrich-nietzsche",
+      "name": "Friedrich Nietzsche",
+      "nameJa": "フリードリヒ・ニーチェ",
+      "country": "ドイツ",
+      "bioJa": "",
+      "books": [
+        "thus-spoke-zarathustra"
+      ]
+    },
+    {
+      "slug": "hannah-arendt",
+      "name": "Hannah Arendt",
+      "nameJa": "ハンナ・アーレント",
+      "country": "ドイツ/アメリカ",
+      "bioJa": "",
+      "books": [
+        "the-origins-of-totalitarianism"
+      ]
+    },
+    {
+      "slug": "simone-de-beauvoir",
+      "name": "Simone de Beauvoir",
+      "nameJa": "シモーヌ・ド・ボーヴォワール",
+      "country": "フランス",
+      "bioJa": "",
+      "books": [
+        "the-second-sex"
+      ]
+    },
+    {
+      "slug": "judith-butler",
+      "name": "Judith Butler",
+      "nameJa": "ジュディス・バトラー",
+      "country": "アメリカ",
+      "bioJa": "",
+      "books": [
+        "gender-trouble"
+      ]
+    },
+    {
+      "slug": "edward-w-said",
+      "name": "Edward W. Said",
+      "nameJa": "エドワード・サイード",
+      "country": "パレスチナ/アメリカ",
+      "bioJa": "",
+      "books": [
+        "orientalism"
+      ]
+    },
+    {
+      "slug": "frantz-fanon",
+      "name": "Frantz Fanon",
+      "nameJa": "フランツ・ファノン",
+      "country": "マルティニーク/アルジェリア",
+      "bioJa": "",
+      "books": [
+        "black-skin-white-masks"
+      ]
+    },
+    {
+      "slug": "james-baldwin",
+      "name": "James Baldwin",
+      "nameJa": "ジェームズ・ボールドウィン",
+      "country": "アメリカ",
+      "bioJa": "",
+      "books": [
+        "the-fire-next-time"
+      ]
+    },
+    {
+      "slug": "yuval-noah-harari",
+      "name": "Yuval Noah Harari",
+      "nameJa": "ユヴァル・ノア・ハラリ",
+      "country": "イスラエル",
+      "bioJa": "",
+      "books": [
+        "sapiens"
+      ]
+    },
+    {
+      "slug": "daniel-kahneman",
+      "name": "Daniel Kahneman",
+      "nameJa": "ダニエル・カーネマン",
+      "country": "イスラエル/アメリカ",
+      "bioJa": "",
+      "books": [
+        "thinking-fast-and-slow"
+      ]
+    },
+    {
+      "slug": "david-graeber",
+      "name": "David Graeber",
+      "nameJa": "デヴィッド・グレーバー",
+      "country": "アメリカ",
+      "bioJa": "",
+      "books": [
+        "debt-the-first-5000-years"
+      ]
+    },
+    {
+      "slug": "susan-sontag",
+      "name": "Susan Sontag",
+      "nameJa": "スーザン・ソンタグ",
+      "country": "アメリカ",
+      "bioJa": "",
+      "books": [
+        "on-photography"
+      ]
+    },
+    {
+      "slug": "olivia-laing",
+      "name": "Olivia Laing",
+      "nameJa": "オリヴィア・レイン",
+      "country": "イギリス",
+      "bioJa": "",
+      "books": [
+        "the-lonely-city"
+      ]
+    },
+    {
+      "slug": "rachel-carson",
+      "name": "Rachel Carson",
+      "nameJa": "レイチェル・カーソン",
+      "country": "アメリカ",
+      "bioJa": "",
+      "books": [
+        "silent-spring"
+      ]
+    },
+    {
+      "slug": "rebecca-solnit",
+      "name": "Rebecca Solnit",
+      "nameJa": "レベッカ・ソルニット",
+      "country": "アメリカ",
+      "bioJa": "",
+      "books": [
+        "men-explain-things-to-me"
+      ]
+    },
+    {
+      "slug": "joan-didion",
+      "name": "Joan Didion",
+      "nameJa": "ジョーン・ディディオン",
+      "country": "アメリカ",
+      "bioJa": "",
+      "books": [
+        "the-year-of-magical-thinking"
+      ]
+    },
+    {
+      "slug": "james-c-scott",
+      "name": "James C. Scott",
+      "nameJa": "ジェームズ・C・スコット",
+      "country": "アメリカ",
+      "bioJa": "",
+      "books": [
+        "seeing-like-a-state"
+      ]
+    },
+    {
+      "slug": "benedict-anderson",
+      "name": "Benedict Anderson",
+      "nameJa": "ベネディクト・アンダーソン",
+      "country": "アメリカ",
+      "bioJa": "",
+      "books": [
+        "imagined-communities"
+      ]
+    },
+    {
+      "slug": "raymond-carver",
+      "name": "Raymond Carver",
+      "nameJa": "レイモンド・カーヴァー",
+      "country": "アメリカ",
+      "bioJa": "",
+      "books": [
+        "what-we-talk-about-when-we-talk-about-love"
+      ]
+    },
+    {
+      "slug": "haruki-murakami",
+      "name": "Haruki Murakami",
+      "nameJa": "村上春樹",
+      "country": "日本",
+      "bioJa": "",
+      "books": [
+        "norwegian-wood",
+        "the-wind-up-bird-chronicle"
+      ]
+    },
+    {
+      "slug": "richard-brautigan",
+      "name": "Richard Brautigan",
+      "nameJa": "リチャード・ブローティガン",
+      "country": "アメリカ",
+      "bioJa": "",
+      "books": [
+        "trout-fishing-in-america"
+      ]
+    },
+    {
+      "slug": "kurt-vonnegut",
+      "name": "Kurt Vonnegut",
+      "nameJa": "カート・ヴォネガット",
+      "country": "アメリカ",
+      "bioJa": "",
+      "books": [
+        "slaughterhouse-five"
+      ]
+    },
+    {
+      "slug": "olga-tokarczuk",
+      "name": "Olga Tokarczuk",
+      "nameJa": "オルガ・トカルチュク",
+      "country": "ポーランド",
+      "bioJa": "",
+      "books": [
+        "flights"
+      ]
+    },
+    {
+      "slug": "elena-ferrante",
+      "name": "Elena Ferrante",
+      "nameJa": "エレナ・フェッランテ",
+      "country": "イタリア",
+      "bioJa": "",
+      "books": [
+        "my-brilliant-friend"
+      ]
+    },
+    {
+      "slug": "han-kang",
+      "name": "Han Kang",
+      "nameJa": "ハン・ガン",
+      "country": "韓国",
+      "bioJa": "",
+      "books": [
+        "the-vegetarian"
+      ]
+    },
+    {
+      "slug": "wg-sebald",
+      "name": "W.G. Sebald",
+      "nameJa": "W.G.ゼーバルト",
+      "country": "ドイツ",
+      "bioJa": "",
+      "books": [
+        "the-emigrants"
+      ]
+    },
+    {
+      "slug": "jean-paul-sartre",
+      "name": "Jean-Paul Sartre",
+      "nameJa": "ジャン＝ポール・サルトル",
+      "country": "フランス",
+      "bioJa": "",
+      "books": [
+        "existentialism-is-a-humanism"
+      ]
+    },
+    {
+      "slug": "michel-foucault",
+      "name": "Michel Foucault",
+      "nameJa": "ミシェル・フーコー",
+      "country": "フランス",
+      "bioJa": "",
+      "books": [
+        "discipline-and-punish"
+      ]
+    },
+    {
+      "slug": "gabriel-garca-mrquez",
+      "name": "Gabriel García Márquez",
+      "nameJa": "ガブリエル・ガルシア＝マルケス",
+      "country": "コロンビア",
+      "bioJa": "",
+      "books": [
+        "one-hundred-years-of-solitude"
+      ]
+    },
+    {
+      "slug": "jorge-luis-borges",
+      "name": "Jorge Luis Borges",
+      "nameJa": "ホルヘ・ルイス・ボルヘス",
+      "country": "アルゼンチン",
+      "bioJa": "",
+      "books": [
+        "ficciones"
+      ]
+    },
+    {
+      "slug": "roberto-bolao",
+      "name": "Roberto Bolaño",
+      "nameJa": "ロベルト・ボラーニョ",
+      "country": "チリ",
+      "bioJa": "",
+      "books": [
+        "2666"
+      ]
+    },
+    {
+      "slug": "clarice-lispector",
+      "name": "Clarice Lispector",
+      "nameJa": "クラリッセ・リスペクトル",
+      "country": "ブラジル",
+      "bioJa": "",
+      "books": [
+        "the-hour-of-the-star"
+      ]
+    },
+    {
+      "slug": "orhan-pamuk",
+      "name": "Orhan Pamuk",
+      "nameJa": "オルハン・パムク",
+      "country": "トルコ",
+      "bioJa": "",
+      "books": [
+        "my-name-is-red"
+      ]
+    },
+    {
+      "slug": "bohumil-hrabal",
+      "name": "Bohumil Hrabal",
+      "nameJa": "ボフミル・フラバル",
+      "country": "チェコ",
+      "bioJa": "",
+      "books": [
+        "too-loud-a-solitude"
+      ]
+    },
+    {
+      "slug": "tayeb-salih",
+      "name": "Tayeb Salih",
+      "nameJa": "タイーブ・サーレフ",
+      "country": "スーダン",
+      "bioJa": "",
+      "books": [
+        "season-of-migration-to-the-north"
+      ]
+    },
+    {
+      "slug": "svetlana-alexievich",
+      "name": "Svetlana Alexievich",
+      "nameJa": "スヴェトラーナ・アレクシエーヴィチ",
+      "country": "ベラルーシ",
+      "bioJa": "",
+      "books": [
+        "voices-from-chernobyl"
+      ]
+    },
+    {
+      "slug": "sally-rooney",
+      "name": "Sally Rooney",
+      "nameJa": "サリー・ルーニー",
+      "country": "アイルランド",
+      "bioJa": "",
+      "books": [
+        "normal-people"
+      ]
+    },
+    {
+      "slug": "bernardine-evaristo",
+      "name": "Bernardine Evaristo",
+      "nameJa": "バーナーディン・エヴァリスト",
+      "country": "イギリス",
+      "bioJa": "",
+      "books": [
+        "girl-woman-other"
+      ]
+    },
+    {
+      "slug": "ocean-vuong",
+      "name": "Ocean Vuong",
+      "nameJa": "オーシャン・ヴオン",
+      "country": "アメリカ",
+      "bioJa": "",
+      "books": [
+        "on-earth-were-briefly-gorgeous"
+      ]
+    },
+    {
+      "slug": "yaa-gyasi",
+      "name": "Yaa Gyasi",
+      "nameJa": "ヤア・ジャシ",
+      "country": "ガーナ/アメリカ",
+      "bioJa": "",
+      "books": [
+        "homegoing"
+      ]
+    },
+    {
+      "slug": "colson-whitehead",
+      "name": "Colson Whitehead",
+      "nameJa": "コルソン・ホワイトヘッド",
+      "country": "アメリカ",
+      "bioJa": "",
+      "books": [
+        "the-underground-railroad",
+        "the-nickel-boys"
+      ]
+    },
+    {
+      "slug": "hanya-yanagihara",
+      "name": "Hanya Yanagihara",
+      "nameJa": "ハンヤ・ヤナギハラ",
+      "country": "アメリカ",
+      "bioJa": "",
+      "books": [
+        "a-little-life"
+      ]
+    },
+    {
+      "slug": "david-mitchell",
+      "name": "David Mitchell",
+      "nameJa": "デイヴィッド・ミッチェル",
+      "country": "イギリス",
+      "bioJa": "",
+      "books": [
+        "cloud-atlas"
+      ]
+    },
+    {
+      "slug": "nk-jemisin",
+      "name": "N.K. Jemisin",
+      "nameJa": "N・K・ジェミシン",
+      "country": "アメリカ",
+      "bioJa": "",
+      "books": [
+        "the-fifth-season"
+      ]
+    },
+    {
+      "slug": "cixin-liu",
+      "name": "Cixin Liu",
+      "nameJa": "劉慈欣",
+      "country": "中国",
+      "bioJa": "",
+      "books": [
+        "the-three-body-problem"
+      ]
+    },
+    {
+      "slug": "jeff-vandermeer",
+      "name": "Jeff VanderMeer",
+      "nameJa": "ジェフ・ヴァンダミア",
+      "country": "アメリカ",
+      "bioJa": "",
+      "books": [
+        "annihilation"
+      ]
+    },
+    {
+      "slug": "george-saunders",
+      "name": "George Saunders",
+      "nameJa": "ジョージ・ソーンダーズ",
+      "country": "アメリカ",
+      "bioJa": "",
+      "books": [
+        "lincoln-in-the-bardo"
+      ]
+    },
+    {
+      "slug": "rachel-cusk",
+      "name": "Rachel Cusk",
+      "nameJa": "レイチェル・カスク",
+      "country": "イギリス",
+      "bioJa": "",
+      "books": [
+        "outline"
+      ]
+    },
+    {
+      "slug": "karl-ove-knausgrd",
+      "name": "Karl Ove Knausgård",
+      "nameJa": "カール・オーヴェ・クナウスゴール",
+      "country": "ノルウェー",
+      "bioJa": "",
+      "books": [
+        "my-struggle-book-one"
+      ]
+    },
+    {
+      "slug": "zadie-smith",
+      "name": "Zadie Smith",
+      "nameJa": "ゼイディー・スミス",
+      "country": "イギリス",
+      "bioJa": "",
+      "books": [
+        "white-teeth"
+      ]
+    },
+    {
+      "slug": "ted-chiang",
+      "name": "Ted Chiang",
+      "nameJa": "テッド・チャン",
+      "country": "アメリカ",
+      "bioJa": "",
+      "books": [
+        "stories-of-your-life-and-others"
+      ]
+    },
+    {
+      "slug": "carlo-rovelli",
+      "name": "Carlo Rovelli",
+      "nameJa": "カルロ・ロヴェッリ",
+      "country": "イタリア",
+      "bioJa": "",
+      "books": [
+        "seven-brief-lessons-on-physics"
+      ]
+    },
+    {
+      "slug": "michael-lewis",
+      "name": "Michael Lewis",
+      "nameJa": "マイケル・ルイス",
+      "country": "アメリカ",
+      "bioJa": "",
+      "books": [
+        "the-undoing-project"
+      ]
+    },
+    {
+      "slug": "malcolm-gladwell",
+      "name": "Malcolm Gladwell",
+      "nameJa": "マルコム・グラッドウェル",
+      "country": "カナダ",
+      "bioJa": "",
+      "books": [
+        "outliers"
+      ]
+    },
+    {
+      "slug": "nassim-nicholas-taleb",
+      "name": "Nassim Nicholas Taleb",
+      "nameJa": "ナシーム・ニコラス・タレブ",
+      "country": "レバノン/アメリカ",
+      "bioJa": "",
+      "books": [
+        "the-black-swan"
+      ]
+    },
+    {
+      "slug": "chinua-achebe",
+      "name": "Chinua Achebe",
+      "nameJa": "チヌア・アチェベ",
+      "country": "ナイジェリア",
+      "bioJa": "",
+      "books": [
+        "things-fall-apart"
+      ]
+    },
+    {
+      "slug": "kazuo-ishiguro",
+      "name": "Kazuo Ishiguro",
+      "nameJa": "カズオ・イシグロ",
+      "country": "イギリス",
+      "bioJa": "",
+      "books": [
+        "klara-and-the-sun"
+      ]
+    },
+    {
+      "slug": "marina-keegan",
+      "name": "Marina Keegan",
+      "nameJa": "マリーナ・キーガン",
+      "country": "アメリカ",
+      "bioJa": "",
+      "books": [
+        "the-opposite-of-loneliness"
+      ]
+    },
+    {
+      "slug": "viet-thanh-nguyen",
+      "name": "Viet Thanh Nguyen",
+      "nameJa": "ヴィエト・タン・ウェン",
+      "country": "アメリカ",
+      "bioJa": "",
+      "books": [
+        "the-sympathizer"
+      ]
+    },
+    {
+      "slug": "ta-nehisi-coates",
+      "name": "Ta-Nehisi Coates",
+      "nameJa": "タナハシ・コーツ",
+      "country": "アメリカ",
+      "bioJa": "",
+      "books": [
+        "between-the-world-and-me"
+      ]
+    },
+    {
+      "slug": "annie-ernaux",
+      "name": "Annie Ernaux",
+      "nameJa": "アニー・エルノー",
+      "country": "フランス",
+      "bioJa": "",
+      "books": [
+        "the-years"
+      ]
+    }
+  ]
+}

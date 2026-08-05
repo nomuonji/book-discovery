@@ -1,0 +1,1922 @@
+{
+  "category": "world-fiction",
+  "label": "世界文学",
+  "description": "アフリカ、アジア、ラテンアメリカ、中東、東欧——英語圏を超えた文学の地図。",
+  "order": 2,
+  "books": [
+    {
+      "slug": "the-vegetarian",
+      "title": "채식주의자",
+      "titleJa": "菜食主義者",
+      "author": "Han Kang",
+      "authorJa": "ハン・ガン",
+      "country": "韓国",
+      "year": 2007,
+      "genre": [
+        "小説",
+        "アジア文学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/7412625-L.jpg",
+      "asin": "4904855027",
+      "descriptionJa": "ある日突然、肉を拒否し始めた平凡な主婦ヨンヘ。彼女の決断は家族を巻き込み、暴力と欲望と狂気の連鎖を引き起こす。2024年ノーベル文学賞受賞。三部構成で描かれる身体と拒絶の物語は、読む者の倫理観を静かに揺さぶる。",
+      "whyReadJa": "ノーベル賞受賞で世界が認めた韓国文学の到達点。簡潔で詩的な文体と、身体への問いが日本文学とも深く共鳴する。隣国の現代文学を知る最良の一冊。",
+      "tags": [
+        "ノーベル賞",
+        "韓国文学",
+        "身体",
+        "現代アジア文学"
+      ],
+      "selectionReasonJa": "ノーベル賞作家ハン・ガンを世界に知らしめた代表作。身体と拒絶の物語。",
+      "titleEn": "The Vegetarian"
+    },
+    {
+      "slug": "one-hundred-years-of-solitude",
+      "title": "Cien años de soledad",
+      "titleJa": "百年の孤独",
+      "author": "Gabriel García Márquez",
+      "authorJa": "ガブリエル・ガルシア＝マルケス",
+      "country": "コロンビア",
+      "year": 1967,
+      "genre": [
+        "小説",
+        "ラテンアメリカ文学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/15185412-L.jpg",
+      "asin": "4102052127",
+      "descriptionJa": "架空の町マコンドを舞台に、ブエンディア一族の百年にわたる栄光と没落を描く。空を飛ぶ聖職者、何年も続く雨、処女のまま昇天する娘——日常と非日常が境界なく融合するマジックリアリズムの最高到達点。ノーベル文学賞受賞作で、世界文学の地図を塗り替えた一冊。",
+      "whyReadJa": "村上春樹をより深く楽しみたいなら必読。春樹文学の「異界」と現実の融合は、ここから来ている。ラテンアメリカ文学の爆発的創造力を体験できる。",
+      "tags": [
+        "マジックリアリズム",
+        "ラテンアメリカ文学",
+        "ノーベル賞",
+        "村上春樹好きに"
+      ],
+      "selectionReasonJa": "マジックリアリズムの最高到達点。ノーベル賞受賞の世界文学の地図を塗り替えた一冊。",
+      "titleEn": "One Hundred Years of Solitude"
+    },
+    {
+      "slug": "2666",
+      "title": "2666",
+      "titleJa": "2666",
+      "author": "Roberto Bolaño",
+      "authorJa": "ロベルト・ボラーニョ",
+      "country": "チリ",
+      "year": 2004,
+      "genre": [
+        "小説",
+        "ラテンアメリカ文学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/1047310-L.jpg",
+      "asin": "4560092613",
+      "descriptionJa": "メキシコの架空の町サンタテレサで起きる連続女性殺人事件を軸に、世界中の批評家、亡命者、狂人たちの人生が交錯する全5部構成の巨大な小説。チリ出身の作家が死の直前に完成させた「21世紀の小説」の筆頭候補。文学のすべてが詰まっていると言われる所以を体感せよ。",
+      "whyReadJa": "現代文学の最高到達点。ガルシア＝マルケスの後に来たラテンアメリカ文学の新たな巨人。読了後には「小説に何ができるか」の感覚が拡張されている。",
+      "tags": [
+        "ラテンアメリカ文学",
+        "現代文学",
+        "長編小説",
+        "暴力"
+      ],
+      "selectionReasonJa": "現代文学の最高到達点。ボラーニョが死の直前に完成させた、21世紀の小説。",
+      "titleEn": "2666"
+    },
+    {
+      "slug": "the-hour-of-the-star",
+      "title": "A Hora da Estrela",
+      "titleJa": "星の時",
+      "author": "Clarice Lispector",
+      "authorJa": "クラリッセ・リスペクトル",
+      "country": "ブラジル",
+      "year": 1977,
+      "genre": [
+        "小説",
+        "ラテンアメリカ文学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/650866-L.jpg",
+      "asin": "4309468349",
+      "descriptionJa": "北東部からリオデジャネイロに出てきた貧しいタイピスト、マカベーア。彼女の「何もない」人生を、語り手が必死に言葉にしようとする。ブラジルが生んだ「最も偉大な作家」（エレーヌ・シクスー）の遺作にして最高傑作。散文そのものが哲学になる稀有な文学体験。",
+      "whyReadJa": "言葉が「在ること」の神秘に迫る瞬間を味わえる。村上春樹やゼーバルトのファンにも響く、内省的で詩的な語り。ブラジル文学の至宝。",
+      "tags": [
+        "ラテンアメリカ文学",
+        "ブラジル",
+        "女性文学",
+        "詩的小説"
+      ],
+      "selectionReasonJa": "ブラジル文学の至宝。リスペクトルの詩的で哲学的語り。",
+      "titleEn": "The Hour of the Star"
+    },
+    {
+      "slug": "my-name-is-red",
+      "title": "Benim Adım Kırmızı",
+      "titleJa": "わたしの名は赤",
+      "author": "Orhan Pamuk",
+      "authorJa": "オルハン・パムク",
+      "country": "トルコ",
+      "year": 1998,
+      "genre": [
+        "小説",
+        "歴史"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/1054459-L.jpg",
+      "asin": "B07DXP2ZQ2",
+      "descriptionJa": "16世紀オスマン帝国の細密画師たちの世界で起きた殺人。死体、金貨、犬、そして「赤」という色までもが語り手となる多声的ミステリ。東洋と西洋の美術の衝突、伝統と革新の葛藤を描いて、ノーベル文学賞に輝いたパムクの代表作。読むこと自体がイスタンブールを旅する体験。",
+      "whyReadJa": "トルコ文学の最高峰。イスラム文化とヨーロッパの交差点に立つトルコは、日本が「西洋化」を考える上での鏡像でもある。知的スリラーとしても最高。",
+      "tags": [
+        "ノーベル賞",
+        "トルコ文学",
+        "歴史",
+        "美術"
+      ],
+      "selectionReasonJa": "東洋と西洋の衝突を描く、ノーベル賞作家パムクの代表作。",
+      "titleEn": "My Name Is Red"
+    },
+    {
+      "slug": "too-loud-a-solitude",
+      "title": "Příliš hlučná samota",
+      "titleJa": "あまりに騒がしい孤独",
+      "author": "Bohumil Hrabal",
+      "authorJa": "ボフミル・フラバル",
+      "country": "チェコ",
+      "year": 1976,
+      "genre": [
+        "小説",
+        "東欧文学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/4022491-L.jpg",
+      "asin": "4879842575",
+      "descriptionJa": "35年間、地下の廃品処理場で紙くずをプレスし続ける老人ハンチャ。彼は捨てられた本を救い出し、読んではプレスする。その頭の中には老子からカント、ヘーゲルまでの知識が詰まっている——チェコが生んだ不条理文学の傑作。1日で読める短さの中に、文学への愛が凝縮された奇跡の一冊。",
+      "whyReadJa": "本を愛するすべての人に捧げられた小説。「廃品処理場の地下室で起きていること」が、これほど壮大な宇宙になりうるのかと驚かされる。カフカの後継者。",
+      "tags": [
+        "東欧文学",
+        "チェコ",
+        "文学愛",
+        "不条理"
+      ],
+      "selectionReasonJa": "本への愛を詰め込んだ、チェコ文学の至宝。不条理の美学。",
+      "titleEn": "Too Loud a Solitude"
+    },
+    {
+      "slug": "the-three-body-problem",
+      "title": "三体",
+      "titleJa": "三体",
+      "author": "Cixin Liu",
+      "authorJa": "劉慈欣",
+      "country": "中国",
+      "year": 2008,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/9157544-L.jpg",
+      "asin": "B0CTJH9YTQ",
+      "descriptionJa": "文化大革命の中で父を失った物理学者が、宇宙人文明との接触をきっかけに人類の運命を左右する——アジア人初のヒューゴー賞を受賞したSF大作の幕開け。西洋SFとは異なる、中国文化と歴史観に根ざした宇宙文明論が新鮮。オバマ元大統領も愛読した地球規模のスケール。",
+      "whyReadJa": "中国が生んだ世界最大のSF。西洋中心だったSFの地図を塗り替えた記念碑的作品。科学と哲学と政治が絡み合う知的興奮。日本語訳も読みやすい。",
+      "tags": [
+        "SF",
+        "中国文学",
+        "ヒューゴー賞",
+        "科学"
+      ],
+      "selectionReasonJa": "アジア初のヒューゴー賞受賞。中国SFが世界を制した記念碑的作品。",
+      "titleEn": "The Three-Body Problem"
+    },
+    {
+      "slug": "my-struggle-book-one",
+      "title": "Min kamp. Første bok",
+      "titleJa": "わが闘争 第一巻",
+      "author": "Karl Ove Knausgård",
+      "authorJa": "カール・オーヴェ・クナウスゴール",
+      "country": "ノルウェー",
+      "year": 2009,
+      "genre": [
+        "小説",
+        "自伝"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/9159180-L.jpg",
+      "asin": "B015SSE0V8",
+      "descriptionJa": "自分の人生をすべて書く——それ以外のルールはない。父親の死を描いた第一巻が世界を震撼させた6巻本の自伝的小説。日常の細部をこれでもかと描くことで、逆説的に「生きること」そのものを浮かび上がらせる。好き嫌いが分かれるが、ハマると他が読めなくなる。",
+      "whyReadJa": "「自伝」と「小説」の境界を破壊した現代文学の事件。エルノー『歳月』の男性版・超拡大版として読める。中毒性注意。",
+      "tags": [
+        "自伝",
+        "ノルウェー文学",
+        "現代文学",
+        "実験小説"
+      ],
+      "selectionReasonJa": "自伝と小説の境界を破壊した、現代文学の事件。",
+      "titleEn": "My Struggle: Book One"
+    },
+    {
+      "slug": "things-fall-apart",
+      "title": "Things Fall Apart",
+      "titleJa": "崩れゆく絆",
+      "author": "Chinua Achebe",
+      "authorJa": "チヌア・アチェベ",
+      "country": "ナイジェリア",
+      "year": 1958,
+      "genre": [
+        "小説",
+        "アフリカ文学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12816943-L.jpg",
+      "asin": "4334752829",
+      "descriptionJa": "植民地化以前のイボ族の社会で、尊敬を集める戦士オコンクウォの栄光と没落を描く。アフリカの側から見た「文明化」の暴力を初めて英語で語った記念碑的作品。世界中で翻訳され、アフリカ文学の古典となった。タイトルはイェイツの詩「再臨」から。",
+      "whyReadJa": "アフリカ文学の扉を開く一冊。「西洋文学」の枠を超えて世界文学を見渡すための必読書。アチェベの視点は、戦後日本文学の「敗戦」の語り方とも響き合う。",
+      "tags": [
+        "アフリカ文学",
+        "植民地主義",
+        "古典",
+        "世界文学"
+      ],
+      "selectionReasonJa": "アフリカ文学の扉を開いた、植民地主義を被植民者の視点で描く原点。",
+      "titleEn": "Things Fall Apart"
+    },
+    {
+      "slug": "midnights-children",
+      "title": "Midnight's Children",
+      "titleJa": "真夜中の子供たち",
+      "author": "Salman Rushdie",
+      "authorJa": "サルマン・ラシュディ",
+      "country": "インド",
+      "year": 1981,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "1947年8月15日——インド独立のまさにその瞬間に生まれた1,001人の子供たちは、超能力を持つ「真夜中の子供たち」だった。その一人サリーム・シンが、自分の人生とインドの歴史を重ね合わせて語るマジックリアリズムの大河。ブッカー賞受賞。",
+      "whyReadJa": "インドという国の独立から分裂までを、一人の男の生として読む壮大な試み。マルケス『百年の孤独』の後継者として。",
+      "tags": [
+        "インド文学",
+        "マジックリアリズム",
+        "ブッカー賞",
+        "歴史"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8346713-L.jpg",
+      "selectionReasonJa": "インド独立の瞬間に生まれた超能力者たちを描く、ブッカー賞受賞の大河。",
+      "titleEn": "Midnight's Children"
+    },
+    {
+      "slug": "the-god-of-small-things",
+      "title": "The God of Small Things",
+      "titleJa": "小さなことの神",
+      "author": "Arundhati Roy",
+      "authorJa": "アルンダーティ・ロイ",
+      "country": "インド",
+      "year": 1997,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "1969年、南インドの町で起きたある「こと」——双子の兄妹と、カーストの異なる大人の男。悲劇を予感させる回想形式で、家族の秘密、カースト制度、女性の抑圧を、詩のように密度の濃い散文で描く。インドのデビュー作として史上最大のベストセラーになった。",
+      "whyReadJa": "英語圏文学とインドの現実が一つになった傑作。ラシュディが歴史の大きさなら、こちらは日常の細部の強度で勝負する。",
+      "tags": [
+        "インド文学",
+        "カースト",
+        "家族",
+        "ブッカー賞"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10513792-L.jpg",
+      "selectionReasonJa": "カーストと家族を詩的な散文で描く、ブッカー賞受賞の傑作。",
+      "titleEn": "The God of Small Things"
+    },
+    {
+      "slug": "the-kite-runner",
+      "title": "The Kite Runner",
+      "titleJa": "カイト・ランナー",
+      "author": "Khaled Hosseini",
+      "authorJa": "カーレド・ホッセイニ",
+      "country": "アフガニスタン",
+      "year": 2003,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "1970年代のカブール。富裕層の少年アミールと、その家のハザラ人使用人の息子ハッサン。凧揚げ大会を機に起きた裏切りが、二人の運命を永遠に変える。ソ連侵攻、内戦、亡命を経て、アメリカで暮らすアミールが故郷の「罪」と向き合う、世界中で読まれた物語。",
+      "whyReadJa": "アフガニスタンの現代史を、友情と贖罪の物語として読める。ノンフィクションで見る中東情勢を、文学として体験したい人に。",
+      "tags": [
+        "アフガニスタン",
+        "友情",
+        "家族",
+        "戦争"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/14846827-L.jpg",
+      "selectionReasonJa": "アフガニスタン現代史を友情と贖罪で描く、世界中で読まれた物語。",
+      "titleEn": "The Kite Runner"
+    },
+    {
+      "slug": "the-white-tiger",
+      "title": "The White Tiger",
+      "titleJa": "白い虎",
+      "author": "Aravind Adiga",
+      "authorJa": "アラヴィンド・アディガ",
+      "country": "インド",
+      "year": 2008,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "インドの片田舎から「起業家」に成り上がったバルラム。彼が中国の首相に向けて書く手紙の形で、カースト社会、貧困、カネと暴力のインド現代史が痛快に語られる。ブラックユーモアに満ちた反転の物語。ブッカー賞受賞。",
+      "whyReadJa": "『スラムドッグ$ミリオネア』的世界に、もっとシニカルな視点を足したような痛快さ。新興国の格差を笑いとともに考える。",
+      "tags": [
+        "インド文学",
+        "カースト",
+        "格差",
+        "ブッカー賞"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/2787359-L.jpg",
+      "selectionReasonJa": "カーストと格差をブラックユーモアで描く、ブッカー賞受賞作。",
+      "titleEn": "The White Tiger"
+    },
+    {
+      "slug": "half-of-a-yellow-sun",
+      "title": "Half of a Yellow Sun",
+      "titleJa": "黄色い太陽の半分",
+      "author": "Chimamanda Ngozi Adichie",
+      "authorJa": "チママンダ・ンゴズィ・アディーチェ",
+      "country": "ナイジェリア",
+      "year": 2006,
+      "genre": [
+        "小説",
+        "歴史"
+      ],
+      "descriptionJa": "1960年代ナイジェリア。独立、クーデター、そして「ビアフラ戦争」。大学講師のオデニグボと、彼を愛した双子の姉妹オランナ。愛と革命と暴力が交錯する歴史小説で、アディーチェは「二つの黄色い太陽」の下で壊れていく人々を丁寧に描く。",
+      "whyReadJa": "アフリカ現代史の悲劇を、人間の感情から描き切る力。『崩れゆく絆』のアチェベの系譜を継ぐ、現在のナイジェリア文学の頂点。",
+      "tags": [
+        "ナイジェリア",
+        "アフリカ文学",
+        "戦争",
+        "歴史"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8472660-L.jpg",
+      "selectionReasonJa": "ナイジェリア内戦を人間の感情から描く、現代アフリカ文学の傑作。",
+      "titleEn": "Half of a Yellow Sun"
+    },
+    {
+      "slug": "americanah",
+      "title": "Americanah",
+      "titleJa": "アメリカーナ",
+      "author": "Chimamanda Ngozi Adichie",
+      "authorJa": "チママンダ・ンゴズィ・アディーチェ",
+      "country": "ナイジェリア",
+      "year": 2013,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "ラゴスからアメリカに留学し、人種という概念を初めて「体感」することになるイフェメル。10年後、故郷に戻った彼女が、アメリカでの経験とナイジェリアでの再出発、そして初恋の男との再会を語る。移民の目を通した人種とアイデンティティの物語。",
+      "whyReadJa": "「人種」を外から見るとはどういうことか——アフリカ人の目線でアメリカが描かれる。多様性論の最良の文学的回答。",
+      "tags": [
+        "移民",
+        "人種",
+        "ナイジェリア",
+        "現代文学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8474037-L.jpg",
+      "selectionReasonJa": "移民の目線から人種を問う、現代の最重要文学の一つ。",
+      "titleEn": "Americanah"
+    },
+    {
+      "slug": "pedro-paramo",
+      "title": "Pedro Páramo",
+      "titleJa": "ペドロ・パラモ",
+      "author": "Juan Rulfo",
+      "authorJa": "フアン・ルルフォ",
+      "country": "メキシコ",
+      "year": 1955,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "亡き母の遺言で故郷コマラへ向かった青年フアン。しかしそこは死者だけが蠢く廃墟の村だった。生きているのか死んでいるのかも分からない声たちが、大地主ペドロ・パラモの話を紡いでいく。ラテンアメリカ文学の原点と言われ、マルケスやボルヘスに絶大な影響を与えた幻の傑作。",
+      "whyReadJa": "マジックリアリズムの原型。たった120ページに、生と死、罪とメキシコの歴史が凝縮されている。",
+      "tags": [
+        "ラテンアメリカ文学",
+        "メキシコ",
+        "魔術的リアリズム",
+        "死"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/5419076-L.jpg",
+      "selectionReasonJa": "マジックリアリズムの原型。死者だけが蠢く村の、ラテンアメリカ文学の原点。",
+      "titleEn": "Pedro Páramo"
+    },
+    {
+      "slug": "chronicle-of-a-death-foretold",
+      "title": "Crónica de una muerte anunciada",
+      "titleJa": "予告された殺人の記録",
+      "author": "Gabriel García Márquez",
+      "authorJa": "ガブリエル・ガルシア・マルケス",
+      "country": "コロンビア",
+      "year": 1981,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "サンティアゴ・ナサールが殺されると、町の誰もが前もって知っていた。なのに殺人は実行された。犯人は逮捕され、町は「予告された殺人」をなぜ止められなかったのか——事件を再構築する形で、運命と慣習と責任の網の目を描く。マルケスの最も完成度の高い作品との呼び声も高い。",
+      "whyReadJa": "誰もが知っていたのに止められなかった悲劇——読者もまた巻き込まれていく独特の構造。短くて文学的完成度が高い。",
+      "tags": [
+        "ラテンアメリカ文学",
+        "コロンビア",
+        "殺人",
+        "運命"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12198662-L.jpg",
+      "selectionReasonJa": "予告された殺人をめぐる、マルケス最も完成度の高い作品。",
+      "titleEn": "Chronicle of a Death Foretold"
+    },
+    {
+      "slug": "the-house-of-the-spirits",
+      "title": "La casa de los espíritus",
+      "titleJa": "精霊たちの家",
+      "author": "Isabel Allende",
+      "authorJa": "イサベル・アジェンデ",
+      "country": "チリ",
+      "year": 1982,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "予知能力を持つ夫と、超自然的な力を持つ妻。彼らの一族トゥルエバ家の四世代にわたる物語は、チリの政治史——地主支配から社会主義、クーデター、弾圧まで——と重なり合う。ラテンアメリカを代表する女性作家アジェンデのデビュー作にして最高傑作。",
+      "whyReadJa": "マジックリアリズムと政治史と家族のドラマの融合。マルケス好きなら必ずはまる。",
+      "tags": [
+        "ラテンアメリカ文学",
+        "チリ",
+        "家族",
+        "マジックリアリズム"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/3205226-L.jpg",
+      "selectionReasonJa": "マジックリアリズムと政治史を融合した、チリ文学の代表作。",
+      "titleEn": "The House of the Spirits"
+    },
+    {
+      "slug": "the-savage-detectives",
+      "title": "Los detectives salvajes",
+      "titleJa": "野生の探偵たち",
+      "author": "Roberto Bolaño",
+      "authorJa": "ロベルト・ボラーニョ",
+      "country": "チリ",
+      "year": 1998,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "1970年代メキシコシティ。前衛詩人たちの集団「インフラレアリズム」に参加する二人の若者、アルトゥーロ・ベラーノとウリセス・リマ。彼らの遍歴を、語り手を次々に変える多声体で追う。革命、文学、青春の恍惚と喪失を描く、ボラーニョの最高傑作の一つ。",
+      "whyReadJa": "『2666』が巨大なら、こちらはその青春編。ラテンアメリカ文学の新しい波を体感できる。",
+      "tags": [
+        "ラテンアメリカ文学",
+        "チリ",
+        "詩",
+        "青春"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/3706128-L.jpg",
+      "selectionReasonJa": "革命と文学と青春を描く、ボラーニョの最高傑作の一つ。",
+      "titleEn": "The Savage Detectives"
+    },
+    {
+      "slug": "the-aleph",
+      "title": "El Aleph",
+      "titleJa": "アレフ",
+      "author": "Jorge Luis Borges",
+      "authorJa": "ホルヘ・ルイス・ボルヘス",
+      "country": "アルゼンチン",
+      "year": 1949,
+      "genre": [
+        "小説",
+        "短編集"
+      ],
+      "descriptionJa": "地下の一地点から全宇宙を見通せるという「アレフ」。書物と迷宮、無限と永遠をめぐるボルヘスのもう一つの短編集。『伝奇集』と並ぶ、虚構の可能性を極限まで押し広げた文学的宇宙。",
+      "whyReadJa": "『伝奇集』を読んだら次はこれ。ボルヘス世界をより深く堪能できる、知的な快楽の短編集。",
+      "tags": [
+        "短編集",
+        "ラテンアメリカ文学",
+        "メタフィクション",
+        "幻想文学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/13149962-L.jpg",
+      "selectionReasonJa": "無限と永遠をめぐる、ボルヘスのもう一つの短編集。",
+      "titleEn": "The Aleph"
+    },
+    {
+      "slug": "swanns-way",
+      "title": "Du côté de chez Swann",
+      "titleJa": "スワン家の方へ",
+      "author": "Marcel Proust",
+      "authorJa": "マルセル・プルースト",
+      "country": "フランス",
+      "year": 1913,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "「失われた時を求めて」全7巻の開幕。マドレーヌを紅茶に浸した瞬間、思い出が蘇る名場面から、語り手の幼年期、そしてスワンの恋が紡がれる。記憶と時間を主題にした20世紀文学最大の建築物の、最初の部屋。",
+      "whyReadJa": "「記憶の文学」の頂点。自伝的記憶を書くすべての作家（エルノー、ゼーバルト）の原点。長編への挑戦がここから始まる。",
+      "tags": [
+        "フランス文学",
+        "記憶",
+        "時間",
+        "自伝的小説"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/11967344-L.jpg",
+      "selectionReasonJa": "「記憶の文学」の頂点。プルースト『失われた時を求めて』の開幕。",
+      "titleEn": "Swann's Way"
+    },
+    {
+      "slug": "the-trial",
+      "title": "Der Prozess",
+      "titleJa": "審判",
+      "author": "Franz Kafka",
+      "authorJa": "フランツ・カフカ",
+      "country": "チェコ",
+      "year": 1925,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "ある朝、銀行員ヨーゼフ・Kは何の罪も告げられぬまま逮捕される。しかし拘留はされず、いつ呼び出されるかも分からない。理不尽で不可解な裁判システムに翻弄されていくKの姿は、20世紀全体の不条理の比喩として読み継がれてきた。",
+      "whyReadJa": "「カフカ的」という言葉の由来になった不条理文学の原点。官僚制と権力の恐怖を文学として初めて描いた。",
+      "tags": [
+        "不条理",
+        "カフカ",
+        "チェコ文学",
+        "官僚制"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/14910748-L.jpg",
+      "selectionReasonJa": "不条理文学の原点。官僚制と権力の恐怖を描くカフカの代表作。",
+      "titleEn": "The Trial"
+    },
+    {
+      "slug": "the-castle",
+      "title": "Das Schloss",
+      "titleJa": "城",
+      "author": "Franz Kafka",
+      "authorJa": "フランツ・カフカ",
+      "country": "チェコ",
+      "year": 1926,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "測量士Kは城の近くの村に呼ばれたのに、城は決して彼に近づけてくれない。延々と続く官僚的迷宮への挑戦は、決して成就しない。未完成のままカフカが残したこの小説は、「到達できないものへの渇望」を最も純粋な形で描いた作品。",
+      "whyReadJa": "『審判』と並ぶカフカの双璧。掴めない権力の構造に立ち向かう人間の姿を、不条理の中に深い感動で描く。",
+      "tags": [
+        "不条理",
+        "カフカ",
+        "チェコ文学",
+        "官僚制"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12605605-L.jpg",
+      "selectionReasonJa": "到達できないものへの渇望を描く、カフカの双璧。",
+      "titleEn": "The Castle"
+    },
+    {
+      "slug": "blindness",
+      "title": "Ensaio sobre a cegueira",
+      "titleJa": "白の闇",
+      "author": "José Saramago",
+      "authorJa": "ジョゼ・サラマーゴ",
+      "country": "ポルトガル",
+      "year": 1995,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "一人の男が信号待ちの車の中で突然「白い闇」に包まれる。失明の流行病が都市を飲み込んでいく。文明が剥がれ落ちたとき、人間の尊厳はどこに残るのか——ノーベル文学賞受賞作家サラマーゴによる、恐ろしくも美しい寓話。",
+      "whyReadJa": "パンデミックを描いた「予言の書」。人間の本質をこれほどえぐる文学は稀。ポルトガル語文学の最高峰。",
+      "tags": [
+        "ポルトガル文学",
+        "寓話",
+        "疫病",
+        "ノーベル賞"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10482411-L.jpg",
+      "selectionReasonJa": "パンデミックを描いた「予言の書」。ノーベル賞作家サラマーゴの寓話。",
+      "titleEn": "Blindness"
+    },
+    {
+      "slug": "death-with-interruptions",
+      "title": "As Intermitências da Morte",
+      "titleJa": "死の絶え間",
+      "author": "José Saramago",
+      "authorJa": "ジョゼ・サラマーゴ",
+      "country": "ポルトガル",
+      "year": 2005,
+      "genre": [
+        "小説",
+        "SF"
+      ],
+      "descriptionJa": "ある国で、突然「死」が機能を停止した。誰も死ななくなり、国は大混乱に陥る。老女とチェリストの物語へと収束していく本書は、生と死というテーマをユーモアと哲学で紡ぐ、サラマーゴ晩年の傑作。",
+      "whyReadJa": "「死がなくなったら」という仮定から始まる知的遊戯。サラマーゴのウィットと深さを最も楽しめる一冊。",
+      "tags": [
+        "ポルトガル文学",
+        "哲学",
+        "ユーモア",
+        "ノーベル賞"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/9861548-L.jpg",
+      "selectionReasonJa": "「死がなくなったら」を問う、サラマーゴの知的遊戯。",
+      "titleEn": "Death with Interruptions"
+    },
+    {
+      "slug": "a-general-theory-of-oblivion",
+      "title": "Teoria Geral do Esquecimento",
+      "titleJa": "忘却の一般理論",
+      "author": "José Eduardo Agualusa",
+      "authorJa": "ジョゼ・エドゥアルド・アグアルーザ",
+      "country": "アンゴラ",
+      "year": 2012,
+      "genre": [
+        "小説",
+        "歴史"
+      ],
+      "descriptionJa": "1975年、アンゴラ独立。ポルトガル人の女性ルドヴィナは、暴動から逃れるために自宅の壁に自分を封じ込め、30年間ひとりで暮らす。断絶した世界のなかで彼女が見る夢と記憶が、アンゴラという国の傷と重なる。国際IMPACダブリン文学賞受賞。",
+      "whyReadJa": "一人の女性の孤立が、国家の歴史になる。アフリカのポルトガル語文学の最前線を体験できる。",
+      "tags": [
+        "アフリカ文学",
+        "アンゴラ",
+        "歴史",
+        "孤立"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10210364-L.jpg",
+      "selectionReasonJa": "アンゴラの独立と孤独を描く、ポルトガル語文学の傑作。",
+      "titleEn": "A General Theory of Oblivion"
+    },
+    {
+      "slug": "hurricane-season",
+      "title": "Temporada de huracanes",
+      "titleJa": "ハリケーンの季節",
+      "author": "Fernanda Melchor",
+      "authorJa": "フェルナンダ・メルチョール",
+      "country": "メキシコ",
+      "year": 2017,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "メキシコの田舎町の運河で、女性の死体が見つかった。「魔女」と呼ばれた彼女は何者で、なぜ殺されたのか——地元の人々の証言を集めるうちに、暴力と貧困と呪術に満ちた町の現実が浮かび上がる。世界で最も恐ろしい文章と評された、現代メキシコの暴力の鎮魂歌。",
+      "whyReadJa": "『2666』を継ぐ、ラテンアメリカ文学の新しい暴力の表現。強烈だが、それだけに文学の力を感じる。",
+      "tags": [
+        "メキシコ",
+        "暴力",
+        "女性",
+        "現代文学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10354466-L.jpg",
+      "selectionReasonJa": "メキシコの暴力を描く、ラテンアメリカ文学の新しい到達点。",
+      "titleEn": "Hurricane Season"
+    },
+    {
+      "slug": "the-tenth-muse",
+      "title": "The Tenth Muse",
+      "titleJa": "第十のミューズ",
+      "author": "Catherine Chung",
+      "authorJa": "キャサリン・チョン",
+      "country": "アメリカ",
+      "year": 2019,
+      "genre": [
+        "小説",
+        "歴史"
+      ],
+      "descriptionJa": "数学に才能を捧げた女性カスリーヌ。第二次世界大戦、秘密の暗号解読、そして彼女を追いかける謎の数学者——数学と歴史とアイデンティティが交差する、知性のサスペンス。女性数学者の実在をめぐる「沈黙の歴史」への問いかけ。",
+      "whyReadJa": "「数学の証明は美しい」と信じるすべての人に。ミステリと歴史小説と成長物語が一つになった稀有な作品。",
+      "tags": [
+        "数学",
+        "女性",
+        "歴史",
+        "第二次世界大戦"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8759566-L.jpg",
+      "selectionReasonJa": "女性数学者の沈黙の歴史を描く、知性のサスペンス。",
+      "titleEn": "The Tenth Muse"
+    },
+    {
+      "slug": "outline-of-a-silent-man",
+      "title": "The Shape of the Ruins",
+      "titleJa": "廃墟の形",
+      "author": "Juan Gabriel Vásquez",
+      "authorJa": "フアン・ガブリエル・バスケス",
+      "country": "コロンビア",
+      "year": 2015,
+      "genre": [
+        "小説",
+        "歴史"
+      ],
+      "descriptionJa": "1991年、コロンビアの政治家が暗殺された。その事件の「陰謀」を追う男に魅せられた語り手は、コロンビアの隠された歴史の層を掘り下げていく。事実と陰謀論の境界で揺れる、政治的記憶の探求の物語。",
+      "whyReadJa": "真実の探求が次第に狂気へ変わる過程が秀逸。ラテンアメリカ政治史を文学として体験したい人に。",
+      "tags": [
+        "コロンビア",
+        "政治",
+        "歴史",
+        "記憶"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8803842-L.jpg",
+      "selectionReasonJa": "真実の探求が狂気へ変わる、コロンビア政治史の文学。",
+      "titleEn": "The Shape of the Ruins"
+    },
+    {
+      "slug": "the-namesake",
+      "title": "The Namesake",
+      "titleJa": "ネームセイク",
+      "author": "Jhumpa Lahiri",
+      "authorJa": "ジュンパ・ラヒリ",
+      "country": "インド/アメリカ",
+      "year": 2003,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "ベンガル系移民の息子ゴーゴルは、父が命名した「ゴーゴリ」という名前の重さとともに、アメリカでアイデンティティを模索する。移民と世代、名前と自己をめぐる、ラヒリの代表作。",
+      "whyReadJa": "「名前」を通して移民のアイデンティティを描く傑作。ディアスポラ文学の繊細な到達点。",
+      "tags": [
+        "移民",
+        "アイデンティティ",
+        "インド",
+        "家族"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12052-L.jpg",
+      "selectionReasonJa": "名前を通して移民のアイデンティティを描く、ラヒリの代表作。",
+      "titleEn": "The Namesake"
+    },
+    {
+      "slug": "the-lowland",
+      "title": "The Lowland",
+      "titleJa": "ローランド",
+      "author": "Jhumpa Lahiri",
+      "authorJa": "ジュンパ・ラヒリ",
+      "country": "インド/アメリカ",
+      "year": 2013,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "コルカタの低地に育った兄弟。兄は政治運動に身を投じ、弟はアメリカで科学者になる。ナクサル運動というインドの歴史が、家族の運命をどう分けたのか。ブッカー賞候補、ラヒリの大河小説。",
+      "whyReadJa": "個人の選択と歴史の暴力。インド現代史と移民の物語を、抑制された筆致で描く。",
+      "tags": [
+        "インド",
+        "歴史",
+        "兄弟",
+        "移民"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/7262503-L.jpg",
+      "selectionReasonJa": "インド現代史と移民を抑制された筆致で描く、ラヒリの大河。",
+      "titleEn": "The Lowland"
+    },
+    {
+      "slug": "the-interpreter-of-maladies",
+      "title": "Interpreter of Maladies",
+      "titleJa": "癒す者の通訳",
+      "author": "Jhumpa Lahiri",
+      "authorJa": "ジュンパ・ラヒリ",
+      "country": "インド/アメリカ",
+      "year": 1999,
+      "genre": [
+        "小説",
+        "短編集"
+      ],
+      "descriptionJa": "ボストンとコルカタ、二つの世界に生きる人々の日常を描く短編集。ピューリッツァー賞を受賞し、ラヒリの名を世界に知らしめたデビュー作。抑制された文体の中に、移民の孤独と希望が滲む。",
+      "whyReadJa": "短編文学の傑作。ラヒリの世界へ入るのに最適な一冊。",
+      "tags": [
+        "短編集",
+        "移民",
+        "インド",
+        "ピューリッツァー賞"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/4915588-L.jpg",
+      "selectionReasonJa": "ピューリッツァー賞受賞。ラヒリの移民の孤独と希望の短編集。",
+      "titleEn": "Interpreter of Maladies"
+    },
+    {
+      "slug": "the-remains-of-memory",
+      "title": "Persepolis",
+      "titleJa": "ペルセポリス",
+      "author": "Marjane Satrapi",
+      "authorJa": "マルジャン・サトラピ",
+      "country": "イラン/フランス",
+      "year": 2000,
+      "genre": [
+        "コミック",
+        "自伝"
+      ],
+      "descriptionJa": "イラン革命と戦争の只中で少女が成長する自伝的グラフィックノベル。ヒジャブ、検閲、拷問、そして自由への憧れ——抑圧の社会で自己を保つことの難しさを、ユーモアと痛みで描く。",
+      "whyReadJa": "中東の現代史を、ひとりの少女の目から知ることができる名作。映画化もされた。",
+      "tags": [
+        "イラン",
+        "自伝",
+        "コミック",
+        "中東"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12648915-L.jpg",
+      "selectionReasonJa": "イラン革命を少女の目から描く、自伝的グラフィックノベル。",
+      "titleEn": "Persepolis"
+    },
+    {
+      "slug": "the-kiterunner-sky",
+      "title": "A Thousand Splendid Suns",
+      "titleJa": "千の輝く太陽",
+      "author": "Khaled Hosseini",
+      "authorJa": "カーレド・ホッセイニ",
+      "country": "アフガニスタン",
+      "year": 2007,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "アフガニスタンで、年齢の違う二人の女性マリアムとライラが、同じ夫の妻として繋がれながらも、互いに支え合い生きていく。タリバン支配下のカブールで女性が生きることの意味を問う、世界中で読まれた感動作。",
+      "whyReadJa": "『カイト・ランナー』の作者による、女性たちの物語。アフガニスタンの現代史を人間の視点から。",
+      "tags": [
+        "アフガニスタン",
+        "女性",
+        "戦争",
+        "家族"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8579790-L.jpg",
+      "selectionReasonJa": "タリバン下のカブールで女性が生きることを問う、ホッセイニの感動作。",
+      "titleEn": "A Thousand Splendid Suns"
+    },
+    {
+      "slug": "the-memoirs-of-hadrian",
+      "title": "Mémoires d'Hadrien",
+      "titleJa": "ハドリアヌス帝の回想",
+      "author": "Marguerite Yourcenar",
+      "authorJa": "マルグリット・ユルスナール",
+      "country": "フランス",
+      "year": 1951,
+      "genre": [
+        "小説",
+        "歴史"
+      ],
+      "descriptionJa": "ローマ皇帝ハドリアヌスが、死を目前に遺した「手紙」という形式の傑作。権力、芸術、愛、そして死——古代世界の人物が、近代の眼で描かれる。フランス文学史上最高の歴史小説の一つ。",
+      "whyReadJa": "歴史小説の到達点。過去の人物を「生きた人間」として蘇らせる、言葉の力に圧倒される。",
+      "tags": [
+        "歴史",
+        "フランス文学",
+        "ローマ",
+        "権力"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/15015608-L.jpg",
+      "selectionReasonJa": "フランス文学史上最高の歴史小説。ローマ皇帝を生きた人間として蘇らせる。",
+      "titleEn": "Memoirs of Hadrian"
+    },
+    {
+      "slug": "the-death-of-ivan-ilyich",
+      "title": "Смерть Ивана Ильича",
+      "titleJa": "イワン・イリイチの死",
+      "author": "Leo Tolstoy",
+      "authorJa": "レフ・トルストイ",
+      "country": "ロシア",
+      "year": 1886,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "完璧な人生を送ってきたはずの裁判官イワン・イリイチが、突然の病で死に向き合う。自分の人生は「まちがいだった」——死の寸前で彼が見るものとは。人間の生の虚実を問う、トルストイの傑作中編。",
+      "whyReadJa": "「死」をめぐる文学の最高傑作の一つ。短いが、生き方を根底から問い直させる。",
+      "tags": [
+        "ロシア文学",
+        "死",
+        "人生",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/11145986-L.jpg",
+      "selectionReasonJa": "「死」をめぐる文学の最高傑作。短いが、生き方を根底から問い直す。",
+      "titleEn": "The Death of Ivan Ilyich"
+    },
+    {
+      "slug": "the-kreutzer-sonata",
+      "title": "Крейцерова соната",
+      "titleJa": "クロイツェル・ソナタ",
+      "author": "Leo Tolstoy",
+      "authorJa": "レフ・トルストイ",
+      "country": "ロシア",
+      "year": 1889,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "妻を殺した男の告白。嫉妬、結婚、性——トルストイが最も激しく問うた、愛と所有の病理。ロシア文学のタブーに切り込んだ、衝撃の一冊。",
+      "whyReadJa": "「愛と嫉妬」をこれほど赤裸々に描いた小説は稀。トルストイの深層に触れる。",
+      "tags": [
+        "ロシア文学",
+        "嫉妬",
+        "愛",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10582715-L.jpg",
+      "selectionReasonJa": "愛と嫉妬の病理を赤裸々に描く、トルストイの衝撃作。",
+      "titleEn": "The Kreutzer Sonata"
+    },
+    {
+      "slug": "the-warden-of-the-shadow",
+      "title": "The Shadow of the Wind",
+      "titleJa": "風の影",
+      "author": "Carlos Ruiz Zafón",
+      "authorJa": "カルロス・ルイス・サフォン",
+      "country": "スペイン",
+      "year": 2001,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "バルセロンの「忘れられた本の墓地」で、少年ダニエルは一冊の本と出会う。『風の影』を書いた作家を探すうちに、彼は書物と死と愛をめぐる迷宮に足を踏み入れる。世界中で4000万部超のベストセラー。",
+      "whyReadJa": "「本」をめぐる物語の金字塔。書物と運命が絡み合う、魅惑的な文学ミステリ。",
+      "tags": [
+        "スペイン",
+        "書物",
+        "ミステリ",
+        "バルセロナ"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10107644-L.jpg",
+      "selectionReasonJa": "「忘れられた本の墓地」から始まる、書物と運命をめぐる世界中で4000万部超のベストセラー。",
+      "titleEn": "The Shadow of the Wind"
+    },
+    {
+      "slug": "the-labyrinth-of-the-spirits",
+      "title": "El laberinto de los espíritus",
+      "titleJa": "魂の迷宮",
+      "author": "Carlos Ruiz Zafón",
+      "authorJa": "カルロス・ルイス・サフォン",
+      "country": "スペイン",
+      "year": 2016,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "「風の影」四部作の最終章。独裁体制下のバルセロナで、書店員の娘アリシアが失踪事件の謎を追う。書物、記憶、そしてスペイン内戦の影——サフォンの物語世界が集大成に達する。",
+      "whyReadJa": "『風の影』の世界を完結させる、書物をめぐる大河の到達点。",
+      "tags": [
+        "スペイン",
+        "書物",
+        "ミステリ",
+        "歴史"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10690942-L.jpg",
+      "selectionReasonJa": "「風の影」四部作の最終章。独裁体制下のバルセロナを書物と記憶で描く、サフォンの物語世界の集大成。",
+      "titleEn": "The Labyrinth of the Spirits"
+    },
+    {
+      "slug": "the-rain-islands",
+      "title": "The Sandcastle",
+      "titleJa": "砂の城",
+      "author": "Iris Murdoch",
+      "authorJa": "アイリス・マードック",
+      "country": "イギリス",
+      "year": 1957,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "堅実な家庭を持つ中年の古典教師モーは、画家志望の若い女性に惹かれる。選択と欲望、義務と自由——マードックが初期に描いた、人間の恋愛の諸相。",
+      "whyReadJa": "道徳と欲望の葛藤を描く、マードック文学の入門。",
+      "tags": [
+        "イギリス文学",
+        "恋愛",
+        "欲望",
+        "20世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/5258811-L.jpg",
+      "selectionReasonJa": "選択と欲望を描く、マードック文学の入門。",
+      "titleEn": "The Sandcastle"
+    },
+    {
+      "slug": "the-black-prince",
+      "title": "The Black Prince",
+      "titleJa": "黒い王子",
+      "author": "Iris Murdoch",
+      "authorJa": "アイリス・マードック",
+      "country": "イギリス",
+      "year": 1973,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "売れない作家ブラッドリーは、友人の妻に恋をする。語りは章ごとに別の人物によって覆され、真実が揺らぐ。マードックの最高傑作の一つで、芸術と愛の関係をめぐる哲学的傑作。",
+      "whyReadJa": "「語り」の信頼性を揺さぶる構成が秀逸。芸術と欲望を哲学する。",
+      "tags": [
+        "イギリス文学",
+        "芸術",
+        "恋愛",
+        "語り"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/2197830-L.jpg",
+      "selectionReasonJa": "語りの信頼性を揺さぶる、マードックの哲学的傑作。",
+      "titleEn": "The Black Prince"
+    },
+    {
+      "slug": "the-sea-the-sea",
+      "title": "The Sea, the Sea",
+      "titleJa": "海よ海よ",
+      "author": "Iris Murdoch",
+      "authorJa": "アイリス・マードック",
+      "country": "イギリス",
+      "year": 1978,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "舞台から引退した演出家チャールズは、海辺の村で静かに暮らそうとするが、初恋の女性と再会し、妄想と執着の物語が始まる。ブッカー賞受賞。自己欺瞞を描く文学の極致。",
+      "whyReadJa": "「自分を騙す」人間の滑稽さと哀しみ。マードック最高傑作。",
+      "tags": [
+        "イギリス文学",
+        "ブッカー賞",
+        "執着",
+        "自己欺瞞"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/5277962-L.jpg",
+      "selectionReasonJa": "自己欺瞞を描く、ブッカー賞受賞のマードック最高傑作。",
+      "titleEn": "The Sea, the Sea"
+    },
+    {
+      "slug": "the-unbearable-lightness",
+      "title": "Nesnesitelná lehkost bytí",
+      "titleJa": "存在の耐えられない軽さ",
+      "author": "Milan Kundera",
+      "authorJa": "ミラン・クンデラ",
+      "country": "チェコ/フランス",
+      "year": 1984,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "「一度しか生きられないのなら、人生は何の重みもない」。プラハの春の時代を生きた男女の愛と政治をめぐる、クンデラの代表作。軽さと重さ、個と社会を哲学的に織り込む。",
+      "whyReadJa": "「一回性の人生」という問い。哲学と小説が融合した、20世紀文学の頂点の一つ。",
+      "tags": [
+        "チェコ",
+        "哲学",
+        "愛",
+        "プラハの春"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/967823-L.jpg",
+      "selectionReasonJa": "「一回性の人生」を問う、哲学と小説が融合した20世紀文学の頂点。",
+      "titleEn": "The Unbearable Lightness of Being"
+    },
+    {
+      "slug": "the-book-of-laughter",
+      "title": "Kniha smíchu a zapomnění",
+      "titleJa": "笑いと忘却の書",
+      "author": "Milan Kundera",
+      "authorJa": "ミラン・クンデラ",
+      "country": "チェコ/フランス",
+      "year": 1979,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "忘却と記憶、笑いと笑いの暴力。チェコの共産主義体制下の歴史を断片として織り込みながら、七つの物語が交錯する。クンデラの手法が最も冴える傑作。",
+      "whyReadJa": "「記憶」をテーマにした文学の到達点。ゼーバルトやエルノーにも通じる。",
+      "tags": [
+        "チェコ",
+        "記憶",
+        "笑い",
+        "断章"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/4357869-L.jpg",
+      "selectionReasonJa": "記憶と忘却を断片で描く、クンデラの手法が冴える傑作。",
+      "titleEn": "The Book of Laughter and Forgetting"
+    },
+    {
+      "slug": "the-white-goddess",
+      "title": "The White Goddess",
+      "titleJa": "白い女神",
+      "author": "Robert Graves",
+      "authorJa": "ロバート・グレーヴス",
+      "country": "イギリス",
+      "year": 1948,
+      "genre": [
+        "詩",
+        "批評"
+      ],
+      "descriptionJa": "詩の源泉には「白い女神」という原初の女神がいる——神話、詩、言語を横断して、詩の本質を探るグレーヴスの問題作。神話研究と詩論が融合した、文学の隠れた古典。",
+      "whyReadJa": "神話と文学の関係を深く知りたい人に。詩作の神秘を言語学的に解き明かす。",
+      "tags": [
+        "神話",
+        "詩",
+        "批評",
+        "イギリス"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/5541296-L.jpg",
+      "selectionReasonJa": "詩の本質を言語学的に解き明かす、グレーヴズの神話学。",
+      "titleEn": "The White Goddess"
+    },
+    {
+      "slug": "the-crow-road",
+      "title": "The Crow Road",
+      "titleJa": "クロウ・ロード",
+      "author": "Iain Banks",
+      "authorJa": "イアン・バンクス",
+      "country": "イギリス",
+      "year": 1992,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "スコットランドの一族の物語。ユーモア、家族、死と秘密が織りなす、現代イギリス文学の傑作。語り手の思い出話の冒頭「母は事故で死んだのではなく、殺されたのだ」から始まる。",
+      "whyReadJa": "スコットランド文学の最良の入り口。家族と秘密とユーモアの物語。",
+      "tags": [
+        "スコットランド",
+        "家族",
+        "ユーモア",
+        "秘密"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/212875-L.jpg",
+      "selectionReasonJa": "スコットランド文学の最良の入口。家族と秘密とユーモア。",
+      "titleEn": "The Crow Road"
+    },
+    {
+      "slug": "the-complicity",
+      "title": "Complicity",
+      "titleJa": "共犯",
+      "author": "Iain Banks",
+      "authorJa": "イアン・バンクス",
+      "country": "イギリス",
+      "year": 1993,
+      "genre": [
+        "小説",
+        "ミステリ"
+      ],
+      "descriptionJa": "新聞記者キャメロンに、連続殺人の謎の「共犯者」から連絡が来る。彼は事件について何を知っているのか——Banksの犯罪小説で最も鋭い一冊。社会の不正義への怒りが、物語の原動力となる。",
+      "whyReadJa": "社会批判とサスペンスを融合した、バンクスの代表作。",
+      "tags": [
+        "スコットランド",
+        "ミステリ",
+        "社会批判",
+        "犯罪"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/471091-L.jpg",
+      "selectionReasonJa": "社会批判とサスペンスを融合した、バンクスの代表作。",
+      "titleEn": "Complicity"
+    },
+    {
+      "slug": "the-spiral-staircase",
+      "title": "The Spiral Staircase",
+      "titleJa": "螺旋階段",
+      "author": "Karen Armstrong",
+      "authorJa": "カレン・アームストロング",
+      "country": "イギリス",
+      "year": 2004,
+      "genre": [
+        "自伝"
+      ],
+      "descriptionJa": "修道院を飛び出した元修道女が、学者として再生するまでの回想録。信仰と不信、知と魂の葛藤を、率直に描く。宗教と現代社会をめぐる傑作ノンフィクション。",
+      "whyReadJa": "「信仰を失った人」が信仰について考える、知性の旅。",
+      "tags": [
+        "宗教",
+        "自伝",
+        "信仰",
+        "イギリス"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/1988594-L.jpg",
+      "selectionReasonJa": "修道院を飛び出した元修道女が学者になる、宗教と知の回想録。",
+      "titleEn": "The Spiral Staircase"
+    },
+    {
+      "slug": "the-marriage-plot",
+      "title": "The Marriage Plot",
+      "titleJa": "マリッジ・プロット",
+      "author": "Jeffrey Eugenides",
+      "authorJa": "ジェフリー・ユージェニデス",
+      "country": "アメリカ",
+      "year": 2011,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "1980年代、ブラウン大学。文学を学ぶ三人の若者——マドレーヌ、レナード、ミッチェル。愛と躁鬱と文学理論のあいだを揺れる青春を描く、ユージェニデスの現代的な恋愛小説。",
+      "whyReadJa": "「文学と人生」をめぐる教養小説。知的で、どこか切ない。",
+      "tags": [
+        "青春",
+        "大学",
+        "恋愛",
+        "アメリカ文学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10117650-L.jpg",
+      "selectionReasonJa": "「文学と人生」をめぐる、ユージェニデスの教養小説。",
+      "titleEn": "The Marriage Plot"
+    },
+    {
+      "slug": "the-virgin-suicides",
+      "title": "The Virgin Suicides",
+      "titleJa": "ヴァージン・スーサイズ",
+      "author": "Jeffrey Eugenides",
+      "authorJa": "ジェフリー・ユージェニデス",
+      "country": "アメリカ",
+      "year": 1993,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "1970年代のデトロイト郊外。五人のリスボン姉妹が相次いで自殺した。近所の少年たちは、彼女たちの謎を一生かけて追い続ける。映画化もされた、ユージェニデスのデビュー作。",
+      "whyReadJa": "「少女たちの謎」をめぐる、詩的で美しい青春小説。",
+      "tags": [
+        "青春",
+        "謎",
+        "家族",
+        "アメリカ文学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/486854-L.jpg",
+      "selectionReasonJa": "五人の姉妹の謎をめぐる、ユージェニデスの詩的な青春小説。",
+      "titleEn": "The Virgin Suicides"
+    },
+    {
+      "slug": "the-thing-around-your-neck",
+      "title": "The Thing Around Your Neck",
+      "titleJa": "あなたの首のまわりに",
+      "author": "Chimamanda Ngozi Adichie",
+      "authorJa": "チママンダ・ンゴズィ・アディーチェ",
+      "country": "ナイジェリア",
+      "year": 2009,
+      "genre": [
+        "小説",
+        "短編集"
+      ],
+      "descriptionJa": "ナイジェリアとアメリカを往復する人々の十二篇。移民の孤独、差別、そして故郷への想いを、鋭く繊細に描く短編集。アディーチェの世界観を一冊で味わえる。",
+      "whyReadJa": "移民の「見えない境界」を描く、現代短編の秀作。",
+      "tags": [
+        "短編集",
+        "移民",
+        "ナイジェリア",
+        "現代文学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/11320253-L.jpg",
+      "selectionReasonJa": "移民の「見えない境界」を描く、アディーチェの短編秀作。",
+      "titleEn": "The Thing Around Your Neck"
+    },
+    {
+      "slug": "the-great-divorce",
+      "title": "The Great Divorce",
+      "titleJa": "天国と地獄の結婚",
+      "author": "C.S. Lewis",
+      "authorJa": "C・S・ルイス",
+      "country": "イギリス",
+      "year": 1945,
+      "genre": [
+        "小説",
+        "ファンタジー"
+      ],
+      "descriptionJa": "地獄から天国へのバス旅行——死者たちが自由意志で天国へ向かうとき、彼らが抱えている「小さなこだわり」とは。ルイスによる、自由と選択をめぐる寓話。キリスト教的ファンタジーの古典。",
+      "whyReadJa": "「なぜ人は幸せを拒むのか」を描く、静かな寓話。宗教哲学と文学の融合。",
+      "tags": [
+        "ファンタジー",
+        "宗教",
+        "自由",
+        "イギリス"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/11515173-L.jpg",
+      "selectionReasonJa": "自由と選択をめぐる、ルイスのキリスト教的寓話。",
+      "titleEn": "The Great Divorce"
+    },
+    {
+      "slug": "the-narnia-caspian",
+      "title": "Prince Caspian",
+      "titleJa": "カスピアン王子の角笛",
+      "author": "C.S. Lewis",
+      "authorJa": "C・S・ルイス",
+      "country": "イギリス",
+      "year": 1951,
+      "genre": [
+        "ファンタジー"
+      ],
+      "descriptionJa": "ナルニア国の王子カスピアン。叔父に王位を奪われ、森へ逃げた彼は、古の生き物たちとともに反乱を起こす。「ナルニア国物語」シリーズ第二作。",
+      "whyReadJa": "ナルニアシリーズを続けて読むなら。成長と正義の物語。",
+      "tags": [
+        "ファンタジー",
+        "ナルニア",
+        "冒険",
+        "イギリス"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/45897-L.jpg",
+      "selectionReasonJa": "ナルニアシリーズ第二作。成長と正義の物語。",
+      "titleEn": "Prince Caspian"
+    },
+    {
+      "slug": "the-narnia-dawn-treader",
+      "title": "The Voyage of the Dawn Treader",
+      "titleJa": "朝びらき丸の航海",
+      "author": "C.S. Lewis",
+      "authorJa": "C・S・ルイス",
+      "country": "イギリス",
+      "year": 1952,
+      "genre": [
+        "ファンタジー"
+      ],
+      "descriptionJa": "世界の果てを目指す船、朝びらき丸。ルーシーとエドマンド、そしてカスピアンが海図にない島々を巡る。「ナルニア国物語」第三作。",
+      "whyReadJa": "「世界の果て」への航海。ファンタジーの冒険譚として最も美しい。",
+      "tags": [
+        "ファンタジー",
+        "航海",
+        "ナルニア",
+        "イギリス"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/9184719-L.jpg",
+      "selectionReasonJa": "ナルニア第三作。世界の果てへの航海の美しい冒険譚。",
+      "titleEn": "The Voyage of the Dawn Treader"
+    },
+    {
+      "slug": "the-colors-of-the-flag",
+      "title": "The Tin Drum",
+      "titleJa": "ブリキの太鼓",
+      "author": "Günter Grass",
+      "authorJa": "ギュンター・グラス",
+      "country": "ドイツ",
+      "year": 1959,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "三歳で「成長をやめる」ことを決めたオスカルが、ブリキの太鼓を叩き、ガラスを割る声で世界に復讐する。ドイツ戦後文学の最高傑作にしてノーベル文学賞受賞作。20世紀の悪夢を寓話として描く。",
+      "whyReadJa": "ドイツの戦後史を、最も過激で豊かな想像力で描いた書。『百年の孤独』と並ぶ20世紀小説。",
+      "tags": [
+        "ドイツ",
+        "戦後",
+        "寓話",
+        "ノーベル賞"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/1468148-L.jpg",
+      "selectionReasonJa": "ドイツ戦後文学の最高傑作。20世紀の悪夢を寓話として描くノーベル賞作。",
+      "titleEn": "The Tin Drum"
+    },
+    {
+      "slug": "the-white-band",
+      "title": "The Go-Between",
+      "titleJa": "仲介人",
+      "author": "L.P. Hartley",
+      "authorJa": "L・P・ハートリー",
+      "country": "イギリス",
+      "year": 1953,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "1900年の夏、貴族の屋敷に滞在した少年レオは、姉の恋人と隣家の娘の「仲介人」を務める。一夏の秘密が、彼の一生を決定づける。「過去は外国であり、彼らはそこで違ったことをする」。",
+      "whyReadJa": "イギリス文学の名作。ノスタルジーと喪失を、繊細な記憶の語りで描く。",
+      "tags": [
+        "イギリス文学",
+        "記憶",
+        "青春",
+        "秘密"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/2324985-L.jpg",
+      "selectionReasonJa": "一夏の秘密が一生を決める、イギリス文学の記憶の名作。",
+      "titleEn": "The Go-Between"
+    },
+    {
+      "slug": "the-painted-veil",
+      "title": "The Painted Veil",
+      "titleJa": "彩りそめし面紗",
+      "author": "W. Somerset Maugham",
+      "authorJa": "W・サマセット・モーム",
+      "country": "イギリス",
+      "year": 1925,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "軽薄な女性キティは、夫に連れられ中国のコレラ流行地へ行く。死と向き合う中で、彼女は人生の意味を見いだしていく。モームの代表作の一つで、愛と償いを描く古典。",
+      "whyReadJa": "「結婚と自己欺瞞」を描く、モームの名作。短くて完成度が高い。",
+      "tags": [
+        "イギリス文学",
+        "中国",
+        "愛",
+        "20世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/745008-L.jpg",
+      "selectionReasonJa": "愛と償いを描く、モームの古典的名作。",
+      "titleEn": "The Painted Veil"
+    },
+    {
+      "slug": "the-moon-and-sixpence",
+      "title": "The Moon and Sixpence",
+      "titleJa": "月と六ペンス",
+      "author": "W. Somerset Maugham",
+      "authorJa": "W・サマセット・モーム",
+      "country": "イギリス",
+      "year": 1919,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "優雅な生活を捨て、パリからタヒチへ——伝説の画家ゴーギャンをモデルに、アートのための人生を選んだ男を描く。芸術と世俗の対立をめぐる、モームの最も有名な小説。",
+      "whyReadJa": "「芸術のためなら何を捨てられるか」。画家と作家の違いを描く古典。",
+      "tags": [
+        "イギリス文学",
+        "芸術",
+        "ゴーギャン",
+        "人生"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/314604-L.jpg",
+      "selectionReasonJa": "芸術のための人生を問う、モームの最も有名な小説。",
+      "titleEn": "The Moon and Sixpence"
+    },
+    {
+      "slug": "the-man-who-was-thursday",
+      "title": "The Man Who Was Thursday",
+      "titleJa": "木曜の男",
+      "author": "G.K. Chesterton",
+      "authorJa": "G・K・チェスタトン",
+      "country": "イギリス",
+      "year": 1908,
+      "genre": [
+        "小説",
+        "ミステリ"
+      ],
+      "descriptionJa": "無政府主義者の秘密結社に潜入した警官シンメ。しかし組織のメンバーは次々と正体を明かしていく——「実は私も警官だ」。イリュージョンと逆転を重ねる、チェスタトンの奇想天外な傑作。",
+      "whyReadJa": "哲学とミステリとユーモアの融合。ボルヘスも愛した古典。",
+      "tags": [
+        "イギリス文学",
+        "ミステリ",
+        "逆転",
+        "哲学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8242857-L.jpg",
+      "selectionReasonJa": "イリュージョンと逆転を重ねる、チェスタトンの奇想天外な傑作。",
+      "titleEn": "The Man Who Was Thursday"
+    },
+    {
+      "slug": "the-heart-is-a-lonely-hunter",
+      "title": "The Heart Is a Lonely Hunter",
+      "titleJa": "心は孤独な狩人",
+      "author": "Carson McCullers",
+      "authorJa": "カーソン・マッカラーズ",
+      "country": "アメリカ",
+      "year": 1940,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "南部の小さな町。聾唖者のジョン・シンガーを中心に、五人の孤独な人々が彼に心の内を打ち明ける。孤独と連帯をめぐる、マッカラーズのデビュー作にして代表作。",
+      "whyReadJa": "「孤独」をめぐるアメリカ文学の古典。聾唖者に語る人々の、切ない共鳴。",
+      "tags": [
+        "アメリカ文学",
+        "孤独",
+        "南部",
+        "20世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/394799-L.jpg",
+      "selectionReasonJa": "孤独をめぐるアメリカ文学の古典。マッカラーズの代表作。",
+      "titleEn": "The Heart Is a Lonely Hunter"
+    },
+    {
+      "slug": "the-member-of-the-wedding",
+      "title": "The Member of the Wedding",
+      "titleJa": "結婚式のメンバー",
+      "author": "Carson McCullers",
+      "authorJa": "カーソン・マッカラーズ",
+      "country": "アメリカ",
+      "year": 1946,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "十二歳のフランキーは、兄の結婚式に「同行する」ことに固執する。青春期の孤独と、誰かと一つになりたいという願いを描く。マッカラーズの最も愛される作品。",
+      "whyReadJa": "思春期の感覚をこれほど正確に描ける作家はいない。短くて美しい。",
+      "tags": [
+        "アメリカ文学",
+        "青春",
+        "孤独",
+        "家族"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/394706-L.jpg",
+      "selectionReasonJa": "思春期の孤独と願いを描く、マッカラーズの最も愛される作品。",
+      "titleEn": "The Member of the Wedding"
+    },
+    {
+      "slug": "the-travels-of-babu",
+      "title": "The Glass Palace",
+      "titleJa": "ガラスの宮殿",
+      "author": "Amitav Ghosh",
+      "authorJa": "アミターヴ・ゴーシュ",
+      "country": "インド",
+      "year": 2000,
+      "genre": [
+        "小説",
+        "歴史"
+      ],
+      "descriptionJa": "19世紀末ビルマ。少年ラジクールはイギリス軍の侵攻によって亡命し、ラングーン、インド、マラヤへと人生の舞台を移す。東南アジアの近現代史を、一人の男の生涯として描く大河小説。",
+      "whyReadJa": "東南アジアの歴史を文学として読む。アジア横断的な視点が新鮮。",
+      "tags": [
+        "ビルマ",
+        "歴史",
+        "インド",
+        "移民"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/3326867-L.jpg",
+      "selectionReasonJa": "東南アジア近現代史を一人の男の生涯として描く、ゴーシュの大河。",
+      "titleEn": "The Glass Palace"
+    },
+    {
+      "slug": "the-sea-of-poppies",
+      "title": "Sea of Poppies",
+      "titleJa": "海の海に咲くけしの花",
+      "author": "Amitav Ghosh",
+      "authorJa": "アミターヴ・ゴーシュ",
+      "country": "インド",
+      "year": 2008,
+      "genre": [
+        "小説",
+        "歴史"
+      ],
+      "descriptionJa": "アヘン戦争前夜、ビルマと中国を結ぶ「奴隷船イブス号」に乗り合わせた、カーストも言語も異なる人々。ゴーシュ「イビス三部作」の第一作。多言語の世界を描く壮大な海洋小説。",
+      "whyReadJa": "英語・ヒンディー語・客家語が交錯する、多言語の大河小説。",
+      "tags": [
+        "歴史",
+        "インド",
+        "海洋",
+        "アヘン戦争"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/6956953-L.jpg",
+      "selectionReasonJa": "多言語が交錯する、ゴーシュ「イビス三部作」の海洋大河。",
+      "titleEn": "Sea of Poppies"
+    },
+    {
+      "slug": "snow-country",
+      "title": "雪国",
+      "titleEn": "Snow Country",
+      "titleJa": "雪国",
+      "author": "Kawabata Yasunari",
+      "authorJa": "川端康成",
+      "country": "日本",
+      "year": 1948,
+      "genre": [
+        "小説",
+        "日本文学"
+      ],
+      "descriptionJa": "東京から雪国へ通う島村と、芸者駒子の愛の物語。日本の美意識の精髄を、雪と鏡と虚空のイメージで描いた、川端康成の代表作。ノーベル文学賞の受賞理由となった作品の一つ。",
+      "whyReadJa": "海外で最も高く評価される日本文学の一つ。日本の「美」を世界に伝えた古典として、外国文学を読む前に一度は手にしたい。",
+      "selectionReasonJa": "日本人初のノーベル文学賞受賞作家・川端康成の代表作。日本の美意識を世界に知らしめた名作。",
+      "tags": [
+        "日本文学",
+        "ノーベル賞",
+        "恋愛",
+        "雪国"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/421172-L.jpg"
+    },
+    {
+      "slug": "the-temple-of-the-golden-pavilion",
+      "title": "金閣寺",
+      "titleEn": "The Temple of the Golden Pavilion",
+      "titleJa": "金閣寺",
+      "author": "Yukio Mishima",
+      "authorJa": "三島由紀夫",
+      "country": "日本",
+      "year": 1956,
+      "genre": [
+        "小説",
+        "日本文学"
+      ],
+      "descriptionJa": "吃音に悩む青年が、美の象徴である金閣寺に執着し、やがて放火に至る。美と自己の関係を哲学的に描いた三島由紀夫の最高傑作。実話に基づく、日本文学の到達点。",
+      "whyReadJa": "「美とは何か」を問う文学の極致。海外でも最も翻訳される日本文学の一つで、世界文学との対話に開かれた作品。",
+      "selectionReasonJa": "三島由紀夫の代表作。美と破壊をめぐる哲学的問いで、世界文学史に残る日本文学の古典。",
+      "tags": [
+        "日本文学",
+        "美",
+        "哲学",
+        "三島由紀夫"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/418063-L.jpg"
+    },
+    {
+      "slug": "no-longer-human",
+      "title": "人間失格",
+      "titleEn": "No Longer Human",
+      "titleJa": "人間失格",
+      "author": "Osamu Dazai",
+      "authorJa": "太宰治",
+      "country": "日本",
+      "year": 1948,
+      "genre": [
+        "小説",
+        "日本文学"
+      ],
+      "descriptionJa": "「人間として失格」した男・大庭葉蔵の自叙。道化を演じ続け、酒と女に堕ちていく生涯を、太宰治自身の半生と重ねて描く。日本で最も読まれ、世界に翻訳された近代日本文学の金字塔。",
+      "whyReadJa": "「生きづらさ」をこれほど率直に描いた文学は稀。世界の現代作家（イシグロなど）にも影響を与えた、普遍的な自意識の物語。",
+      "selectionReasonJa": "太宰治の代表作。日本で最も読まれ、海外翻訳も多い近代日本文学の古典。",
+      "tags": [
+        "日本文学",
+        "自己",
+        "生きづらさ",
+        "太宰治"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/14611513-L.jpg"
+    },
+    {
+      "slug": "the-woman-in-the-dunes",
+      "title": "砂の女",
+      "titleEn": "The Woman in the Dunes",
+      "titleJa": "砂の女",
+      "author": "Kobo Abe",
+      "authorJa": "安部公房",
+      "country": "日本",
+      "year": 1962,
+      "genre": [
+        "小説",
+        "SF",
+        "日本文学"
+      ],
+      "descriptionJa": "昆虫採集に出かけた男が、砂の穴に住む女とともに監禁される。毎日砂を掻き出さねば生きられない世界で、男は自由と共同体の意味を問われる。読売文学賞受賞。映画化もされた安部公房の代表作。",
+      "whyReadJa": "「自由とは何か」をSF的に問う、世界に評価された日本文学。カフカの系譜を日本で継承した異色作。",
+      "selectionReasonJa": "安部公房の代表作。世界SF文学の最高峰に位置づけられ、日本文学の国際化を先導した。",
+      "tags": [
+        "日本文学",
+        "SF",
+        "自由",
+        "安部公房"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10836985-L.jpg"
+    },
+    {
+      "slug": "frog",
+      "title": "蛙",
+      "titleEn": "Frog",
+      "titleJa": "蛙",
+      "author": "Mo Yan",
+      "authorJa": "莫言",
+      "country": "中国",
+      "year": 2009,
+      "genre": [
+        "小説",
+        "歴史"
+      ],
+      "descriptionJa": "産児制限政策を執行する村の助産師ガーヌー。彼女の人生を通して、中国の人口政策と個人の苦悩を描く。ノーベル文学賞受賞作家・莫言の、最も社会性の強い傑作。",
+      "whyReadJa": "中国現代史を一人の女性の人生から描く、ノーベル賞作家の代表作。中国社会を深く理解する入口。",
+      "selectionReasonJa": "ノーベル文学賞受賞作家・莫言の代表作。中国現代史を文学化した金字塔。",
+      "tags": [
+        "中国",
+        "歴史",
+        "ノーベル賞",
+        "現代文学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10979487-L.jpg"
+    },
+    {
+      "slug": "to-live",
+      "title": "活着",
+      "titleEn": "To Live",
+      "titleJa": "活着",
+      "author": "Yu Hua",
+      "authorJa": "余華",
+      "country": "中国",
+      "year": 1993,
+      "genre": [
+        "小説",
+        "歴史"
+      ],
+      "descriptionJa": "大地主の息子フーグイは、賭博で財産を失い、家族とともに中国の激動の時代を生き抜く。文化大革命を経て、最期に残るものとは。映画化（張芸謀監督）でも知られる、中国現代文学の名作。",
+      "whyReadJa": "「生きる」ことの意味を、中国の苦難の歴史の中で描く。世界で最も読まれる中国小説の一つ。",
+      "selectionReasonJa": "余華の代表作。中国現代文学を代表し、世界で広く読まれる名作。",
+      "tags": [
+        "中国",
+        "歴史",
+        "生きる",
+        "現代文学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/6823968-L.jpg"
+    },
+    {
+      "slug": "please-look-after-mom",
+      "title": "엄마를 부탁해",
+      "titleEn": "Please Look After Mom",
+      "titleJa": "お母さんを尋ねて三千里",
+      "author": "Shin Kyung-sook",
+      "authorJa": "シン・ギョンスク",
+      "country": "韓国",
+      "year": 2008,
+      "genre": [
+        "小説",
+        "家族"
+      ],
+      "descriptionJa": "ソウルの地下鉄で母が行方不明になった。家族四人の視点から、母の人生と、知らなかった母の顔が浮かび上がる。韓国で200万部、世界30か国で翻訳された、韓国文学を世界に知らしめた代表作。",
+      "whyReadJa": "「母」と「家族」をめぐる最も普遍的な物語。韓国文学の国際的な知名度を高めた、ブックスタート的な一冊。",
+      "selectionReasonJa": "シン・ギョンスクの代表作。韓国文学の国際化を牽引した、世界で最も読まれた韓国小説。",
+      "tags": [
+        "韓国",
+        "家族",
+        "母",
+        "ベストセラー"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/6717330-L.jpg"
+    },
+    {
+      "slug": "a-tale-of-love-and-darkness",
+      "title": "סיפור על אהבה וחושך",
+      "titleEn": "A Tale of Love and Darkness",
+      "titleJa": "愛と闇の物語",
+      "author": "Amos Oz",
+      "authorJa": "アモス・オズ",
+      "country": "イスラエル",
+      "year": 2002,
+      "genre": [
+        "小説",
+        "自伝"
+      ],
+      "descriptionJa": "エルサレムのユダヤ人家庭で育った少年の記憶。イスラエル建国前夜の時代と家族を、イスラエルを代表する作家アモス・オズが壮大に描く自伝的小説。世界文学の傑作。",
+      "whyReadJa": "イスラエルと中東の現実を、ひとりの少年の物語として体験できる。パレスチナ問題を文学から考える入口。",
+      "selectionReasonJa": "イスラエルを代表する作家アモス・オズの代表作。中東文学の金字塔。",
+      "tags": [
+        "イスラエル",
+        "中東",
+        "自伝",
+        "歴史"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8216396-L.jpg"
+    },
+    {
+      "slug": "children-of-the-alley",
+      "title": "أولاد حارتنا",
+      "titleEn": "Children of the Alley",
+      "titleJa": "わが街の子ら",
+      "author": "Naguib Mahfouz",
+      "authorJa": "ナギーブ・マフフーズ",
+      "country": "エジプト",
+      "year": 1959,
+      "genre": [
+        "小説",
+        "寓話"
+      ],
+      "descriptionJa": "カイロの路地を舞台に、四世代にわたる英雄たちの物語を寓話として描く。預言者たちの物語を想起させる構図で、宗教と社会を問う。ノーベル文学賞受賞作家マフフーズの最高傑作。",
+      "whyReadJa": "アラブ文学の最高峰。ノーベル賞を受賞したマフフーズが、宗教と人間を寓話として描いた金字塔。",
+      "selectionReasonJa": "アラブ世界初のノーベル文学賞作家マフフーズの代表作。アラブ文学の金字塔。",
+      "tags": [
+        "エジプト",
+        "アラブ文学",
+        "ノーベル賞",
+        "寓話"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/14814096-L.jpg"
+    },
+    {
+      "slug": "disgrace",
+      "title": "Disgrace",
+      "titleEn": "Disgrace",
+      "titleJa": "恥辱",
+      "author": "J.M. Coetzee",
+      "authorJa": "J・M・クッツェー",
+      "country": "南アフリカ",
+      "year": 1999,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "大学講師デイヴィッド・ルーリーは、スキャンダルで職を追われ、娘の農場に身を寄せる。そこで起きた暴力的事件を機に、南アフリカの「恥辱」の歴史と向き合う。ブッカー賞2度受賞、ノーベル賞作家クッツェーの代表作。",
+      "whyReadJa": "アパルトヘイト後の南アフリカと、人間の尊厳を問う、ノーベル賞作家の最高傑作。",
+      "selectionReasonJa": "ノーベル文学賞・ブッカー賞受賞作家クッツェーの代表作。南アフリカ文学の金字塔。",
+      "tags": [
+        "南アフリカ",
+        "ノーベル賞",
+        "ブッカー賞",
+        "尊厳"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/11434870-L.jpg"
+    },
+    {
+      "slug": "the-famished-road",
+      "title": "The Famished Road",
+      "titleEn": "The Famished Road",
+      "titleJa": "飢えた道",
+      "author": "Ben Okri",
+      "authorJa": "ベン・オクリ",
+      "country": "ナイジェリア",
+      "year": 1991,
+      "genre": [
+        "小説",
+        "ファンタジー"
+      ],
+      "descriptionJa": "生と死の間を彷徨う「アビク」の少年アザロが、ナイジェリアの路地で見る現実と精霊の世界。マジックリアリズムとアフリカの口承文芸が融合し、ブッカー賞を受賞した、アフリカ文学の金字塔。",
+      "whyReadJa": "アフリカのマジックリアリズムの到達点。ブッカー賞受賞作として、アフリカ文学の国際化を担った。",
+      "selectionReasonJa": "ブッカー賞受賞のベン・オクリ代表作。アフリカ文学の国際的な金字塔。",
+      "tags": [
+        "ナイジェリア",
+        "アフリカ文学",
+        "ブッカー賞",
+        "マジックリアリズム"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/13858305-L.jpg"
+    },
+    {
+      "slug": "hopscotch",
+      "title": "Rayuela",
+      "titleEn": "Hopscotch",
+      "titleJa": "石蹴り遊び",
+      "author": "Julio Cortázar",
+      "authorJa": "フリオ・コルタサル",
+      "country": "アルゼンチン",
+      "year": 1963,
+      "genre": [
+        "小説",
+        "実験小説"
+      ],
+      "descriptionJa": "パリとブエノスアイレスを舞台に、オラシオとラ・マガの愛と精神の探求を描く。読む順番を自由に選べる「読者への提案」を付した、ラテンアメリカ文学の実験的傑作。",
+      "whyReadJa": "「読む」ことの可能性を拡張した、ラテンアメリカ文学の最重要作。ガルシア＝マルケスと並ぶ「ブーム」の旗手。",
+      "selectionReasonJa": "ラテンアメリカ文学ブームを代表するコルタサルの最高傑作。",
+      "tags": [
+        "ラテンアメリカ",
+        "アルゼンチン",
+        "実験小説",
+        "ブーム"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/1047466-L.jpg"
+    },
+    {
+      "slug": "the-death-of-artemio-cruz",
+      "title": "La muerte de Artemio Cruz",
+      "titleEn": "The Death of Artemio Cruz",
+      "titleJa": "アルテミオ・クルスの死",
+      "author": "Carlos Fuentes",
+      "authorJa": "カルロス・フエンテス",
+      "country": "メキシコ",
+      "year": 1962,
+      "genre": [
+        "小説",
+        "歴史"
+      ],
+      "descriptionJa": "瀕死の富豪アルテミオ・クルスの過去と現在が、意識の流れで交錯する。メキシコ革命から現代に至る国家の歴史を、一人の男の人生として描く、メキシコ文学の金字塔。",
+      "whyReadJa": "メキシコ現代史を文学として読む。ラテンアメリカ文学ブームのもう一つの柱、フエンテスの代表作。",
+      "selectionReasonJa": "メキシコを代表する作家フエンテスの代表作。ラテンアメリカ文学の金字塔。",
+      "tags": [
+        "メキシコ",
+        "ラテンアメリカ",
+        "歴史",
+        "意識の流れ"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/14942075-L.jpg"
+    },
+    {
+      "slug": "a-case-of-exploding-mangoes",
+      "title": "A Case of Exploding Mangoes",
+      "titleEn": "A Case of Exploding Mangoes",
+      "titleJa": "爆発するマンゴーの事件",
+      "author": "Mohammed Hanif",
+      "authorJa": "モハメド・ハニーフ",
+      "country": "パキスタン",
+      "year": 2008,
+      "genre": [
+        "小説",
+        "ユーモア"
+      ],
+      "descriptionJa": "1988年に墜落死したパキスタンのジア大統領。その謎の死を、黒いユーモアと風刺で描く政治小説。ブッカー賞最終候補。パキスタン文学を世界に知らしめた、痛快な傑作。",
+      "whyReadJa": "政治と笑いを融合させた、現代パキスタン文学の代表作。南アジアの文学の新しい波。",
+      "selectionReasonJa": "ブッカー賞最終候補となった、パキスタン文学の世界的代表作。",
+      "tags": [
+        "パキスタン",
+        "政治",
+        "ユーモア",
+        "南アジア"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/6793905-L.jpg"
+    },
+    {
+      "slug": "gangster-we-are-all-looking-for",
+      "title": "The Gangster We Are All Looking For",
+      "titleEn": "The Gangster We Are All Looking For",
+      "titleJa": "私たちが探しているギャング",
+      "author": "lê thi diem thúy",
+      "authorJa": "レ・ティ・ディエム・トゥイ",
+      "country": "ベトナム/アメリカ",
+      "year": 2003,
+      "genre": [
+        "小説",
+        "自伝"
+      ],
+      "descriptionJa": "ベトナム戦争後にアメリカへ亡命した家族の、断片的な記憶。海、父の暴力、母の沈黙——ベトナム系アメリカ文学の、抒情的な傑作。",
+      "whyReadJa": "ベトナム戦争の「その後」を、難民の視点から描く。オーシャン・ヴオンやウェンと繋がる、ベトナム系文学の源流。",
+      "selectionReasonJa": "ベトナム系アメリカ文学を代表する、抒情的な傑作。",
+      "tags": [
+        "ベトナム",
+        "移民",
+        "難民",
+        "家族"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/228181-L.jpg"
+    },
+    {
+      "slug": "changes",
+      "title": "Changes",
+      "titleEn": "Changes: A Love Story",
+      "titleJa": "変わりゆくもの",
+      "author": "Ama Ata Aidoo",
+      "authorJa": "アマ・アタ・アイドゥー",
+      "country": "ガーナ",
+      "year": 1991,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "ガーナのキャリア女性エシが、夫の浮気に傷つき、結婚と恋愛の自由を求める。アフリカの女性解放と伝統の葛藤を描く、アフリカ女性文学の古典。",
+      "whyReadJa": "アフリカの「女性」を中心に据えた文学の古典。世界文学としてのアフリカ女性の声を知る。",
+      "selectionReasonJa": "ガーナを代表する女性作家アイドゥーの代表作。アフリカ女性文学の古典。",
+      "tags": [
+        "ガーナ",
+        "アフリカ",
+        "女性",
+        "恋愛"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/784382-L.jpg"
+    },
+    {
+      "slug": "beauty-is-a-wound",
+      "title": "Cantik Itu Luka",
+      "titleEn": "Beauty Is a Wound",
+      "titleJa": "美しさは傷",
+      "author": "Eka Kurniawan",
+      "authorJa": "エカ・クルニアワン",
+      "country": "インドネシア",
+      "year": 2002,
+      "genre": [
+        "小説",
+        "マジックリアリズム"
+      ],
+      "descriptionJa": "第二次世界大戦後のインドネシアを舞台に、不死身の美女デウィ・アユの数奇な運命を描く。暴力と笑いとファンタジーが交錯する、東南アジア文学の新たな金字塔。",
+      "whyReadJa": "「東南アジアのマルケス」と呼ばれるクルニアワンの代表作。東南アジア文学の国際的な顔。",
+      "selectionReasonJa": "インドネシア文学を国際的に知らしめた、エカ・クルニアワンの代表作。",
+      "tags": [
+        "インドネシア",
+        "東南アジア",
+        "マジックリアリズム",
+        "歴史"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10656308-L.jpg"
+    },
+    {
+      "slug": "the-luminaries",
+      "title": "The Luminaries",
+      "titleEn": "The Luminaries",
+      "titleJa": "灯台守たち",
+      "author": "Eleanor Catton",
+      "authorJa": "エレナー・カットン",
+      "country": "ニュージーランド",
+      "year": 2013,
+      "genre": [
+        "小説",
+        "ミステリ"
+      ],
+      "descriptionJa": "1866年、ニュージーランドの金鉱街で起きた失踪と死の謎。12人の登場人物が、星座の配置に従って織りなすヴィクトリア朝風の大長編。ブッカー賞を史上最年少で受賞した、超弩級の傑作。",
+      "whyReadJa": "オセアニア文学の到達点。星座の構造で紡がれる、800ページの驚異的なミステリ。",
+      "selectionReasonJa": "ブッカー賞最年少受賞となった、ニュージーランド文学の金字塔。",
+      "tags": [
+        "ニュージーランド",
+        "ブッカー賞",
+        "ミステリ",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/7268574-L.jpg"
+    }
+  ]
+}

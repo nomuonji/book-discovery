@@ -1,6 +1,9 @@
 import type { MetadataRoute } from "next";
 import { getAllBooks, getAllPaths, getAllCategories, getAllAuthors, getAllTags } from "@/lib/data";
 
+// output: "export" (next.config.ts) には全ルートが静的である明示が必要
+export const dynamic = "force-static";
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = "https://reading-compass.vercel.app";
   const now = new Date();

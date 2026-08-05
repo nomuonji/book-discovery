@@ -17,6 +17,7 @@ import { ThreadsPublisher } from "./publish/threads";
 import { InstagramPublisher } from "./publish/instagram";
 import { recordPost } from "./state";
 import { CHARACTER_LIMITS } from "./publish/types";
+import { getThreadsCredentials } from "./threadsAuth";
 
 interface CliOptions {
   dryRun: boolean;
@@ -98,6 +99,17 @@ async function run(): Promise<void> {
   if (!cfg.enabled) {
     console.log("BOT_ENABLED=false のためスキップ");
     return;
+  }
+
+  // --preview never touches publishers/credentials (see below), so only fetch
+  // Threads creds from the Gist when we might actually need them. `opts.dryRun`
+  // is passed through so a --dry-run invocation never refreshes/writes the Gist.
+  if (cfg.platforms.includes("threads") && opts.previewCount === 0) {
+    try {
+      cfg.threads = await getThreadsCredentials(cfg.threadsGistAccount, opts.dryRun);
+    } catch (err) {
+      console.error(`[threads] Gist から認証情報を取得できませんでした: ${(err as Error).message}`);
+    }
   }
 
   const missing = opts.dryRun || opts.previewCount > 0 ? [] : missingCredentials(cfg);

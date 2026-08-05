@@ -38,12 +38,15 @@ export interface BotConfig {
   platforms: PlatformName[];
   postsPerDay: number;
   dryRun: boolean;
+  /** Account key inside the Gist state used for Threads credentials. */
+  threadsGistAccount: string;
   x?: {
     apiKey: string;
     apiSecret: string;
     accessToken: string;
     accessTokenSecret: string;
   };
+  /** Populated at runtime from the Gist state (see threadsAuth.ts), not from env. */
   threads?: {
     userId: string;
     accessToken: string;
@@ -57,7 +60,10 @@ function env(name: string): string {
 export function loadConfig(): BotConfig {
   loadDotEnv();
 
-  const platforms = (env("BOT_PLATFORMS") || "x,threads")
+  // This project only runs Threads (kanna_neko_xx) for now. X support is kept
+  // in the codebase (publish/x.ts, oauth.ts) in case it's wired up later, but
+  // is not part of the default platform set.
+  const platforms = (env("BOT_PLATFORMS") || "threads")
     .split(",")
     .map((p) => p.trim().toLowerCase() as PlatformName)
     .filter((p): p is PlatformName => ["x", "threads", "instagram"].includes(p));
@@ -70,6 +76,7 @@ export function loadConfig(): BotConfig {
     platforms,
     postsPerDay: Number(env("BOT_POSTS_PER_DAY")) || 1,
     dryRun,
+    threadsGistAccount: env("THREADS_GIST_ACCOUNT") || "kanna_neko_xx",
   };
 
   if (platforms.includes("x")) {
@@ -80,12 +87,10 @@ export function loadConfig(): BotConfig {
       accessTokenSecret: env("X_ACCESS_TOKEN_SECRET"),
     };
   }
-  if (platforms.includes("threads")) {
-    config.threads = {
-      userId: env("THREADS_USER_ID"),
-      accessToken: env("THREADS_ACCESS_TOKEN"),
-    };
-  }
+  // config.threads is intentionally NOT populated here — Threads credentials
+  // come from the Gist-managed state (see threadsAuth.ts) because the token
+  // needs to be refreshed and persisted across runs, which plain env vars
+  // can't do. post.ts fills it in before publishing.
   return config;
 }
 
@@ -93,12 +98,14 @@ export function loadConfig(): BotConfig {
 export function missingCredentials(config: BotConfig): PlatformName[] {
   const missing: PlatformName[] = [];
   if (config.platforms.includes("x")) {
-    const c = config.x!;
-    if (!c.apiKey || !c.apiSecret || !c.accessToken || !c.accessTokenSecret) missing.push("x");
+    const c = config.x;
+    if (!c?.apiKey || !c.apiSecret || !c.accessToken || !c.accessTokenSecret) missing.push("x");
   }
   if (config.platforms.includes("threads")) {
-    const c = config.threads!;
-    if (!c.userId || !c.accessToken) missing.push("threads");
+    // config.threads is populated at runtime from the Gist (see post.ts /
+    // threadsAuth.ts); it can legitimately be undefined if that fetch failed.
+    const c = config.threads;
+    if (!c?.userId || !c.accessToken) missing.push("threads");
   }
   return missing;
 }

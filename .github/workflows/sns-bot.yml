@@ -17,6 +17,7 @@ permissions:
   contents: read
 
 concurrency:
+  # Gist への書き込み競合を防ぐため多重実行を禁止する
   group: sns-bot
   cancel-in-progress: false
 
@@ -42,9 +43,7 @@ jobs:
           BOT_POSTS_PER_DAY: ${{ vars.BOT_POSTS_PER_DAY }}
           # 12:00 JST はスロット0、20:00 JST はスロット1（BOT_POSTS_PER_DAY=2 前提）
           BOT_SLOT: ${{ github.event.schedule == '0 3 * * *' && '0' || '1' }}
-          X_API_KEY: ${{ secrets.X_API_KEY }}
-          X_API_SECRET: ${{ secrets.X_API_SECRET }}
-          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
-          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
-          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
-          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          # Threads のトークンは Gist で管理する（bot/gistState.ts / threadsAuth.ts）。
+          # GH_GIST_TOKEN は gist スコープのみの PAT。他の権限は持たせないこと。
+          GH_GIST_TOKEN: ${{ secrets.GH_GIST_TOKEN }}
+          GIST_ID: ${{ secrets.GIST_ID }}

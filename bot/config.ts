@@ -72,7 +72,8 @@ export function loadConfig(): BotConfig {
 
   const config: BotConfig = {
     enabled: (env("BOT_ENABLED") || "true").toLowerCase() !== "false",
-    siteUrl: env("SITE_URL") || "https://reading-compass.vercel.app",
+    // 暫定: カスタムドメイン取得までは Cloudflare Pages の URL（layout.tsx / sitemap.ts / robots.ts も同様）。
+    siteUrl: env("SITE_URL") || "https://book-discovery-cu3.pages.dev",
     platforms,
     postsPerDay: Number(env("BOT_POSTS_PER_DAY")) || 1,
     dryRun,

@@ -9,6 +9,7 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://reading-compass.vercel.app/sitemap.xml",
+    // 暫定: カスタムドメイン取得までは Cloudflare Pages の URL（layout.tsx / sitemap.ts / bot/config.ts も同様）。
+    sitemap: "https://book-discovery-cu3.pages.dev/sitemap.xml",
   };
 }

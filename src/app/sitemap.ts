@@ -5,7 +5,9 @@ import { getAllBooks, getAllPaths, getAllCategories, getAllAuthors, getAllTags }
 export const dynamic = "force-static";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://reading-compass.vercel.app";
+  // 暫定: カスタムドメイン取得までは Cloudflare Pages の URL。
+  // 取得後は本来のドメインに戻すこと（layout.tsx / robots.ts / bot/config.ts も同様）。
+  const baseUrl = "https://book-discovery-cu3.pages.dev";
   const now = new Date();
 
   const routes: MetadataRoute.Sitemap = [

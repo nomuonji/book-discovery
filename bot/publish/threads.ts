@@ -77,7 +77,7 @@ export class ThreadsPublisher {
   private async publishContainer(containerId: string): Promise<ThreadsPublishResponse> {
     const params = new URLSearchParams({
       access_token: this.opts.accessToken,
-      media_id: containerId,
+      creation_id: containerId,
     });
 
     const res = await fetch(`${GRAPH_BASE}/${this.opts.userId}/threads_publish`, {

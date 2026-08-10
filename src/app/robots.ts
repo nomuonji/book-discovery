@@ -9,7 +9,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    // 暫定: カスタムドメイン取得までは Cloudflare Pages の URL（layout.tsx / sitemap.ts / bot/config.ts も同様）。
-    sitemap: "https://book-discovery-cu3.pages.dev/sitemap.xml",
+    sitemap: "https://books.antonbase.com/sitemap.xml",
   };
 }

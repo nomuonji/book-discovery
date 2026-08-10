@@ -5,9 +5,7 @@ import { getAllBooks, getAllPaths, getAllCategories, getAllAuthors, getAllTags }
 export const dynamic = "force-static";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  // 暫定: カスタムドメイン取得までは Cloudflare Pages の URL。
-  // 取得後は本来のドメインに戻すこと（layout.tsx / robots.ts / bot/config.ts も同様）。
-  const baseUrl = "https://book-discovery-cu3.pages.dev";
+  const baseUrl = "https://books.antonbase.com";
   const now = new Date();
 
   const routes: MetadataRoute.Sitemap = [

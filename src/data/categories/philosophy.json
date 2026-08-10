@@ -27,7 +27,9 @@
         "短編小説"
       ],
       "selectionReasonJa": "不条理哲学を小説として提示した20世紀文学の金字塔。カミュの代表作。",
-      "titleEn": "The Stranger"
+      "titleEn": "The Stranger",
+      "descriptionEn": "A man who feigns indifference at his mother's death, and kills a man — because of the sun. A towering work of twentieth-century literature that presents the philosophy of the absurd in the form of a novel. Meursault's thin emotions throw the hypocrisy of society and the absurdity of life into stark relief. Barely over a hundred pages, yet it rewires the worldview of everyone who reads it.",
+      "whyReadEn": "A rare novel that lets you meet philosophy without reading a philosophy book. Its cool narration and existential questions resonate with the sensibility of readers who love Soseki and Akutagawa."
     },
     {
       "slug": "the-myth-of-sisyphus",
@@ -52,7 +54,9 @@
         "エッセイ"
       ],
       "selectionReasonJa": "実存主義の入口として最適なカミュの哲学的エッセイ。",
-      "titleEn": "The Myth of Sisyphus"
+      "titleEn": "The Myth of Sisyphus",
+      "descriptionEn": "There is but one truly serious philosophical problem, and that is suicide. So begins Camus's philosophical essay, one of the twentieth century's most influential works. If life holds no meaning, is it still worth living? Returning to the ancient myth of Sisyphus, the man condemned by the gods to push a boulder uphill only to watch it roll back down for eternity, Camus finds an unexpected answer: the absurd is not a reason for despair but the very ground of a defiant, self-willed joy in living.",
+      "whyReadEn": "The ideal gateway into existentialism. Short, literary, and capable of digging hope up from the depths of despair. If you are about to move on to Nietzsche or Sartre, this is the essential first book, one you can finish in a single sitting."
     },
     {
       "slug": "thus-spoke-zarathustra",
@@ -76,7 +80,9 @@
         "近代批判"
       ],
       "selectionReasonJa": "西洋哲学の最大の転換点。ニーチェの価値転換を詩的に語る。",
-      "titleEn": "Also sprach Zarathustra"
+      "titleEn": "Also sprach Zarathustra",
+      "descriptionEn": "A prophet comes down from his mountain to proclaim to the people that God is dead, then preaches the Overman, the will to power, and eternal recurrence in soaring poetic prose. Written in the form of a prophetic book that reads almost as a parody of the Bible, it overturned the foundations of modern values and morality at a stroke. A unique work that can be read both as philosophy and as literature, it remains one of the most thrilling and unsettling texts in the Western canon.",
+      "whyReadEn": "The great turning point of Western philosophy. An explosive primer for demolishing inherited values and beginning to think for yourself, it is also the work that gave us the phrase God is dead. No one can discuss modern thought without first reckoning with Nietzsche."
     },
     {
       "slug": "the-origins-of-totalitarianism",
@@ -101,7 +107,9 @@
         "歴史"
       ],
       "selectionReasonJa": "全体主義のメカニズムを分析した、現代政治哲学の必読書。",
-      "titleEn": "The Origins of Totalitarianism"
+      "titleEn": "The Origins of Totalitarianism",
+      "descriptionEn": "Why did the two totalitarian movements that stained the twentieth century with blood, Nazism and Stalinism, come into being? Arendt analyzes anti-Semitism, imperialism, and the rise of the masses to expose a structure of power that crushes human plurality and turns people into interchangeable components of a single machine. Written by a thinker who fled the Nazis as a Jewish refugee, this is the magnum opus of twentieth-century political thought.",
+      "whyReadEn": "Essential reading in modern political philosophy. As populism and authoritarianism surge again, understanding the mechanics of totalitarianism has never felt more urgent. Arendt's later idea of the banality of evil also has its roots here, in this monumental study of power."
     },
     {
       "slug": "the-second-sex",
@@ -126,7 +134,9 @@
         "ジェンダー"
       ],
       "selectionReasonJa": "フェミニズム理論の金字塔。ボーヴォワールの代表作。",
-      "titleEn": "The Second Sex"
+      "titleEn": "The Second Sex",
+      "descriptionEn": "One is not born, but rather becomes, a woman. With this famous opening, the foundational text of feminist theory begins. Ranging across biology, psychoanalysis, history, myth, and literature, Beauvoir dissects the process by which woman has been constructed as the Other throughout the ages, showing how the feminine has been defined against the masculine. More than seventy years after publication, its scope and force have not faded in the slightest.",
+      "whyReadEn": "The origin of feminism and still one of its deepest-reaching classics. It is essential background for understanding contemporary gender theory, and it is deeply marked by existentialism through Beauvoir's lifelong partnership with Sartre. Read it before any other feminist classic."
     },
     {
       "slug": "gender-trouble",
@@ -151,7 +161,9 @@
         "ジェンダー"
       ],
       "selectionReasonJa": "現代のジェンダー論の基礎。バトラーが「女」のカテゴリーを解体した。",
-      "titleEn": "Gender Trouble"
+      "titleEn": "Gender Trouble",
+      "descriptionEn": "A revolutionary work that questions the very category of woman, arguing that gender is not a natural given but something performed into existence through repeated acts and discourses. Butler thus laid the groundwork for contemporary debates about sex and identity, from feminism to queer theory. Controversial when it first appeared, it has since become a foundational text of modern thought and is read across disciplines from philosophy to cultural studies.",
+      "whyReadEn": "The foundation of contemporary gender theory and the natural next step after The Second Sex. The prose is difficult, but reading it will shake your assumptions about masculinity and femininity to the roots. A demanding classic that repays every hour you invest."
     },
     {
       "slug": "orientalism",
@@ -176,7 +188,9 @@
         "表象"
       ],
       "selectionReasonJa": "ポストコロニアル理論の扉を開いた記念碑的著作。",
-      "titleEn": "Orientalism"
+      "titleEn": "Orientalism",
+      "descriptionEn": "The Orient is a fantasy created by the West. With this bold thesis, Said opened the door of postcolonial theory in a monumental work. He exposes how the Orient has been represented in literature, scholarship, and politics, and how those representations were pressed into service as instruments of domination and empire. A must-read for understanding the structure of modern cultural stereotypes, it remains as provocative today as when it first appeared.",
+      "whyReadEn": "A lens for thinking about the very dichotomy of West versus East. Seeing how Japan has been viewed as part of the East also reveals how it has pictured itself on the international stage. Essential for anyone curious about the politics of representation."
     },
     {
       "slug": "black-skin-white-masks",
@@ -200,7 +214,9 @@
         "植民地主義"
       ],
       "selectionReasonJa": "植民地主義が精神に何をするかを描く、人種論の原点。",
-      "titleEn": "Peau noire, masques blancs"
+      "titleEn": "Peau noire, masques blancs",
+      "descriptionEn": "What does colonialism do to the human psyche? A psychiatrist from Martinique renders the psychological conflicts of being Black with startling intensity. Analyzing language, desire, and the internalization of racism, Fanon indicts the ways in which colonial domination destroys the souls of the dominated from within. A foundational work of modern race theory and postcolonial thought, it still speaks directly to questions of identity and selfhood today.",
+      "whyReadEn": "A classic about how discrimination eats away at the minds of those on the receiving end. Read alongside Said's Orientalism to grasp colonialism from both its external and internal dimensions. Indispensable for students of race, identity, and the psychology of oppression."
     },
     {
       "slug": "debt-the-first-5000-years",
@@ -225,7 +241,9 @@
         "歴史"
       ],
       "selectionReasonJa": "「お金の常識」を人類学でひっくり返す、資本主義批判の必読書。",
-      "titleEn": "Debt: The First 5,000 Years"
+      "titleEn": "Debt: The First 5,000 Years",
+      "descriptionEn": "The textbook story that money arose from barter is a complete fiction. In this sweeping history, the anthropologist who became a theoretical pillar of the Occupy movement rewrites five thousand years of debt and money, from ancient Mesopotamian ledgers to medieval moral philosophy and the modern financial crisis, showing how the concepts of owing and repaying have shaped entire societies, moralities, and forms of human relationship.",
+      "whyReadEn": "A book that upends the common sense of money. Essential reading for anyone imagining alternatives to capitalism, and astonishingly entertaining to boot. If you loved Harari's Sapiens-style world history, you will devour this in a few sittings."
     },
     {
       "slug": "on-photography",
@@ -250,7 +268,9 @@
         "視覚文化"
       ],
       "selectionReasonJa": "写真というメディアを哲学的・官能的に論じた批評の傑作。",
-      "titleEn": "On Photography"
+      "titleEn": "On Photography",
+      "descriptionEn": "To photograph is to appropriate the thing photographed. In this masterpiece of criticism, Sontag explores the violence and allure of photography with philosophical and sensual intensity, asking what it means to see the world through a lens. Its insights seem to have foreseen a world in which everyone on social media is a photographer. Sontag's signature work, and unmatched even as pure reading pleasure.",
+      "whyReadEn": "A book that teaches the joy of reading criticism. It resonates most powerfully with modern people surrounded by photos and social media. Also an ideal introduction to literary and cultural criticism, one that makes you look at images differently forever."
     },
     {
       "slug": "men-explain-things-to-me",
@@ -275,7 +295,9 @@
         "現代思想"
       ],
       "selectionReasonJa": "日常の性差別を描く、フェミニズム入門の最良の一冊。",
-      "titleEn": "Men Explain Things to Me"
+      "titleEn": "Men Explain Things to Me",
+      "descriptionEn": "At a party, a man began explaining to Solnit the very book she had written, an episode both absurd and painfully familiar that gave birth to the word mansplaining. From everyday sexism to domestic violence, Solnit delivers a feminist perspective in the warm, accessible form of the essay. It goes down lightly, yet cuts deep, and has become one of the most quoted feminist books of its generation.",
+      "whyReadEn": "The ideal introduction to feminism. It begins not with difficult theory but with the dissonance of everyday life, so anyone can relate. Read after Beauvoir or Butler, it clicks into place as the practical companion to their theories."
     },
     {
       "slug": "seeing-like-a-state",
@@ -299,7 +321,9 @@
         "アナーキズム"
       ],
       "selectionReasonJa": "国家計画がなぜ失敗するかを分析する、政治人類学の傑作。",
-      "titleEn": "Seeing Like a State"
+      "titleEn": "Seeing Like a State",
+      "descriptionEn": "Why do large-scale state social projects so often fail? From Soviet collective farms to forced resettlement in Tanzania, Scott analyzes the tragedies that follow when the state views society from above and simplifies it in the name of order and legibility. A key work of anarchist anthropology alongside Graeber, it champions the value of metis, the stubborn, practical wisdom of local practice that no central planner can reproduce.",
+      "whyReadEn": "A book for anyone involved in politics or administration. It reveals the recurring pattern of failure pursued under the banners of efficiency and digital transformation. The natural next step after Graeber's Debt, and a warning against top-down thinking."
     },
     {
       "slug": "imagined-communities",
@@ -324,7 +348,9 @@
         "東南アジア"
       ],
       "selectionReasonJa": "「国民」という概念の起源を解き明かした政治学の名著。",
-      "titleEn": "Imagined Communities"
+      "titleEn": "Imagined Communities",
+      "descriptionEn": "A nation is a community that exists because people who have never met one another imagine themselves as belonging together. From this simple, revolutionary insight, Anderson traces the origins of nationalism through the history of print technology and the standardization of languages, showing how the novel and the newspaper made the nation thinkable. A landmark of political science and the foundation of all modern study of nationalism.",
+      "whyReadEn": "The best lens for thinking about what Japan is and what nationality means. Read together with Said's Orientalism and Fanon's work, it yields a composite understanding of colonialism and nationalism. A short, beautifully argued classic."
     },
     {
       "slug": "existentialism-is-a-humanism",
@@ -349,7 +375,9 @@
         "入門"
       ],
       "selectionReasonJa": "サルトルの実存主義を講演調で語る、哲学入門の定番。",
-      "titleEn": "L'existentialisme est un humanisme"
+      "titleEn": "L'existentialisme est un humanisme",
+      "descriptionEn": "Existence precedes essence. Around this famous thesis, the record of a lecture Sartre delivered to a general audience in 1946. The human being exists first and then makes of itself what it will; to take on the weight of freedom and responsibility is the very condition of humanity. A lucid, accessible gateway to one of the twentieth century's most influential philosophies, it sparked debates that still echo today.",
+      "whyReadEn": "The philosophy primer to read after Camus. Spoken without difficult jargon, this account of freedom and responsibility speaks directly to us living in the modern world. Short enough to finish in one sitting, deep enough to stay with you for years."
     },
     {
       "slug": "discipline-and-punish",
@@ -374,7 +402,9 @@
         "規律"
       ],
       "selectionReasonJa": "フーコーの主著。監視と規律の社会を喝破した現代思想のマスターピース。",
-      "titleEn": "Surveiller et punir"
+      "titleEn": "Surveiller et punir",
+      "descriptionEn": "From public executions to a carceral system of discipline and training, how did the exercise of power change? Foucault exposes the structure of disciplinary power shared by schools, factories, hospitals, and armies, and argues that modern society has become a disciplinary society through and through. His concept of the Panopticon, a prison designed for constant surveillance, foresaw today's digital surveillance culture with uncanny precision.",
+      "whyReadEn": "A masterpiece of modern thought. It changes how you see everything, from social media's desire to be seen to corporate performance reviews and the layout of our cities. The Foucault to attempt after Sartre, rewarding but demanding."
     },
     {
       "slug": "season-of-migration-to-the-north",
@@ -398,7 +428,9 @@
         "ポストコロニアル"
       ],
       "selectionReasonJa": "ポストコロニアル文学の至宝。西洋への痛烈なアンサー。",
-      "titleEn": "Season of Migration to the North"
+      "titleEn": "Season of Migration to the North",
+      "descriptionEn": "Returning to his Sudanese village after years of study in England, a narrator uncovers the secret of the enigmatic Mustafa Sa'eed, a tale of colonial revenge and the reversal of desire between East and West. Hailed as the most important novel in twentieth-century Arabic literature, it is also a searing, deliberate answer to Conrad's Heart of Darkness, told from the other side of the colonial encounter.",
+      "whyReadEn": "Required reading in African and Arabic literature. Its vision of the reverse colonization of the West is startling and unforgettable. Read it alongside Achebe's Things Fall Apart for a matched pair of postcolonial masterpieces."
     },
     {
       "slug": "the-black-swan",
@@ -423,7 +455,9 @@
         "哲学"
       ],
       "selectionReasonJa": "不確実性と認知の限界を哲学・数学・歴史で暴く、リーマンショック以後に必読となった痛快な一冊。",
-      "titleEn": "The Black Swan"
+      "titleEn": "The Black Swan",
+      "descriptionEn": "The black swan is an event no one can predict that changes the world when it strikes. This book, which seemed to foresee the Lehman shock (Taleb insists it did not), uses philosophy, mathematics, and history to expose the dangers of our illusion of understanding the world. A dangerous and exhilarating read, it will stop you trusting arrogant experts, confident forecasts, and your own hindsight.",
+      "whyReadEn": "A way of thinking for an age of uncertainty. It forms a pair with Thinking, Fast and Slow on the limits of human cognition. Taleb's pugnacious, swaggering prose divides readers, but it is worth reading for the argument alone, and even for the style."
     },
     {
       "slug": "beyond-good-and-evil",
@@ -446,7 +480,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/9681801-L.jpg",
       "selectionReasonJa": "ニーチェ思想の中核を論理的に追体験できる主著。",
-      "titleEn": "Beyond Good and Evil"
+      "titleEn": "Beyond Good and Evil",
+      "descriptionEn": "One of Nietzsche's major works, written in the years after the death of God. He deconstructs conventional morality genealogically, exposing the underside of Western philosophy through the lens of master morality and slave morality. Written in pointed aphorisms, it is arguably the wellspring of all later existentialism and postmodernism, and the single best statement of Nietzsche's mature philosophy, a work that still unsettles readers more than a century after it was written.",
+      "whyReadEn": "If Zarathustra is poetry, this is theory. It lets you retrace the core of Nietzsche's thought with logical clarity. Essential groundwork before moving on to Foucault or Derrida, both of whom built directly on the ground this book cleared.",
+      "asin": "B0GBMBCB18"
     },
     {
       "slug": "nausea",
@@ -470,7 +507,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/9393973-L.jpg",
       "selectionReasonJa": "実存主義を小説の形で初めて提示した、サルトルのデビュー作。",
-      "titleEn": "Nausea"
+      "titleEn": "Nausea",
+      "descriptionEn": "A lonely historian, Antoine Roquentin, is suddenly overtaken by a nausea that rises from the very things around him. It is the revelation of existence: that the world holds no meaning and overflows with mere contingency. Sartre's debut novel and the first presentation of existentialism in fictional form, its famous scene before a chestnut tree root has become a touchstone of twentieth-century literature.",
+      "whyReadEn": "For those who want to grasp what existence precedes essence feels like from the inside. Together with Camus's The Stranger, it is one of the two great gateways into existentialist literature. A short novel with an outsized reputation, fully deserved.",
+      "asin": "4409130315"
     },
     {
       "slug": "being-and-nothingness",
@@ -493,7 +533,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/10847649-L.jpg",
       "selectionReasonJa": "サルトル実存主義の理論的総体。20世紀フランス哲学の最重要テクスト。",
-      "titleEn": "Being and Nothingness"
+      "titleEn": "Being and Nothingness",
+      "descriptionEn": "The theoretical summa of Sartrean existentialism. Systematizing concepts such as freedom, the look of the other, bad faith, and the project of self-making, it arrives at the thesis that man is condemned to be free. One of the most important texts of twentieth-century French philosophy, it remains the clearest and most ambitious statement of what it means to take responsibility for one's own existence.",
+      "whyReadEn": "Once Nausea or Existentialism Is a Humanism has sparked your interest, this is where you can take on the full theory. It is also a key to grasping the current of phenomenology that flows from Heidegger. Demanding, but the payoff is enormous."
     },
     {
       "slug": "the-protestant-ethic",
@@ -517,7 +559,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/15045630-L.jpg",
       "selectionReasonJa": "資本主義の精神の起源を問う、社会学の古典中の古典。",
-      "titleEn": "The Protestant Ethic and the Spirit of Capitalism"
+      "titleEn": "The Protestant Ethic and the Spirit of Capitalism",
+      "descriptionEn": "Why did capitalism develop only in the West? Weber argues that ascetic Protestantism after the Reformation produced the ethos of labor as a calling, a disciplined inner-worldly asceticism that became the driving force of the spirit of capitalism. A classic of classics in sociology and the starting point of all modern social theory, it remains the essential reference for debates about religion, work, and the modern economy.",
+      "whyReadEn": "For anyone who wants to know the origin of the phrase the spirit of capitalism. Read against Graeber's Debt, the map of modern economic thought becomes three-dimensional. An indispensable foundation for understanding why we work the way we do.",
+      "asin": "B0DTYF9TWB"
     },
     {
       "slug": "the-wretched-of-the-earth",
@@ -541,7 +586,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/14325884-L.jpg",
       "selectionReasonJa": "脱植民地化と解放を描く、ポストコロニアル思想の実践編。",
-      "titleEn": "The Wretched of the Earth"
+      "titleEn": "The Wretched of the Earth",
+      "descriptionEn": "The violence of decolonization and the creation of a new humanity. In this posthumous work, Fanon, psychiatrist and revolutionary, traces the violence that colonial rule engraves on the minds of the colonized and the path by which the oppressed are reborn as human beings through struggle. With a preface by Sartre, it influenced liberation movements across Africa, Asia, and Latin America, and remains a founding text of radical thought.",
+      "whyReadEn": "The sequel to Black Skin, White Masks and the practical arm of postcolonial thought. You will be overwhelmed by the force of theory written from inside real liberation movements. A book that changed the course of twentieth-century politics."
     },
     {
       "slug": "the-human-condition",
@@ -565,7 +612,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/5746840-L.jpg",
       "selectionReasonJa": "労働・仕事・活動を分け、公共性を問うアーレントの主著。",
-      "titleEn": "The Human Condition"
+      "titleEn": "The Human Condition",
+      "descriptionEn": "Labor, work, and action. Arendt's major work divides human activity into three, and criticizes a modernity in which the public realm, the space of the polis, is being lost. The insight that action in the presence of others is what makes humans human offers the best lens for thinking about consumer society and the work-centrism of modern life, and for imagining what we lose when politics is reduced to administration.",
+      "whyReadEn": "The Origins of Totalitarianism gives you history; this gives you the fundamental conditions of the human. Perfect for those who want to relativize the modern sense of living for work. A book that rewards rereading at every stage of life.",
+      "asin": "B0GWX1KMLC"
     },
     {
       "slug": "eichmann-in-jerusalem",
@@ -589,7 +639,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/97789-L.jpg",
       "selectionReasonJa": "「悪の凡庸さ」を問い、世界に論争を巻き起こしたアーレントの報告。",
-      "titleEn": "Eichmann in Jerusalem"
+      "titleEn": "Eichmann in Jerusalem",
+      "descriptionEn": "Arendt's report on the trial of Adolf Eichmann, the operational mastermind of Nazi mass murder, which she attended as a correspondent. Her thesis of the banality of evil, that he was no monster but an ordinary man who simply failed to think, provoked fierce and lasting controversy worldwide. A book about the boundary between good and evil, obedience and conscience, it remains impossible to read without unease.",
+      "whyReadEn": "A violent wake-up call for those who want to comfort themselves by separating evil people from themselves. In trial records you see concretely how totalitarianism slips into everyday life. One of the most discussed and most misread books of the twentieth century."
     },
     {
       "slug": "the-structure-of-scientific-revolutions",
@@ -613,7 +665,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/6566386-L.jpg",
       "selectionReasonJa": "「パラダイムシフト」の概念で科学史を変えた、知識社会学の金字塔。",
-      "titleEn": "The Structure of Scientific Revolutions"
+      "titleEn": "The Structure of Scientific Revolutions",
+      "descriptionEn": "Science does not progress in a straight line but leaps revolutionarily through the replacement of paradigms. With this thesis, Kuhn overturned the conventional understanding of the history of science and the image of the scientist as a neutral truth-seeker. A monument of the sociology of knowledge, its phrase paradigm shift has long since entered everyday language, though few who use it have read the book.",
+      "whyReadEn": "It dismantles the assumption that science is an accumulation of absolute truths. Read it with Thinking, Fast and Slow as a gateway to the limits of human knowledge. Short, clear, and genuinely paradigm-shifting in its own right.",
+      "asin": "4622096129"
     },
     {
       "slug": "the-society-of-the-spectacle",
@@ -637,7 +692,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/1052263-L.jpg",
       "selectionReasonJa": "メディア消費社会を60年前に予言した、状況主義の批判書。",
-      "titleEn": "The Society of the Spectacle"
+      "titleEn": "The Society of the Spectacle",
+      "descriptionEn": "The spectacle is capital accumulated to the point where it becomes image. In modern society, Debord argues, all direct experience is replaced by the consumption of images and representations. From his situationist standpoint, he critiques the whole of media and consumer society in a series of sharp aphorisms. The book predicted our social-media condition sixty years in advance, and it has only grown more accurate with time.",
+      "whyReadEn": "You come to realize that the urge to chase the perfect aesthetic shot and social approval is actually the machinery of capital. Read it with Saussure or Barthes's semiotics for even more. A short book with enormous aftereffects."
     },
     {
       "slug": "a-theory-of-justice",
@@ -661,7 +718,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/4516035-L.jpg",
       "selectionReasonJa": "「無知のヴェール」で正義を考える、現代政治哲学の支柱。",
-      "titleEn": "A Theory of Justice"
+      "titleEn": "A Theory of Justice",
+      "descriptionEn": "If you had to decide society's rules from behind a veil of ignorance, not knowing your own position in the resulting order, what society would you choose? From this famous thought experiment Rawls derives the difference principle and renews the whole of modern political philosophy. As the theoretical pillar of contemporary liberalism, it remains at the center of debates over equality, fairness, and the legitimacy of institutions.",
+      "whyReadEn": "The best starting point for seriously thinking about inequality. Almost all modern debate on distributive justice is a response to this book, for or against. Long and demanding, but it is the one work you cannot skip in political philosophy.",
+      "asin": "B0GDN6JRXX"
     },
     {
       "slug": "the-history-of-sexuality",
@@ -685,7 +745,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/10164010-L.jpg",
       "selectionReasonJa": "「性は抑圧されてきた」という常識を覆した、フーコーの身体論。",
-      "titleEn": "The History of Sexuality"
+      "titleEn": "The History of Sexuality",
+      "descriptionEn": "Overturning the common sense that sex was repressed, Foucault argues that modernity instead proliferated discourse about sex, generating endless talk of confession, science, and self-knowledge, and produced the very concept of sexuality. With concepts such as confession and bio-power, he radically re-examines the relation between body, desire, and power, showing how power does not forbid so much as incite and organize.",
+      "whyReadEn": "The sequel that applies the theory of power from Discipline and Punish to the body. Read it with Gender Trouble to survey contemporary thought on body and power from above. A dense book whose ideas are everywhere in modern criticism.",
+      "asin": "B0H7PT8QW4"
     },
     {
       "slug": "the-order-of-things",
@@ -709,7 +772,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/8703131-L.jpg",
       "selectionReasonJa": "認識の枠組みの歴史を描き、近代的人間の終焉を告げた問題作。",
-      "titleEn": "Les Mots et les Choses"
+      "titleEn": "Les Mots et les Choses",
+      "descriptionEn": "Man is a myth. Tracing how the epistemes that order the world shifted across the Renaissance, the classical age, and the modern era, Foucault announces both the birth and the imminent end of the modern concept of man. One of the twentieth century's greatest intellectual bestsellers, the book caused a sensation on publication and continues to be read as a brilliant archaeology of how knowledge is organized.",
+      "whyReadEn": "You come to realize that the frameworks of knowledge you took for granted are historically constructed, not eternal. One of the summits of modern thought, and the source of the famous thesis that man is a recent invention. Challenging, but breathtaking."
     },
     {
       "slug": "being-and-time",
@@ -732,7 +797,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/15221434-L.jpg",
       "selectionReasonJa": "20世紀哲学の金字塔。存在の問いに挑んだハイデガーの主著。",
-      "titleEn": "Being and Time"
+      "titleEn": "Being and Time",
+      "descriptionEn": "A pinnacle of twentieth-century philosophy. Heidegger reconceives the human way of being as being-in-the-world, and approaches the question of Being through anxiety, being-toward-death, and temporality. From Sartre and Merleau-Ponty to Derrida and beyond, all subsequent continental philosophy is in some sense a response to this one book, which remains as difficult and as generative as when it appeared. Notoriously difficult, yet unavoidable for anyone serious about philosophy.",
+      "whyReadEn": "Notoriously difficult, yet the only road to the deepest recesses of existential philosophy. A challenge worth taking for anyone who wants to seriously read Sartre, Foucault, or Derrida. Go slowly; every paragraph repays the effort.",
+      "asin": "B0GDN3Z761"
     },
     {
       "slug": "the-prince",
@@ -756,7 +824,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/12726168-L.jpg",
       "selectionReasonJa": "「現実の権力」を書いた、近代政治学の原点。",
-      "titleEn": "Il Principe"
+      "titleEn": "Il Principe",
+      "descriptionEn": "Often summarized as the end justifies the means, the most famous and most misunderstood book in the history of political thought. How should a prince act to win and hold power? Written from the observation of real power struggles rather than from ideals, this small book became the origin of modern political science and the first modern treatise on politics as it is actually practiced rather than as it should be.",
+      "whyReadEn": "The archetype of the attitude that sets aside idealism to think about real power. Read it beside the idealism of A Theory of Justice to see the two poles of political philosophy at once. Short, cynical, and endlessly quotable."
     },
     {
       "slug": "the-genealogy-of-morals",
@@ -779,7 +849,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/9236701-L.jpg",
       "selectionReasonJa": "道徳の起源を歴史的にたどり、批判理論の源泉となったニーチェの書。",
-      "titleEn": "On the Genealogy of Morality"
+      "titleEn": "On the Genealogy of Morality",
+      "descriptionEn": "Where do the concepts of good and evil actually come from? Nietzsche traces the historical origin of moral values and depicts the formation of slave morality from the mechanics of ressentiment and guilt. A classic that every school of modern critical theory refers back to, it destructively remapped the study of morality, asking not whether moral judgments are true but who benefits from them.",
+      "whyReadEn": "The strongest textbook for cultivating the power to doubt what is taken to be right. Foucault's genealogical method begins here, and almost all critical theory descends from it. Short, vicious, and illuminating."
     },
     {
       "slug": "simulacra-and-simulation",
@@ -803,7 +875,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/307858-L.jpg",
       "selectionReasonJa": "メディア社会を「シミュラークル」で読み解く、ポストモダン論の最重要書。",
-      "titleEn": "Simulacra and Simulation"
+      "titleEn": "Simulacra and Simulation",
+      "descriptionEn": "Disneyland is the genuine fake, and reality already circulates as a copy of a copy. Baudrillard reads the whole of media society through the concept of simulation, arguing that we have lost the difference between the real and its representations. The key text of postmodern theory, it became suddenly famous as the book Neo reads in The Matrix, yet its argument is far more serious and unsettling than the film's use of it.",
+      "whyReadEn": "Required reading for thinking about our sense of reality as people who live in social media and virtual space. A gateway to media theory and postmodern thought. Short enough to read quickly, dense enough to argue with for years."
     },
     {
       "slug": "homo-sacer",
@@ -827,7 +901,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/577626-L.jpg",
       "selectionReasonJa": "主権権力と「剥き出しの生」を問う、現代政治哲学の最重要書。",
-      "titleEn": "Homo Sacer"
+      "titleEn": "Homo Sacer",
+      "descriptionEn": "In ancient Rome, the homo sacer was one who could be killed without penalty but not sacrificed to the gods. From this disturbing figure, Agamben unpacks the structure by which sovereign power produces bare life, a life exposed to violence and stripped of protection. He thereby establishes a standpoint that runs through refugees, camps, and biopolitics today, and that has made him a defining voice in political philosophy after Foucault.",
+      "whyReadEn": "The most important book of contemporary political philosophy on the relation between state violence and human life. It provides essential theoretical tools for debates on refugees, detention, and bioethics. Dark, but necessary reading for our times."
     },
     {
       "slug": "the-rebel",
@@ -851,7 +927,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/14913446-L.jpg",
       "selectionReasonJa": "反抗の倫理を打ち立てた、カミュ思想の集大成。",
-      "titleEn": "The Rebel"
+      "titleEn": "The Rebel",
+      "descriptionEn": "The meaning of saying no in an absurd world. Surveying everything from metaphysical rebellion to historical revolution, Camus criticizes the excesses of both absolute freedom, which collapses into nihilism, and absolute justice, which hardens into totalitarianism, and sets out a measured ethic of rebellion. The culmination of Camus's thought, it extends the argument of The Myth of Sisyphus from the individual to the political.",
+      "whyReadEn": "The answer to The Myth of Sisyphus. A summit of existential thought on how to live once the absurd is accepted, this is where Camus moves from the individual to society. Read it to see why he remains one of the twentieth century's most read writers."
     },
     {
       "slug": "critique-of-pure-reason",
@@ -874,7 +952,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/2336629-L.jpg",
       "selectionReasonJa": "近代哲学の出発点。認識の限界を体系的に問い、哲学のコペルニクス的転回を成し遂げた。",
-      "titleEn": "Critique of Pure Reason"
+      "titleEn": "Critique of Pure Reason",
+      "descriptionEn": "The starting point of modern philosophy. What can human reason know, and what can it not know? Kant systematically interrogates the limits of knowledge by a transcendental method, achieving a Copernican revolution in philosophy by arguing that objects conform to our knowledge rather than the reverse. All subsequent Western philosophy, whether in agreement or in revolt, is a response to this single book.",
+      "whyReadEn": "Learn the grammar of modern philosophy from here. The foundation that Nietzsche and Foucault each tried to overcome stands on this book. Difficult and vast, but the one work that unlocks everything after it.",
+      "asin": "B0FT34TTZT"
     },
     {
       "slug": "the-world-as-will-and-representation",
@@ -897,7 +978,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/8823973-L.jpg",
       "selectionReasonJa": "意志と表象から世界を解く、ショーペンハウアーの主著。ニーチェの師。",
-      "titleEn": "The World as Will and Representation"
+      "titleEn": "The World as Will and Representation",
+      "descriptionEn": "The world is my representation, and beneath it flows an unceasing, insatiable will. Schopenhauer's philosophy, leading from affirmation of the will to release from suffering and desire through art, compassion, and renunciation, became a bridge to Nietzsche, Wagner, and Eastern thought. It is the moment in Western philosophy where the tradition meets pessimism, and one of the most readable of the great philosophical systems.",
+      "whyReadEn": "Nietzsche's direct predecessor and a forerunner of existential thought. A vital book for grasping the current of German philosophy after Kant. If you find existentialism appealing, Schopenhauer is where much of its mood was born.",
+      "asin": "B0GDMW779D"
     },
     {
       "slug": "either-or",
@@ -920,7 +1004,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/7356233-L.jpg",
       "selectionReasonJa": "「美的か倫理的か」を問う、実存哲学の父キェルケゴールの出発点。",
-      "titleEn": "Either/Or"
+      "titleEn": "Either/Or",
+      "descriptionEn": "Live aesthetically, or live ethically. Kierkegaard stages the two stages of human existence in sharp prose and dazzling narrative artistry, presenting first the voice of a pleasure-seeking aesthete and then the voice of an ethical judge. The great work that launched the man called the father of existential philosophy, it forces the reader to confront the question of how a life is actually chosen.",
+      "whyReadEn": "The origin of existentialism. The problem of choice that Camus and Sartre would later take up begins here, in this strange and brilliant book. Its alternating voices make it one of the most readable works of nineteenth-century philosophy."
     },
     {
       "slug": "fear-and-trembling",
@@ -943,7 +1029,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/15095511-L.jpg",
       "selectionReasonJa": "信仰のパラドクスを描く、実存哲学の代表作。",
-      "titleEn": "Fear and Trembling"
+      "titleEn": "Fear and Trembling",
+      "descriptionEn": "Abraham's leap as he prepares to sacrifice Isaac at God's command. Kierkegaard renders in layered narrative the paradox of a faith that transcends rational ethics, a faith that cannot be explained or communicated on the plane of the universal. His masterpiece, which introduces the concept of the knight of faith, plumbs the depths of existential philosophy and remains one of the most moving works in the history of thought.",
+      "whyReadEn": "A pioneering work that treated choices that cannot be rationally explained as philosophy. For those who want to touch the heart of existentialism, this is where the religious dimension of the tradition begins. Short, strange, and unforgettable."
     },
     {
       "slug": "the-ethics-of-ambiguity",
@@ -967,7 +1055,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/14956458-L.jpg",
       "selectionReasonJa": "自由と責任の実存倫理を体系化した、ボーヴォワールの主著。",
-      "titleEn": "The Ethics of Ambiguity"
+      "titleEn": "The Ethics of Ambiguity",
+      "descriptionEn": "Human beings are free in the world yet limited by the world. How can we live ethically within that ambiguity, neither escaping into bad faith nor despairing of our situation? Beauvoir systematizes Sartre's philosophy into an ethics of practice, arguing that freedom is realized only in relation to the freedom of others. A pinnacle of existentialist ethics and a sustained defense of human responsibility.",
+      "whyReadEn": "The philosophy underlying The Second Sex, and the practical arm of existentialism for anyone who seriously wants to think about freedom and responsibility. More accessible than Sartre's treatises, it is the best place to start with existentialist ethics."
     },
     {
       "slug": "the-critique-of-practical-reason",
@@ -991,7 +1081,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/662409-L.jpg",
       "selectionReasonJa": "道徳の根拠を理性に求めた、近代倫理学の最重要テクスト。",
-      "titleEn": "Critique of Practical Reason"
+      "titleEn": "Critique of Practical Reason",
+      "descriptionEn": "Act only according to that maxim whereby you can at the same time will that it should become a universal law. This is the categorical imperative at the heart of Kant's second critique, the most important text of modern ethics. Grounding morality in reason rather than in happiness, inclination, or divine command, it asks about the relation between freedom and the moral law, and sets the terms for all subsequent debates in ethics.",
+      "whyReadEn": "Here lies the philosophy of ought. As the starting point for studying normative ethics, it gives you the whole picture of Kantian ethics in a more concentrated form than the first Critique. Hard going, but foundational.",
+      "asin": "B0GDN88ST7"
     },
     {
       "slug": "the-visible-and-the-invisible",
@@ -1014,7 +1107,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/9791967-L.jpg",
       "selectionReasonJa": "身体と世界を「肉」で結ぶ、メルロ＝ポンティの遺作。",
-      "titleEn": "The Visible and the Invisible"
+      "titleEn": "The Visible and the Invisible",
+      "descriptionEn": "The posthumous work of the phenomenologist who re-examined the relation between body and world from its foundations. With the concept of flesh, Merleau-Ponty dissolves the dualism of subject and object, seer and seen, arguing that the one who sees is itself visible, caught up in the world it perceives. One of the most important legacies of twentieth-century French philosophy, unfinished but enormously influential.",
+      "whyReadEn": "Phenomenology in a direction different from Sartre. For those tracing the sources of contemporary thought about the body, which Butler also refers to, this is an essential stop. The text is unfinished and hard, but the ideas are luminous."
     },
     {
       "slug": "the-concept-of-anxiety",
@@ -1037,7 +1132,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/12196222-L.jpg",
       "selectionReasonJa": "「不安」を哲学の中心に据えた、実存主義と精神分析の源流。",
-      "titleEn": "The Concept of Anxiety"
+      "titleEn": "The Concept of Anxiety",
+      "descriptionEn": "Anxiety comes to the human being as the possibility of freedom and therefore of sin. Kierkegaard analyzes anxiety with philosophical and psychological precision, distinguishing it from fear and showing how it discloses the human being to itself. His account influenced both later existentialism and psychoanalysis, and Heidegger's famous analysis of anxiety in Being and Time is directly indebted to this book.",
+      "whyReadEn": "A classic that put anxiety at the center of philosophy rather than at its margins. It is the intellectual foundation for understanding the structure of modern unease, and a bridge to both existentialism and psychoanalysis. Difficult, but short.",
+      "asin": "4003363523"
     },
     {
       "slug": "the-phenomenology-of-perception",
@@ -1060,7 +1158,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/1213679-L.jpg",
       "selectionReasonJa": "身体論の古典。知覚と身体をめぐる現象学の金字塔。",
-      "titleEn": "Phenomenology of Perception"
+      "titleEn": "Phenomenology of Perception",
+      "descriptionEn": "Perception is itself the encounter between mind and body, subject and world. Merleau-Ponty rewrites traditional epistemology from the concept of the lived body, arguing that we do not first have a world and then perceive it, but that perception is the primordial way we are in the world. The great work that, alongside Sartre, laid the foundation of French existentialism and phenomenology.",
+      "whyReadEn": "A classic of the philosophy of the body. The view of the human as a living body rather than a detached thinking subject is a starting point of much modern thought. More readable than many of its reputation suggests, and endlessly suggestive.",
+      "asin": "4622019337"
     },
     {
       "slug": "the-mirror-stage",
@@ -1084,7 +1185,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/247654-L.jpg",
       "selectionReasonJa": "無意識と言語を問う、ラカンの主著。現代思想と文学理論の基盤。",
-      "titleEn": "Écrits"
+      "titleEn": "Écrits",
+      "descriptionEn": "The unconscious is structured like a language. Lacan's major work rereads Freud through linguistics and structuralism, recasting psychoanalysis as a science of the signifier. The mirror stage, the desire of the Other, the symbolic order, the barred subject: this monumental collection of texts decisively shaped modern thought, literary theory, and the humanities at large, and remains one of the most difficult and influential books of the twentieth century.",
+      "whyReadEn": "The intersection of psychoanalysis and structuralism, and a thinker worth knowing to understand Foucault, Barthes, and Derrida. The texts are forbidding, so start with a good commentary. Indispensable for the theory of the subject.",
+      "asin": "B0GDNB6Z3L"
     },
     {
       "slug": "the-mythologies",
@@ -1108,7 +1212,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/4490230-L.jpg",
       "selectionReasonJa": "日常の「当たり前」を記号論で読み解き、ブルジョワ神話の仕組みを暴いたカルチュラル・スタディーズの原点。",
-      "titleEn": "Mythologies"
+      "titleEn": "Mythologies",
+      "descriptionEn": "Steak frites, professional wrestling, detergent commercials, the face of Greta Garbo. Barthes reads the taken-for-granted of everyday life through semiotics, exposing the machinery by which bourgeois values are naturalized and presented as eternal. His most famous essay collection and the origin of cultural studies, it remains the most elegant and enjoyable introduction to the idea that nothing in culture is simply obvious.",
+      "whyReadEn": "An introduction to the art of doubting the obvious. Ideal for those who want to see advertisements and social media critically, and one of the most fun books in the whole theory canon. Read it and you will never look at a detergent ad the same way.",
+      "asin": "B0GDMVTTCN"
     },
     {
       "slug": "of-grammatology",
@@ -1131,7 +1238,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/12191607-L.jpg",
       "selectionReasonJa": "「脱構築」を提示したデリダの主著。ポスト構造主義の出発点。",
-      "titleEn": "Of Grammatology"
+      "titleEn": "Of Grammatology",
+      "descriptionEn": "Derrida's major work, the book that presented the thought of deconstruction to the world. Exposing the suppression of writing in Western metaphysics, he re-examines the generation of meaning through the concept of différance, a difference that both defers and differs. The starting point of post-structuralism, it influenced philosophy, literary theory, law, and the humanities generally, and remains the work by which deconstruction is defined.",
+      "whyReadEn": "The source of the word deconstruction, and the best-known gateway into post-structuralism. You will want a good commentary alongside it, but the stakes are clear. Essential for understanding late twentieth-century theory.",
+      "asin": "B0FR3YMHP1"
     },
     {
       "slug": "the-postmodern-condition",
@@ -1155,7 +1265,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/983820-L.jpg",
       "selectionReasonJa": "「大きな物語の終焉」を宣言した、ポストモダン論の原点。",
-      "titleEn": "The Postmodern Condition"
+      "titleEn": "The Postmodern Condition",
+      "descriptionEn": "The end of grand narratives. Lyotard argues that the legitimacy of science and knowledge can no longer be guaranteed by sweeping stories of emancipation, progress, or the march of spirit. The text that fixed the word postmodern in the intellectual world, it is one of the most important works of social philosophy of the late twentieth century and the theoretical basis of discussions of the information society.",
+      "whyReadEn": "The source of the concept of postmodern, whether one approves of it or not. It provides the intellectual background for thinking about knowledge and information in the age of social media. Short, lucid, and endlessly cited."
     },
     {
       "slug": "the-ticklish-subject",
@@ -1178,7 +1290,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/913733-L.jpg",
       "selectionReasonJa": "ヘーゲルとラカン、マルクスを接続する、ジジェクの政治哲学。",
-      "titleEn": "The Ticklish Subject"
+      "titleEn": "The Ticklish Subject",
+      "descriptionEn": "Has the political subject disappeared? Connecting Hegel, Lacan, and Marx, Žižek explores the possibility of the subject in a post-political age of consensus and liberal administration. His most systematic work of political philosophy, it brings dialectics and psychoanalysis to bear on the most pressing questions of contemporary politics with characteristic wit and aggression, and is the best single introduction to his thought.",
+      "whyReadEn": "An introduction to the whole of Žižek's theory. You will be awed by the technique of deploying Hegelian dialectics and psychoanalysis on modern politics. His manner can irritate, but the argument repays close attention."
     },
     {
       "slug": "the-ethics",
@@ -1201,7 +1315,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/8941881-L.jpg",
       "selectionReasonJa": "神＝自然の一元論で自由を問う、スピノザの主著。",
-      "titleEn": "Ethics"
+      "titleEn": "Ethics",
+      "descriptionEn": "A miracle of modern philosophy, arguing about God, humanity, and happiness in strict geometric form, with definitions, axioms, and propositions. Its monism, expressed in the formula Deus sive Natura, God or Nature, together with its theory of the affects and its thought of freedom as self-understanding, became a philosophy treasured above all others by Nietzsche and Deleuze, and by generations of readers since.",
+      "whyReadEn": "The major work of Spinoza, called the hidden king of modern philosophy. It is the foundation for Nietzsche, Deleuze, and Spinozist philosophy generally, and a book that rewards slow rereading. Difficult, but among the most liberating books ever written."
     },
     {
       "slug": "the-german-ideology",
@@ -1225,7 +1341,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/14918283-L.jpg",
       "selectionReasonJa": "唯物史観を宣言した、マルクス=エンゲルスの共同著作。",
-      "titleEn": "The German Ideology"
+      "titleEn": "The German Ideology",
+      "descriptionEn": "It is not consciousness that determines life, but life that determines consciousness. This joint work of Marx and Engels, known as the manifesto of the materialist conception of history, inverts the relation between ideas and social existence. Exposing the social roots of ideology, it laid the foundation of later social theory and remains the clearest statement of historical materialism and the base-superstructure model.",
+      "whyReadEn": "The source of Marxism's core concepts, base and superstructure, and the clearest statement of historical materialism. It is the basics of a critical view of society, and much shorter in spirit than its reputation suggests. Read it before the Manifesto.",
+      "asin": "440602591X"
     },
     {
       "slug": "the-communist-manifesto",
@@ -1249,7 +1368,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/14837538-L.jpg",
       "selectionReasonJa": "世界史を最も動かした文書。資本主義批判の原点。",
-      "titleEn": "The Communist Manifesto"
+      "titleEn": "The Communist Manifesto",
+      "descriptionEn": "The history of all hitherto existing society is the history of class struggles. This pamphlet by Marx and Engels, written on the eve of the 1848 revolutions, became one of the documents that most moved world history. As the origin of the critique of capitalism and a model of political rhetoric, it remains a text worth reading today, whether as history, as literature, or as theory.",
+      "whyReadEn": "The origin of the thought that moved world history, and the shortest introduction to understanding capitalism critically. Readable in one sitting, and essential background for almost all political discussion of the last two centuries. Start here, then go deeper."
     },
     {
       "slug": "the-two-sources",
@@ -1272,7 +1393,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/10884401-L.jpg",
       "selectionReasonJa": "「閉じた道徳」と「開いた道徳」を問う、ベルクソンの主著。",
-      "titleEn": "The Two Sources of Morality and Religion"
+      "titleEn": "The Two Sources of Morality and Religion",
+      "descriptionEn": "Closed morality and open morality: a morality that maintains and defends society, and a morality that opens out beyond the human toward all life. Bergson's last major work carries his philosophy of the élan vital, the vital impetus, into the realms of ethics and religion, and in doing so offers one of the most original philosophies of mysticism and social life in the twentieth century.",
+      "whyReadEn": "Another source of twentieth-century French philosophy, independent of existentialism. You can experience a philosophy of life and spirit running parallel to Sartre and Camus. Bergson's late style is at its most moving here."
     },
     {
       "slug": "creative-evolution",
@@ -1295,7 +1418,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/4858256-L.jpg",
       "selectionReasonJa": "「時間」と「生命の躍動」を哲学した、ベルクソンの代表作。",
-      "titleEn": "Creative Evolution"
+      "titleEn": "Creative Evolution",
+      "descriptionEn": "Evolution is not mechanical adaptation but the creative leap of life. Placing time, la durée, at the center of his philosophy, Bergson contrasts intellect, which spatializes and divides, with intuition, which grasps the flow of life from within. His major work, awarded the Nobel Prize in Literature, was one of the great intellectual events of the early twentieth century and reshaped philosophy, literature, and even biology.",
+      "whyReadEn": "The masterpiece of the philosopher who made time his subject. It laid the foundations of French thought before Derrida and Deleuze, and Deleuze's entire philosophy is a meditation on it. A book that reads like a revelation.",
+      "asin": "4560093040"
     },
     {
       "slug": "difference-and-repetition",
@@ -1318,7 +1444,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/4647637-L.jpg",
       "selectionReasonJa": "同一性を解体し「差異」を考える、ドゥルーズの主著。",
-      "titleEn": "Difference and Repetition"
+      "titleEn": "Difference and Repetition",
+      "descriptionEn": "Not repetition of the same but repetition of difference. Connecting Nietzsche and Spinoza, Deleuze constructs a philosophy that does not presuppose identity, arguing that difference is primary and that repetition is always the repetition of something singular and generative. The major work that shows the philosophical core of post-structuralism, it is a demanding but exhilarating attempt to think without fixed categories.",
+      "whyReadEn": "The most important philosophical book of post-structuralism, and the starting point for understanding Deleuze's world. Difficult in the extreme, but the concepts are among the most generative of the twentieth century. Read with commentary.",
+      "asin": "B0FPPXGL5Y"
     },
     {
       "slug": "thousand-plateaus",
@@ -1341,7 +1470,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/983826-L.jpg",
       "selectionReasonJa": "「リゾーム」の思考を提示した、ドゥルーズ=ガタリの金字塔。",
-      "titleEn": "A Thousand Plateaus"
+      "titleEn": "A Thousand Plateaus",
+      "descriptionEn": "Co-authored with Félix Guattari. Rhizome, body without organs, becoming, lines of flight: in place of hierarchical tree structures, the book offers a horizontal, plural map of thought that refuses any center or ground. Representing the most freewheeling and ambitious face of post-structuralism, it has been taken up across organization theory, art, politics, and design, and remains the canonical statement of nomad thought.",
+      "whyReadEn": "A proposal for thought without a center, applied across organization theory, art, and politics. One of the pinnacles of twentieth-century thought, though you will want a guide. Its chapter on the rhizome alone is worth the price.",
+      "asin": "B0GDN41KHR"
     },
     {
       "slug": "the-essential-political",
@@ -1365,7 +1497,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/1148661-L.jpg",
       "selectionReasonJa": "「友敵理論」で政治の本質を問う、シュミットの刺激的な主著。",
-      "titleEn": "The Concept of the Political"
+      "titleEn": "The Concept of the Political",
+      "descriptionEn": "The specific political distinction is that between friend and enemy. Schmitt's friend-enemy theory, and his claim that sovereignty is decided by the one who decides the exception, are among the most provocative and debated theses in the history of political thought. The source that Agamben, Mouffe, and countless others draw on, it remains essential for understanding the darker currents of twentieth and twenty-first century politics.",
+      "whyReadEn": "A realistic political theory at the opposite pole from liberal views of politics, and the book that most strongly influenced Agamben of Homo Sacer. Disturbing and clear-sighted in equal measure. Essential for anyone who wants to take politics seriously."
     },
     {
       "slug": "the-origins-of-social",
@@ -1389,7 +1523,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/238146-L.jpg",
       "selectionReasonJa": "現実は社会的に構成されることを示した、現象学的社会学の古典。",
-      "titleEn": "The Social Construction of Reality"
+      "titleEn": "The Social Construction of Reality",
+      "descriptionEn": "Reality does not exist objectively but is socially constructed through human everyday interaction. This classic of phenomenological sociology, written with Thomas Luckmann, shows how the world appears to us as objective fact while being continuously produced and maintained by individuals in conversation. From the analysis of the lifeworld, it reveals the cycle in which society makes the individual and the individual makes society.",
+      "whyReadEn": "The classical basis of the view that the taken-for-granted world is constructed. It forms a bridge between sociology and the theory of knowledge, and is the ancestor of much contemporary thought about institutions. Short, clear, and quietly revolutionary.",
+      "asin": "4788508397"
     },
     {
       "slug": "the-gift",
@@ -1413,7 +1550,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/13073465-L.jpg",
       "selectionReasonJa": "贈与が社会を結ぶことを示した、人類学の古典。",
-      "titleEn": "The Gift"
+      "titleEn": "The Gift",
+      "descriptionEn": "Every gift entails a return. Analyzing exchange systems in archaic societies, Mauss shows that the three obligations, to give, to receive, and to repay, bind society together and create relations of prestige, alliance, and honor. A classic that stands at the origin of modern sociology, anthropology, and philosophy, it is the book behind a vast literature, from structuralism to Derrida's Given Time and Graeber's Debt.",
+      "whyReadEn": "The theoretical source of Graeber's Debt and of economic anthropology, and the most important anthropological work for relativizing capitalism. Short and elegant, it is one of the rare books that launched an entire field. Read it before or after Graeber."
     },
     {
       "slug": "the-division-of-labor",
@@ -1437,7 +1576,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/18720-L.jpg",
       "selectionReasonJa": "社会の連帯を問う、社会学の創設者デュルケームの主著。",
-      "titleEn": "The Division of Labour in Society"
+      "titleEn": "The Division of Labour in Society",
+      "descriptionEn": "Why does modern society value the individual, when traditional society submerges the person in the group? Durkheim distinguishes mechanical solidarity, based on likeness, from organic solidarity, based on interdependence and the division of labor, and argues that the division of labor creates moral order rather than destroying it. The classic that announced the founding of sociology as a discipline, it remains a touchstone for thinking about modern social cohesion.",
+      "whyReadEn": "The major work of the founder of sociology, and a theoretical starting point for thinking about the relation between society and the individual. Clearer and more readable than its reputation suggests. Essential background for understanding how modern individualism arose.",
+      "asin": "B0H8F5CFKP"
     },
     {
       "slug": "the-suicide",
@@ -1461,7 +1603,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/972713-L.jpg",
       "selectionReasonJa": "自殺を社会の鏡として読み解く、社会学の方法論的転換点。",
-      "titleEn": "Suicide"
+      "titleEn": "Suicide",
+      "descriptionEn": "Suicide is not a problem of individual psychology but a mirror reflecting the state of society. From statistical data, Durkheim derives social types of suicide, egoistic, altruistic, and anomic, and shows that the suicide rate varies systematically with the degree of social integration. A methodological turning point in sociology, it established the rule that social facts must be explained by social causes.",
+      "whyReadEn": "A classic that rereads personal problems sociologically, showing that the most individual act is patterned by society. A model of combining data and theory, and the founding demonstration that social facts exist. Essential for anyone interested in social science method."
     },
     {
       "slug": "the-elementary-forms",
@@ -1485,7 +1629,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/7494543-L.jpg",
       "selectionReasonJa": "宗教の社会的起源を論じた、宗教社会学の古典。",
-      "titleEn": "The Elementary Forms of Religious Life"
+      "titleEn": "The Elementary Forms of Religious Life",
+      "descriptionEn": "Religion is a ritual in which society worships itself. Analyzing the totemic religion of Australian aborigines, Durkheim derives the origin of religious belief from collective effervescence and the distinction between the sacred and the profane, arguing that the gods are society transfigured. A classic of the sociology of religion and of symbolism, it influenced everything from structuralism to the study of collective behavior and is cited directly in Anderson's Imagined Communities.",
+      "whyReadEn": "Foundational literature for thinking about the social origins of myth and religion, and a book cited directly by Anderson in Imagined Communities. Long, but the central argument repays the effort. Essential for the theory of the sacred and of collective life."
     },
     {
       "slug": "the-protestant-ethic-and-the-spirit",
@@ -1509,7 +1655,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/8802389-L.jpg",
       "selectionReasonJa": "官僚制と支配の類型で近代を体系化した、ヴェーバー社会学の金字塔。",
-      "titleEn": "Economy and Society"
+      "titleEn": "Economy and Society",
+      "descriptionEn": "Bureaucracy, the types of domination, the forms of legitimate authority, the spirit of capitalism: this is the great work that systematizes Weber's sociology. Its analysis of modernization as a process of rationalization, and its typology of legal-rational, traditional, and charismatic domination, became the most important framework of modern social theory, and the book remains the reference point for the study of organizations, the state, and modern life.",
+      "whyReadEn": "A book that systematized the types of modern society, and the source of basic concepts used across organization theory, political science, and sociology. Dense and encyclopedic, so read selectively. Indispensable for understanding rationalization and bureaucracy.",
+      "asin": "B0H8LXSSP6"
     },
     {
       "slug": "the-order-of-events",
@@ -1532,7 +1681,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/5410825-L.jpg",
       "selectionReasonJa": "言説分析の方法論を確立した、フーコーの理論的主著。",
-      "titleEn": "The Archaeology of Knowledge"
+      "titleEn": "The Archaeology of Knowledge",
+      "descriptionEn": "Foucault's theoretical major work, establishing the analysis of discourse as a method. Knowledge is formed through ruptures and discontinuities rather than continuous progress, and discourses are bound up with institutional power. It clarifies the methodological basis of The Order of Things and became the starting point of discourse analysis across the humanities and social sciences, from literary studies to the history of science.",
+      "whyReadEn": "The core of Foucault's method, and essential for understanding the theoretical ground of Discipline and Punish and The History of Sexuality. More abstract than those works, but it shows the machinery. Read it after the case studies, not before.",
+      "asin": "B0GDMWH4M4"
     },
     {
       "slug": "the-birth-of-clinic",
@@ -1556,7 +1708,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/4622256-L.jpg",
       "selectionReasonJa": "医療と権力の関係を問う、フーコー初期の考古学。",
-      "titleEn": "The Birth of the Clinic"
+      "titleEn": "The Birth of the Clinic",
+      "descriptionEn": "Modern medicine acquired the gaze. Foucault historically analyzes how the space of the hospital and the language of clinical medicine constituted the human body as an object of knowledge, and how the clinic organized a new way of seeing illness and death. An archaeology of power and knowledge that forms the early trilogy of Foucault's work together with Madness and Civilization and The Order of Things.",
+      "whyReadEn": "The view that medicine is a structure of power before it is a science. It is the starting point of Foucault's thought on the body and institutions, and the clearest early example of his method. Read it with Discipline and Punish.",
+      "asin": "B0FHJPJWCD"
     },
     {
       "slug": "the-madness-and-civilization",
@@ -1580,7 +1735,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/1212372-L.jpg",
       "selectionReasonJa": "「狂気」を排除の制度として描いた、フーコーの問題作。",
-      "titleEn": "Madness and Civilization"
+      "titleEn": "Madness and Civilization",
+      "descriptionEn": "Madness is not a natural disease but a category of exclusion created by modernity. Foucault traces historically how the boundary between reason and unreason was drawn and redrawn, from the ship of fools to the birth of the asylum and the medicalization of the mad. The problematizing work that made Foucault famous, it remains a foundational text for thinking about psychiatry, disability, exclusion, and the politics of normality.",
+      "whyReadEn": "A classic that recounts exclusion as a history of institutions, and an intellectual horizon for thinking about mental illness, disability, and minorities. Sometimes criticized for its historical accuracy, but indispensable as a provocation. The essential entry point to Foucault.",
+      "asin": "B0GDN43GBG"
     },
     {
       "slug": "the-order-of-the-signs",
@@ -1604,7 +1762,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/13588701-L.jpg",
       "selectionReasonJa": "構造主義の理論的基盤。言語は差異の体系である、ソシュールの講義録。",
-      "titleEn": "Course in General Linguistics"
+      "titleEn": "Course in General Linguistics",
+      "descriptionEn": "Language is a system of differences. In these reconstructed lectures, Saussure laid out the principles that became the theoretical basis of structuralism: the arbitrary sign, the distinction between signifier and signified, and the distinction between langue, the system, and parole, individual speech. One of the most important texts of twentieth-century thought, it is referenced by every domain of the modern humanities and made linguistics a model science.",
+      "whyReadEn": "The origin of structuralism. Understand how signs work and Barthes, Lacan, and Derrida become far easier to grasp, since all of them build on Saussure. Short and surprisingly readable for such a foundational text. Essential.",
+      "asin": "B0FMQ89259"
     },
     {
       "slug": "the-truth-and-method",
@@ -1627,7 +1788,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/630822-L.jpg",
       "selectionReasonJa": "解釈学の復権。理解を「地平の融合」として問う、ガーダマーの古典。",
-      "titleEn": "Truth and Method"
+      "titleEn": "Truth and Method",
+      "descriptionEn": "The rehabilitation of hermeneutics. Gadamer argues that understanding is not the application of method but the fusion of horizons, in which the tradition of the past and the present situation of the interpreter come together. Against the objectivism of the natural sciences, he defends the truth of the human sciences, and his analysis of prejudice, tradition, and effective history transformed philosophy, theology, law, and literary theory.",
+      "whyReadEn": "A book that philosophized the essence of understanding, and required reading for anyone who wants the theory of textual interpretation. The idea of the fusion of horizons is one of the most useful concepts in the humanities. Dense but rewarding."
     },
     {
       "slug": "the-concept-of-irony",
@@ -1650,7 +1813,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/440417-L.jpg",
       "selectionReasonJa": "イロニーを実存の哲学的態度として確立した、キェルケゴールの学位論文。",
-      "titleEn": "The Concept of Irony"
+      "titleEn": "The Concept of Irony",
+      "descriptionEn": "Irony is not mere rhetoric but infinite absolute negativity toward finitude. In his doctoral thesis, Kierkegaard analyzes Socratic practice and establishes irony as a philosophical attitude of existence, a standpoint from which the given world is held at a distance. The book is a brilliant prelude to his later works, and the philosophical source of a concept that pervades literary criticism and modern thought.",
+      "whyReadEn": "The philosophical source of the concept of irony, and essential for understanding a term used throughout literary criticism and modern thought. Read it to see how Kierkegaard used irony to hold the whole world at a distance. A demanding but eye-opening doctorate."
     },
     {
       "slug": "the-production-of-space",
@@ -1674,7 +1839,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/7372450-L.jpg",
       "selectionReasonJa": "空間は社会的に生産されることを示した、ルフェーヴルの金字塔。",
-      "titleEn": "The Production of Space"
+      "titleEn": "The Production of Space",
+      "descriptionEn": "Space is not a container but something socially produced. Presenting a theory of space that runs through the city, capital, everyday life, and the state, Lefebvre laid the foundations of urban studies, geography, and cultural studies. His triad of spatial practice, representations of space, and representational spaces has been enormously influential, and the book remains a key reference for anyone interested in how power and capital shape the spaces we inhabit.",
+      "whyReadEn": "A book that placed space at the center of social theory, and required reading for anyone interested in urban theory, design, or architecture. Its ideas have shaped entire disciplines. Long, but the opening sections are worth the time alone."
     },
     {
       "slug": "the-analects",
@@ -1697,7 +1864,9 @@
         "東洋思想",
         "古典"
       ],
-      "coverUrl": "https://covers.openlibrary.org/b/id/12921740-L.jpg"
+      "coverUrl": "https://covers.openlibrary.org/b/id/12921740-L.jpg",
+      "descriptionEn": "Is it not a joy to practice what you learn at due times? The dialogues of Confucius and his disciples, collected after his death, are the wellspring of two thousand years of East Asian thought. In plain and often enigmatic words, the Analects sets out the virtues of ren, humanity, yi, righteousness, li, propriety, and zhi, wisdom, and the way a person should live in relation to others, family, and the state.",
+      "whyReadEn": "The foundation of East Asian thinking, and the most important book for touching a lineage of knowledge that runs parallel to Western philosophy. Short, aphoristic, and endlessly quotable. Read it slowly, one passage at a time."
     },
     {
       "slug": "the-art-of-war",
@@ -1721,7 +1890,10 @@
         "戦略",
         "東洋思想"
       ],
-      "coverUrl": "https://covers.openlibrary.org/b/id/4849549-L.jpg"
+      "coverUrl": "https://covers.openlibrary.org/b/id/4849549-L.jpg",
+      "descriptionEn": "Know the enemy and know yourself, and in a hundred battles you will never be in peril. A military treatise from 2,500 years ago, The Art of War continues to be read far beyond the battlefield, in modern business, politics, and even sports. Its reflections on strategy, deception, terrain, and the economy of force remain the most concise and influential statement of strategic thinking in the East Asian tradition.",
+      "whyReadEn": "The basic text for thinking about strategy, and a source of East Asian practical wisdom quite different from Western philosophical books. Short, quotable, and endlessly applied in business and politics. Read it with Machiavelli for a matched pair on power.",
+      "asin": "4003320719"
     },
     {
       "slug": "an-inquiry-into-the-good",
@@ -1744,7 +1916,162 @@
         "東洋思想",
         "近代哲学"
       ],
-      "coverUrl": "https://covers.openlibrary.org/b/id/159760-L.jpg"
+      "coverUrl": "https://covers.openlibrary.org/b/id/159760-L.jpg",
+      "descriptionEn": "Starting from pure experience, Nishida argues monistically about good, beauty, and religion, developing a philosophy that builds on Western thought while crystallizing Eastern experience, particularly Zen, into systematic philosophy. An Inquiry into the Good is the founding work of the Kyoto School and of Japanese philosophy as a whole, and it remains the clearest and most moving statement of a philosophy born in Japan rather than imported.",
+      "whyReadEn": "Philosophy born in Japan: a landmark that did not merely import Western thought but produced a new philosophy from Japanese experience itself. The founding text of the Kyoto School. Challenging, but the starting point of an entire national tradition."
+    },
+    {
+      "slug": "the-republic",
+      "title": "Πολιτεία",
+      "titleJa": "国家",
+      "author": "Plato",
+      "authorJa": "プラトン",
+      "country": "ギリシャ",
+      "year": -375,
+      "genre": [
+        "哲学"
+      ],
+      "tags": [
+        "政治哲学",
+        "正義",
+        "理想国家",
+        "古代ギリシア哲学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/14418448-L.jpg",
+      "descriptionJa": "西洋哲学の原点にして、あらゆる政治思想が参照し続ける対話篇。正義とは何か、理想国家とは何かをソクラテスの対話を通して追究する。哲人王の統治、教育、詩の検閲まで、法や統治、教育にいたるまで、現代でも議論される問いのほとんどがここに登場する。",
+      "whyReadJa": "西洋哲学のすべての出発点。正義や理想社会について、先入観なしにゼロから考えるための最良の入り口。",
+      "selectionReasonJa": "西洋哲学・政治思想の原点として、正義・国家・教育をめぐる世界の見方の基礎を築いた最重要古典。",
+      "descriptionEn": "The origin of Western philosophy and a dialogue that every subsequent political theory keeps returning to. Through Socrates' conversations, Plato pursues the question of what justice is and what an ideal state would look like. From the rule of philosopher-kings and the education of citizens to the censorship of poetry, nearly every question still debated today about law, governance, and education makes its first appearance here, and in its most memorable form.",
+      "whyReadEn": "The starting point of all Western philosophy. The best entry into thinking about justice and the ideal society from scratch, with no preconceptions—the clearest map of the territory all later thought walks through.",
+      "titleEn": "The Republic",
+      "asin": "B0GQZ6BB5G"
+    },
+    {
+      "slug": "nicomachean-ethics",
+      "title": "Ἠθικὰ Νικομάχεια",
+      "titleJa": "ニコマコス倫理学",
+      "author": "Aristotle",
+      "authorJa": "アリストテレス",
+      "country": "ギリシャ",
+      "year": -340,
+      "genre": [
+        "哲学"
+      ],
+      "tags": [
+        "倫理学",
+        "幸福",
+        "徳",
+        "古代ギリシア哲学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12593945-L.jpg",
+      "descriptionJa": "「幸福（エウダイモニア）」とは何か。アリストテレスが人間の善き生の全体を体系的に考察した倫理学の始祖にして最高峰。徳、友愛、快楽、実践知——「人はいかに生きるべきか」という問いへの、二千四百年を経ても色褪せない古典的回答がここにある。",
+      "whyReadJa": "「よい人生とは何か」を最澄な形で論じた書。幸福論の古典として、人生の羅針盤を手に入れるための入門書。",
+      "selectionReasonJa": "西洋倫理学の始祖にして最高傑作。善き生と幸福をめぐる問いの、すべての出発点として選んだ。",
+      "descriptionEn": "What is eudaimonia—the good life, human flourishing? In this foundational and still unsurpassed work of ethics, Aristotle systematically examines the whole of a human being's good life. Virtue, friendship, pleasure, practical wisdom: his classical answer to the question 'How should one live?' has lost none of its power in twenty-four hundred years. It offers not abstract rules but a practical ethics for living, and its account of happiness as activity in accordance with virtue remains the most influential in Western thought.",
+      "whyReadEn": "The most rigorous treatise on what makes a good life. A classic of eudaimonia and practical wisdom, it is the essential introduction to getting your bearings in the art of living.",
+      "titleEn": "Nicomachean Ethics",
+      "asin": "4000073478"
+    },
+    {
+      "slug": "leviathan",
+      "title": "Leviathan",
+      "titleJa": "リヴァイアサン",
+      "author": "Thomas Hobbes",
+      "authorJa": "トマス・ホッブズ",
+      "country": "イギリス",
+      "year": 1651,
+      "genre": [
+        "哲学"
+      ],
+      "tags": [
+        "政治哲学",
+        "社会契約",
+        "国家論",
+        "近代哲学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/6525465-L.jpg",
+      "descriptionJa": "「万人の万人に対する戦い」——自然状態にある人間は互いに敵であり、平和を求めて国家（リヴァイアサン）に権力を譲渡する。王権神授説を否定し、国家を人間の制作物として初めて体系的に論じた近代政治学の金字塔。主権、法、自由をめぐる議論の出発点。",
+      "whyReadJa": "「国家とは何か」をゼロから組み立てた近代政治学の祖。権力と自由を考えるすべての議論はここに遡る。",
+      "selectionReasonJa": "近代政治思想の起点。国家と主権を人間の制作物として論じた、政治学を生んだ最重要古典。",
+      "descriptionEn": "'The war of all against all'—in the state of nature, human beings are mutual enemies, and out of the desire for peace they transfer their power to a state, the Leviathan. Denying the divine right of kings, Hobbes was the first to systematically treat the state as a human artifact. This cornerstone of modern political science is the starting point of every argument about sovereignty, law, and liberty. Its portrait of human fear, reason, and the price of security remains uncomfortably alive today.",
+      "whyReadEn": "The founding father of modern political thought, building the state from scratch. Every argument about power, freedom, and order—from democracy to dictatorship—traces back to this book. It is the essential map of how authority is born.",
+      "titleEn": "Leviathan",
+      "asin": "B0H4LWNWXS"
+    },
+    {
+      "slug": "the-social-contract",
+      "title": "Du contrat social",
+      "titleJa": "社会契約論",
+      "author": "Jean-Jacques Rousseau",
+      "authorJa": "ジャン＝ジャック・ルソー",
+      "country": "フランス",
+      "year": 1762,
+      "genre": [
+        "哲学"
+      ],
+      "tags": [
+        "政治哲学",
+        "社会契約",
+        "民主主義",
+        "啓蒙思想"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/6581958-L.jpg",
+      "descriptionJa": "「人間は生まれながらにして自由であるが、至る所で鎖につながれている」——この有名な書き出しで始まる、自由と社会をめぐる近代思想の絶対的な古典。人民主権と一般意志の思想を打ち立て、フランス革命から民主主義の現実まで、あらゆる革命思想の源泉となった。",
+      "whyReadJa": "民主主義の原典。一般意志と人民主権の思想は、現代の自由と統治を考えるうえで欠かせない。",
+      "selectionReasonJa": "近代民主主義の理念を確立した古典。フランス革命に思想的火を点けた、革命思想の源泉。",
+      "descriptionEn": "'Man is born free, and everywhere he is in chains.' This famous opening line begins the absolute classic of modern thought on freedom and society. Rousseau established the ideas of popular sovereignty and the general will, becoming the wellspring of revolutionary thought from the French Revolution to the realities of democracy today. No other book has inspired so many revolutions with so few pages. It remains the clearest statement of the puzzle: how can we be both free and governed?",
+      "whyReadEn": "The original text of democracy. The ideas of the general will and popular sovereignty are indispensable to thinking about freedom, government, and the legitimacy of power today. A short book, yet the seed of the modern democratic age.",
+      "titleEn": "The Social Contract"
+    },
+    {
+      "slug": "the-phenomenology-of-spirit",
+      "title": "Phänomenologie des Geistes",
+      "titleJa": "精神現象学",
+      "author": "G.W.F. Hegel",
+      "authorJa": "G・W・F・ヘーゲル",
+      "country": "ドイツ",
+      "year": 1807,
+      "genre": [
+        "哲学"
+      ],
+      "tags": [
+        "ドイツ観念論",
+        "弁証法",
+        "精神哲学",
+        "近代哲学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/8245249-L.jpg",
+      "descriptionJa": "意識が自己の学びによって精神の高みへと上昇していく過程を描く、ヘーゲル哲学の最大の難所にして最高峰。主人と奴隷の弁証法をはじめ、理性、絶対知にいたるまで、実存主義からマルクス、フランクフルト学派にいたる近代思想全体の源泉となった大著。",
+      "whyReadJa": "近代思想全体の源流。弁証法の思考を体得すれば、哲学史を一望できるようになる難関にして名峰。",
+      "selectionReasonJa": "ヘーゲル哲学の最高峰。弁証法を生み、マルクスから実存主義まで近代思想全体に影響を与えた。",
+      "descriptionEn": "A monumental and formidable ascent: the chronicle of consciousness educating itself toward the height of Spirit. From the famous dialectic of master and slave to reason and absolute knowing, this is the source of virtually all modern thought—from Marxism to existentialism and the Frankfurt School. Hegel's greatest work, and the summit of his philosophy, it is at once the most difficult and the most generative book in all of modern philosophy.",
+      "whyReadEn": "The source of modern thought itself. Master the dialectic and the whole history of philosophy comes into view—a difficult mountain, but the grandest and the most rewarding one to climb.",
+      "titleEn": "The Phenomenology of Spirit"
+    },
+    {
+      "slug": "tractatus-logico-philosophicus",
+      "title": "Logisch-philosophische Abhandlung",
+      "titleJa": "論理哲学論考",
+      "author": "Ludwig Wittgenstein",
+      "authorJa": "ルートヴィヒ・ウィトゲンシュタイン",
+      "country": "オーストリア",
+      "year": 1921,
+      "genre": [
+        "哲学"
+      ],
+      "tags": [
+        "分析哲学",
+        "言語哲学",
+        "論理",
+        "20世紀哲学"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/5415771-L.jpg",
+      "descriptionJa": "「語りうることは明晰に語りうる。語りえないことについては、沈黙しなければならない」——世界は事実の総体であり、言語は世界を写し取る絵である。わずか数十ページに番号づけられた命題を詰め込み、論理学、言語哲学、そして世界観までも刷新した20世紀哲学の金字塔。",
+      "whyReadJa": "20世紀哲学の起点。言葉と世界の関係を極限まで圧縮した、一度読めば人生観が変わる稀な一冊。",
+      "selectionReasonJa": "分析哲学と言語哲学を創始した20世紀の金字塔。言葉と世界をめぐる思考を決定的に変えた。",
+      "descriptionEn": "'What can be said at all can be said clearly; and whereof one cannot speak, thereof one must be silent.' The world is the totality of facts; language is a picture that mirrors the world. In barely a few dozen pages of numbered propositions, Wittgenstein renewed logic, the philosophy of language, and the very way we see the world—a towering landmark of twentieth-century philosophy that changed how thinkers ask questions about meaning and truth.",
+      "whyReadEn": "The turning point of twentieth-century philosophy. A rare book that compresses the relation of language and world so completely that it can change how you see your own life and its limits.",
+      "titleEn": "Tractatus Logico-Philosophicus"
     }
   ]
 }

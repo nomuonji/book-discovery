@@ -4,14 +4,14 @@
     "label": "哲学・思想・批評理論",
     "description": "実存主義からポストコロニアル理論まで、世界の見え方を変える思想書群。",
     "order": 1,
-    "count": 73
+    "count": 79
   },
   {
     "slug": "world-fiction",
     "label": "世界文学",
     "description": "アフリカ、アジア、ラテンアメリカ、中東、東欧——英語圏を超えた文学の地図。",
     "order": 2,
-    "count": 81
+    "count": 83
   },
   {
     "slug": "contemporary-fiction",
@@ -25,7 +25,7 @@
     "label": "古典・20世紀文学",
     "description": "1900年代から1990年代まで、世界文学の基盤を築いた名作群。",
     "order": 4,
-    "count": 76
+    "count": 78
   },
   {
     "slug": "nonfiction",

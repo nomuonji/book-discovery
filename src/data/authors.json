@@ -5,7 +5,7 @@
       "name": "Albert Camus",
       "nameJa": "アルベール・カミュ",
       "country": "フランス",
-      "bioJa": "",
+      "bioJa": "20世紀を代表するフランスの小説家・哲学者。『異邦人』『ペスト』など不条理と反抗を主題にした作品で知られ、1957年にノーベル文学賞を受賞。アルジェリア出身の経験を背景に、人間の生と死を見据えた明晰な文体で世界文学に大きな影響を与えた。",
       "books": [
         "the-stranger",
         "the-myth-of-sisyphus"
@@ -16,7 +16,7 @@
       "name": "Friedrich Nietzsche",
       "nameJa": "フリードリヒ・ニーチェ",
       "country": "ドイツ",
-      "bioJa": "",
+      "bioJa": "ドイツの哲学者（1844-1900）。『ツァラトゥストラはかく語りき』『善悪の彼岸』『道徳の系譜』で「神は死んだ」など独自の思想を展開し、既存の道徳と形而上学を根底から問い直して後の思想・芸術に巨大な影響を与えた。",
       "books": [
         "thus-spoke-zarathustra"
       ]
@@ -26,7 +26,7 @@
       "name": "Hannah Arendt",
       "nameJa": "ハンナ・アーレント",
       "country": "ドイツ/アメリカ",
-      "bioJa": "",
+      "bioJa": "ハンナ・アーレント。ドイツ出身の政治哲学者。ナチス政権下でアメリカに亡命し、全体主義の起源を分析した『全体主義の起源』で知られる。『人間の条件』やアイヒマン裁判を論じた『イェルサレムのアイヒマン』で、政治と悪の問題を問い続けた。",
       "books": [
         "the-origins-of-totalitarianism"
       ]
@@ -36,7 +36,7 @@
       "name": "Simone de Beauvoir",
       "nameJa": "シモーヌ・ド・ボーヴォワール",
       "country": "フランス",
-      "bioJa": "",
+      "bioJa": "フランスの哲学者・作家。実存主義とフェミニズム思想の橋渡し役として、『第二の性』で女性の社会的抑圧を歴史的に分析した。サルトルと終生の思想的パートナー関係を結び、哲学・小説・自伝と多岐にわたる著作を残した。",
       "books": [
         "the-second-sex"
       ]
@@ -46,7 +46,7 @@
       "name": "Judith Butler",
       "nameJa": "ジュディス・バトラー",
       "country": "アメリカ",
-      "bioJa": "",
+      "bioJa": "アメリカの哲学者・フェミニスト理論家。『ジェンダー・トラブル』で、性別は反復的な行為によって構築されるという「パフォーマティビティ」論を提唱し、クィア理論とジェンダー研究の基礎を築いた。カリフォルニア大学バークレー校教授。",
       "books": [
         "gender-trouble"
       ]
@@ -56,7 +56,7 @@
       "name": "Edward W. Said",
       "nameJa": "エドワード・サイード",
       "country": "パレスチナ/アメリカ",
-      "bioJa": "",
+      "bioJa": "パレスチナ系アメリカ人の文芸評論家・思想家。コロンビア大学教授として比較文学を教え、著書『オリエンタリズム』で西洋の東洋表象に内在する権力構造を批判し、ポストコロニアル研究の基礎を築いた。",
       "books": [
         "orientalism"
       ]
@@ -66,7 +66,7 @@
       "name": "Frantz Fanon",
       "nameJa": "フランツ・ファノン",
       "country": "マルティニーク/アルジェリア",
-      "bioJa": "",
+      "bioJa": "マルティニーク出身の精神科医・思想家（1925-1961）。『黒い皮膚、白い仮面』（1952年）と『地に呪われたる者』（1961年）で植民地主義と人種差別の心理を分析し、脱植民地化運動とポストコロニアル思想に決定的な影響を与えた。",
       "books": [
         "black-skin-white-masks"
       ]
@@ -76,7 +76,7 @@
       "name": "James Baldwin",
       "nameJa": "ジェームズ・ボールドウィン",
       "country": "アメリカ",
-      "bioJa": "",
+      "bioJa": "アメリカの黒人作家。公民権運動の時代を背景に、人種とセクシュアリティ、アイデンティティをテーマに小説・エッセイを発表。『The Fire Next Time』は白人社会への鋭い批判と和解への展望を込めた代表作で、アメリカ社会論の古典として読み継がれている。",
       "books": [
         "the-fire-next-time"
       ]
@@ -86,7 +86,7 @@
       "name": "Yuval Noah Harari",
       "nameJa": "ユヴァル・ノア・ハラリ",
       "country": "イスラエル",
-      "bioJa": "",
+      "bioJa": "イスラエルの歴史学者。ヘブライ大学教授を務める。人類史を認知革命、農業革命、科学革命の枠組みで再解釈した「サピエンス全史」は世界的ベストセラーとなり、歴史研究を一般読者に広めたことで知られる。",
       "books": [
         "sapiens"
       ]
@@ -96,7 +96,7 @@
       "name": "Daniel Kahneman",
       "nameJa": "ダニエル・カーネマン",
       "country": "イスラエル/アメリカ",
-      "bioJa": "",
+      "bioJa": "ダニエル・カーネマン。イスラエル出身の心理学者。アモス・トヴェルスキーとともに提唱したプロスペクト理論により2002年にノーベル経済学賞を受賞。人間の思考の直感と錯覚を明らかにした『ファスト&スロー』は行動経済学の基盤となった。",
       "books": [
         "thinking-fast-and-slow"
       ]
@@ -106,7 +106,7 @@
       "name": "David Graeber",
       "nameJa": "デヴィッド・グレーバー",
       "country": "アメリカ",
-      "bioJa": "",
+      "bioJa": "デヴィッド・グレーバー。アメリカの文化人類学者・社会運動家。『負債論』で貨幣と負債の歴史を人類学的視点から再考し、大きな議論を巻き起こした。無意味な仕事を論じた『ブルシット・ジョブ』も話題を呼び、オキュパイ運動の理論的支柱ともなった。",
       "books": [
         "debt-the-first-5000-years"
       ]
@@ -116,7 +116,7 @@
       "name": "Susan Sontag",
       "nameJa": "スーザン・ソンタグ",
       "country": "アメリカ",
-      "bioJa": "",
+      "bioJa": "アメリカの批評家・作家。写真の社会的機能を論じた『写真について』で批評家としての名声を確立し、『解釈としての反芸術』など現代文化論の名著を多数残した。ボスニア紛争など政治にも鋭い発言を続けた知識人の代表格。",
       "books": [
         "on-photography"
       ]
@@ -126,7 +126,7 @@
       "name": "Olivia Laing",
       "nameJa": "オリヴィア・レイン",
       "country": "イギリス",
-      "bioJa": "",
+      "bioJa": "イギリスの作家・批評家。『孤独の都市』で都市と孤独をテーマに、芸術と社会を結びつけた考察で高い評価を得た。身体、セクシュアリティ、政治をめぐるエッセイでも知られる。",
       "books": [
         "the-lonely-city"
       ]
@@ -136,7 +136,7 @@
       "name": "Rachel Carson",
       "nameJa": "レイチェル・カーソン",
       "country": "アメリカ",
-      "bioJa": "",
+      "bioJa": "アメリカの海洋生物学者・作家。海の自然を詩的に描く著作で知られ、1962年刊行の「沈黙の春」は農薬DDTの危険性を告発し、現代の環境保護運動の起点となった。後に合衆国大統領自由勲章を追贈されている。",
       "books": [
         "silent-spring"
       ]
@@ -146,7 +146,7 @@
       "name": "Rebecca Solnit",
       "nameJa": "レベッカ・ソルニット",
       "country": "アメリカ",
-      "bioJa": "",
+      "bioJa": "アメリカの作家・歴史家・フェミニスト論客。現代社会、都市、環境、芸術を横断する鋭いエッセイで知られる。「男が私に説明する」は「マンスプレイニング」という概念を広めたエッセイとして、世界的に大きな影響を与えた。",
       "books": [
         "men-explain-things-to-me"
       ]
@@ -156,7 +156,7 @@
       "name": "Joan Didion",
       "nameJa": "ジョーン・ディディオン",
       "country": "アメリカ",
-      "bioJa": "",
+      "bioJa": "アメリカの作家・ジャーナリスト。「ニュー・ジャーナリズム」を代表し、エッセイとルポで1960年代のアメリカを記録した。夫の急死を描いた『The Year of Magical Thinking』で全米図書賞を受賞し、喪失をめぐるノンフィクションの古典となった。",
       "books": [
         "the-year-of-magical-thinking"
       ]
@@ -166,7 +166,7 @@
       "name": "James C. Scott",
       "nameJa": "ジェームズ・C・スコット",
       "country": "アメリカ",
-      "bioJa": "",
+      "bioJa": "アメリカの政治学者。エール大学名誉教授。農民研究と道徳経済の理論で知られ、国家によるトップダウンの社会改造計画の失敗を論じた『国家は何をみているか』（Seeing Like a State）は政治学の古典となった。",
       "books": [
         "seeing-like-a-state"
       ]
@@ -176,7 +176,7 @@
       "name": "Benedict Anderson",
       "nameJa": "ベネディクト・アンダーソン",
       "country": "アメリカ",
-      "bioJa": "",
+      "bioJa": "アメリカ出身の政治学者（1936-2015）。インドネシア研究で知られ、『想像の共同体』（1983年）でナショナリズムを「想像された共同体」として論じ、国民国家の成立を分析したモデルは政治学・歴史学の古典となった。",
       "books": [
         "imagined-communities"
       ]
@@ -186,7 +186,7 @@
       "name": "Raymond Carver",
       "nameJa": "レイモンド・カーヴァー",
       "country": "アメリカ",
-      "bioJa": "",
+      "bioJa": "アメリカの短編小説家・詩人。日常生活の些細な出来事を削ぎ落とした簡潔な文体で描くミニマリズムの代表作家。代表作「愛について語るときに我々の語ること」はアメリカ現代文学の古典となり、その後の短編小説に広く影響を与えた。",
       "books": [
         "what-we-talk-about-when-we-talk-about-love"
       ]
@@ -196,7 +196,7 @@
       "name": "Haruki Murakami",
       "nameJa": "村上春樹",
       "country": "日本",
-      "bioJa": "",
+      "bioJa": "日本の小説家。現実と非現実が交錯する独自の文体で世界的な人気を集める。デビュー作「風の歌を聴け」で群像新人文学賞を受賞後、「ノルウェイの森」がベストセラーに。翻訳活動や講演を通じ国際的な発信も続けている。",
       "books": [
         "norwegian-wood",
         "the-wind-up-bird-chronicle"
@@ -207,7 +207,7 @@
       "name": "Richard Brautigan",
       "nameJa": "リチャード・ブローティガン",
       "country": "アメリカ",
-      "bioJa": "",
+      "bioJa": "アメリカの詩人・小説家。1960年代のカウンターカルチャーを象徴する作家として知られる。散文詩小説「アメリカ鱒釣り紀行」は、軽妙で透明感のある文体とシュールな語り口で、当時の若者文化に大きな影響を与えた。",
       "books": [
         "trout-fishing-in-america"
       ]
@@ -217,7 +217,7 @@
       "name": "Kurt Vonnegut",
       "nameJa": "カート・ヴォネガット",
       "country": "アメリカ",
-      "bioJa": "",
+      "bioJa": "アメリカの小説家。SFとブラックユーモアを融合させ、『スローターハウス5』でドレスデン空襲を題材に戦争の不条理を描いた。反戦思想と人間性への洞察で広く読まれた。",
       "books": [
         "slaughterhouse-five"
       ]
@@ -227,7 +227,7 @@
       "name": "Olga Tokarczuk",
       "nameJa": "オルガ・トカルチュク",
       "country": "ポーランド",
-      "bioJa": "",
+      "bioJa": "ポーランドの作家。断章的な文体と神話的な想像力で知られ、『フライツ』（原題Flights）で国際ブッカー賞を受賞。2018年のノーベル文学賞受賞者で、現代ポーランド文学を代表する作家である。",
       "books": [
         "flights"
       ]
@@ -237,7 +237,7 @@
       "name": "Elena Ferrante",
       "nameJa": "エレナ・フェッランテ",
       "country": "イタリア",
-      "bioJa": "",
+      "bioJa": "イタリアの作家。本名を明かさない匿名性で知られる。ナポリを舞台にした『わたしのすばらしい友人』四部作で女性の友情と階級を描き、世界的な読者を獲得し国際的な注目を集めた。",
       "books": [
         "my-brilliant-friend"
       ]
@@ -247,7 +247,7 @@
       "name": "Han Kang",
       "nameJa": "ハン・ガン",
       "country": "韓国",
-      "bioJa": "",
+      "bioJa": "ハン・ガン。韓国の小説家。『菜食主義者』で2016年国際ブッカー賞を受賞し、肉体と暴力、人間の尊厳を鋭く問う独自の文学世界を築いた。2024年には韓国人として初めてノーベル文学賞を受賞した。",
       "books": [
         "the-vegetarian"
       ]
@@ -257,7 +257,7 @@
       "name": "W.G. Sebald",
       "nameJa": "W.G.ゼーバルト",
       "country": "ドイツ",
-      "bioJa": "",
+      "bioJa": "ドイツ出身、イギリスで活動した作家・文芸学者。『移住者たち』など、写真と散文を織り交ぜた独自の形式で記憶と追憶を探求した。ホロコースト後のヨーロッパを主題とする作品で国際的な評価を得た。",
       "books": [
         "the-emigrants"
       ]
@@ -267,7 +267,7 @@
       "name": "Jean-Paul Sartre",
       "nameJa": "ジャン＝ポール・サルトル",
       "country": "フランス",
-      "bioJa": "",
+      "bioJa": "フランスの哲学者・作家。実存主義の代表的論客として『存在と無』を著し、『嘔吐』などの小説や戯曲でも自由と責任を主題にした。1964年にノーベル文学賞を辞退したことでも知られ、戦後の知識人の象徴的存在となった。",
       "books": [
         "existentialism-is-a-humanism"
       ]
@@ -277,7 +277,7 @@
       "name": "Michel Foucault",
       "nameJa": "ミシェル・フーコー",
       "country": "フランス",
-      "bioJa": "",
+      "bioJa": "フランスの哲学者（1926-1984）。『監獄の誕生』『狂気の歴史』『言葉と物』『性の歴史』で権力・知・身体の関係を系譜学的に分析し、20世紀後半の人文科学全体に決定的な影響を与えた。",
       "books": [
         "discipline-and-punish"
       ]
@@ -287,7 +287,7 @@
       "name": "Gabriel García Márquez",
       "nameJa": "ガブリエル・ガルシア＝マルケス",
       "country": "コロンビア",
-      "bioJa": "",
+      "bioJa": "コロンビア出身の作家。魔術的リアリズムの最高峰『百年の孤独』で1982年にノーベル文学賞を受賞し、ラテンアメリカ文学の隆盛を牽引した。神話と現実が交錯する作風で知られる。",
       "books": [
         "one-hundred-years-of-solitude"
       ]
@@ -297,7 +297,7 @@
       "name": "Jorge Luis Borges",
       "nameJa": "ホルヘ・ルイス・ボルヘス",
       "country": "アルゼンチン",
-      "bioJa": "",
+      "bioJa": "アルゼンチンの作家・詩人（1899-1986）。『伝奇集』『アレフ』など迷宮・無限・書物を主題とする短編で知られ、現代世界文学に決定的な影響を与えた。晩年は視力を失ったが国際的な名声は揺るがなかった。",
       "books": [
         "ficciones"
       ]
@@ -307,7 +307,7 @@
       "name": "Roberto Bolaño",
       "nameJa": "ロベルト・ボラーニョ",
       "country": "チリ",
-      "bioJa": "",
+      "bioJa": "チリの小説家・詩人。詩人として出発し、後に長編小説で世界的名声を得た。「野生の探偵たち」と大著「2666」は現代ラテンアメリカ文学の金字塔とされる。暴力と文学の関係を問い続け、50歳で世を去った。",
       "books": [
         "2666"
       ]
@@ -317,7 +317,7 @@
       "name": "Clarice Lispector",
       "nameJa": "クラリッセ・リスペクトル",
       "country": "ブラジル",
-      "bioJa": "",
+      "bioJa": "ブラジルの小説家。内的な心理の深奥と実存的な問いを独特の言語感覚で描き、『星の時』などの作品で20世紀ラテンアメリカ文学に特異な位置を占めた。女性文学の先駆者でもある。",
       "books": [
         "the-hour-of-the-star"
       ]
@@ -327,7 +327,7 @@
       "name": "Orhan Pamuk",
       "nameJa": "オルハン・パムク",
       "country": "トルコ",
-      "bioJa": "",
+      "bioJa": "トルコの作家。2006年にノーベル文学賞を受賞。イスタンブールを舞台に東西の文化の交錯を描き、『わたしの名は赤』『雪』などで知られる。記憶とアイデンティティをめぐる作品が特徴。",
       "books": [
         "my-name-is-red"
       ]
@@ -337,7 +337,7 @@
       "name": "Bohumil Hrabal",
       "nameJa": "ボフミル・フラバル",
       "country": "チェコ",
-      "bioJa": "",
+      "bioJa": "チェコの作家（1914-1997）。廃紙圧縮工の独白を描く『あまりにもうるさい孤独』（1976年）や『厳重に監視された列車』などで知られ、民衆の言葉とユーモアに支えられた語りでチェコ文学を代表した。",
       "books": [
         "too-loud-a-solitude"
       ]
@@ -347,7 +347,7 @@
       "name": "Tayeb Salih",
       "nameJa": "タイーブ・サーレフ",
       "country": "スーダン",
-      "bioJa": "",
+      "bioJa": "タイーブ・サーレフ。スーダンの作家。代表作『北方への移行の季節』はアラブ現代文学の最高傑作の一つとされ、植民地時代の複雑な歴史を象徴的な文体で描いた。アフリカとアラブ世界を横断する視点で、ポストコロニアル文学を代表する存在である。",
       "books": [
         "season-of-migration-to-the-north"
       ]
@@ -357,7 +357,7 @@
       "name": "Svetlana Alexievich",
       "nameJa": "スヴェトラーナ・アレクシエーヴィチ",
       "country": "ベラルーシ",
-      "bioJa": "",
+      "bioJa": "ベラルーシの作家・ジャーナリスト。2015年ノーベル文学賞受賞。チェルノブイリ事故の生存者や戦場の女性たちの証言を集めた「声の文学」で知られ、個々の声を通して20世紀の歴史を描き出した。",
       "books": [
         "voices-from-chernobyl"
       ]
@@ -367,7 +367,7 @@
       "name": "Sally Rooney",
       "nameJa": "サリー・ルーニー",
       "country": "アイルランド",
-      "bioJa": "",
+      "bioJa": "アイルランドの小説家。『会話は続く』でデビューし、同世代の男女の恋愛と階級を克明に描く。代表作『ノーマル・ピープル』は国際的なベストセラーとなり、BBCによるテレビドラマ化も話題を呼んだ。抑制された文体と鋭い心理描写で、現代恋愛小説を再定義したと評される。",
       "books": [
         "normal-people"
       ]
@@ -377,7 +377,7 @@
       "name": "Bernardine Evaristo",
       "nameJa": "バーナーディン・エヴァリスト",
       "country": "イギリス",
-      "bioJa": "",
+      "bioJa": "バーナーディン・エヴァリスト。イギリスの作家・文芸評論家。多様な黒人女性たちの人生を連作形式で描いた『ガール、ウーマン、アザー』で、黒人女性として初めて2019年ブッカー賞を受賞した。長編詩や演劇の分野でも活躍する。",
       "books": [
         "girl-woman-other"
       ]
@@ -387,7 +387,7 @@
       "name": "Ocean Vuong",
       "nameJa": "オーシャン・ヴオン",
       "country": "アメリカ",
-      "bioJa": "",
+      "bioJa": "ベトナム出身のアメリカの詩人・小説家。初の小説『地上に私たちはほんの一時、美しい』で、ベトナム戦争後の移民家族の記憶と愛を詩的な散文で描いた。T・S・エリオット賞も受賞している。",
       "books": [
         "on-earth-were-briefly-gorgeous"
       ]
@@ -397,7 +397,7 @@
       "name": "Yaa Gyasi",
       "nameJa": "ヤア・ジャシ",
       "country": "ガーナ/アメリカ",
-      "bioJa": "",
+      "bioJa": "ガーナ系アメリカ人の小説家。デビュー作「ホームゴーイング」は、奴隷貿易で引き裂かれた2家族の系譜を代々にわたり追い、ガーナとアメリカの歴史をつなぐ壮大な物語として国際的に高く評価された。",
       "books": [
         "homegoing"
       ]
@@ -407,7 +407,7 @@
       "name": "Colson Whitehead",
       "nameJa": "コルソン・ホワイトヘッド",
       "country": "アメリカ",
-      "bioJa": "",
+      "bioJa": "アメリカの小説家。『地下鉄道』でピュリッツァー賞を受賞し、続く『ニッケル・ボーイズ』でも同賞を受賞した。奴隷制と人種差別の歴史を、ジャンル横断的な斬新な手法で描き高く評価された。",
       "books": [
         "the-underground-railroad",
         "the-nickel-boys"
@@ -418,7 +418,7 @@
       "name": "Hanya Yanagihara",
       "nameJa": "ハンヤ・ヤナギハラ",
       "country": "アメリカ",
-      "bioJa": "",
+      "bioJa": "アメリカの小説家・編集者。1974年生まれ。2015年発表の長編『小さな人生』（A Little Life）はマン・ブッカー賞最終候補入りを果たし、深い友情とトラウマを描いた作風で国際的な評価を得た。",
       "books": [
         "a-little-life"
       ]
@@ -428,7 +428,7 @@
       "name": "David Mitchell",
       "nameJa": "デイヴィッド・ミッチェル",
       "country": "イギリス",
-      "bioJa": "",
+      "bioJa": "デイヴィッド・ミッチェル。イギリスの小説家。時空を超えて交差する複数の物語を織り成す『クラウド・アトラス』はブッカー賞候補となり、各国の読者を魅了した。ジャンル横断的な語りと緻密な構成で、現代イギリス文学を代表する作家の一人。",
       "books": [
         "cloud-atlas"
       ]
@@ -438,7 +438,7 @@
       "name": "N.K. Jemisin",
       "nameJa": "N・K・ジェミシン",
       "country": "アメリカ",
-      "bioJa": "",
+      "bioJa": "アメリカのSF・ファンタジー作家。『第五の季節』を含む『破壊の書』三部作で史上初の3年連続ヒューゴー賞を受賞。地質学の知識を生かした設定と社会的不公正の描出で、現代ファンタジーの可能性を大きく広げた。",
       "books": [
         "the-fifth-season"
       ]
@@ -448,7 +448,7 @@
       "name": "Cixin Liu",
       "nameJa": "劉慈欣",
       "country": "中国",
-      "bioJa": "",
+      "bioJa": "中国のSF作家。電力技術者を経て作家に転身し、宇宙的スケールのハードSFで世界を席巻した。「三体」三部作は世界的ベストセラーとなり、英語版がアジア人作家初のヒューゴー賞長編部門受賞を果たした。",
       "books": [
         "the-three-body-problem"
       ]
@@ -458,7 +458,7 @@
       "name": "Jeff VanderMeer",
       "nameJa": "ジェフ・ヴァンダミア",
       "country": "アメリカ",
-      "bioJa": "",
+      "bioJa": "アメリカのSF・ファンタジー作家。『エリアX』三部作の第一巻『Annihilation』でネビュラ賞を受賞し、「新ウェア」とも呼ばれる異種混淆的な世界観で注目された。作家・編集者としてアンソロジーを多数手がけ、ジャンル文学の先端を牽引する存在。",
       "books": [
         "annihilation"
       ]
@@ -468,7 +468,7 @@
       "name": "George Saunders",
       "nameJa": "ジョージ・ソーンダーズ",
       "country": "アメリカ",
-      "bioJa": "",
+      "bioJa": "アメリカの作家。乾いたユーモアと温かい眼差しを併せ持つ短編で知られ、『リンカーンとバード』（Lincoln in the Bardo）でブッカー賞を受賞。シラキュース大学で創作を教えながら、現代アメリカ社会の不条理を寓話的に描き続けている。",
       "books": [
         "lincoln-in-the-bardo"
       ]
@@ -478,7 +478,7 @@
       "name": "Rachel Cusk",
       "nameJa": "レイチェル・カスク",
       "country": "イギリス",
-      "bioJa": "",
+      "bioJa": "イギリスの小説家・文筆家。自伝的要素の強い作風で知られ、語り手と現実の距離を実験的に再構成する手法をとる。「アウトライン」三部作は会話を主体とした斬新な構造で、現代英文学に大きな影響を与えた。",
       "books": [
         "outline"
       ]
@@ -488,7 +488,7 @@
       "name": "Karl Ove Knausgård",
       "nameJa": "カール・オーヴェ・クナウスゴール",
       "country": "ノルウェー",
-      "bioJa": "",
+      "bioJa": "ノルウェーの作家。自伝的小説『私の闘争』全六巻で、自身の日常や記憶を微細かつ精緻に描き出す手法が世界的な話題を呼び、自伝的フィクションの新たな可能性を切り開いた。",
       "books": [
         "my-struggle-book-one"
       ]
@@ -498,7 +498,7 @@
       "name": "Zadie Smith",
       "nameJa": "ゼイディー・スミス",
       "country": "イギリス",
-      "bioJa": "",
+      "bioJa": "ゼイディー・スミス。多民族都市ロンドンを舞台に現代イギリス社会を描く作家。デビュー作『ホワイト・ティース』が絶賛され、以後、人種・階級・家族を機知に富んだ文体で描き続ける。文芸評論や随筆でも活躍し、現代英文学を代表する作家の一人。",
       "books": [
         "white-teeth"
       ]
@@ -508,7 +508,7 @@
       "name": "Ted Chiang",
       "nameJa": "テッド・チャン",
       "country": "アメリカ",
-      "bioJa": "",
+      "bioJa": "テッド・チャン。アメリカのSF作家。短編を中心に少数の作品しか発表しないが、『あなたの人生の物語』はネビュラ賞を受賞し、映画『メッセージ』の原作となった。思想性と精度の高い文体で、現代SFの最重要作家の一人とされる。",
       "books": [
         "stories-of-your-life-and-others"
       ]
@@ -518,7 +518,7 @@
       "name": "Carlo Rovelli",
       "nameJa": "カルロ・ロヴェッリ",
       "country": "イタリア",
-      "bioJa": "",
+      "bioJa": "イタリアの理論物理学者。ループ量子重力理論の研究で知られ、一般向けの科学解説書が世界的なベストセラーとなり、科学と哲学をつなぐ平易な語り口で世界中の多くの読者を得た。",
       "books": [
         "seven-brief-lessons-on-physics"
       ]
@@ -528,7 +528,7 @@
       "name": "Michael Lewis",
       "nameJa": "マイケル・ルイス",
       "country": "アメリカ",
-      "bioJa": "",
+      "bioJa": "アメリカのノンフィクション作家・ジャーナリスト。物語性豊かなルポルタージュで知られ、『マネー・ボール』や『アンダイング・プロジェクト』（2016年）など、複雑な現実を分かりやすく語る筆致で幅広い読者を得ている。",
       "books": [
         "the-undoing-project"
       ]
@@ -538,7 +538,7 @@
       "name": "Malcolm Gladwell",
       "nameJa": "マルコム・グラッドウェル",
       "country": "カナダ",
-      "bioJa": "",
+      "bioJa": "カナダ出身のジャーナリスト・作家。ニューヨーカー誌の記者を経て、『直感力』（Blink）『ティッピング・ポイント』『アウトライアーズ』など、心理学と社会現象を結ぶ著作で世界的に知られる。",
       "books": [
         "outliers"
       ]
@@ -548,7 +548,7 @@
       "name": "Nassim Nicholas Taleb",
       "nameJa": "ナシーム・ニコラス・タレブ",
       "country": "レバノン/アメリカ",
-      "bioJa": "",
+      "bioJa": "ナシーム・ニコラス・タレブ。レバノン出身の数学者・哲学者。予測不可能な事象を指す「ブラック・スワン」の概念で知られ、不確実性をめぐる思索を展開した。『反脆弱性』『身銭を切れ』などの著作は金融・経営論を超えて広く読まれた。",
       "books": [
         "the-black-swan"
       ]
@@ -558,7 +558,7 @@
       "name": "Chinua Achebe",
       "nameJa": "チヌア・アチェベ",
       "country": "ナイジェリア",
-      "bioJa": "",
+      "bioJa": "チヌア・アチェベ。ナイジェリアの小説家。『崩れゆく絆』で植民地化以前のイボ社会と植民地支配の破壊を英語で描き、アフリカ文学の傑作とされた。アフリカの声で語る文学の確立に尽力し、「アフリカ文学の父」とも称される。",
       "books": [
         "things-fall-apart"
       ]
@@ -568,7 +568,7 @@
       "name": "Kazuo Ishiguro",
       "nameJa": "カズオ・イシグロ",
       "country": "イギリス",
-      "bioJa": "",
+      "bioJa": "日系イギリス人の小説家。2017年にノーベル文学賞を受賞。『日の名残り』『わたしを離さないで』などで記憶と喪失、時間を静謐な文体で描き、国際的に高い評価を得ている。",
       "books": [
         "klara-and-the-sun"
       ]
@@ -578,7 +578,7 @@
       "name": "Marina Keegan",
       "nameJa": "マリーナ・キーガン",
       "country": "アメリカ",
-      "bioJa": "",
+      "bioJa": "アメリカの作家（1989-2012）。イェール大学卒業直前に22歳で事故死し、遺稿をまとめたエッセイ集『孤独の反対は何か』（The Opposite of Loneliness、2014年）がベストセラーとなった。才能と喪失の物語として広く読まれた。",
       "books": [
         "the-opposite-of-loneliness"
       ]
@@ -588,7 +588,7 @@
       "name": "Viet Thanh Nguyen",
       "nameJa": "ヴィエト・タン・ウェン",
       "country": "アメリカ",
-      "bioJa": "",
+      "bioJa": "ベトナム戦争を題材にしたアメリカの作家。『シンパサイザー』で2016年にピューリッツァー賞を受賞。ベトナム移民の子としての経験を背景に、戦争の記憶と二重のアイデンティティをユーモアとともに描いた。",
       "books": [
         "the-sympathizer"
       ]
@@ -598,7 +598,7 @@
       "name": "Ta-Nehisi Coates",
       "nameJa": "タナハシ・コーツ",
       "country": "アメリカ",
-      "bioJa": "",
+      "bioJa": "タナハシ・コーツ。アメリカのジャーナリスト・作家。全米図書賞を受賞した『世界と私のあいだに』で、黒人として生きる身体感覚とアメリカの人種問題を父から息子への手紙という形式で描いた。人種差別の歴史を考察する論考でも知られる。",
       "books": [
         "between-the-world-and-me"
       ]
@@ -608,9 +608,2725 @@
       "name": "Annie Ernaux",
       "nameJa": "アニー・エルノー",
       "country": "フランス",
-      "bioJa": "",
+      "bioJa": "フランスの作家。自身の体験を社会学的な視線で捉えた「一人称の物語」で知られ、2022年にノーベル文学賞を受賞。階級・性・時間をめぐる記憶の記録は、フランスの社会史としても世界的に評価された。",
       "books": [
         "the-years"
+      ]
+    },
+    {
+      "slug": "cs-lewis",
+      "name": "C.S. Lewis",
+      "nameJa": "C・S・ルイス",
+      "country": "イギリス",
+      "bioJa": "20世紀イギリスの文学者・批評家・キリスト教弁証家。『ナルニア国物語』全7巻で知られ、児童文学の古典として世界的に親しまれる。オックスフォード、ケンブリッジ両大学で英文学を講じ、『悪魔の手紙』など信仰論の名作も多く、ファンタジーと神学を架橋した。",
+      "books": [
+        "the-wardrobe",
+        "the-great-divorce",
+        "the-narnia-caspian",
+        "the-narnia-dawn-treader"
+      ]
+    },
+    {
+      "slug": "f-scott-fitzgerald",
+      "name": "F. Scott Fitzgerald",
+      "nameJa": "F・スコット・フィッツジェラルド",
+      "country": "アメリカ",
+      "bioJa": "『華麗なるギャツビー』の作者。1920年代アメリカの「失われた世代」を代表する小説家で、ジャズ・エイジの光と翳を鋭く描いた。華麗な文体と社会批判を併せ持ち、後続のアメリカ文学に大きな影響を与えた。",
+      "books": [
+        "the-great-gatsby"
+      ]
+    },
+    {
+      "slug": "gk-chesterton",
+      "name": "G.K. Chesterton",
+      "nameJa": "G・K・チェスタトン",
+      "country": "イギリス",
+      "bioJa": "イギリスの作家・評論家・詩人。ブラウン神父シリーズで知られる推理小説家であり、逆説を愛した随筆家。『木曜の男』は象徴的な哲学パロディとして高く評価される。カトリック文学を代表する知識人で、幅広い分野に著作を残した。",
+      "books": [
+        "the-man-who-was-thursday"
+      ]
+    },
+    {
+      "slug": "hg-wells",
+      "name": "H.G. Wells",
+      "nameJa": "H・G・ウェルズ",
+      "country": "イギリス",
+      "bioJa": "近代SFの祖と呼ばれるイギリスの小説家。『タイム・マシン』『宇宙戦争』『透明人間』など、科学と社会を結ぶ先駆的な作品で知られる。生物学を学んだ経験を背景に、進化論と未来社会への洞察をSFに注ぎ込み、20世紀の大衆文化に多大な影響を与えた。",
+      "books": [
+        "the-war-of-the-worlds",
+        "the-time-machine",
+        "the-invisible-man",
+        "the-island-of-dr-moreau",
+        "the-first-men-in-the-moon"
+      ]
+    },
+    {
+      "slug": "jd-salinger",
+      "name": "J.D. Salinger",
+      "nameJa": "J・D・サリンジャー",
+      "country": "アメリカ",
+      "bioJa": "『ライ麦畑でつかまえて』で一躍名声を得たアメリカの小説家。主人公ホールデンの語りは思春期の孤独を鮮烈に描き、20世紀文学を代表する作品となった。以後は新作をほぼ発表せず、ニューハンプシャーで隠遁生活を送ったことで知られる。",
+      "books": [
+        "the-catcher-in-the-rye"
+      ]
+    },
+    {
+      "slug": "jg-ballard",
+      "name": "J.G. Ballard",
+      "nameJa": "J・G・バラード",
+      "country": "イギリス",
+      "bioJa": "イギリス出身のSF作家・小説家。文明の崩壊と欲望をテーマにした『溺れゆく世界』で知られる。臨界に達した文明と人間の心理を鋭く描き、文学的手法をSFに導入した「ニュー・ウェーブ」の旗手として活躍した。",
+      "books": [
+        "the-the-drowned-world"
+      ]
+    },
+    {
+      "slug": "jm-coetzee",
+      "name": "J.M. Coetzee",
+      "nameJa": "J・M・クッツェー",
+      "country": "南アフリカ",
+      "bioJa": "南アフリカ出身の小説家。アパルトヘイト後の社会と人間の倫理を問う作品で知られ、『恥辱』でブッカー賞を受賞。2003年にノーベル文学賞を受賞。沈黙と抑制に満ちた文体で、権力と暴力の問題を深く掘り下げた。",
+      "books": [
+        "disgrace"
+      ]
+    },
+    {
+      "slug": "jrr-tolkien",
+      "name": "J.R.R. Tolkien",
+      "nameJa": "J・R・R・トールキン",
+      "country": "イギリス",
+      "bioJa": "イギリスの言語学者・小説家。オックスフォード大学教授として英文学を講じ、『ホビットの冒険』『指輪物語』で現代ファンタジー文学の基礎を築いた。自ら構築した架空の言語と神話体系に基づく精緻な世界構築が後世に多大な影響を与えた。",
+      "books": [
+        "the-hobbit",
+        "the-lord-of-the-rings"
+      ]
+    },
+    {
+      "slug": "lp-hartley",
+      "name": "L.P. Hartley",
+      "nameJa": "L・P・ハートリー",
+      "country": "イギリス",
+      "bioJa": "イギリスの小説家・評論家。『仲介者』を代表作とし、「過去は外国である」という冒頭の一文で知られる。回想の形式を用いて記憶と過去の重荷を繊細に描き、イギリスの中流社会と子ども時代の心理に独自の光を当てた。",
+      "books": [
+        "the-white-band"
+      ]
+    },
+    {
+      "slug": "w-somerset-maugham",
+      "name": "W. Somerset Maugham",
+      "nameJa": "W・サマセット・モーム",
+      "country": "イギリス",
+      "bioJa": "イギリスの小説家・劇作家。『月と六ペンス』『人絹のベール』など、西洋と東洋を舞台に人間の欲望と孤独を描いた。透徹した語り口と心理描写で、大衆から文学者まで幅広く支持された20世紀の作家である。",
+      "books": [
+        "the-painted-veil",
+        "the-moon-and-sixpence"
+      ]
+    },
+    {
+      "slug": "arthur-c-clarke",
+      "name": "Arthur C. Clarke",
+      "nameJa": "アーサー・C・クラーク",
+      "country": "イギリス",
+      "bioJa": "イギリス出身のSF作家・未来学者。『2001年宇宙の旅』はキューブリック監督との映画化で世界的に知られる。科学的予見に基づくハードSFで知られ、通信衛星構想の提唱など未来学にも大きな足跡を残した。",
+      "books": [
+        "the-childhoods-end",
+        "the-2001-a-space-odyssey",
+        "the-rampage-of-the-future"
+      ]
+    },
+    {
+      "slug": "ursula-k-le-guin",
+      "name": "Ursula K. Le Guin",
+      "nameJa": "アーシュラ・K・ル＝グウィン",
+      "country": "アメリカ",
+      "bioJa": "アメリカのSF・ファンタジー作家。『ゲド戦記』『闇の左手』『所有せざる人々』などで知られる。性差・社会制度・自由をテーマにした思索的な作品を発表し、ヒューゴー賞・ネビュラ賞など数多くの賞を受賞した。",
+      "books": [
+        "the-left-hand-of-darkness",
+        "the-dispossessed",
+        "a-wizard-of-earthsea",
+        "the-left-handed-story"
+      ]
+    },
+    {
+      "slug": "ernest-hemingway",
+      "name": "Ernest Hemingway",
+      "nameJa": "アーネスト・ヘミングウェイ",
+      "country": "アメリカ",
+      "bioJa": "20世紀アメリカを代表する小説家。『老人と海』で1954年にノーベル文学賞を受賞。簡潔で力強い文体と「アイスバーグ理論」と呼ばれる表現技法で知られ、『誰がために鐘は鳴る』など戦争と人間の強さを描いた。",
+      "books": [
+        "the-old-man-and-the-sea",
+        "for-whom-the-bell-tolls"
+      ]
+    },
+    {
+      "slug": "isaac-asimov",
+      "name": "Isaac Asimov",
+      "nameJa": "アイザック・アシモフ",
+      "country": "アメリカ",
+      "bioJa": "アメリカのSF作家・科学解説者。『ファウンデーション』シリーズや『ロボット三原則』で知られ、ハードSFの黄金時代を代表する作家。SF誌や科学普及書にも積極的に関わり、幅広い読者に科学の魅力を伝えた。",
+      "books": [
+        "foundation"
+      ]
+    },
+    {
+      "slug": "iris-murdoch",
+      "name": "Iris Murdoch",
+      "nameJa": "アイリス・マードック",
+      "country": "イギリス",
+      "bioJa": "イギリスの小説家・哲学者。道徳哲学の素養を生かし、愛・善・自由を主題にした重層的な作品を書いた。『海よ海へ』でブッカー賞を受賞。哲学と物語を融合させた作家として高い評価を得ている。",
+      "books": [
+        "the-rain-islands",
+        "the-black-prince",
+        "the-sea-the-sea"
+      ]
+    },
+    {
+      "slug": "azar-nafisi",
+      "name": "Azar Nafisi",
+      "nameJa": "アザール・ナフィーシー",
+      "country": "イラン",
+      "bioJa": "イラン出身の作家・文芸批評家。テヘランの自宅で学生たちと禁じられた西洋文学を読んだ体験を綴った『テヘランでロリータを読む』で世界的に知られる。抑圧下における文学の自由と抵抗の力を問いかけた。",
+      "books": [
+        "reading-lolita-in-tehran"
+      ]
+    },
+    {
+      "slug": "atul-gawande",
+      "name": "Atul Gawande",
+      "nameJa": "アトゥール・ガワンデ",
+      "country": "アメリカ",
+      "bioJa": "インド系アメリカ人の外科医・作家。臨床医としての経験を生かし、医療の実践や組織のあり方を取材に基づいて描いた著作で知られる。医療の質向上と人間の判断の限界について独自の視点から論じている。",
+      "books": [
+        "the-checklist-manifesto",
+        "the-sleeping-lady",
+        "the-complications"
+      ]
+    },
+    {
+      "slug": "ahdaf-soueif",
+      "name": "Ahdaf Soueif",
+      "nameJa": "アハダフ・スエイフ",
+      "country": "エジプト",
+      "bioJa": "エジプト出身の小説家・随筆家。英語とアラビア語の二言語で執筆し、『ラブの地図』など東西文化の交錯を描いた。アラブ世界の政治と文化についての発言でも知られる国際派の作家である。",
+      "books": [
+        "the-map-of-love"
+      ]
+    },
+    {
+      "slug": "ama-ata-aidoo",
+      "name": "Ama Ata Aidoo",
+      "nameJa": "アマ・アタ・アイドゥー",
+      "country": "ガーナ",
+      "bioJa": "ガーナの小説家・劇作家・詩人。『変化』でアフリカ女性の自立と抑圧をテーマに描き、コモンウェルス賞を受賞。ガーナの教育大臣を務めた経験を持ち、アフリカ文学とフェミニズムの重要な担い手となった。",
+      "books": [
+        "changes"
+      ]
+    },
+    {
+      "slug": "amitav-ghosh",
+      "name": "Amitav Ghosh",
+      "nameJa": "アミターヴ・ゴーシュ",
+      "country": "インド",
+      "bioJa": "インド出身の小説家。歴史と文化の交錯を壮大なスケールで描く作家で、『海の罌粟』などアヘン戦争前夜の世界を舞台にした作品で知られる。歴史・貿易・環境を結ぶ視点が国際的な高い評価を得ている。",
+      "books": [
+        "the-travels-of-babu",
+        "the-sea-of-poppies"
+      ]
+    },
+    {
+      "slug": "amor-towles",
+      "name": "Amor Towles",
+      "nameJa": "アモア・トウルズ",
+      "country": "アメリカ",
+      "bioJa": "アメリカの小説家。『リンカーン・ハイウェイ』など、緻密な構成と機知に富む語り口で高い評価を得ている。移動と出会いを軸にした物語で、人間の選択と運命を温かな視線で描く作家である。",
+      "books": [
+        "the-war-and-peace-of-mind",
+        "the-lincoln-highway"
+      ]
+    },
+    {
+      "slug": "amos-oz",
+      "name": "Amos Oz",
+      "nameJa": "アモス・オズ",
+      "country": "イスラエル",
+      "bioJa": "イスラエルの作家・平和運動家。『愛と闇の物語』などで知られ、イスラエルの建国と中東の混乱を背景に、人間の記憶と和解を描いた。多数の言語に翻訳され、ノーベル文学賞候補としても名高い。",
+      "books": [
+        "a-tale-of-love-and-darkness"
+      ]
+    },
+    {
+      "slug": "aravind-adiga",
+      "name": "Aravind Adiga",
+      "nameJa": "アラヴィンド・アディガ",
+      "country": "インド",
+      "bioJa": "インドの作家。経済成長と貧困の裏側を描いたデビュー作『白い虎』で2008年にブッカー賞を受賞。冷笑的な語り手を通して、現代インドの階級社会と腐敗を鋭く風刺した。",
+      "books": [
+        "the-white-tiger"
+      ]
+    },
+    {
+      "slug": "alan-hollinghurst",
+      "name": "Alan Hollinghurst",
+      "nameJa": "アラン・ホリングハースト",
+      "country": "イギリス",
+      "bioJa": "イギリスの小説家。繊細な文体で同性愛を主題にした作品を書き続け、『美しき線』で2004年にブッカー賞を受賞。サッチャー時代のイギリスを舞台に、性と階級と芸術の交錯を描いた。",
+      "books": [
+        "the-line-of-beauty"
+      ]
+    },
+    {
+      "slug": "ariel-lawhon",
+      "name": "Ariel Lawhon",
+      "nameJa": "アリエル・ローホン",
+      "country": "アメリカ",
+      "bioJa": "アメリカの小説家。実在の人物や事件を題材にした歴史小説で知られる。史実の輪郭に想像力を織り交ぜ、名もなき人物の視点から歴史の裏側を描く作品を次々と生み出している。",
+      "books": [
+        "the-snow-hunter"
+      ]
+    },
+    {
+      "slug": "arkady-strugatsky",
+      "name": "Arkady Strugatsky",
+      "nameJa": "アルカジイ・ストルガツキー",
+      "country": "ロシア",
+      "bioJa": "ロシア（ソ連）のSF作家。弟ボリスとの共作で『路傍のピクニック』『ストーカー』などを発表し、ソ連SFを代表する作家となった。社会風刺と哲学を秘めた作品で、世界的に高い評価を得た。",
+      "books": [
+        "roadside-picnic"
+      ]
+    },
+    {
+      "slug": "arthur-schopenhauer",
+      "name": "Arthur Schopenhauer",
+      "nameJa": "アルトゥル・ショーペンハウアー",
+      "country": "ドイツ",
+      "bioJa": "ドイツの哲学者。主著『意志と表象としての世界』で、世界の本質を「意志」と捉える独自の哲学を樹立した。仏教思想にも通じる厭世観と芸術論は、ニーチェや後世の芸術家に大きな影響を与えた。",
+      "books": [
+        "the-world-as-will-and-representation"
+      ]
+    },
+    {
+      "slug": "alfred-bester",
+      "name": "Alfred Bester",
+      "nameJa": "アルフレッド・ベスター",
+      "country": "アメリカ",
+      "bioJa": "アメリカのSF作家。『虎よ、虎よ』など、疾走感のある文体と人間心理の深掘りで知られ、ヒューゴー賞を受賞。ニュー・ウェーブの先駆として、SFに文学的な手法を導入した作家である。",
+      "books": [
+        "the-the-stars-my-destination"
+      ]
+    },
+    {
+      "slug": "arundhati-roy",
+      "name": "Arundhati Roy",
+      "nameJa": "アルンダーティ・ロイ",
+      "country": "インド",
+      "bioJa": "インドの小説家・活動家。デビュー作『小さなことの神々』で1997年にブッカー賞を受賞し、一躍世界の注目を集めた。小説だけでなく、環境や人権問題をめぐる政治評論でも活発に発言している。",
+      "books": [
+        "the-god-of-small-things"
+      ]
+    },
+    {
+      "slug": "aleksandr-solzhenitsyn",
+      "name": "Aleksandr Solzhenitsyn",
+      "nameJa": "アレクサンドル・ソルジェニーツィン",
+      "country": "ロシア",
+      "bioJa": "ロシアの作家。『イワン・デニーソヴィチの一日』で収容所の実態を描き、ソ連体制批判の先駆となった。1970年にノーベル文学賞を受賞。追放後も『収容所群島』などで全体主義の罪を告発し続けた。",
+      "books": [
+        "one-day-in-the-life-of-ivan-denisovich"
+      ]
+    },
+    {
+      "slug": "alexander-pushkin",
+      "name": "Alexander Pushkin",
+      "nameJa": "アレクサンドル・プーシキン",
+      "country": "ロシア",
+      "bioJa": "ロシアの詩人・作家。近代ロシア文学の父と称され、詩小説『エヴゲーニイ・オネーギン』や『大尉の娘』などで知られる。格調高い言語感覚でロシア語文学の規範を確立し、後世の作家に計り知れない影響を与えた。",
+      "books": [
+        "the-captains-daughter"
+      ]
+    },
+    {
+      "slug": "alejo-carpentier",
+      "name": "Alejo Carpentier",
+      "nameJa": "アレホ・カルペンティエール",
+      "country": "キューバ",
+      "bioJa": "キューバの小説家・音楽学者。『この世の王国』で「驚異的現実」の概念を提示し、マジック・リアリズムの先駆となった。カリブの歴史と文化を壮大な構想で描き、ラテンアメリカ文学の発展を牽引した。",
+      "books": [
+        "the-kingdom-of-this-world"
+      ]
+    },
+    {
+      "slug": "anthony-burgess",
+      "name": "Anthony Burgess",
+      "nameJa": "アンソニー・バージェス",
+      "country": "イギリス",
+      "bioJa": "イギリスの小説家・作曲家。『時計じかけのオレンジ』で若者の暴力と自由意志をめぐる問題を描き、世界的に知られる。自作の架空言語を用いるなど、言語への深い造詣を持つ作家だった。",
+      "books": [
+        "a-clockwork-orange"
+      ]
+    },
+    {
+      "slug": "andy-weir",
+      "name": "Andy Weir",
+      "nameJa": "アンディ・ウィアー",
+      "country": "アメリカ",
+      "bioJa": "アメリカのSF作家。『火星の人』で科学的データに基づくサバイバルを描き、世界的ベストセラーとなり映画化された。続く『プロジェクト・ヘイル・メアリー』も、科学考証とユーモアで高い評価を得た。",
+      "books": [
+        "the-martian",
+        "project-hail-mary"
+      ]
+    },
+    {
+      "slug": "henri-bergson",
+      "name": "Henri Bergson",
+      "nameJa": "アンリ・ベルクソン",
+      "country": "フランス",
+      "bioJa": "フランスの哲学者。『創造的進化』などで時間と生命の連続性を論じ、1927年にノーベル文学賞を受賞。直観の哲学を提唱し、20世紀初頭の思想と文学、芸術に多大な影響を与えた。",
+      "books": [
+        "the-two-sources",
+        "creative-evolution"
+      ]
+    },
+    {
+      "slug": "henri-lefebvre",
+      "name": "Henri Lefebvre",
+      "nameJa": "アンリ・ルフェーヴル",
+      "country": "フランス",
+      "bioJa": "フランスの哲学者・社会学者。『空間の生産』で空間を社会的に生産されるものと捉える理論を打ち立て、都市論やマルクス主義思想の発展に大きな影響を与えた。日常生活批判の先駆者でもある。",
+      "books": [
+        "the-production-of-space"
+      ]
+    },
+    {
+      "slug": "iain-banks",
+      "name": "Iain Banks",
+      "nameJa": "イアン・バンクス",
+      "country": "イギリス",
+      "bioJa": "イギリスの小説家。SF作品を「カルチャー」という名で描き、幅広い読者を獲得。一方で本名名義の文学小説『クロウ・ロード』などでも高い評価を得た。知性と文体の幅広さで知られる作家である。",
+      "books": [
+        "the-crow-road",
+        "the-complicity"
+      ]
+    },
+    {
+      "slug": "ian-mcewan",
+      "name": "Ian McEwan",
+      "nameJa": "イアン・マキューアン",
+      "country": "イギリス",
+      "bioJa": "イギリスの小説家。『贖罪』『アムステルダム』など、心理と倫理をめぐる緊密な構成の小説で知られ、1998年には『アムステルダム』でブッカー賞を受賞。現代英国文学を代表する作家の一人である。",
+      "books": [
+        "atonement"
+      ]
+    },
+    {
+      "slug": "isabel-allende",
+      "name": "Isabel Allende",
+      "nameJa": "イサベル・アジェンデ",
+      "country": "チリ",
+      "bioJa": "チリ出身の小説家。『精霊たちの家』など、マジック・リアリズムと家族史を結びつけた作品で世界的に読まれる。ラテンアメリカ文学を代表する作家で、女性と歴史の視点から多くの作品を生み出した。",
+      "books": [
+        "the-house-of-the-spirits"
+      ]
+    },
+    {
+      "slug": "isabel-wilkerson",
+      "name": "Isabel Wilkerson",
+      "nameJa": "イザベル・ウィルカーソン",
+      "country": "アメリカ",
+      "bioJa": "アメリカのジャーナリスト・作家。南部から北部への黒人大移動を描いた『他者の太陽』でピューリッツァー賞を受賞。続く『カースト』では米国の人種差別を分析し、社会に大きな議論を巻き起こした。",
+      "books": [
+        "the-warmth-of-other-suns",
+        "caste"
+      ]
+    },
+    {
+      "slug": "ishmael-beah",
+      "name": "Ishmael Beah",
+      "nameJa": "イシュマエル・ベア",
+      "country": "シエラレオネ",
+      "bioJa": "シエラレオネ出身の作家。12歳で少年兵として戦争に巻き込まれた自身の体験を綴った回想録で世界的に知られる。戦争の悲劇と再生の物語は各国で翻訳され、人権問題への関心を高めた。",
+      "books": [
+        "no-map-to-south"
+      ]
+    },
+    {
+      "slug": "immanuel-kant",
+      "name": "Immanuel Kant",
+      "nameJa": "イマヌエル・カント",
+      "country": "ドイツ",
+      "bioJa": "ドイツの哲学者。『純粋理性批判』など三大批判書で認識論・倫理学・美学を体系化し、近代哲学の基盤を築いた。批判哲学と「定言命法」の思想は、以後の西洋哲学全体の出発点となった。",
+      "books": [
+        "critique-of-pure-reason",
+        "the-critique-of-practical-reason"
+      ]
+    },
+    {
+      "slug": "ivan-turgenev",
+      "name": "Ivan Turgenev",
+      "nameJa": "イワン・ツルゲーネフ",
+      "country": "ロシア",
+      "bioJa": "ロシアの小説家。『父と子』で世代対立と「ニヒリズム」を主題に描き、ロシア文壇に衝撃を与えた。西欧での生活を送りながらロシア社会の変動を鋭い観察で作品化し、後世の作家に大きな影響を与えた。",
+      "books": [
+        "the-fathers-and-sons"
+      ]
+    },
+    {
+      "slug": "virginia-woolf",
+      "name": "Virginia Woolf",
+      "nameJa": "ヴァージニア・ウルフ",
+      "country": "イギリス",
+      "bioJa": "イギリスの小説家・評論家。『ダロウェイ夫人』『灯台へ』など、意識の流れの技法を用いたモダニズム文学の代表的存在。ブルームズベリー・グループの中心人物として、文学の革新と女性の自立を追求した。",
+      "books": [
+        "to-the-lighthouse",
+        "mrs-dalloway"
+      ]
+    },
+    {
+      "slug": "william-gibson",
+      "name": "William Gibson",
+      "nameJa": "ウィリアム・ギブスン",
+      "country": "アメリカ",
+      "bioJa": "アメリカのSF作家。デビュー作『ニューロマンサー』で「サイバースペース」という言葉を生み出し、サイバーパンクと呼ばれるジャンルを確立。ヒューゴー賞・ネビュラ賞などを受賞し、情報社会の到来を先取りして描いた。",
+      "books": [
+        "neuromancer"
+      ]
+    },
+    {
+      "slug": "william-faulkner",
+      "name": "William Faulkner",
+      "nameJa": "ウィリアム・フォークナー",
+      "country": "アメリカ",
+      "bioJa": "アメリカ南部を舞台にした小説家。『響きと怒り』など、意識の流れと多視点の語りで20世紀の小説技法を刷新し、1949年にノーベル文学賞を受賞。架空のヨクナパトーファ郡を舞台に、南部の歴史と人間の苦悩を描いた。",
+      "books": [
+        "the-sound-and-the-fury"
+      ]
+    },
+    {
+      "slug": "walter-scott",
+      "name": "Walter Scott",
+      "nameJa": "ウォルター・スコット",
+      "country": "イギリス",
+      "bioJa": "スコットランドの詩人・小説家。『ウェイヴァリー』などで歴史小説というジャンルを確立し、「近代歴史小説の父」と呼ばれる。『アイヴァンホー』などの作品が後世のロマン主義文学や大衆文化に与えた影響は計り知れない。",
+      "books": [
+        "the-ivanhoe",
+        "the-waverley"
+      ]
+    },
+    {
+      "slug": "vladimir-nabokov",
+      "name": "Vladimir Nabokov",
+      "nameJa": "ウラジーミル・ナボコフ",
+      "country": "ロシア/アメリカ",
+      "bioJa": "ロシア出身のアメリカの小説家・詩人。精緻な文体と技巧で知られ、代表作『ロリータ』は道徳的論争を巻き起こしつつ現代文学の古典となった。『青白い炎』など実験的構造の作品でも名高い。",
+      "books": [
+        "lolita"
+      ]
+    },
+    {
+      "slug": "eka-kurniawan",
+      "name": "Eka Kurniawan",
+      "nameJa": "エカ・クルニアワン",
+      "country": "インドネシア",
+      "bioJa": "インドネシアの小説家・脚本家。神話と歴史、暴力とユーモアを融合させた魔術的リアリズムで知られ、代表作『美は傷』はインドネシア近代史を重層的に描き国際的に高い評価を得た。",
+      "books": [
+        "beauty-is-a-wound"
+      ]
+    },
+    {
+      "slug": "yevgeny-zamyatin",
+      "name": "Yevgeny Zamyatin",
+      "nameJa": "エフゲニー・ザミャーチン",
+      "country": "ロシア",
+      "bioJa": "ロシアの作家。反ユートピア文学の先駆けである『われら』で知られ、全体主義社会を予見的に描いた作品はソ連で発禁となった。後のディストピア小説に大きな影響を与えた。",
+      "books": [
+        "the-the-brave-new-world-of-dystopia"
+      ]
+    },
+    {
+      "slug": "mile-durkheim",
+      "name": "Émile Durkheim",
+      "nameJa": "エミール・デュルケーム",
+      "country": "フランス",
+      "bioJa": "フランスの社会学者。社会学を独立した学問として確立し、『社会分業論』『自殺論』『宗教生活の原初形態』で社会的事実や集合的意識を論じた。近代社会学の基礎を築いた人物として知られる。",
+      "books": [
+        "the-division-of-labor",
+        "the-suicide",
+        "the-elementary-forms"
+      ]
+    },
+    {
+      "slug": "emily-st-john-mandel",
+      "name": "Emily St. John Mandel",
+      "nameJa": "エミリー・セント・ジョン・マンデル",
+      "country": "カナダ",
+      "bioJa": "カナダの小説家。『11番目の駅』でパンデミック後の世界を描き、アーサー・C・クラーク賞を受賞した。時間や記憶を自在に行き来する精緻な構成と静謐な文体で知られる。",
+      "books": [
+        "station-eleven",
+        "the-the-sea-of-translation",
+        "the-the-glass-hotel"
+      ]
+    },
+    {
+      "slug": "emily-bront",
+      "name": "Emily Brontë",
+      "nameJa": "エミリー・ブロンテ",
+      "country": "イギリス",
+      "bioJa": "イギリスの小説家。ブロンテ三姉妹の一人で、唯一の長編『嵐が丘』が、荒涼とした荒野を舞台に激しい愛と復讐を描くヴィクトリア朝文学に異彩を放つ傑作として名高く、後世の文学にも影響を与えた。",
+      "books": [
+        "the-wuthering-heights"
+      ]
+    },
+    {
+      "slug": "elizabeth-gaskell",
+      "name": "Elizabeth Gaskell",
+      "nameJa": "エリザベス・ギャスケル",
+      "country": "イギリス",
+      "bioJa": "イギリスのヴィクトリア朝の小説家。『南と北』で産業革命期の階級対立を描き、『クランフォード』では地方の女性社会をユーモアを交えて描いた。『シャーロット・ブロンテの生涯』の伝記も著した。",
+      "books": [
+        "the-cranford",
+        "the-north-and-south"
+      ]
+    },
+    {
+      "slug": "elizabeth-kolbert",
+      "name": "Elizabeth Kolbert",
+      "nameJa": "エリザベス・コルバート",
+      "country": "アメリカ",
+      "bioJa": "アメリカのジャーナリスト・作家。『ザ・ニューヨーカー』誌の記者として環境問題を取材し、著書『第六の絶滅』で人間活動による大量絶滅を論じ、ピュリッツァー賞を受賞した。",
+      "books": [
+        "the-sixth-extinction"
+      ]
+    },
+    {
+      "slug": "elif-shafak",
+      "name": "Elif Shafak",
+      "nameJa": "エリフ・シャファク",
+      "country": "トルコ",
+      "bioJa": "トルコ出身の作家。英語とトルコ語の両方で執筆し、多文化共生や女性の立場を主題に描く。代表作『愛のルール』は世界的ベストセラーとなり、現代文学を代表する作家の一人。",
+      "books": [
+        "the-forty-rules-of-love"
+      ]
+    },
+    {
+      "slug": "erin-morgenstern",
+      "name": "Erin Morgenstern",
+      "nameJa": "エリン・モーゲンスターン",
+      "country": "アメリカ",
+      "bioJa": "アメリカのファンタジー作家。デビュー作『夜のサーカス』が国際的なベストセラーとなり、幻想性の高い世界観と詩的な文体で注目を集めた。続く『鏡の王国』でも読者を魅了した。",
+      "books": [
+        "the-the-night-circus"
+      ]
+    },
+    {
+      "slug": "hernan-diaz",
+      "name": "Hernan Diaz",
+      "nameJa": "エルナン・ディアス",
+      "country": "アメリカ",
+      "bioJa": "アルゼンチン出身のアメリカの作家。『トラスト』で複数の語り手と文体により金融と権力の物語を再構成し、ピュリッツァー賞フィクション部門を受賞した。実験的な構成で知られる。",
+      "books": [
+        "trust"
+      ]
+    },
+    {
+      "slug": "eleanor-catton",
+      "name": "Eleanor Catton",
+      "nameJa": "エレナー・カットン",
+      "country": "ニュージーランド",
+      "bioJa": "ニュージーランドの小説家。19世紀の金鉱採掘期のニュージーランドを舞台にした『灯台守たちのレクイエム』で、史上最年少となる28歳でブッカー賞を受賞した。占星術の構造を取り入れた作品が特徴。",
+      "books": [
+        "the-luminaries"
+      ]
+    },
+    {
+      "slug": "orson-scott-card",
+      "name": "Orson Scott Card",
+      "nameJa": "オーソン・スコット・カード",
+      "country": "アメリカ",
+      "bioJa": "アメリカのSF作家。『エンダーのゲーム』と続編『死者を語る人』でヒューゴー賞とネビュラ賞を連続受賞した。戦争と倫理、若者の成長と選択をめぐるテーマを描く作品で知られる。",
+      "books": [
+        "the-enders-game",
+        "the-speaker-for-the-dead"
+      ]
+    },
+    {
+      "slug": "octavia-butler",
+      "name": "Octavia Butler",
+      "nameJa": "オクティヴィア・バトラー",
+      "country": "アメリカ",
+      "bioJa": "アメリカのSF作家。SFにおける黒人女性の先駆者として、『キンドレッド』『種まく者』などで人種やジェンダー、権力の問題を鋭く描いた。マッカーサー賞を受賞している。",
+      "books": [
+        "kindred",
+        "parable-of-the-sower"
+      ]
+    },
+    {
+      "slug": "oscar-wilde",
+      "name": "Oscar Wilde",
+      "nameJa": "オスカー・ワイルド",
+      "country": "イギリス",
+      "bioJa": "アイルランド出身のイギリスの作家・劇作家。唯美主義運動を代表し、『ドリアン・グレイの肖像』や機知に富む数々の戯曲で知られる。鋭い社会風刺と警句で19世紀末の文学を彩った。",
+      "books": [
+        "the-picture-of-dorian-gray"
+      ]
+    },
+    {
+      "slug": "oliver-sacks",
+      "name": "Oliver Sacks",
+      "nameJa": "オリヴァー・サックス",
+      "country": "イギリス",
+      "bioJa": "イギリス生まれの神経科医・作家。臨床の症例を生き生きと描いた『妻を帽子とまちがえた男』で知られ、脳科学と人間性の理解を一般読者に広めた。多くの医学・随筆の著書がある。",
+      "books": [
+        "the-man-who-mistook-his-wife-for-a-hat"
+      ]
+    },
+    {
+      "slug": "aldous-huxley",
+      "name": "Aldous Huxley",
+      "nameJa": "オルダス・ハクスリー",
+      "country": "イギリス",
+      "bioJa": "イギリスの作家・思想家。ディストピア文学の古典『すばらしい新世界』で知られ、科学技術による管理社会への批判を描いた。神秘主義や人間性についての思索的著作も多い。",
+      "books": [
+        "brave-new-world"
+      ]
+    },
+    {
+      "slug": "carson-mccullers",
+      "name": "Carson McCullers",
+      "nameJa": "カーソン・マッカラーズ",
+      "country": "アメリカ",
+      "bioJa": "アメリカ南部出身の小説家。23歳で発表したデビュー作『心は孤独な狩人』で、南部の町に生きる人々の孤独と疎外を鋭く描いた。短編『悲しきカフェのバラード』『結婚式のメンバー』などでも知られる。",
+      "books": [
+        "the-heart-is-a-lonely-hunter",
+        "the-member-of-the-wedding"
+      ]
+    },
+    {
+      "slug": "carl-schmitt",
+      "name": "Carl Schmitt",
+      "nameJa": "カール・シュミット",
+      "country": "ドイツ",
+      "bioJa": "ドイツの法学者・政治思想家。主権論や『政治的なものの概念』で友敵の区別に基づく政治理論を提示し、20世紀の政治思想に大きな影響を与えた。ナチス政権との関与をめぐり評価は分かれる。",
+      "books": [
+        "the-essential-political"
+      ]
+    },
+    {
+      "slug": "carl-sagan",
+      "name": "Carl Sagan",
+      "nameJa": "カール・セーガン",
+      "country": "アメリカ",
+      "bioJa": "アメリカの天文学者・科学者。テレビ番組『コスモス』で科学の普及に貢献し、『コスモス』『青い点』などの著書で宇宙の視点から地球と人類を描いた。科学啓蒙の象徴的存在。",
+      "books": [
+        "the-pale-blue-dot",
+        "the-cosmos"
+      ]
+    },
+    {
+      "slug": "karl-marx",
+      "name": "Karl Marx",
+      "nameJa": "カール・マルクス",
+      "country": "ドイツ",
+      "bioJa": "ドイツ生まれの思想家・経済学者。『共産党宣言』『資本論』で唯物史観と資本主義批判を展開し、近代社会思想に革命をもたらした。社会主義思想の基礎を築いた人物として知られる。",
+      "books": [
+        "the-german-ideology",
+        "the-communist-manifesto"
+      ]
+    },
+    {
+      "slug": "khaled-hosseini",
+      "name": "Khaled Hosseini",
+      "nameJa": "カーレド・ホッセイニ",
+      "country": "アフガニスタン",
+      "bioJa": "アフガニスタン出身のアメリカの作家。医師として働いた後に作家へ転じ、『カイト・ランナー』『千の輝く太陽』などの世界的ベストセラーで、母国の戦乱と人間の絆を描いた。",
+      "books": [
+        "the-kite-runner",
+        "the-kiterunner-sky"
+      ]
+    },
+    {
+      "slug": "carlos-fuentes",
+      "name": "Carlos Fuentes",
+      "nameJa": "カルロス・フエンテス",
+      "country": "メキシコ",
+      "bioJa": "メキシコの小説家・評論家。『アルテミオ・クルスの死』などでメキシコ革命と国民性を描き、ラテンアメリカ文学のブーム世代を代表する作家となった。多くの国際的な賞を受賞している。",
+      "books": [
+        "the-death-of-artemio-cruz"
+      ]
+    },
+    {
+      "slug": "carlos-ruiz-zafn",
+      "name": "Carlos Ruiz Zafón",
+      "nameJa": "カルロス・ルイス・サフォン",
+      "country": "スペイン",
+      "bioJa": "スペインの小説家。『風の影』に始まる「忘れられた本の墓地」シリーズが世界的ベストセラーとなり、書物と記憶をめぐるゴシック的な幻想世界と起伏に富む物語で多くの読者を魅了した。",
+      "books": [
+        "the-warden-of-the-shadow",
+        "the-labyrinth-of-the-spirits"
+      ]
+    },
+    {
+      "slug": "karen-armstrong",
+      "name": "Karen Armstrong",
+      "nameJa": "カレン・アームストロング",
+      "country": "イギリス",
+      "bioJa": "イギリスの宗教研究家・作家。かつて修道女だった経験から宗教の研究へと進み、世界の諸宗教を平易に解説する著作で知られる。宗教間の対話と理解の重要性を一貫して訴えた。",
+      "books": [
+        "the-spiral-staircase"
+      ]
+    },
+    {
+      "slug": "guy-de-maupassant",
+      "name": "Guy de Maupassant",
+      "nameJa": "ギ・ド・モーパッサン",
+      "country": "フランス",
+      "bioJa": "フランスの小説家。自然主義の影響を受け、簡潔で冴えた文体の短篇の名手として『首飾り』などの傑作を残した。長編『女の一生』『ベラミ』では人間の欲望と人生の皮肉を鋭く描いた。",
+      "books": [
+        "the-bel-ami"
+      ]
+    },
+    {
+      "slug": "guy-debord",
+      "name": "Guy Debord",
+      "nameJa": "ギー・ドゥボール",
+      "country": "フランス",
+      "bioJa": "フランスの思想家・映画作家。前衛運動シチュアシオニスト・インターナショナルの中心人物で、著書『スペクタクルの社会』でメディアと消費に支配される現代社会を批判した。",
+      "books": [
+        "the-society-of-the-spectacle"
+      ]
+    },
+    {
+      "slug": "catherine-chung",
+      "name": "Catherine Chung",
+      "nameJa": "キャサリン・チョン",
+      "country": "アメリカ",
+      "bioJa": "韓国系アメリカ人の小説家。数学の博士号を持つ異色の経歴を持ち、『第十のミューズ』では数学と戦争、女性の歴史を結びつけた作品を発表して国際的な注目を集めた。科学と文学を架橋する作風である。",
+      "books": [
+        "the-tenth-muse"
+      ]
+    },
+    {
+      "slug": "katherine-boo",
+      "name": "Katherine Boo",
+      "nameJa": "キャサリン・ブー",
+      "country": "アメリカ",
+      "bioJa": "アメリカのジャーナリスト。ムンバイのスラム住民の生活を長期取材した『美しき絶望』でナショナル・ブック・アワードを受賞した。貧困と不平等を人間の視点から描くノンフィクション作家。",
+      "books": [
+        "behind-the-beautiful-forevers"
+      ]
+    },
+    {
+      "slug": "garrett-hardin",
+      "name": "Garrett Hardin",
+      "nameJa": "ギャレット・ハーディン",
+      "country": "アメリカ",
+      "bioJa": "アメリカの生態学者・思想家。共有される資源が過剰に利用される構造を論じた論文「共有地の悲劇」で広く知られ、その後の環境問題や人口問題をめぐる議論に大きな影響を与えた。",
+      "books": [
+        "the-tragedy-of-the-commons"
+      ]
+    },
+    {
+      "slug": "gustave-flaubert",
+      "name": "Gustave Flaubert",
+      "nameJa": "ギュスターヴ・フローベール",
+      "country": "フランス",
+      "bioJa": "フランスの小説家。『ボヴァリー夫人』で写実主義文学の到達点を示し、言葉を厳密に選ぶ文体芸術で近代小説に革命をもたらした。『感情教育』『ブヴァールとペキュシェ』も著名。",
+      "books": [
+        "the-madame-bovary",
+        "the-sentimental-education",
+        "the-bouvard"
+      ]
+    },
+    {
+      "slug": "gnter-grass",
+      "name": "Günter Grass",
+      "nameJa": "ギュンター・グラス",
+      "country": "ドイツ",
+      "bioJa": "ドイツの作家。『ブリキの太鼓』でナチス時代のドイツを魔術的リアリズムの手法で描き、1999年にノーベル文学賞を受賞した。戦後ドイツ文学を代表する作家の一人である。",
+      "books": [
+        "the-colors-of-the-flag"
+      ]
+    },
+    {
+      "slug": "christy-lefteri",
+      "name": "Christy Lefteri",
+      "nameJa": "クリスティ・レフテリ",
+      "country": "イギリス",
+      "bioJa": "イギリス生まれの作家で、キプロス系のルーツを持つ。難民問題をテーマにした『アレッポの養蜂家』が国際的ベストセラーとなり、人道問題を情感豊かに描いて多くの読者の共感を集めた。",
+      "books": [
+        "the-beekeeper-of-alepoo"
+      ]
+    },
+    {
+      "slug": "claire-keegan",
+      "name": "Claire Keegan",
+      "nameJa": "クレア・キーガン",
+      "country": "アイルランド",
+      "bioJa": "アイルランドの小説家。簡潔で凝縮された短編・中編の名手で、『こんな小さなこと』などの作品で国際的に高い評価を得た。静かな日常のなかに鋭い洞察を込める作風が特徴。",
+      "books": [
+        "small-things-like-these"
+      ]
+    },
+    {
+      "slug": "kate-chopin",
+      "name": "Kate Chopin",
+      "nameJa": "ケイト・ショパン",
+      "country": "アメリカ",
+      "bioJa": "アメリカの小説家。19世紀末に女性の自立と性の欲望を描いた『目覚め』で当時は論争を呼んだが、後にフェミニズム文学の先駆として再評価された。短篇作家としても知られる。",
+      "books": [
+        "the-awakening"
+      ]
+    },
+    {
+      "slug": "kayte-nunn",
+      "name": "Kayte Nunn",
+      "nameJa": "ケイト・ナン",
+      "country": "オーストラリア",
+      "bioJa": "オーストラリアの作家。歴史と現代を往還する二重の時間構造の小説で知られ、『植物学者の娘』など、過去の出来事が現代の物語に影響を与える手法で多くの読者を魅了する。",
+      "books": [
+        "the-botanists-daughter"
+      ]
+    },
+    {
+      "slug": "keri-hulme",
+      "name": "Keri Hulme",
+      "nameJa": "ケリ・ヒューム",
+      "country": "ニュージーランド",
+      "bioJa": "ニュージーランドの小説家。マオリの血を引く作家として知られ、『骨の人々』でブッカー賞を受賞した。マオリの文化と孤独をテーマに、独自の言語感覚で描いた作品で名高い。",
+      "books": [
+        "the-bone-people"
+      ]
+    },
+    {
+      "slug": "ken-kesey",
+      "name": "Ken Kesey",
+      "nameJa": "ケン・キージー",
+      "country": "アメリカ",
+      "bioJa": "アメリカの小説家。精神科病棟を舞台にした『カッコーの巣の上で』で、社会の規律と個人の自由の対立を描き、1960年代アメリカのカウンターカルチャーの象徴的存在となった。",
+      "books": [
+        "one-flew-over-the-cuckoos-nest"
+      ]
+    },
+    {
+      "slug": "samanta-schweblin",
+      "name": "Samanta Schweblin",
+      "nameJa": "サマンタ・シュウェブリン",
+      "country": "アルゼンチン",
+      "bioJa": "アルゼンチンの作家。日常に潜む不気味さを描く幻想文学で知られ、『楽園の外れ』（原題Fever Dream）や短編集『七つの空き家』で国際的に高い評価を得ている。",
+      "books": [
+        "seven-empty-houses"
+      ]
+    },
+    {
+      "slug": "salman-rushdie",
+      "name": "Salman Rushdie",
+      "nameJa": "サルマン・ラシュディ",
+      "country": "インド",
+      "bioJa": "インド生まれのイギリス系作家。魔術的リアリズムを駆使した『真夜中の子どもたち』でブッカー賞を受賞し、インド独立の歴史を描いた。作風は風刺と幻想の融合で知られ、『悪魔の詩』では表現の自由をめぐる国際的な論争の渦中に置かれた。",
+      "books": [
+        "midnights-children"
+      ]
+    },
+    {
+      "slug": "jean-kwok",
+      "name": "Jean Kwok",
+      "nameJa": "ジーン・クォック",
+      "country": "アメリカ",
+      "bioJa": "アメリカの小説家。香港出身の移民としてニューヨークで育ち、子どもの頃から洋裁工場で働いた経験を反映したデビュー作『Girl in Translation』で国際的に注目された。英語と中国語のはざまで生きる移民の少女を描き、教育と貧困をめぐる社会派の作品で知られる。",
+      "books": [
+        "girl-in-translation"
+      ]
+    },
+    {
+      "slug": "jean-rhys",
+      "name": "Jean Rhys",
+      "nameJa": "ジーン・リース",
+      "country": "イギリス",
+      "bioJa": "ドミニカ島出身のイギリス系作家。『ジェーン・エア』の狂女バーサの物語を語り直した『広いサルガソ海』で再評価され、W・H・スミス賞を受賞。白人クレオール女性の疎外と抑圧を独自の文体で描き、ポストコロニアル文学の先駆とされる。",
+      "books": [
+        "wide-sargasso-sea"
+      ]
+    },
+    {
+      "slug": "james-gleick",
+      "name": "James Gleick",
+      "nameJa": "ジェイムズ・グリーク",
+      "country": "アメリカ",
+      "bioJa": "アメリカの科学ジャーナリスト。複雑系の基礎を大衆化した『カオス』や、リチャード・ファインマンの評伝『天才』などのベストセラーで知られる。ニュートンや情報理論をめぐる著作でも、科学史を人間の営みとして鮮やかに描き出した。",
+      "books": [
+        "the-order-of-genius",
+        "the-chaos"
+      ]
+    },
+    {
+      "slug": "james-fenimore-cooper",
+      "name": "James Fenimore Cooper",
+      "nameJa": "ジェイムズ・フェニモア・クーパー",
+      "country": "アメリカ",
+      "bioJa": "アメリカの小説家。アメリカ文学の先駆者の一人で、西部開拓を描く『革脚物語』シリーズを執筆。代表作『モヒカン族の最後』はインディアンと植民地時代の戦いを描く冒険小説で、後の大衆文学に多大な影響を与えた。",
+      "books": [
+        "the-last-of-the-mohicans"
+      ]
+    },
+    {
+      "slug": "jane-austen",
+      "name": "Jane Austen",
+      "nameJa": "ジェイン・オースティン",
+      "country": "イギリス",
+      "bioJa": "イギリスの小説家。地方の中産階級の恋愛と結婚を鋭い機知とアイロニーで描き、『高慢と偏見』『分別と多感』『エマ』などの傑作を残した。形式の完成度の高さから、英語文学屈指の作家とされる。生前は無名に近かったが、今や世界で最も読まれる古典作家の一人。",
+      "books": [
+        "the-pride-and-prejudice",
+        "the-sense-and-sensibility",
+        "the-emma",
+        "the-northanger-abbey",
+        "the-persuasion"
+      ]
+    },
+    {
+      "slug": "jeffrey-eugenides",
+      "name": "Jeffrey Eugenides",
+      "nameJa": "ジェフリー・ユージェニデス",
+      "country": "アメリカ",
+      "bioJa": "アメリカの小説家。処女作『ヴァージン・スーサイズ』でデビューし、移行期をめぐる長編『ミドルセックス』でピュリッツァー賞を受賞。『結婚適齢期』では大学の恋愛を文学史に重ねて描く。家族と性、運命をめぐる大らかな語りで知られる。",
+      "books": [
+        "the-marriage-plot",
+        "the-virgin-suicides"
+      ]
+    },
+    {
+      "slug": "siddhartha-mukherjee",
+      "name": "Siddhartha Mukherjee",
+      "nameJa": "シッダールタ・ムカジー",
+      "country": "アメリカ",
+      "bioJa": "インド系アメリカ人の医師・科学者。腫瘍学者としてがん研究に携わる傍ら、『病の皇帝』『遺伝子』などの科学書で医学の歴史を一般読者に平易に伝える。『病の皇帝』はピュリッツァー賞（一般ノンフィクション部門）を受賞した。",
+      "books": [
+        "the-gene-an-intimate-history",
+        "the-emperor-of-all-maladies"
+      ]
+    },
+    {
+      "slug": "charlotte-perkins-gilman",
+      "name": "Charlotte Perkins Gilman",
+      "nameJa": "シャーロット・パーキンズ・ギルマン",
+      "country": "アメリカ",
+      "bioJa": "アメリカのフェミニスト作家・社会改革者。精神治療の誤診体験を題材にした『黄色い壁紙』で、女性の抑圧と精神の自由を描いた。ユートピア小説『ヘルランド』などでも知られ、フェミニズム文学の先駆者として評価されている。",
+      "books": [
+        "the-yellow-wallpaper"
+      ]
+    },
+    {
+      "slug": "charlotte-bront",
+      "name": "Charlotte Brontë",
+      "nameJa": "シャーロット・ブロンテ",
+      "country": "イギリス",
+      "bioJa": "イギリスの小説家。男性名で発表した『ジェーン・エア』は、孤児の女性主人公の内面と自立を描き、当時の読者に衝撃を与えた。妹のエミリ、アンとともにブロンテ姉妹として知られ、『ヴィレット』などにも鋭い心理描写と宗教的葛藤を刻んだ。",
+      "books": [
+        "the-jane-eyre",
+        "the-villette"
+      ]
+    },
+    {
+      "slug": "charlotte-mcconaghy",
+      "name": "Charlotte McConaghy",
+      "nameJa": "シャーロット・マコナギー",
+      "country": "オーストラリア",
+      "bioJa": "オーストラリアの小説家。絶滅の危機にある渡り鳥の旅を追う作家とそのルーツを描いた『The Last Migration』で国際的に知られ、気候変動と喪失をめぐる文学の新しい旗手とされる。自然と人間の関係を抒情豊かに描く。",
+      "books": [
+        "the-last-migration"
+      ]
+    },
+    {
+      "slug": "jack-kerouac",
+      "name": "Jack Kerouac",
+      "nameJa": "ジャック・ケルアック",
+      "country": "アメリカ",
+      "bioJa": "アメリカの作家。「ビート・ジェネレーション」の旗手として、路上の旅を自動筆記的な文体で描いた『オン・ザ・ロード』で1950年代の若者文化に大きな影響を与えた。自ら「スポンテニアス・プローズ」と称した即興的な文体で知られる。",
+      "books": [
+        "on-the-road"
+      ]
+    },
+    {
+      "slug": "jacques-derrida",
+      "name": "Jacques Derrida",
+      "nameJa": "ジャック・デリダ",
+      "country": "フランス",
+      "bioJa": "フランスの哲学者。西洋形而上学の中心的概念を揺るがす「脱構築」の理論を提唱し、『グラマトロジーについて』で文字論を展開した。言語学・文学・文化研究に跨がる影響を与え、ポスト構造主義を代表する思想家の一人とされる。",
+      "books": [
+        "of-grammatology"
+      ]
+    },
+    {
+      "slug": "jacques-lacan",
+      "name": "Jacques Lacan",
+      "nameJa": "ジャック・ラカン",
+      "country": "フランス",
+      "bioJa": "フランスの精神分析家。フロイトの理論を構造主義の枠組みで読み直し、「鏡像段階」などの概念を提示した。『エクリ』に収められた諸論文は、精神分析学を文学・哲学・映画理論へと接続する思想運動の源泉となった。",
+      "books": [
+        "the-mirror-stage"
+      ]
+    },
+    {
+      "slug": "jack-london",
+      "name": "Jack London",
+      "nameJa": "ジャック・ロンドン",
+      "country": "アメリカ",
+      "bioJa": "アメリカの作家。北極圏の犬や狼の視点で描く『野性の呼び声』『白い牙』、海洋小説『海の狼』などで、自然主義的な冒険文学を確立した。労働者階級出身で社会主義者としても活動し、階級闘争を描く作品も残した。",
+      "books": [
+        "the-call-of-the-wild",
+        "the-sea-wolf",
+        "the-white-fang"
+      ]
+    },
+    {
+      "slug": "jared-diamond",
+      "name": "Jared Diamond",
+      "nameJa": "ジャレド・ダイアモンド",
+      "country": "アメリカ",
+      "bioJa": "アメリカの地理学者・進化生物学者。地理と環境の差異が文明の発展をどう規定したかを論じた『銃・病原菌・鉄』でピュリッツァー賞を受賞した。カリフォルニア大学ロサンゼルス校教授として生態学と人類史を横断する著作活動で知られる。",
+      "books": [
+        "guns-germs-and-steel"
+      ]
+    },
+    {
+      "slug": "jean-baudrillard",
+      "name": "Jean Baudrillard",
+      "nameJa": "ジャン・ボードリヤール",
+      "country": "フランス",
+      "bioJa": "フランスの社会学者・哲学者。現代社会を実在が失われた「シミュラークル」の時代として捉え、『シミュラークルとシミュレーション』で表象と虚構の理論を提示した。ポストモダニズム思想の中心人物として国際的な影響を与えた。",
+      "books": [
+        "simulacra-and-simulation"
+      ]
+    },
+    {
+      "slug": "jean-franois-lyotard",
+      "name": "Jean-François Lyotard",
+      "nameJa": "ジャン＝フランソワ・リオタール",
+      "country": "フランス",
+      "bioJa": "フランスの哲学者。ポストモダン社会を「大きな物語」の終焉として診断した『ポストモダンの条件』で知られ、知識と科学の正当性の変化を論じた。ポスト構造主義哲学の展開に多大な影響を与えた思想家の一人。",
+      "books": [
+        "the-postmodern-condition"
+      ]
+    },
+    {
+      "slug": "jules-verne",
+      "name": "Jules Verne",
+      "nameJa": "ジュール・ヴェルヌ",
+      "country": "フランス",
+      "bioJa": "フランスの小説家。「空想科学小説の父」と呼ばれ、『地底旅行』『海底二万里』など、当時の科学知識を基にした「驚異の旅」シリーズを多数執筆した。科学技術と冒険の融合により、近代SFの原型を確立した。",
+      "books": [
+        "the-journey-to-the-centre",
+        "the-twenty-thousand-leagues"
+      ]
+    },
+    {
+      "slug": "jhumpa-lahiri",
+      "name": "Jhumpa Lahiri",
+      "nameJa": "ジュンパ・ラヒリ",
+      "country": "インド/アメリカ",
+      "bioJa": "インド系アメリカ人の作家。移民とアイデンティティ、故郷と家族をめぐる喪失を淡々とした筆致で描く。短編集『The Interpreter of Maladies』でピュリッツァー賞を受賞し、『The Namesake』『The Lowland』などの長編で国際的に知られる。",
+      "books": [
+        "the-namesake",
+        "the-lowland",
+        "the-interpreter-of-maladies"
+      ]
+    },
+    {
+      "slug": "joe-haldeman",
+      "name": "Joe Haldeman",
+      "nameJa": "ジョー・ホールドマン",
+      "country": "アメリカ",
+      "bioJa": "アメリカのSF作家。ベトナム戦争従軍の経験を反映した『終わりなき戦い』（The Forever War）でヒューゴー賞とネビュラ賞を受賞した。戦争と記憶、時間をテーマに、ハードSFの手法で人間性を問い続けた。",
+      "books": [
+        "the-the-ugly-american"
+      ]
+    },
+    {
+      "slug": "george-eliot",
+      "name": "George Eliot",
+      "nameJa": "ジョージ・エリオット",
+      "country": "イギリス",
+      "bioJa": "イギリスの小説家。本名メアリー・アン・エヴァンズ。『ミドルマーチ』を頂点とする地方社会の群像劇で、人間の心理と道徳を深く描き出した。男性名を筆名に用いて当時の文壇で活動し、ヴィクトリア朝文学を代表する作家とされる。",
+      "books": [
+        "the-time-machine-matters"
+      ]
+    },
+    {
+      "slug": "george-orwell",
+      "name": "George Orwell",
+      "nameJa": "ジョージ・オーウェル",
+      "country": "イギリス",
+      "bioJa": "イギリスの小説家・評論家。エリック・アーサー・ブレアの筆名。全体主義を批判した『一九八四年』と『動物農場』で、政治と文学を結ぶ作家として世界に名高い。明晰な散文で「ビッグ・ブラザー」などの概念を定着させた。",
+      "books": [
+        "nineteen-eighty-four"
+      ]
+    },
+    {
+      "slug": "jordan-castro",
+      "name": "Jordan Castro",
+      "nameJa": "ジョーダン・カストロ",
+      "country": "アメリカ",
+      "bioJa": "アメリカの新鋭小説家。処女作『The Novelist』は、何気ない一日を送る小説家の姿を淡々と追いながら、退屈と自己欺瞞をユーモアを込めて描いた実験的な作品として注目された。ネット文化に生きる世代の通奏低音を掬い取る。",
+      "books": [
+        "the-novelist"
+      ]
+    },
+    {
+      "slug": "jos-eduardo-agualusa",
+      "name": "José Eduardo Agualusa",
+      "nameJa": "ジョゼ・エドゥアルド・アグアルーザ",
+      "country": "アンゴラ",
+      "bioJa": "アンゴラの作家。ポルトガル語で執筆し、内戦下のルアンダを舞台にした『A General Theory of Oblivion』でマン・ブッカー国際賞の最終候補となった。記憶と忘却、植民地の歴史を詩情豊かな筆致で描く、アフリカ文学の国際的代表作家。",
+      "books": [
+        "a-general-theory-of-oblivion"
+      ]
+    },
+    {
+      "slug": "jos-saramago",
+      "name": "José Saramago",
+      "nameJa": "ジョゼ・サラマーゴ",
+      "country": "ポルトガル",
+      "bioJa": "ポルトガルの小説家。1998年ノーベル文学賞を受賞。視力が失われていく疫病を描く『白い闇』（Blindness）など、寓話的で陰影の濃い作品で人間の道徳を問い続けた。句読点を最小限にした独自の文体でも知られる。",
+      "books": [
+        "blindness",
+        "death-with-interruptions"
+      ]
+    },
+    {
+      "slug": "joseph-campbell",
+      "name": "Joseph Campbell",
+      "nameJa": "ジョゼフ・キャンベル",
+      "country": "アメリカ",
+      "bioJa": "アメリカの神話学者・比較宗教学者。世界中の神話に共通する英雄の旅路を体系化した『千の顔をもつ英雄』で知られ、映画『スター・ウォーズ』などにも影響を与えた。テレビ対談『The Power of Myth』で神話研究を一般に普及させた。",
+      "books": [
+        "the-power-of-myth",
+        "the-hero-with-a-thousand-faces"
+      ]
+    },
+    {
+      "slug": "joseph-conrad",
+      "name": "Joseph Conrad",
+      "nameJa": "ジョゼフ・コンラッド",
+      "country": "イギリス",
+      "bioJa": "ポーランド出身のイギリス小説家。植民地主義の闇を描いた『闇の奥』（Heart of Darkness）は、後世の作家・映画に多大な影響を与えた。船員としての経験を背景にした海洋小説でも知られ、心理的深みを備えた近代文学の巨匠とされる。",
+      "books": [
+        "the-heart-of-darkness"
+      ]
+    },
+    {
+      "slug": "jonathan-haidt",
+      "name": "Jonathan Haidt",
+      "nameJa": "ジョナサン・ハイト",
+      "country": "アメリカ",
+      "bioJa": "アメリカの社会心理学者。ニューヨーク大学スターン・ビジネススクール教授。道徳の基盤を感情と直観に求める『The Righteous Mind』や、大学での言論の自由を論じた著作で、政治と道徳心理学をめぐる論争をリードしている。",
+      "books": [
+        "the-four-tendencies",
+        "the-righteous-mind"
+      ]
+    },
+    {
+      "slug": "giorgio-agamben",
+      "name": "Giorgio Agamben",
+      "nameJa": "ジョルジョ・アガンベン",
+      "country": "イタリア",
+      "bioJa": "イタリアの哲学者・思想家。主権と「剥き出しの生」の関係を論じた『ホモ・サケル』で、政治哲学と生命政治の議論を刷新した。ホロコーストや強制収容所を題材に近代権力の構造を批判する著作群で、国際的な影響力を持つ。",
+      "books": [
+        "homo-sacer"
+      ]
+    },
+    {
+      "slug": "john-wyndham",
+      "name": "John Wyndham",
+      "nameJa": "ジョン・ウィンダム",
+      "country": "イギリス",
+      "bioJa": "イギリスのSF作家。『盗まれた街』（The Day of the Triffids）や『ミッドウィッチのカッコウ』など、穏やかな日常が崩壊する「優しい黙示録」とも呼ばれる作品群で知られる。戦後のイギリスSF黄金期を代表する作家。",
+      "books": [
+        "the-the-day-of-the-trifids",
+        "the-the-midwich-cuckoos",
+        "the-the-shape-of-things"
+      ]
+    },
+    {
+      "slug": "jon-krakauer",
+      "name": "Jon Krakauer",
+      "nameJa": "ジョン・クラカワー",
+      "country": "アメリカ",
+      "bioJa": "アメリカのジャーナリスト・作家。アラスカで命を落とした青年を追った『荒野へ』（Into the Wild）で国際的な名声を得た。『空へ』（Into Thin Air）など登山をめぐるノンフィクションでも、徹底した取材力と明晰な筆致で知られる。",
+      "books": [
+        "into-the-wild"
+      ]
+    },
+    {
+      "slug": "john-steinbeck",
+      "name": "John Steinbeck",
+      "nameJa": "ジョン・スタインベック",
+      "country": "アメリカ",
+      "bioJa": "アメリカの作家。大恐慌時代のカリフォルニアを舞台にした『怒りの葡萄』でピュリッツァー賞を受賞し、1962年にノーベル文学賞を受賞した。労働者や貧しい人々の尊厳を温かい眼差しで描き、アメリカ文学の国民的作家となった。",
+      "books": [
+        "the-grapes-of-wrath"
+      ]
+    },
+    {
+      "slug": "john-banville",
+      "name": "John Banville",
+      "nameJa": "ジョン・バンヴィル",
+      "country": "アイルランド",
+      "bioJa": "アイルランドの小説家。言語と記憶をめぐる精緻な作品群で知られ、『The Sea』でブッカー賞を受賞。ベンジャミン・ブラック名義で犯罪小説も執筆するなど、文体を自在に操る国際的な評価の高い作家。",
+      "books": [
+        "the-sea"
+      ]
+    },
+    {
+      "slug": "john-rawls",
+      "name": "John Rawls",
+      "nameJa": "ジョン・ロールズ",
+      "country": "アメリカ",
+      "bioJa": "アメリカの政治哲学者。ハーバード大学教授として、公正な社会の原理を構想した『正義論』（A Theory of Justice）を1971年に発表。無知のヴェールや格差原理などの概念で、20世紀の政治哲学の方向を大きく変えた。",
+      "books": [
+        "a-theory-of-justice"
+      ]
+    },
+    {
+      "slug": "gilles-deleuze",
+      "name": "Gilles Deleuze",
+      "nameJa": "ジル・ドゥルーズ",
+      "country": "フランス",
+      "bioJa": "フランスの哲学者。『差異と反復』で同一性に抗う哲学を構築し、フェリックス・ガタリとの共著『千のプラトー』では脱領土化やリゾームの概念を提示した。映画や文学にまで及ぶ影響力で、ポスト構造主義を代表する思想家。",
+      "books": [
+        "difference-and-repetition",
+        "thousand-plateaus"
+      ]
+    },
+    {
+      "slug": "sylvia-plath",
+      "name": "Sylvia Plath",
+      "nameJa": "シルヴィア・プラス",
+      "country": "アメリカ",
+      "bioJa": "アメリカの詩人・作家。自伝的な要素を持つ小説『ベル・ジャー』と、過激なまでの自己開示で知られる詩群により、コンフェッショナル詩の旗手となった。『詩集』は没後にピュリッツァー賞を受賞し、現代詩の古典とされる。",
+      "books": [
+        "the-bell-jar",
+        "the-collected-poems-of-sylvia-plath"
+      ]
+    },
+    {
+      "slug": "shin-kyung-sook",
+      "name": "Shin Kyung-sook",
+      "nameJa": "シン・ギョンスク",
+      "country": "韓国",
+      "bioJa": "韓国の小説家。都会で暮らす娘が、迷子になった母を探す物語『かあさんを待ちながら』（Please Look After Mom）で、2011年に韓国人として初めてマン・アジア文学賞を受賞。家族と記憶をめぐる静かな筆致で国際的に知られる。",
+      "books": [
+        "please-look-after-mom"
+      ]
+    },
+    {
+      "slug": "susanna-clarke",
+      "name": "Susanna Clarke",
+      "nameJa": "スザンナ・クラーク",
+      "country": "イギリス",
+      "bioJa": "イギリスのファンタジー作家。処女作『ジョナサン・ストレンジとノレル氏』はナポレオン戦争期のイギリスを舞台にした歴史ファンタジーで、広く読まれた。『ピラネージ』でウイメンズ・プライズ・フォー・フィクションを受賞した。",
+      "books": [
+        "piranesi"
+      ]
+    },
+    {
+      "slug": "stanisaw-lem",
+      "name": "Stanisław Lem",
+      "nameJa": "スタニスワフ・レム",
+      "country": "ポーランド",
+      "bioJa": "ポーランドのSF作家。人間と宇宙の異質な接触を描く『ソラリス』は国際的に評価され、映画化もされた。知性とテクノロジーの本質を哲学的に問う作風で、20世紀を代表するSF作家として知られる。",
+      "books": [
+        "solaris"
+      ]
+    },
+    {
+      "slug": "stendhal",
+      "name": "Stendhal",
+      "nameJa": "スタンダール",
+      "country": "フランス",
+      "bioJa": "フランスの作家。本名マリー＝アンリ・ベール。欲望と野心の心理を克明に描いた『赤と黒』で知られ、リアリズム小説の先駆者とされる。『パルムの僧院』などの作品で、情熱とエネルギーをめぐる独自の人間観を展開した。",
+      "books": [
+        "the-stendhal-red-and-black"
+      ]
+    },
+    {
+      "slug": "stephen-crane",
+      "name": "Stephen Crane",
+      "nameJa": "スティーヴン・クレイン",
+      "country": "アメリカ",
+      "bioJa": "スティーヴン・クレイン（1871-1900）。南北戦争を舞台にした『赤い勇敢章』で知られるアメリカの作家。戦争の心理と肉体の感覚を鋭く描く自然主義文学の先駆者で、短編や自由詩にも優れた作品を残した。若くして病没した。",
+      "books": [
+        "the-red-badge-of-courage"
+      ]
+    },
+    {
+      "slug": "stephen-baxter",
+      "name": "Stephen Baxter",
+      "nameJa": "スティーヴン・バクスター",
+      "country": "イギリス",
+      "bioJa": "スティーヴン・バクスター。科学的厳密性を重視するイギリスのハードSF作家。H・G・ウェルズの続編『タイム・シップ』やアーサー・C・クラークとの共作で知られ、時間旅行や宇宙進出を壮大なスケールで描く。科学概念を物語化する手腕に定評がある。",
+      "books": [
+        "the-the-light-of-other-days"
+      ]
+    },
+    {
+      "slug": "steven-pinker",
+      "name": "Steven Pinker",
+      "nameJa": "スティーヴン・ピンカー",
+      "country": "アメリカ",
+      "bioJa": "スティーヴン・ピンカー。ハーバード大学の心理学者。言語獲得と進化心理学の研究で知られ、『言語を生み出す本能』『暴力の人類史』などで科学の知見を一般読者に広く伝えた。啓蒙思想を擁護する『21世紀の啓蒙』は大きな議論を呼んだ。",
+      "books": [
+        "the-happiness-of-peoples",
+        "the-enlightenment-now"
+      ]
+    },
+    {
+      "slug": "slavoj-iek",
+      "name": "Slavoj Žižek",
+      "nameJa": "スラヴォイ・ジジェク",
+      "country": "スロベニア",
+      "bioJa": "スラヴォイ・ジジェク。スロベニア出身の哲学者・思想家。ラカン的精神分析とマルクス主義を組み合わせた批判理論で知られ、大衆文化とイデオロギーを鋭く論じる。『厄介な主体』など多数の著作を持ち、世界的に著名な公共知識人として活躍する。",
+      "books": [
+        "the-ticklish-subject"
+      ]
+    },
+    {
+      "slug": "sren-kierkegaard",
+      "name": "Søren Kierkegaard",
+      "nameJa": "セーレン・キェルケゴール",
+      "country": "デンマーク",
+      "bioJa": "セーレン・キェルケゴール。デンマークの哲学者・宗教思想家。実存主義の先駆者とされ、『あれかこれか』『おそれとおののき』など多数の偽名著作で信仰と不安、実存の選択を主題にした。主観的真理と個の在り方を問う思索は後世の哲学に大きな影響を与えた。",
+      "books": [
+        "either-or",
+        "fear-and-trembling",
+        "the-concept-of-anxiety",
+        "the-concept-of-irony"
+      ]
+    },
+    {
+      "slug": "dava-sobel",
+      "name": "Dava Sobel",
+      "nameJa": "ダヴァ・ソーベル",
+      "country": "アメリカ",
+      "bioJa": "ダヴァ・ソーベル。科学史を平易に語るアメリカのサイエンスライター。航海術と経度測定の歴史を描いた『ロンジチュード』で知られる。『ガラスの宇宙』では、恒星写真の解析に貢献したハーバード天文台の女性たちの功績を丹念に描いた。",
+      "books": [
+        "the-glass-universe"
+      ]
+    },
+    {
+      "slug": "douglas-stuart",
+      "name": "Douglas Stuart",
+      "nameJa": "ダグラス・スチュアート",
+      "country": "イギリス",
+      "bioJa": "ダグラス・スチュアート。スコットランド・グラスゴー出身の小説家。自伝的要素の強いデビュー作『シャギー・ベイン』で2020年ブッカー賞を受賞。アルコール依存の母と少年シャギーの生活をリアリズムと抒情で描き、国際的な注目を集めた。",
+      "books": [
+        "shuggie-bain"
+      ]
+    },
+    {
+      "slug": "daniel-gilbert",
+      "name": "Daniel Gilbert",
+      "nameJa": "ダニエル・ギルバート",
+      "country": "アメリカ",
+      "bioJa": "ダニエル・ギルバート。ハーバード大学の社会心理学者。「感情予測」の研究で知られ、人が幸福の未来をどのように誤って予測するかを実証的な手法で示した。著書で心理科学の知見を分かりやすく伝え、広く一般読者に読まれた。",
+      "books": [
+        "stumbling-on-happiness"
+      ]
+    },
+    {
+      "slug": "tara-westover",
+      "name": "Tara Westover",
+      "nameJa": "タラ・ウェストオーバー",
+      "country": "アメリカ",
+      "bioJa": "タラ・ウェストオーバー。アメリカの作家。学校に一度も通わずに育った家庭から独学で大学に進学し、ケンブリッジ大学で博士号を得た。自伝『エデュケイテッド』は教育と自己解放の物語として世界的なベストセラーとなった。",
+      "books": [
+        "educated"
+      ]
+    },
+    {
+      "slug": "chimamanda-ngozi-adichie",
+      "name": "Chimamanda Ngozi Adichie",
+      "nameJa": "チママンダ・ンゴズィ・アディーチェ",
+      "country": "ナイジェリア",
+      "bioJa": "チママンダ・ンゴズィ・アディーチェ。ナイジェリアの小説家。ビアフラ戦争を描いた『半分の太陽』でオレンジ賞を受賞。『アメリカナ』や論考『わたしたちはみんなフェミニストでなければならない』などで、ジェンダーと移民を主題に国際的に活躍する。",
+      "books": [
+        "we-should-all-be-feminists",
+        "half-of-a-yellow-sun",
+        "americanah",
+        "the-thing-around-your-neck"
+      ]
+    },
+    {
+      "slug": "charles-c-mann",
+      "name": "Charles C. Mann",
+      "nameJa": "チャールズ・C・マン",
+      "country": "アメリカ",
+      "bioJa": "チャールズ・C・マン。アメリカのサイエンス・ジャーナリスト。コロンブスの到来前後の南北アメリカ大陸を描いた『1491』と『1493』で新大陸の歴史認識を刷新した。先住民社会と環境史をめぐる長編ノンフィクションで知られる。",
+      "books": [
+        "the-battle-of-the-labyrinth"
+      ]
+    },
+    {
+      "slug": "charles-duhigg",
+      "name": "Charles Duhigg",
+      "nameJa": "チャールズ・デュヒッグ",
+      "country": "アメリカ",
+      "bioJa": "チャールズ・デュヒッグ。ニューヨーク・タイムズ記者出身のアメリカのノンフィクション作家。『習慣の力』で習慣の科学的メカニズムを取材と実例で解き明かし、世界的なベストセラーとした。意思決定や組織の生産性を扱う著書でも知られる。",
+      "books": [
+        "the-power-of-habit"
+      ]
+    },
+    {
+      "slug": "china-miville",
+      "name": "China Miéville",
+      "nameJa": "チャイナ・ミエヴィル",
+      "country": "イギリス",
+      "bioJa": "チャイナ・ミエヴィル。イギリスの小説家。特異な世界観と社会批判を融合させた「ニュー・ウィアード」の旗手とされる。並行して存在する二つの都市を描いた『都市と都市』でアーサー・C・クラーク賞を受賞した。政治思想の著作もある。",
+      "books": [
+        "the-city-and-the-city"
+      ]
+    },
+    {
+      "slug": "cho-nam-joo",
+      "name": "Cho Nam-joo",
+      "nameJa": "チョ・ナムジュ",
+      "country": "韓国",
+      "bioJa": "チョ・ナムジュ。韓国の作家。『82年生まれ、キム・ジヨン』で韓国社会における女性の生きづらさを普遍的な物語として描き、国内外で大きな反響を呼んだ。同作はフェミニズム文学のベストセラーとなり、社会現象ともなった。",
+      "books": [
+        "kim-jiyoung-born-1982"
+      ]
+    },
+    {
+      "slug": "jung-chang",
+      "name": "Jung Chang",
+      "nameJa": "チョン・チャン",
+      "country": "中国/イギリス",
+      "bioJa": "チョン・チャン。中国出身の作家・歴史家。中国共産党幹部の家庭に生まれ、文化大革命を経てイギリスに渡った。母と祖母、自分自身の三代を描いた『野生の白鳥』は、中国現代史の証言として世界的なベストセラーとなった。",
+      "books": [
+        "the-sheep-and-the-rain"
+      ]
+    },
+    {
+      "slug": "damon-galgut",
+      "name": "Damon Galgut",
+      "nameJa": "デイモン・ガルグート",
+      "country": "南アフリカ",
+      "bioJa": "デイモン・ガルグート。南アフリカの小説家。孤独と不安を主題に南ア社会の複雑さを描き続け、長編『約束の地』で2021年ブッカー賞を受賞。簡潔で研ぎ澄まされた文体により、アパルトヘイト後の時代を担う作家とされる。",
+      "books": [
+        "the-pledge"
+      ]
+    },
+    {
+      "slug": "teju-cole",
+      "name": "Teju Cole",
+      "nameJa": "テジュ・コール",
+      "country": "アメリカ",
+      "bioJa": "テジュ・コール。ナイジェリア系アメリカ人の作家・写真家。デビュー長編『オープン・シティ』でニューヨークを歩く精神科医の意識の流れを描き、国際的に高い評価を得た。写真と言葉の往還を探るエッセイでも知られる。",
+      "books": [
+        "open-city"
+      ]
+    },
+    {
+      "slug": "donella-meadows",
+      "name": "Donella Meadows",
+      "nameJa": "ドネラ・メドウズ",
+      "country": "アメリカ",
+      "bioJa": "ドネラ・メドウズ。アメリカの環境科学者。ローマ・クラブ報告書『成長の限界』の主著者として地球規模の資源問題を世界に知らしめた。システム思考を社会変革に応用する教育者・提言者としても活動し、持続可能性の議論に大きな影響を与えた。",
+      "books": [
+        "the-fluent-body"
+      ]
+    },
+    {
+      "slug": "thomas-s-kuhn",
+      "name": "Thomas S. Kuhn",
+      "nameJa": "トマス・クーン",
+      "country": "アメリカ",
+      "bioJa": "トマス・S・クーン。アメリカの科学史家・科学哲学者。『科学革命の構造』で「パラダイム」と「パラダイム転換」の概念を提唱し、科学の進歩観に根本的な問いを投げかけた。科学史・科学哲学の領域を超えて広範な分野に影響を与えた。",
+      "books": [
+        "the-structure-of-scientific-revolutions"
+      ]
+    },
+    {
+      "slug": "thomas-hardy",
+      "name": "Thomas Hardy",
+      "nameJa": "トマス・ハーディ",
+      "country": "イギリス",
+      "bioJa": "トマス・ハーディ。イギリスの小説家・詩人。故郷ウェセックスを舞台に、運命に翻弄される人間を描く。『ダーバヴィル家のテス』『遥か群衆を離れて』などで自然主義的リアリズムと宿命観を展開し、後年は詩作に専念した。",
+      "books": [
+        "the-tess-of-the-durbervilles",
+        "the-far-from-the-madding-crowd"
+      ]
+    },
+    {
+      "slug": "thomas-pynchon",
+      "name": "Thomas Pynchon",
+      "nameJa": "トマス・ピンチョン",
+      "country": "アメリカ",
+      "bioJa": "トマス・ピンチョン。アメリカの小説家。極端な私生活により「謎の作家」とされる。百科全書的な知識と暗号めいた構想で『V.』『重力の虹』『競売ナンバー49の叫び』などポストモダン文学の代表作を生み出した。",
+      "books": [
+        "the-the-crying-of-lot-49"
+      ]
+    },
+    {
+      "slug": "tom-wolfe",
+      "name": "Tom Wolfe",
+      "nameJa": "トム・ウルフ",
+      "country": "アメリカ",
+      "bioJa": "トム・ウルフ。アメリカのジャーナリスト・小説家。「ニュー・ジャーナリズム」を代表し、文学的技法を駆使したルポルタージュで時代を描いた。NASAのテストパイロットたちを描いた『ザ・ライト・スタッフ』や小説『虚栄の火』でも知られる。",
+      "books": [
+        "the-right-stuff"
+      ]
+    },
+    {
+      "slug": "doris-lessing",
+      "name": "Doris Lessing",
+      "nameJa": "ドリス・レッシング",
+      "country": "イギリス",
+      "bioJa": "ドリス・レッシング。ローデシア（現ジンバブエ）生まれのイギリスの作家。フェミニズム文学の古典とされる『黄金のノートブック』やアフリカを舞台にした作品で、女性の自立と政治意識を描いた。2007年にノーベル文学賞を受賞した。",
+      "books": [
+        "the-golden-notebook"
+      ]
+    },
+    {
+      "slug": "tracy-kidder",
+      "name": "Tracy Kidder",
+      "nameJa": "トレイシー・キダー",
+      "country": "アメリカ",
+      "bioJa": "トレイシー・キダー。アメリカのノンフィクション作家。マイクロコンピュータ開発の現場を追った『ソウル・オブ・ア・ニュー・マシン』でピューリッツァー賞を受賞。長時間の取材に基づく臨場感あふれるドキュメンタリー手法の第一人者。",
+      "books": [
+        "the-soul-of-a-new-machine"
+      ]
+    },
+    {
+      "slug": "naguib-mahfouz",
+      "name": "Naguib Mahfouz",
+      "nameJa": "ナギーブ・マフフーズ",
+      "country": "エジプト",
+      "bioJa": "ナギーブ・マフフーズ。エジプトの小説家。『カーンの三都物語』三部作や『街の子どもら』でカイロの社会と人間を描き、アラブ文学を世界に知らしめた。1988年にアラブ世界で初めてノーベル文学賞を受賞した。",
+      "books": [
+        "children-of-the-alley"
+      ]
+    },
+    {
+      "slug": "nathaniel-hawthorne",
+      "name": "Nathaniel Hawthorne",
+      "nameJa": "ナサニエル・ホーソーン",
+      "country": "アメリカ",
+      "bioJa": "ナサニエル・ホーソーン。アメリカの小説家。清教徒社会の罪と良心を象徴的に描いた『緋文字』で知られる。『七破風の家』などで暗いロマン主義の境地を切り開き、アメリカ文学の古典を確立した。",
+      "books": [
+        "the-scarlet-letter",
+        "the-house-of-the-seven-gables"
+      ]
+    },
+    {
+      "slug": "nadine-gordimer",
+      "name": "Nadine Gordimer",
+      "nameJa": "ナディン・ゴーディマー",
+      "country": "南アフリカ",
+      "bioJa": "ナディン・ゴーディマー。南アフリカの小説家。アパルトヘイト下の白人と黒人の関係を鋭い心理描写と精緻な文体で描き続けた。『ジュライの民』などで抵抗の文学を築き、1991年にノーベル文学賞を受賞した。",
+      "books": [
+        "julys-people"
+      ]
+    },
+    {
+      "slug": "niall-ferguson",
+      "name": "Niall Ferguson",
+      "nameJa": "ニーアル・ファーガソン",
+      "country": "イギリス",
+      "bioJa": "ニーアル・ファーガソン。イギリスの歴史家。帝国、金融、戦争を経済史的視点から大胆に論じ、『文明』『マネーの進化史』などで国際的に注目された。論争を呼ぶ歴史観で知られる評論家でもある。",
+      "books": [
+        "the-gods-of-money",
+        "the-civilization"
+      ]
+    },
+    {
+      "slug": "neil-gaiman",
+      "name": "Neil Gaiman",
+      "nameJa": "ニール・ゲイマン",
+      "country": "イギリス",
+      "bioJa": "ニール・ゲイマン。イギリスの小説家・漫画家。コミック『サンドマン』で文学的地位を確立し、『アメリカン・ゴッズ』『コラライン』などで神話と現代を融合させた物語世界を築いた。ヒューゴー賞・ネビュラ賞・ニューベリー賞などを多数受賞。",
+      "books": [
+        "american-gods",
+        "the-sandman",
+        "the-the-norse-mythology"
+      ]
+    },
+    {
+      "slug": "niccol-machiavelli",
+      "name": "Niccolò Machiavelli",
+      "nameJa": "ニッコロ・マキャヴェッリ",
+      "country": "イタリア",
+      "bioJa": "ニッコロ・マキャヴェッリ。イタリア・ルネサンス期の政治思想家。フィレンツェ共和国の政治的経験を踏まえ、君主の現実的な権力術を論じた『君主論』で知られる。理想から切り離した現実政治の分析は「マキャヴェリズム」の語源となった。",
+      "books": [
+        "the-prince"
+      ]
+    },
+    {
+      "slug": "nevil-shute",
+      "name": "Nevil Shute",
+      "nameJa": "ネヴィル・シュート",
+      "country": "イギリス/オーストラリア",
+      "bioJa": "ネヴィル・シュート。イギリス生まれの小説家・航空技術者。技術者としての専門知識を生かし、核戦争後の世界を描いた『渚にて』が世界的な反響を呼んだ。平易で誠実な筆致で人間性と技術の関係を問いかけた。",
+      "books": [
+        "the-thermo-nuclear-war"
+      ]
+    },
+    {
+      "slug": "barbara-kingsolver",
+      "name": "Barbara Kingsolver",
+      "nameJa": "バーバラ・キングソルヴァー",
+      "country": "アメリカ",
+      "bioJa": "バーバラ・キングソルヴァー。アメリカの小説家。環境問題と家族を結びつけた『ポイズンウッド・バイブル』で知られ、アパラチア地方を舞台にした『デモン・コッパーヘッド』で2023年ピューリッツァー賞を受賞した。社会と自然を誠実に描く作家。",
+      "books": [
+        "demon-copperhead"
+      ]
+    },
+    {
+      "slug": "barbara-demick",
+      "name": "Barbara Demick",
+      "nameJa": "バーバラ・デミック",
+      "country": "アメリカ",
+      "bioJa": "バーバラ・デミック。アメリカのジャーナリスト。ロサンゼルス・タイムズ紙で北朝鮮を長期取材し、『Nothing to Envy』で一般市民の視線から北朝鮮社会の日常を描いた。同作は全米図書賞の最終候補に選ばれた。",
+      "books": [
+        "nothing-to-envy"
+      ]
+    },
+    {
+      "slug": "herman-melville",
+      "name": "Herman Melville",
+      "nameJa": "ハーマン・メルヴィル",
+      "country": "アメリカ",
+      "bioJa": "ハーマン・メルヴィル。アメリカの小説家。捕鯨船を舞台にした『白鯨』は、海洋冒険を超えて人間の運命と悪を問うアメリカ文学の金字塔となった。生前は不遇だったが20世紀に再評価され、遺稿『ビリー・バッド』でも知られる。",
+      "books": [
+        "the-moby-dick",
+        "the-billy-budd"
+      ]
+    },
+    {
+      "slug": "baruch-spinoza",
+      "name": "Baruch Spinoza",
+      "nameJa": "バールーフ・デ・スピノザ",
+      "country": "オランダ",
+      "bioJa": "バールーフ・デ・スピノザ。オランダの哲学者。ユダヤ共同体から異端として破門された後、研鑽を積み『エチカ』を著した。神と自然を同一視する汎神論的な思想で近世合理主義哲学を完成させ、スピノザ主義は後世に多大な影響を与えた。",
+      "books": [
+        "the-ethics"
+      ]
+    },
+    {
+      "slug": "paul-tillich",
+      "name": "Paul Tillich",
+      "nameJa": "パウル・ティリッヒ",
+      "country": "ドイツ/アメリカ",
+      "bioJa": "パウル・ティリッヒ。ドイツ出身の神学者・哲学者。ナチス政権下でアメリカに亡命し、キリスト教と実存哲学・深層心理学を架橋した。『生きる勇気』で「存在の勇気」という概念を提示し、現代人の不安と信仰の関係を考察した。",
+      "books": [
+        "the-courage-to-be"
+      ]
+    },
+    {
+      "slug": "patrick-white",
+      "name": "Patrick White",
+      "nameJa": "パトリック・ホワイト",
+      "country": "オーストラリア",
+      "bioJa": "パトリック・ホワイト。オーストラリアの小説家。内面の深層とオーストラリアの厳しい自然を重ね合わせる独自の文体で現代小説を革新し、『ヴォス』などで知られる。オーストラリア人として初めて1973年にノーベル文学賞を受賞した。",
+      "books": [
+        "voss"
+      ]
+    },
+    {
+      "slug": "patrick-rothfuss",
+      "name": "Patrick Rothfuss",
+      "nameJa": "パトリック・ロスファス",
+      "country": "アメリカ",
+      "bioJa": "パトリック・ロスファス。アメリカのファンタジー作家。『風の名前』で始まるキングキラー・クロニクルは、才能ある青年の波乱万丈の人生を詩的な文体で描き、国際的なベストセラーとなった。シリーズの続刊を世界の読者が待ち望んでいる。",
+      "books": [
+        "the-name-of-the-wind",
+        "the-the-slow-regard"
+      ]
+    },
+    {
+      "slug": "hari-kunzru",
+      "name": "Hari Kunzru",
+      "nameJa": "ハリ・クンズルー",
+      "country": "インド/イギリス",
+      "bioJa": "ハリ・クンズルー。ロンドン生まれのイギリスの小説家。インド人の血を引く作家として、植民地主義とアイデンティティを主題に据える。デビュー長編『印象主義者』はサマセット・モーム賞を受賞し、社会風刺と実験的な文体で知られる。",
+      "books": [
+        "the-impressionist"
+      ]
+    },
+    {
+      "slug": "hans-georg-gadamer",
+      "name": "Hans-Georg Gadamer",
+      "nameJa": "ハンス＝ゲオルク・ガーダマー",
+      "country": "ドイツ",
+      "bioJa": "ハンス＝ゲオルク・ガーダマー。ドイツの哲学者。ハイデガーの影響を受けた解釈学的哲学を大成し、『真理と方法』で解釈の普遍性と「伝統」の意義を論じた。現代の人文・社会科学の方法論に決定的な影響を与えた。",
+      "books": [
+        "the-truth-and-method"
+      ]
+    },
+    {
+      "slug": "peter-l-berger",
+      "name": "Peter L. Berger",
+      "nameJa": "ピーター・バーガー",
+      "country": "アメリカ",
+      "bioJa": "オーストリア出身のアメリカの社会学者（1929-2017）。T・ルックマンとの共著『現実の社会的構成』（1966年）は知識社会学の古典として社会科学全体に大きな影響を与えた。宗教社会学や世俗化論の研究でも著名。",
+      "books": [
+        "the-origins-of-social"
+      ]
+    },
+    {
+      "slug": "pip-williams",
+      "name": "Pip Williams",
+      "nameJa": "ピップ・ウィリアムズ",
+      "country": "オーストラリア",
+      "bioJa": "オーストラリアの小説家。『失われた言葉の辞典』（The Dictionary of Lost Words、2020年）はオックスフォード英語辞典の編纂を題材に、記録からこぼれ落ちた女性たちの言葉を描いた代表作で、各国で高く評価された。",
+      "books": [
+        "the-lost-words"
+      ]
+    },
+    {
+      "slug": "hilary-mantel",
+      "name": "Hilary Mantel",
+      "nameJa": "ヒラリー・マンテル",
+      "country": "イギリス",
+      "bioJa": "イギリスの小説家（1952-2022）。トマス・クロムウェルを描く『ウルフ・ホール』三部作で知られ、ブッカー賞を史上初の女性として二度受賞した（2009年・2012年）。精緻な歴史考証と鋭い人物描写に定評がある。",
+      "books": [
+        "wolf-hall"
+      ]
+    },
+    {
+      "slug": "juan-gabriel-vsquez",
+      "name": "Juan Gabriel Vásquez",
+      "nameJa": "フアン・ガブリエル・バスケス",
+      "country": "コロンビア",
+      "bioJa": "コロンビアの小説家・翻訳家。1973年生まれ。暴力と記憶を主題とし、『物が落ちる音』（The Sound of Things Falling、2011年）で国際IMPACダブリン文学賞を受賞。歴史のトラウマを追う作風が特徴。",
+      "books": [
+        "outline-of-a-silent-man"
+      ]
+    },
+    {
+      "slug": "juan-rulfo",
+      "name": "Juan Rulfo",
+      "nameJa": "フアン・ルルフォ",
+      "country": "メキシコ",
+      "bioJa": "メキシコの小説家（1917-1986）。長編『ペドロ・パラモ』（1955年）と短編集『燃える平原』のわずか二作でラテンアメリカ文学の金字塔とみなされ、後の魔術的リアリズムに多大な影響を与えた。",
+      "books": [
+        "pedro-paramo"
+      ]
+    },
+    {
+      "slug": "philip-k-dick",
+      "name": "Philip K. Dick",
+      "nameJa": "フィリップ・K・ディック",
+      "country": "アメリカ",
+      "bioJa": "アメリカのSF作家（1928-1982）。『アンドロイドは電気羊の夢を見るか?』『高い城の男』『ユービック』『ヴァリス』などで現実の不安定性とアイデンティティを問い、後世のSF文学や映像作品に決定的な影響を与えた。",
+      "books": [
+        "do-androids-dream-of-electric-sheep",
+        "the-the-man-in-the-high-castle",
+        "the-the-valis",
+        "the-the-ubik"
+      ]
+    },
+    {
+      "slug": "ferdinand-de-saussure",
+      "name": "Ferdinand de Saussure",
+      "nameJa": "フェルディナン・ド・ソシュール",
+      "country": "フランス",
+      "bioJa": "スイスの言語学者（1857-1913）。一般言語学の創始者で、死後に弟子が編纂した講義録『一般言語学講義』は構造主義の基盤となった。ラングとパロール、シニフィアンとシニフィエの概念は人文科学全体に影響を与えた。",
+      "books": [
+        "the-order-of-the-signs"
+      ]
+    },
+    {
+      "slug": "fernanda-melchor",
+      "name": "Fernanda Melchor",
+      "nameJa": "フェルナンダ・メルチョール",
+      "country": "メキシコ",
+      "bioJa": "メキシコの小説家・ジャーナリスト。1982年生まれ。長編『ハリケーン・シーズン』（2017年）は農村部の殺人事件を群像劇で描き、国際ブッカー賞最終候補に選ばれた。暴力と欲望を凝縮する密度の高い文体で注目される。",
+      "books": [
+        "hurricane-season"
+      ]
+    },
+    {
+      "slug": "fyodor-dostoevsky",
+      "name": "Fyodor Dostoevsky",
+      "nameJa": "フョードル・ドストエフスキー",
+      "country": "ロシア",
+      "bioJa": "ロシアの小説家（1821-1881）。『罪と罰』『カラマーゾフの兄弟』『白痴』『地下室の手記』などで人間の心理の深層と信仰・悪の問題を追求し、20世紀の文学と思想に決定的な影響を与えた。",
+      "books": [
+        "notes-from-underground",
+        "crime-and-punishment",
+        "the-brothers-karamazov",
+        "the-notes-from-the-dead-house",
+        "the-idiot",
+        "the-possessed",
+        "the-gambler",
+        "the-white-nights"
+      ]
+    },
+    {
+      "slug": "frank-herbert",
+      "name": "Frank Herbert",
+      "nameJa": "フランク・ハーバート",
+      "country": "アメリカ",
+      "bioJa": "アメリカのSF作家（1920-1986）。『デューン』（1965年）は生態学・宗教・政治を融合させたSFの古典で、ヒューゴー賞とネビュラ賞を同時受賞。シリーズ化され、世界的な人気を確立した。",
+      "books": [
+        "dune"
+      ]
+    },
+    {
+      "slug": "franz-kafka",
+      "name": "Franz Kafka",
+      "nameJa": "フランツ・カフカ",
+      "country": "チェコ",
+      "bioJa": "プラハ生まれのドイツ語作家（1883-1924）。『変身』『審判』『城』などで不条理で疎外された現代人の運命を描き、「カフカ的」という言葉を生んだ。生前は無名だったが、死後その作品は20世紀文学最大の遺産の一つとなった。",
+      "books": [
+        "the-metamorphosis",
+        "the-trial",
+        "the-castle"
+      ]
+    },
+    {
+      "slug": "julio-cortzar",
+      "name": "Julio Cortázar",
+      "nameJa": "フリオ・コルタサル",
+      "country": "アルゼンチン",
+      "bioJa": "アルゼンチンの小説家（1914-1984）。『石蹴り遊び』（1963年）は章を自由に読める構成を提示した革新的作品で、ラテンアメリカ文学ブームを代表する。幻想と現実を交錯させる作風でボルヘスらと並び称される。",
+      "books": [
+        "hopscotch"
+      ]
+    },
+    {
+      "slug": "becky-chambers",
+      "name": "Becky Chambers",
+      "nameJa": "ベッキー・チェンバース",
+      "country": "アメリカ",
+      "bioJa": "アメリカのSF作家。1985年生まれ。2014年のデビュー作『長い孤独』で注目され、優しさと日常を描くソーラーパンク的な作風で知られる。宇宙船ウェイファーラーシリーズでヒューゴー賞シリーズ部門を受賞した。",
+      "books": [
+        "solarpunk"
+      ]
+    },
+    {
+      "slug": "bessel-van-der-kolk",
+      "name": "Bessel van der Kolk",
+      "nameJa": "ベッセル・ヴァン・デア・コーク",
+      "country": "アメリカ",
+      "bioJa": "オランダ系アメリカ人の精神科医・研究者。トラウマ研究の第一人者で、著書『身体は記憶する』（The Body Keeps the Score、2014年）はPTSDの身体的影響と治療を体系的に解説した世界的ベストセラーである。",
+      "books": [
+        "the-body-keeps-the-score"
+      ]
+    },
+    {
+      "slug": "hermann-hesse",
+      "name": "Hermann Hesse",
+      "nameJa": "ヘルマン・ヘッセ",
+      "country": "ドイツ",
+      "bioJa": "ドイツ・スイスの作家（1877-1962）。『シッダールタ』『デミアン』『荒野の狼』『ガラス玉遊戯』で東洋思想と自己探求を描き、1946年にノーベル文学賞を受賞。内面の葛藤と精神の自由を追う作風で知られる。",
+      "books": [
+        "steppenwolf",
+        "the-hesse-glass-bead",
+        "the-siddhartha",
+        "the-demian"
+      ]
+    },
+    {
+      "slug": "helen-dewitt",
+      "name": "Helen DeWitt",
+      "nameJa": "ヘレン・デウィット",
+      "country": "イギリス",
+      "bioJa": "アメリカ出身の小説家（1961年生まれ）。デビュー長編『ラスト・サムライ』（2000年）は言語・古典学・子育てを主題とした実験的な作品で、形式と知性を重んじる独自の作風により批評家から高く評価された。",
+      "books": [
+        "the-riddle-of-the-labyrinth"
+      ]
+    },
+    {
+      "slug": "ben-okri",
+      "name": "Ben Okri",
+      "nameJa": "ベン・オクリ",
+      "country": "ナイジェリア",
+      "bioJa": "ナイジェリアの詩人・小説家。1959年生まれ。『飢えた道』（The Famished Road、1991年）でブッカー賞を受賞し、アフリカの口承伝統と魔術的リアリズムを融合させた独特の語りで国際的な名声を得た。",
+      "books": [
+        "the-famished-road"
+      ]
+    },
+    {
+      "slug": "paul-auster",
+      "name": "Paul Auster",
+      "nameJa": "ポール・オースター",
+      "country": "アメリカ",
+      "bioJa": "アメリカの小説家（1947-2024）。『ニューヨーク三部作』などで偶然性とアイデンティティを主題とするメタフィクション的な物語を展開し、ポストモダン文学を代表する作家として世界の文学に影響を与えた。",
+      "books": [
+        "the-the-left-hand-of-cities"
+      ]
+    },
+    {
+      "slug": "paul-kalanithi",
+      "name": "Paul Kalanithi",
+      "nameJa": "ポール・カラニティ",
+      "country": "アメリカ",
+      "bioJa": "アメリカの脳神経外科医・作家（1977-2015）。肺がんの診断後、医師として自らの死と向き合った回想録『息がなくなるまで』（When Breath Becomes Air、2016年）は死後に刊行され、世界的なベストセラーとなった。",
+      "books": [
+        "when-breath-becomes-air"
+      ]
+    },
+    {
+      "slug": "paul-hawken",
+      "name": "Paul Hawken",
+      "nameJa": "ポール・ホーケン",
+      "country": "アメリカ",
+      "bioJa": "アメリカの環境活動家・実業家。『商業の生態学』（The Ecology of Commerce、1993年）は持続可能な経済の設計を提唱した名著で、環境運動とビジネスの関係を問い直し、広く影響を与えた。",
+      "books": [
+        "the-ecology-of-commerce"
+      ]
+    },
+    {
+      "slug": "paul-murray",
+      "name": "Paul Murray",
+      "nameJa": "ポール・マリー",
+      "country": "アイルランド",
+      "bioJa": "アイルランドの小説家。1975年生まれ。長編『ビー・スティング』（The Bee Sting、2023年）はブッカー賞最終候補入りし、喜劇と悲劇が交錯する多世代家族の物語で高く評価された。",
+      "books": [
+        "the-bee-sting"
+      ]
+    },
+    {
+      "slug": "mervyn-peake",
+      "name": "Mervyn Peake",
+      "nameJa": "マーヴィン・ピーク",
+      "country": "イギリス",
+      "bioJa": "イギリスの作家・画家・詩人（1911-1968）。『ゴーメンガースト』三部作は幻想的な大城を舞台にした特異な長編で、ゴシック風のダーク・ファンタジーの古典として後世の作家たちに影響を与えた。",
+      "books": [
+        "the-the-gormenghast"
+      ]
+    },
+    {
+      "slug": "margalit-fox",
+      "name": "Margalit Fox",
+      "nameJa": "マーガリット・フォックス",
+      "country": "アメリカ",
+      "bioJa": "アメリカの作家・元ニューヨーク・タイムズ紙記者。ミステリー的手法で実話を描くノンフィクションで知られ、線文字Bの解読を追った『迷宮の謎』（The Riddle of the Labyrinth、2013年）が代表作。",
+      "books": [
+        "the-vermeer-hat"
+      ]
+    },
+    {
+      "slug": "margaret-atwood",
+      "name": "Margaret Atwood",
+      "nameJa": "マーガレット・アトウッド",
+      "country": "カナダ",
+      "bioJa": "カナダの作家・詩人（1939年生まれ）。『侍女の物語』（1985年）はフェミニズムSFの古典で、続編『テストメンツ』（2019年）はブッカー賞を受賞した。鋭い文明批評と寓意に富む作風で世界的に読み継がれている。",
+      "books": [
+        "the-testaments",
+        "the-handmaids-tale",
+        "the-house-on-the-gulf"
+      ]
+    },
+    {
+      "slug": "mark-twain",
+      "name": "Mark Twain",
+      "nameJa": "マーク・トウェイン",
+      "country": "アメリカ",
+      "bioJa": "アメリカの作家（1835-1910）。本名サミュエル・クレメンズ。『トム・ソーヤーの冒険』『ハックルベリー・フィンの冒険』でアメリカの口語と風土を文学に定着させ、「アメリカ文学の父」と称される。辛辣なユーモアと風刺で知られる。",
+      "books": [
+        "the-huckleberry-finn",
+        "the-adventures-of-tom-sawyer"
+      ]
+    },
+    {
+      "slug": "margot-lee-shetterly",
+      "name": "Margot Lee Shetterly",
+      "nameJa": "マーゴット・リー・シェタリー",
+      "country": "アメリカ",
+      "bioJa": "アメリカのノンフィクション作家。NASAで働いた黒人女性技術者たちの功績を描いた『ドリーム・ガールズ』（Hidden Figures、2016年）は映画化され、宇宙開発史における隠された貢献を広く知らしめた。",
+      "books": [
+        "the-hidden-figures"
+      ]
+    },
+    {
+      "slug": "michael-j-sandel",
+      "name": "Michael J. Sandel",
+      "nameJa": "マイケル・サンデル",
+      "country": "アメリカ",
+      "bioJa": "アメリカの政治哲学者。ハーバード大学教授で、講義をもとにした『これからの「正義」の話をしよう』（Justice）などで公共哲学を広めた。『実力も運のうち』（2020年）では能力主義社会の歪みを鋭く批判した。",
+      "books": [
+        "the-just-society",
+        "the-tyranny-of-merit"
+      ]
+    },
+    {
+      "slug": "matthew-desmond",
+      "name": "Matthew Desmond",
+      "nameJa": "マシュー・デズモンド",
+      "country": "アメリカ",
+      "bioJa": "アメリカの社会学者・プリンストン大学教授。ミルウォーキーでの長期フィールドワークに基づく『立ち退き』（Evicted、2016年）はピュリツァー賞ノンフィクション部門を受賞し、貧困と住宅問題の構造を浮き彫りにした。",
+      "books": [
+        "evicted"
+      ]
+    },
+    {
+      "slug": "max-weber",
+      "name": "Max Weber",
+      "nameJa": "マックス・ヴェーバー",
+      "country": "ドイツ",
+      "bioJa": "ドイツの社会学者・経済学者（1864-1920）。『プロテスタンティズムの倫理と資本主義の精神』（1905年）で宗教と資本主義の発展の関係を論じ、官僚制や合理化の分析とともに近代社会科学の基礎を築いた。",
+      "books": [
+        "the-protestant-ethic",
+        "the-protestant-ethic-and-the-spirit"
+      ]
+    },
+    {
+      "slug": "malala-yousafzai",
+      "name": "Malala Yousafzai",
+      "nameJa": "マララ・ユスフザイ",
+      "country": "パキスタン",
+      "bioJa": "パキスタンの女性教育活動家。1997年生まれ。女性の教育を受ける権利を訴え、2012年にタリバンに襲撃されたが、回復後も活動を続け、2014年にノーベル平和賞を史上最年少で受賞した。回想録『わたしはマララ』で知られる。",
+      "books": [
+        "i-am-malala"
+      ]
+    },
+    {
+      "slug": "mario-vargas-llosa",
+      "name": "Mario Vargas Llosa",
+      "nameJa": "マリオ・バルガス・リョサ",
+      "country": "ペルー",
+      "bioJa": "ペルーの小説家・随筆家（1936年生まれ）。『都会と犬ども』『山羊の祝祭』などで知られ、権力と暴力の解剖を得意とする。2010年にノーベル文学賞を受賞し、ラテンアメリカ文学ブームを主導した作家の一人である。",
+      "books": [
+        "the-time-of-the-heroes",
+        "the-feast-of-the-goat",
+        "the-war-of-the-end"
+      ]
+    },
+    {
+      "slug": "marguerite-yourcenar",
+      "name": "Marguerite Yourcenar",
+      "nameJa": "マルグリット・ユルスナール",
+      "country": "フランス",
+      "bioJa": "フランスの小説家（1903-1987）。ローマ皇帝ハドリアヌスを描く『ハドリアヌス帝の回想』（1951年）で知られる歴史小説の名手で、1980年にアカデミー・フランセーズ初の女性会員に選ばれた。",
+      "books": [
+        "the-memoirs-of-hadrian"
+      ]
+    },
+    {
+      "slug": "marjane-satrapi",
+      "name": "Marjane Satrapi",
+      "nameJa": "マルジャン・サトラピ",
+      "country": "イラン/フランス",
+      "bioJa": "イラン出身のグラフィックノベル作家・映画監督。自伝的作品『ペルセポリス』（2000-2003年）でイラン革命下の少女時代を描き、のちに映画化もされた。イスラム社会と西洋の架け橋として国際的に高く評価されている。",
+      "books": [
+        "the-remains-of-memory"
+      ]
+    },
+    {
+      "slug": "marcel-proust",
+      "name": "Marcel Proust",
+      "nameJa": "マルセル・プルースト",
+      "country": "フランス",
+      "bioJa": "フランスの小説家（1871-1922）。全7巻の大作『失われた時を求めて』（1913-1927年）は記憶と時間の意識を極限まで追及し、20世紀文学の最高峰とされる。その冒頭巻が『スワン家の方へ』である。",
+      "books": [
+        "swanns-way"
+      ]
+    },
+    {
+      "slug": "marcel-mauss",
+      "name": "Marcel Mauss",
+      "nameJa": "マルセル・モース",
+      "country": "フランス",
+      "bioJa": "フランスの社会学者・人類学者（1872-1950）。デュルケームの甥で、贈与交換の理論を構築した『贈与論』（1925年）は文化人類学・経済人類学の古典として、現代の人類学思想に多大な影響を与えた。",
+      "books": [
+        "the-gift"
+      ]
+    },
+    {
+      "slug": "martin-heidegger",
+      "name": "Martin Heidegger",
+      "nameJa": "マルティン・ハイデガー",
+      "country": "ドイツ",
+      "bioJa": "ドイツの哲学者（1889-1976）。主著『存在と時間』（1927年）で人間存在のあり方を「現存在」の概念から問い直し、現象学から実存主義へと続く20世紀哲学の流れに決定的な影響を与えた。",
+      "books": [
+        "being-and-time"
+      ]
+    },
+    {
+      "slug": "michelle-alexander",
+      "name": "Michelle Alexander",
+      "nameJa": "ミシェル・アレクサンダー",
+      "country": "アメリカ",
+      "bioJa": "アメリカの法学者・公民権活動家。オハイオ州立大学教授。『ニュージム・クロウ』（The New Jim Crow、2010年）で大量収監が人種を基軸にした新たな差別体制を形成していると論じ、刑事司法改革をめぐる議論に決定的な影響を与えた。",
+      "books": [
+        "the-prison-industrial-complex"
+      ]
+    },
+    {
+      "slug": "michio-kaku",
+      "name": "Michio Kaku",
+      "nameJa": "ミチオ・カク",
+      "country": "アメリカ",
+      "bioJa": "日系アメリカ人の理論物理学者・サイエンスライター。ニューヨーク市立大学教授で超弦理論の研究者として知られる。『未来の物理学』など科学を一般読者に分かりやすく伝える著作で世界的に有名である。",
+      "books": [
+        "the-physics-of-the-future"
+      ]
+    },
+    {
+      "slug": "mikhail-bulgakov",
+      "name": "Mikhail Bulgakov",
+      "nameJa": "ミハイル・ブルガーコフ",
+      "country": "ロシア",
+      "bioJa": "ソ連の作家・劇作家（1891-1940）。未完の遺作『巨匠とマルガリータ』（1966年刊行）は悪魔がモスクワを訪れる物語で、20世紀ロシア文学を代表する傑作。生前は検閲に苦しみ、死後に評価が確立した。",
+      "books": [
+        "the-master-and-margarita"
+      ]
+    },
+    {
+      "slug": "milan-kundera",
+      "name": "Milan Kundera",
+      "nameJa": "ミラン・クンデラ",
+      "country": "チェコ/フランス",
+      "bioJa": "チェコ出身の作家（1929-2023）。『存在の耐えられない軽さ』（1984年）や『笑いと忘却の書』などで、全体主義下の人間の生と愛を考察した。1981年にフランス国籍を取得し、国際的な名声を得た。",
+      "books": [
+        "the-unbearable-lightness",
+        "the-book-of-laughter"
+      ]
+    },
+    {
+      "slug": "min-jin-lee",
+      "name": "Min Jin Lee",
+      "nameJa": "ミン・ジン・リー",
+      "country": "アメリカ",
+      "bioJa": "韓国系アメリカ人の小説家。『パチンコ』（Pachinko、2017年）は日本の植民地時代から現代までを生き抜く在日朝鮮人一家の四世代を描いた大河小説で、各国でベストセラーとなり、テレビドラマ化もされた。",
+      "books": [
+        "pachinko"
+      ]
+    },
+    {
+      "slug": "mary-shelley",
+      "name": "Mary Shelley",
+      "nameJa": "メアリー・シェリー",
+      "country": "イギリス",
+      "bioJa": "イギリスの作家（1797-1851）。『フランケンシュタイン』（1818年）はSFの祖ともいわれるゴシック小説の古典で、人間の創造と破滅というテーマを描き、以後のホラー文学・SF文学に決定的な影響を与えた。",
+      "books": [
+        "the-frankenstein"
+      ]
+    },
+    {
+      "slug": "mary-lawson",
+      "name": "Mary Lawson",
+      "nameJa": "メアリー・ローソン",
+      "country": "カナダ",
+      "bioJa": "カナダの小説家。オンタリオ州北部を舞台に、少年少女の視点から家族、喪失、孤独を描くことで知られる。長編「慰めの町」（A Town Called Solace）は2021年にブッカー賞最終候補となり、国際的な注目を集めた。",
+      "books": [
+        "a-town-called-solace"
+      ]
+    },
+    {
+      "slug": "maurice-merleau-ponty",
+      "name": "Maurice Merleau-Ponty",
+      "nameJa": "モーリス・メルロ＝ポンティ",
+      "country": "フランス",
+      "bioJa": "フランスの哲学者。知覚と身体をめぐる現象学を展開し、フッサールの現象学を身体論へと深化させた。「知覚の現象学」が代表作で、没後刊行の遺稿「見えるものと見えないもの」では存在論の探究を推し進めた。",
+      "books": [
+        "the-visible-and-the-invisible",
+        "the-phenomenology-of-perception"
+      ]
+    },
+    {
+      "slug": "mohammed-hanif",
+      "name": "Mohammed Hanif",
+      "nameJa": "モハメド・ハニーフ",
+      "country": "パキスタン",
+      "bioJa": "パキスタンの作家・ジャーナリスト。英字紙にコラムを執筆しながら小説を発表。デビュー作「マンゴー爆弾事件」は、1988年のジア大統領搭乗機墜落事件を風刺的に描き、ガーディアン新人賞を受賞した。",
+      "books": [
+        "a-case-of-exploding-mangoes"
+      ]
+    },
+    {
+      "slug": "mohsin-hamid",
+      "name": "Mohsin Hamid",
+      "nameJa": "モフシン・ハミド",
+      "country": "パキスタン",
+      "bioJa": "パキスタン出身の小説家。グローバル化時代のアイデンティティと移民を主題に、幻想と現実を融合させた作品で知られる。代表作「イグジット・ウェスト」は難民問題を寓話的に描き、長編「不本意な原理主義者」はブッカー賞最終候補入りした。",
+      "books": [
+        "exit-west"
+      ]
+    },
+    {
+      "slug": "ralph-ellison",
+      "name": "Ralph Ellison",
+      "nameJa": "ラルフ・エリスン",
+      "country": "アメリカ",
+      "bioJa": "アメリカの小説家・文芸評論家。黒人男性のアイデンティティと社会的不可視性を描いた代表作「見えない人間」で1953年に全米図書賞を受賞。アフリカ系アメリカ人文学の古典を残し、現代文学に多大な影響を与えた。",
+      "books": [
+        "invisible-man"
+      ]
+    },
+    {
+      "slug": "lisa-see",
+      "name": "Lisa See",
+      "nameJa": "リサ・シー",
+      "country": "アメリカ",
+      "bioJa": "アメリカの小説家。中国系アメリカ人としての出自に基づき、中国史とアメリカ移民の文化を取材に基づいて描く。代表作に「海女の島」があり、史実と物語を融合した語り口で国際的な読者を獲得している。",
+      "books": [
+        "the-island-of-sea-women"
+      ]
+    },
+    {
+      "slug": "richard-e-nisbett",
+      "name": "Richard E. Nisbett",
+      "nameJa": "リチャード・E・ニスベット",
+      "country": "アメリカ",
+      "bioJa": "アメリカの社会心理学者。ミシガン大学の名誉教授を務める。東アジアと西洋の思考様式の違いを実証研究により明らかにした「思考の地図学」（The Geography of Thought）で広く知られ、文化心理学の確立に貢献した。",
+      "books": [
+        "the-geography-of-thought"
+      ]
+    },
+    {
+      "slug": "richard-zoglin",
+      "name": "Richard Zoglin",
+      "nameJa": "リチャード・ゾグリン",
+      "country": "アメリカ",
+      "bioJa": "アメリカのジャーナリスト・文筆家。長く「タイム」誌で文化やコメディを取材し、スタンダップ・コメディ史に関する著書で知られる。アメリカのエンターテインメント文化を専門に、文化史的な視点から数多くの執筆活動を行っている。",
+      "books": [
+        "the-new-york-times-street-smart"
+      ]
+    },
+    {
+      "slug": "richard-powers",
+      "name": "Richard Powers",
+      "nameJa": "リチャード・パワーズ",
+      "country": "アメリカ",
+      "bioJa": "アメリカの小説家。科学と人間の関係を主題に、複雑な構造の長編を多数発表。樹木と人間の交錯を描いた「オーバーストーリー」で2019年にピュリッツァー賞を受賞した。ほかに「エコー・メイカー」で全米図書賞も受賞している。",
+      "books": [
+        "the-overstory"
+      ]
+    },
+    {
+      "slug": "louis-ferdinand-cline",
+      "name": "Louis-Ferdinand Céline",
+      "nameJa": "ルイ＝フェルディナン・セリーヌ",
+      "country": "フランス",
+      "bioJa": "フランスの小説家。医師としても活動し、第一次世界大戦の体験を基にした「夜の果てへの旅」で衝撃的なデビューを果たした。独自の口語的な文体で戦争と人間の惨禍を描き、20世紀文学の革命児と評される。晩年の反ユダヤ的言説によりその評価をめぐっては議論がある。",
+      "books": [
+        "journey-to-the-end-of-the-night"
+      ]
+    },
+    {
+      "slug": "louisa-may-alcott",
+      "name": "Louisa May Alcott",
+      "nameJa": "ルイーザ・メイ・オルコット",
+      "country": "アメリカ",
+      "bioJa": "アメリカの小説家。南北戦争時代の家庭小説を数多く手がけ、四姉妹の成長を描いた「若草物語」は世界的な児童文学の古典となった。女性の自立と家族の絆を主題とし、後期作品ではより挑戦的な題材にも取り組んだ。",
+      "books": [
+        "the-little-women"
+      ]
+    },
+    {
+      "slug": "ruth-ozeki",
+      "name": "Ruth Ozeki",
+      "nameJa": "ルース・オゼキ",
+      "country": "カナダ",
+      "bioJa": "カナダ在住の小説家・禅僧。日系三世としての文化的背景と禅の思想を織り込んだ作品を発表する。「物語と空の書」で2022年に女性小説賞（ウーマンズ・プライズ）を受賞し、現代日本とアメリカをまたぐ物語を紡いでいる。",
+      "books": [
+        "the-book-of-form-and-emptiness"
+      ]
+    },
+    {
+      "slug": "rumer-godden",
+      "name": "Rumer Godden",
+      "nameJa": "ルーマー・ゴッデン",
+      "country": "イギリス",
+      "bioJa": "イギリスの小説家・児童文学作家。幼少期から青年期まで過ごしたインドを主要な舞台とし、東西文化の交錯と女性の内面を抒情豊かに描いた。代表作に「黒水仙」「河」などがあり、アジアを描く英国作家として国際的な読者を獲得した。",
+      "books": [
+        "the-lessons-of-the-river"
+      ]
+    },
+    {
+      "slug": "l-thi-diem-thy",
+      "name": "lê thi diem thúy",
+      "nameJa": "レ・ティ・ディエム・トゥイ",
+      "country": "ベトナム/アメリカ",
+      "bioJa": "ベトナム系アメリカ人の作家・パフォーマンスアーティスト。幼少期にベトナムからアメリカへ移住した体験を基にしたデビュー作「私たち全員が探しているギャングスター」は、故郷と亡命の記憶を断片的な語りで綴った詩的な長編として高い評価を得た。",
+      "books": [
+        "gangster-we-are-all-looking-for"
+      ]
+    },
+    {
+      "slug": "ray-kurzweil",
+      "name": "Ray Kurzweil",
+      "nameJa": "レイ・カーツワイル",
+      "country": "アメリカ",
+      "bioJa": "アメリカの発明家・起業家・未来学者。音声認識など多数の技術を発明し、人工知能の将来予測で知られる。テクノロジーが人間を超える「シンギュラリティ」到来を論じた「ポスト・ヒューマン誕生」（The Singularity Is Near）は世界的な論争を呼んだ。",
+      "books": [
+        "the-singularity-is-near"
+      ]
+    },
+    {
+      "slug": "ray-bradbury",
+      "name": "Ray Bradbury",
+      "nameJa": "レイ・ブラッドベリ",
+      "country": "アメリカ",
+      "bioJa": "アメリカの小説家。詩的な散文と想像力に富んだ世界観で、SFと幻想文学の境界を越えた作品を生み出した。「華氏451度」は書物の弾圧を描くディストピア小説として、「火星年代記」は火星を舞台にした連作短編としてそれぞれ名高い。",
+      "books": [
+        "fahrenheit-451",
+        "the-the-martian-chronicles"
+      ]
+    },
+    {
+      "slug": "leo-tolstoy",
+      "name": "Leo Tolstoy",
+      "nameJa": "レフ・トルストイ",
+      "country": "ロシア",
+      "bioJa": "ロシアの小説家・思想家。写実主義文学の頂点と評される「戦争と平和」「アンナ・カレーニナ」で人間と歴史の本質を問い、後期には「イワン・イリイチの死」などで宗教と倫理の問題を追求した。世界文学史上最も重要な作家の一人。",
+      "books": [
+        "the-anna-karenina",
+        "the-war-and-peace",
+        "the-death-of-ivan-ilyich",
+        "the-kreutzer-sonata"
+      ]
+    },
+    {
+      "slug": "rebecca-skloot",
+      "name": "Rebecca Skloot",
+      "nameJa": "レベッカ・スクルート",
+      "country": "アメリカ",
+      "bioJa": "アメリカのサイエンスライター・ジャーナリスト。長年の取材を経て執筆したノンフィクション（The Immortal Life of Henrietta Lacks）で、癌細胞HeLaの由来となった黒人女性の物語と生命倫理の問題を描き、世界的なベストセラーとなった。",
+      "books": [
+        "the-immortal-life-of-henrietta-lacks"
+      ]
+    },
+    {
+      "slug": "lawrence-wright",
+      "name": "Lawrence Wright",
+      "nameJa": "ローレンス・ライト",
+      "country": "アメリカ",
+      "bioJa": "アメリカのジャーナリスト・作家。「ニューヨーカー」誌スタッフライターとして政治と宗教の交錯を精力的に取材。9.11テロを招いた経緯を追跡した「ザ・タワー」で2007年にピュリッツァー賞を受賞した。",
+      "books": [
+        "the-looming-tower"
+      ]
+    },
+    {
+      "slug": "robert-a-caro",
+      "name": "Robert A. Caro",
+      "nameJa": "ロバート・A・キャロ",
+      "country": "アメリカ",
+      "bioJa": "アメリカのジャーナリスト・ノンフィクション作家。政治権力の解剖に生涯を捧げ、ロバート・モーゼスを描いた「権力の代行者」でピュリッツァー賞を受賞。以後、未完の大著リンドン・ジョンソン伝を長期にわたり執筆している。",
+      "books": [
+        "the-years-of-lyndon-johnson"
+      ]
+    },
+    {
+      "slug": "robert-a-heinlein",
+      "name": "Robert A. Heinlein",
+      "nameJa": "ロバート・A・ハインライン",
+      "country": "アメリカ",
+      "bioJa": "アメリカのSF作家。20世紀SF界を代表する作家の一人で、ハードSFから社会風刺まで幅広く執筆した。「異星の客」は1960年代のカウンターカルチャーに影響を与えた代表作で、ほかに「夏への扉」などの名作を多数残した。",
+      "books": [
+        "the-solar-sail",
+        "the-stranger-in-a-strange-land",
+        "the-the-door-into-summer"
+      ]
+    },
+    {
+      "slug": "robert-graves",
+      "name": "Robert Graves",
+      "nameJa": "ロバート・グレーヴス",
+      "country": "イギリス",
+      "bioJa": "イギリスの詩人・小説家・古典学者。第一次世界大戦の従軍体験を綴った自伝「さらば、すべてのものよ」で知られる。小説「私は、クラウディウス」と詩学論「白い女神」は代表作とされ、古典神話の再解釈に独自の足跡を残した。",
+      "books": [
+        "the-white-goddess"
+      ]
+    },
+    {
+      "slug": "robert-jordan",
+      "name": "Robert Jordan",
+      "nameJa": "ロバート・ジョーダン",
+      "country": "アメリカ",
+      "bioJa": "アメリカのファンタジー作家。全15巻に及ぶ長大な大作「時の車輪」シリーズで世界的に知られる。複雑な世界観と多様なキャラクターによる壮大な叙事詩は、現代エピック・ファンタジーの代表作とされ、後続作家に多大な影響を与えた。",
+      "books": [
+        "the-the-wheel-of-time"
+      ]
+    },
+    {
+      "slug": "robert-louis-stevenson",
+      "name": "Robert Louis Stevenson",
+      "nameJa": "ロバート・ルイス・スティーヴンソン",
+      "country": "イギリス",
+      "bioJa": "スコットランド出身の小説家・詩人。冒険小説「宝島」とゴシック文学の傑作「ジキル博士とハイド氏」で知られる。人間の二面性や心理的深化を巧みな語り口で描き、ヴィクトリア朝文学を代表する作家の一人である。",
+      "books": [
+        "the-strange-case-of-dr-jekyll-and-mr-hyde"
+      ]
+    },
+    {
+      "slug": "rohinton-mistry",
+      "name": "Rohinton Mistry",
+      "nameJa": "ロヒントン・ミストリー",
+      "country": "インド",
+      "bioJa": "インド系カナダ人の小説家。ムンバイを舞台に、インド社会の光と影を人間味豊かに描く。代表作「完璧な均衡」は非常事態下の庶民の暮らしを克明に描き、ブッカー賞最終候補入りするなど国際的な評価を受けた。",
+      "books": [
+        "a-fine-balance"
+      ]
+    },
+    {
+      "slug": "rob-hart",
+      "name": "Rob Hart",
+      "nameJa": "ロブ・ハート",
+      "country": "アメリカ",
+      "bioJa": "アメリカの小説家。クライム・サスペンスを中心に執筆する。近未来の巨大物流企業を舞台にした「ザ・ウェアハウス」は、企業による労働支配と監視社会を描いたディストピア風スリラーとして国際的な注目を集めた。",
+      "books": [
+        "the-warehouse"
+      ]
+    },
+    {
+      "slug": "roland-barthes",
+      "name": "Roland Barthes",
+      "nameJa": "ロラン・バルト",
+      "country": "フランス",
+      "bioJa": "フランスの文学批評家・記号学者。構造主義と記号論を文学や文化批評に応用し、「作者の死」の提唱者としても知られる。「神話作用」では大衆文化を記号論的に分析し、現代思想と批評理論に多大な影響を与えた。",
+      "books": [
+        "the-mythologies"
+      ]
+    },
+    {
+      "slug": "ngg-wa-thiongo",
+      "name": "Ngũgĩ wa Thiong'o",
+      "nameJa": "ングギ・ワ・ジオンゴ",
+      "country": "ケニア",
+      "bioJa": "ケニアの作家・思想家。アフリカを代表する知識人の一人。植民地支配と独立後のケニアを題材に小説を執筆し、「一粒の麦」はその代表作。後に英語を捨て母語キクユ語での創作を宣言し、脱植民地化の文学を提唱した。",
+      "books": [
+        "a-grain-of-wheat"
+      ]
+    },
+    {
+      "slug": "kobo-abe",
+      "name": "Kobo Abe",
+      "nameJa": "安部公房",
+      "country": "日本",
+      "bioJa": "日本の前衛小説家。不条理と孤独をテーマに独自の幻想的世界を構築した。「砂の女」はフランスの最優秀外国文学賞を受賞するなど国内外で高く評価され、劇作やSF、映画脚本など多岐にわたる創作活動を行った。",
+      "books": [
+        "the-woman-in-the-dunes"
+      ]
+    },
+    {
+      "slug": "natsume-soseki",
+      "name": "Natsume Soseki",
+      "nameJa": "夏目漱石",
+      "country": "日本",
+      "bioJa": "日本の小説家・英文学者。明治・大正期を代表する文豪で、近代日本の自我と孤独を主題に多くの傑作を残した。「こころ」は晩年の代表作とされ、ほかに「吾輩は猫である」「坊ちゃん」など国民的文学を生んだ。",
+      "books": [
+        "kokoro"
+      ]
+    },
+    {
+      "slug": "confucius",
+      "name": "Confucius",
+      "nameJa": "孔子",
+      "country": "中国",
+      "bioJa": "中国・春秋時代の思想家。儒教の始祖として、仁・義・礼を基本とする倫理思想を説いた。言行を弟子たちが編纂した「論語」は、東アジアの思想と社会規範の根幹をなす古典として、現代に至るまで読み継がれている。",
+      "books": [
+        "the-analects"
+      ]
+    },
+    {
+      "slug": "yukio-mishima",
+      "name": "Yukio Mishima",
+      "nameJa": "三島由紀夫",
+      "country": "日本",
+      "bioJa": "日本の小説家・劇作家。古典的な日本語の美と美学を追求し、独自の死生観を作品に刻んだ。「金閣寺」は放火事件を題材に美と破壊を描いた代表作。ほかに「仮面の告白」「豊饒の海」四部作など多彩な作品を残した。",
+      "books": [
+        "the-temple-of-the-golden-pavilion"
+      ]
+    },
+    {
+      "slug": "komatsu-sakyo",
+      "name": "Komatsu Sakyo",
+      "nameJa": "小松左京",
+      "country": "日本",
+      "bioJa": "日本のSF作家・小説家。日本SF界の先駆者の一人で、科学と文明の危機をテーマに硬派な長編を発表。「日本沈没」は国民的ベストセラーとなり、その後何度も映画化・テレビドラマ化された。",
+      "books": [
+        "japan-sinks"
+      ]
+    },
+    {
+      "slug": "yoko-ogawa",
+      "name": "Yoko Ogawa",
+      "nameJa": "小川洋子",
+      "country": "日本",
+      "bioJa": "日本の小説家。日常と記憶をめぐる静謐な幻想的世界を構築し、多数の文学賞を受賞。「密やかな結晶」（英語訳版 The Memory Police）は国際ブッカー賞最終候補となり、世界約30か国で翻訳される国際的な作家である。",
+      "books": [
+        "the-memory-police"
+      ]
+    },
+    {
+      "slug": "nishida-kitaro",
+      "name": "Nishida Kitaro",
+      "nameJa": "西田幾多郎",
+      "country": "日本",
+      "bioJa": "日本の哲学者。京都学派の創始者として、西洋哲学と東洋思想の融合を試みた。処女作「善の研究」で「純粋経験」の概念を提唱し、日本独自の哲学を樹立。西田哲学として知られ、後世の思想に大きな影響を与えた。",
+      "books": [
+        "an-inquiry-into-the-good"
+      ]
+    },
+    {
+      "slug": "kawabata-yasunari",
+      "name": "Kawabata Yasunari",
+      "nameJa": "川端康成",
+      "country": "日本",
+      "bioJa": "日本の小説家。繊細な美意識と抒情性に富む文体で、日本の美と孤独を描いた。「雪国」をはじめとする作品で日本を代表する文豪となり、1968年に日本人初のノーベル文学賞を受賞した。",
+      "books": [
+        "snow-country"
+      ]
+    },
+    {
+      "slug": "sun-tzu",
+      "name": "Sun Tzu",
+      "nameJa": "孫子",
+      "country": "中国",
+      "bioJa": "中国・春秋末期の軍事思想家。兵法の教えをまとめた「孫子の兵法」は、現代に至るまで軍事学や経営学で参照される古典の名著。全十三編で構成され、「戦わずして勝つ」などの思想が世界的に読み継がれている。",
+      "books": [
+        "the-art-of-war"
+      ]
+    },
+    {
+      "slug": "osamu-dazai",
+      "name": "Osamu Dazai",
+      "nameJa": "太宰治",
+      "country": "日本",
+      "bioJa": "日本の小説家。無頼派と呼ばれる文学運動を代表し、破滅的な生を作品に刻んだ。「人間失格」は自らの生と重ねた私小説的傑作として、戦後日本文学の金字塔とされる。「走れメロス」「斜陽」なども広く読まれている。",
+      "books": [
+        "no-longer-human"
+      ]
+    },
+    {
+      "slug": "tsutsui-yasutaka",
+      "name": "Tsutsui Yasutaka",
+      "nameJa": "筒井康隆",
+      "country": "日本",
+      "bioJa": "日本の小説家。硬質な皮肉と巧みな構成で、SFから文芸まで幅広く執筆。長編「時をかける少女」は国民的ベストセラーとなり、何度も映画化・テレビ化された。ほかに「パプリカ」など、映像化された作品も多い。",
+      "books": [
+        "the-girl-who-leapt-through-time"
+      ]
+    },
+    {
+      "slug": "mo-yan",
+      "name": "Mo Yan",
+      "nameJa": "莫言",
+      "country": "中国",
+      "bioJa": "中国の小説家。故郷・山東省の農村を舞台に、土着の伝説と歴史を奔放な想像力で描く。「蛙」は計画出産政策を題材とした作品で、2012年に中国人として初めてノーベル文学賞を受賞した。",
+      "books": [
+        "frog"
+      ]
+    },
+    {
+      "slug": "yu-hua",
+      "name": "Yu Hua",
+      "nameJa": "余華",
+      "country": "中国",
+      "bioJa": "中国の小説家。過酷な社会変動の中で生きた庶民を、簡潔で抑制の効いた筆致で描く。「生きる」は文化大革命期の中国を背景に家族の運命を綴り、映画化されて国際的な名声を得た。",
+      "books": [
+        "to-live"
+      ]
+    },
+    {
+      "slug": "hao-jingfang",
+      "name": "Hao Jingfang",
+      "nameJa": "郝景芳",
+      "country": "中国",
+      "bioJa": "中国のSF作家。物理学と経済学の学歴を持ち、研究機関に勤務しながら創作を行う。中短編「北京折畳」の英語版が2016年にヒューゴー賞中編小説部門を受賞し、国際的な注目を集めた。社会格差と未来都市を描く。",
+      "books": [
+        "folding-beijing"
+      ]
+    },
+    {
+      "slug": "plato",
+      "name": "Plato",
+      "nameJa": "プラトン",
+      "country": "ギリシャ",
+      "bioJa": "西洋哲学の祖ソクラテスの弟子として対話篇を多数残し、イデア論と理想国家の構想で以後の西洋思想を規定した。アテナイに『アカデメイア』を開き、哲学の学校制度の原型をつくった。",
+      "books": [
+        "the-republic"
+      ]
+    },
+    {
+      "slug": "aristotle",
+      "name": "Aristotle",
+      "nameJa": "アリストテレス",
+      "country": "ギリシャ",
+      "bioJa": "プラトンの弟子で万学の祖と呼ばれ、形而上学・倫理学・政治学・論理学など多岐にわたる分野を体系化した。『ニコマコス倫理学』『政治学』を残し、西洋の学問の基礎を築いた。",
+      "books": [
+        "nicomachean-ethics"
+      ]
+    },
+    {
+      "slug": "thomas-hobbes",
+      "name": "Thomas Hobbes",
+      "nameJa": "トマス・ホッブズ",
+      "country": "イギリス",
+      "bioJa": "近代政治哲学の創始者の一人。自然状態を『万人の万人に対する戦い』と捉え、『リヴァイアサン』で絶対主権と社会契約論を説いた。主権国家論の原点として政治学に多大な影響を与えた。",
+      "books": [
+        "leviathan"
+      ]
+    },
+    {
+      "slug": "jean-jacques-rousseau",
+      "name": "Jean-Jacques Rousseau",
+      "nameJa": "ジャン＝ジャック・ルソー",
+      "country": "フランス",
+      "bioJa": "『社会契約論』で人民主権と一般意思の思想を唱え、フランス革命に思想的影響を与えた。文明批判を展開した『人間不平等起源論』、教育論『エミール』でも知られる。",
+      "books": [
+        "the-social-contract"
+      ]
+    },
+    {
+      "slug": "gwf-hegel",
+      "name": "G.W.F. Hegel",
+      "nameJa": "G・W・F・ヘーゲル",
+      "country": "ドイツ",
+      "bioJa": "ドイツ観念論を完成させた哲学者。弁証法と絶対精神の体系を構築し、『精神現象学』『法の哲学』で知られる。マルクスや実存主義など近代思想の原点の一つとなった。",
+      "books": [
+        "the-phenomenology-of-spirit"
+      ]
+    },
+    {
+      "slug": "ludwig-wittgenstein",
+      "name": "Ludwig Wittgenstein",
+      "nameJa": "ルートヴィヒ・ウィトゲンシュタイン",
+      "country": "オーストリア",
+      "bioJa": "『論理哲学論考』で言語と世界の写像関係を論じ、のちに言語ゲーム論へと自説を転回した。後期の主著『哲学探求』は分析哲学と日常言語学派に決定的影響を与えた。",
+      "books": [
+        "tractatus-logico-philosophicus"
+      ]
+    },
+    {
+      "slug": "miguel-de-cervantes",
+      "name": "Miguel de Cervantes",
+      "nameJa": "ミゲル・デ・セルバンテス",
+      "country": "スペイン",
+      "bioJa": "スペイン黄金世紀の作家。騎士道物語のパロディ『ドン・キホーテ』は近代小説の祖とされ、世界文学に最も大きな影響を与えた作品の一つ。ほかに『模範小説集』がある。",
+      "books": [
+        "don-quixote"
+      ]
+    },
+    {
+      "slug": "johann-wolfgang-von-goethe",
+      "name": "Johann Wolfgang von Goethe",
+      "nameJa": "ヨハン・ヴォルフガング・フォン・ゲーテ",
+      "country": "ドイツ",
+      "bioJa": "ドイツ文学の巨人。詩人・劇作家・小説家として『ファウスト』『若きウェルテルの悩み』を残し、シュトゥルム・ウント・ドラングと古典主義を代表。科学者・政治家としても活動した。",
+      "books": [
+        "faust"
+      ]
+    },
+    {
+      "slug": "cao-xueqin",
+      "name": "Cao Xueqin",
+      "nameJa": "曹雪芹",
+      "country": "中国",
+      "bioJa": "清中期の小説家。代表作『紅楼夢』は中国古典小説の最高峰とされ、大家族の栄枯盛衰と人間の哀歓を描いた。後期白話小説の到達点として後世の文学に大きな影響を与えた。",
+      "books": [
+        "dream-of-the-red-chamber"
+      ]
+    },
+    {
+      "slug": "murasaki-shikibu",
+      "name": "Murasaki Shikibu",
+      "nameJa": "紫式部",
+      "country": "日本",
+      "bioJa": "平安時代中期の女流作家。長編物語『源氏物語』は世界最古級の長編小説とされ、雅な和文で人間心理を深く描いた。『紫式部日記』も残し、日本の文学・文化の規範となった。",
+      "books": [
+        "the-tale-of-genji"
       ]
     }
   ]

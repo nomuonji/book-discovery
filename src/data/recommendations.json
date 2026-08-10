@@ -1715,6 +1715,2778 @@
       "toSlug": "the-time-machine",
       "reasonJa": "時間をめぐるSFの東西。筒井康隆の少女と、ウェルズの旅人。",
       "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-republic",
+      "toSlug": "a-theory-of-justice",
+      "reasonJa": "プラトンの『国家』は正義の定義をめぐる政治哲学の原点。ロールズの『正義論』はその問いを現代に引き継ぎ、原典と比較しやすい。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-republic",
+      "toSlug": "the-prince",
+      "reasonJa": "理想国家を構想したプラトンから、現実の権力奪取を説くマキアヴェッリへ。正義と現実政治という対照的な二面を、続けて読むと政治思想の幅が見える。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-republic",
+      "toSlug": "discipline-and-punish",
+      "reasonJa": "プラトンの理想国家論を知ると、フーコーが問う『近代の権力』の問いの深さが際立つ。正義の原理から規律権力まで、政治哲学の縦軸を一本でたどれる。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-human-condition",
+      "toSlug": "the-republic",
+      "reasonJa": "アーレントは『人間の条件』で公共的活動の意味を問い直す。プラトン以来の『良き生』の問いを、活動と労働の区分から捉え直すために戻って読むのがおすすめ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-origins-of-totalitarianism",
+      "toSlug": "the-republic",
+      "reasonJa": "アーレントが全体主義の起源を遡れば行き着くのが、プラトンの理想国家。国家と個人の関係を問う連関を、古典に立ち戻って確認できる。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "nicomachean-ethics",
+      "toSlug": "the-ethics",
+      "reasonJa": "アリストテレスが『よく生きる』ための徳を論じたなら、スピノザは『エチカ』で人間の幸福を幾何学的に証明する。倫理学という同じ主題を、方法論の違いで味わえる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "nicomachean-ethics",
+      "toSlug": "beyond-good-and-evil",
+      "reasonJa": "徳の体系を築いたアリストテレスから、道徳そのものを解体するニーチェへ。『善悪の彼岸』を読めば、古典倫理学の前提が問い直される面白さがある。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "nicomachean-ethics",
+      "toSlug": "the-concept-of-anxiety",
+      "reasonJa": "『正しい生き方』を普遍的に説いたアリストテレスに対し、キルケゴールは個の内面から生を問う。徳倫理から実存思想への展開をたどれる。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-prince",
+      "toSlug": "nicomachean-ethics",
+      "reasonJa": "マキアヴェッリの現実主義的な君主論の背後には、アリストテレス的な徳と幸福の問いがある。統治の目的論を理解するために、原典に立ち返って読むのがおすすめ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "leviathan",
+      "toSlug": "the-origins-of-totalitarianism",
+      "reasonJa": "ホッブズの絶対主権論は、国家が個人を全面的に規定する問題をはらむ。アーレントの全体主義論を読むと、主権国家の限界と危険が見えてくる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "leviathan",
+      "toSlug": "discipline-and-punish",
+      "reasonJa": "万人の万人に対する戦いを止めるための主権論から、フーコーが描く規律権力の網の目へ。権力のあり方の変遷を、思想史として連続して読める。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "leviathan",
+      "toSlug": "imagined-communities",
+      "reasonJa": "主権国家の成立を論じたホッブズから、国民という共同体の想像へ。アンダーソン『想像の共同体』と続けて読むと、近代国家の輪郭がくっきり浮かぶ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "nineteen-eighty-four",
+      "toSlug": "leviathan",
+      "reasonJa": "ビッグ・ブラザーに支配される監視社会は、ホッブズが構想した絶対主権の究極の形。オーウェルの世界を読み、主権国家の理想と危険を重ねてみたい。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-social-contract",
+      "toSlug": "a-theory-of-justice",
+      "reasonJa": "ルソーが構想した社会契約の理念を、ロールズは『無知のヴェール』という装置で現代化した。正義の原理をめぐる思考の連なりを、両著でたどれる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-social-contract",
+      "toSlug": "imagined-communities",
+      "reasonJa": "一般意志というルソーの国民構想は、近代の『想像の共同体』づくりに大きな影響を与えた。国家成立の理念を、アンダーソンの視点で補って読める。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-social-contract",
+      "toSlug": "the-origins-of-totalitarianism",
+      "reasonJa": "一般意志の強制は、全体主義への危険な傾斜をはらむとアーレントは読む。自由と従属の逆説を、社会契約論と全体主義論で往復しながら考える。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-human-condition",
+      "toSlug": "the-social-contract",
+      "reasonJa": "アーレントが『人間の条件』で問う公共性の喪失は、ルソーが構想した市民の共同体論を読むと深まる。公私の境界の歴史を、対で捉えられる。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-phenomenology-of-spirit",
+      "toSlug": "difference-and-repetition",
+      "reasonJa": "ドゥルーズの『差異と反復』はヘーゲルの弁証法を乗り越えるために書かれた。精神現象学の体系性を真剣に受け止めた対抗作として読める。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-phenomenology-of-spirit",
+      "toSlug": "being-and-time",
+      "reasonJa": "ヘーゲルの絶対知に対し、ハイデガーは現存在の存在論を掲げた。西洋形而上学の総決算である『精神現象学』を踏まえると、『存在と時間』の問いの切実さが際立つ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-phenomenology-of-spirit",
+      "toSlug": "thousand-plateaus",
+      "reasonJa": "ヘーゲルの体系を解体する試みとして、ドゥルーズ=ガタリの『千のプラトー』は最良の対極にある。リゾームという思考法と弁証法を突き合わせて読むと面白い。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-concept-of-anxiety",
+      "toSlug": "the-phenomenology-of-spirit",
+      "reasonJa": "キルケゴールがヘーゲル体系に反旗を翻して個の実存を問うたのに対し、『精神現象学』はその前提となる体系的哲学。実存思想の反発相手を、原典で把握できる。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "tractatus-logico-philosophicus",
+      "toSlug": "the-black-swan",
+      "reasonJa": "言い表せないものには沈黙する、という論考の思考は、確実な知識の限界を扱うタレブに通じる。言語と知識の境界をめぐる問いを、二つの時代で並べて読める。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "tractatus-logico-philosophicus",
+      "toSlug": "nineteen-eighty-four",
+      "reasonJa": "言葉が現実を規定するという洞察は、『一九八四年』の二重思考や新語と響き合う。言語哲学とディストピア小説という異なるジャンルが、同じ問いを別の光で照らす。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "critique-of-pure-reason",
+      "toSlug": "tractatus-logico-philosophicus",
+      "reasonJa": "認識の限界を批判したカントは、言語の限界を論じたウィトゲンシュタインの思想的祖父と言える。どちらも『何が言えるか』の境界を厳密に引く哲学だ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "being-and-time",
+      "toSlug": "tractatus-logico-philosophicus",
+      "reasonJa": "『存在と時間』と『論理哲学論考』は、二十世紀哲学を二方向から刷新した金字塔。日常性と論理という対照的な入り口から、同じ時代の言語観を比較できる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "don-quixote",
+      "toSlug": "the-moby-dick",
+      "reasonJa": "理想に突き動かされるドン・キホーテと、白鯨に執念を燃やすエイハブ船長。現実を超えた妄想の力が、主人公たちを壮大な冒険へ駆り立てる点で共鳴する。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "don-quixote",
+      "toSlug": "one-hundred-years-of-solitude",
+      "reasonJa": "夢と現実が溶け合う世界の描き方に、キホーテの幻想性が通じる。マコンドの百年を変転する物語は、風車に突進する騎士の精神を受け継いでいる。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "don-quixote",
+      "toSlug": "the-great-gatsby",
+      "reasonJa": "夢に生き、夢に破れるデイジーへの幻想は、ドン・キホーテの理想主義と同型だ。霧の中の緑色の灯りを追い続ける姿に、騎士道物語の系譜が見える。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-idiot",
+      "toSlug": "don-quixote",
+      "reasonJa": "純粋すぎるために現実で空回りするムイシュキン公爵は、ドストエフスキーが意識したドン・キホーテの再来。善人と愚か者の境界を、二つの古典で比べて読める。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "faust",
+      "toSlug": "crime-and-punishment",
+      "reasonJa": "悪魔と契約し知識の果てを望むファウストは、超人の妄想に駆られるラスコーリニコフと響き合う。越境する知性の代償という主題を、両作で対比して読める。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "faust",
+      "toSlug": "the-strange-case-of-dr-jekyll-and-mr-hyde",
+      "reasonJa": "人と悪魔という二つの顔は、ジキル博士とハイド氏の変身と重なる。高みを目指した者が闇を飼いならす物語として、近代の二大『分身譚』を並べて味わえる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-moby-dick",
+      "toSlug": "faust",
+      "reasonJa": "全知全能への渇望を悪魔に託したファウストは、神を超える執念のエイハブ船長と通じる。過剰な意志が破滅へ至る古典的な悲劇の型を、両作で確認できる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-great-gatsby",
+      "toSlug": "faust",
+      "reasonJa": "自己を発明し、夢のためなら何でもするギャツビーは、現代のファウスト的魂だ。分不相応な上昇への希求が、財産と孤独にどう結実するかを見比べられる。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "dream-of-the-red-chamber",
+      "toSlug": "swanns-way",
+      "reasonJa": "一族の栄華と愛の記憶を細密に描くのは、プルーストの『失われた時を求めて』と酷似。貴顕のサロンと大観園、二人の作家が蒐集する回想のきらめきが響き合う。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "dream-of-the-red-chamber",
+      "toSlug": "the-great-gatsby",
+      "reasonJa": "賈家の隆盛と没落は、狂騒の一九二〇年代から崩れゆくギャツビーの世界と重なる。富がもたらす夢と虚しさの物語として、東西の古典を対で読める。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "dream-of-the-red-chamber",
+      "toSlug": "the-temple-of-the-golden-pavilion",
+      "reasonJa": "移ろいゆく美への執着と、その破壊という主題を三島は『金閣寺』で扱う。紅楼夢が描く花散る世界観に通じる耽美の感性を、現代日本文学でも味わえる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "one-hundred-years-of-solitude",
+      "toSlug": "dream-of-the-red-chamber",
+      "reasonJa": "一族の盛衰を百年にわたって描く構図は、紅楼夢の賈家の物語とそっくりだ。滅びゆく家系の運命と予言をめぐる叙事詩として、東西の大作を並べて読める。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-tale-of-genji",
+      "toSlug": "swanns-way",
+      "reasonJa": "繊細な恋情と移ろいゆく美を追う姿勢は、プルーストの記憶の文学と通底する。光源氏とスワン、二人の貴公子の恋愛遍歴を、時空を越えて並べて味わいたい。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-tale-of-genji",
+      "toSlug": "the-anna-karenina",
+      "reasonJa": "宮廷と恋の網の目に絡めとられる光源氏は、貴族社会の愛に縛られるアンナの姿と通じる。恋と社会の軋みを描く文学の系譜を、東西で比べて読める。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-tale-of-genji",
+      "toSlug": "kokoro",
+      "reasonJa": "日本文学の恋と孤独の系譜をたどるなら、源氏物語から漱石の『こころ』へ。平安の雅びから明治の自意識まで、日本人の心性の変遷を一望できる。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "snow-country",
+      "toSlug": "the-tale-of-genji",
+      "reasonJa": "川端康成の儚い恋の美学は、源氏物語にまで遡る日本的な抒情を受け継ぐ。雪国の夜と王朝の雅、異なる時代の美意識を対で味わえる。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "to-the-lighthouse",
+      "toSlug": "swanns-way",
+      "reasonJa": "ウルフが敬愛したプルーストの大作。意識の流れと記憶の時間を、灯台へよりも雄大に味わえる。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "to-the-lighthouse",
+      "toSlug": "the-remains-of-the-day",
+      "reasonJa": "記憶と喪失を静かな語りで綴るイシグロの傑作。灯台へが描く時間の堆積を別の角度から。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-death-of-artemio-cruz",
+      "toSlug": "to-the-lighthouse",
+      "reasonJa": "意識の流れで家族と革命を描くラテンアメリカ文学の読者に、ウルフの光と海の一日を。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "mrs-dalloway",
+      "toSlug": "swanns-way",
+      "reasonJa": "一日に凝縮された意識の連なり。同じ時間の感覚を、プルーストの大河でより深く体験できる。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "mrs-dalloway",
+      "toSlug": "the-heart-is-a-lonely-hunter",
+      "reasonJa": "上流社会の華やかさの裏にある孤独を描く点で、マッカラーズの南部小説と深く共鳴する。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-great-gatsby",
+      "toSlug": "mrs-dalloway",
+      "reasonJa": "ジャズエイジの華やかな社交と内面の虚しさを描いた読者に、ロンドンの一日を追う意識の流れを。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-sound-and-the-fury",
+      "toSlug": "one-hundred-years-of-solitude",
+      "reasonJa": "一族の興亡を時間崩壊の語りで描くフォークナーの実験作。マルケスが継承したマジックリアリズムへ。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-sound-and-the-fury",
+      "toSlug": "the-brothers-karamazov",
+      "reasonJa": "断片化した語りで家族の崩壊を描くフォークナー。ドストエフスキーの大河と多視点の伝統を比較できる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "pedro-paramo",
+      "toSlug": "the-sound-and-the-fury",
+      "reasonJa": "死者の声が交錯するメキシコの名作を読んだ人に、その語りの技法を極めたフォークナーを。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "journey-to-the-end-of-the-night",
+      "toSlug": "the-stranger",
+      "reasonJa": "戦争の虚無と社会への皮肉を突き詰めたセリーヌ。カミュの異邦人が不条理の系譜を継ぐ。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "journey-to-the-end-of-the-night",
+      "toSlug": "slaughterhouse-five",
+      "reasonJa": "戦争の無意味さをブラックユーモアで描く系譜。セリーヌの毒舌がヴォネガットに響く。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-trial",
+      "toSlug": "journey-to-the-end-of-the-night",
+      "reasonJa": "不条理と個人の無力感を味わった読者に、戦争と社会を呪いながら突き進むセリーヌの語りを。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "invisible-man",
+      "toSlug": "the-underground-railroad",
+      "reasonJa": "人種差別の現実を寓話的に描くエリスン。地下鉄道の逃亡に、黒人の自由への希求を重ねられる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "invisible-man",
+      "toSlug": "the-nickel-boys",
+      "reasonJa": "見えない人間の苦悩は、矯正施設の暴力と格闘する少年たちの物語へと、その火を確かに引き継いでいる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-fire-next-time",
+      "toSlug": "invisible-man",
+      "reasonJa": "黒人文学の熱を語るボールドウィンの読者に、語り手が見えないことの意味を問う傑作を。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "lolita",
+      "toSlug": "the-black-prince",
+      "reasonJa": "信頼できない語り手が美文で読者を惑わす構造。マードックの語りの迷宮も、同じ罠で読者を捉える。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "lolita",
+      "toSlug": "reading-lolita-in-tehran",
+      "reasonJa": "ロリータを読んだ人に、その作品の奥行きをテヘランの教室から語るナフィーシーの回想録を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-great-gatsby",
+      "toSlug": "lolita",
+      "reasonJa": "美しい言葉で語られる愛と欺瞞を描いた読者に、文体で読者を惑わせるナボコフの傑作を。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "one-day-in-the-life-of-ivan-denisovich",
+      "toSlug": "nothing-to-envy",
+      "reasonJa": "強制収容所の一日を淡々と描く告発。北朝鮮の日常を記録したノンフィクションと対で読める。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "one-day-in-the-life-of-ivan-denisovich",
+      "toSlug": "the-notes-from-the-dead-house",
+      "reasonJa": "収容所で人間を描いた文学の系譜。ドストエフスキーの監獄文学と比較しながら味わえる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-origins-of-totalitarianism",
+      "toSlug": "one-day-in-the-life-of-ivan-denisovich",
+      "reasonJa": "全体主義の理論を読んだ人に、その現実を一兵士の一日に凝縮したソルジェニーツィンを。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-old-man-and-the-sea",
+      "toSlug": "the-moby-dick",
+      "reasonJa": "大海と人間の矜持を描くヘミングウェイの名作。白鯨の壮大な海洋叙事詩と並べて読みたい。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-old-man-and-the-sea",
+      "toSlug": "into-the-wild",
+      "reasonJa": "自然と孤独に対峙する男の在り方。アラスカの荒野に消えた青年の記録は、老漁師の静かな闘いと深く重なる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-call-of-the-wild",
+      "toSlug": "the-old-man-and-the-sea",
+      "reasonJa": "自然の中で本能と矜持を問う物語を読んだ人に、海を相手に一人戦う老漁師の静かな闘いを。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "for-whom-the-bell-tolls",
+      "toSlug": "half-of-a-yellow-sun",
+      "reasonJa": "スペイン内戦で愛と使命に揺れる兵士。ナイジェリア内戦を描くアディーチェに戦争の時代を重ねられる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "for-whom-the-bell-tolls",
+      "toSlug": "the-beekeeper-of-alepoo",
+      "reasonJa": "戦火の中で愛と希望を失わない物語。シリア難民となった養蜂家の旅は、スペイン内戦の兵士と通底する。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-time-of-the-heroes",
+      "toSlug": "for-whom-the-bell-tolls",
+      "reasonJa": "暴力と権力の渦中で生きる人間を描いた読者に、スペイン内戦を生きたヘミングウェイの戦争小説を。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-golden-notebook",
+      "toSlug": "the-bell-jar",
+      "reasonJa": "女性の精神と創造の葛藤を描くレッシング。プラスの鐘の壺と並べて読めば、その内面の震えが響き合う。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-golden-notebook",
+      "toSlug": "girl-woman-other",
+      "reasonJa": "フェミニズムと実験形式を両立させた小説。現代のブッカー賞受賞作がその系譜を継ぐ。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-second-sex",
+      "toSlug": "the-golden-notebook",
+      "reasonJa": "フェミニズム思想を読んだ人に、実践としての女性の生を実験小説で描いたレッシングを。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "on-the-road",
+      "toSlug": "the-lincoln-highway",
+      "reasonJa": "アメリカ横断の旅と青春を描くケルアックの熱。1960年代の道を往くトウルズの物語へと受け継がれる。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "on-the-road",
+      "toSlug": "the-catcher-in-the-rye",
+      "reasonJa": "社会に馴染めない若者の放浪と孤独。ホールデンの反抗と、ビートの自由への衝動が深く呼応する。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "open-city",
+      "toSlug": "on-the-road",
+      "reasonJa": "都市を歩きながら記憶と思索を紡ぐ語りを読んだ人に、道そのものを生きるビートの旅を。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "one-flew-over-the-cuckoos-nest",
+      "toSlug": "the-bell-jar",
+      "reasonJa": "精神と自己の自由を描く文学作品。精神病棟の反逆と、鐘の壺に閉じ込められた内面が、鮮やかに対をなす。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "one-flew-over-the-cuckoos-nest",
+      "toSlug": "nineteen-eighty-four",
+      "reasonJa": "管理体制が個人を矯正する物語。病院という小さな全体主義とオーウェルの世界を重ねられる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-man-who-mistook-his-wife-for-a-hat",
+      "toSlug": "one-flew-over-the-cuckoos-nest",
+      "reasonJa": "精神医学の世界を描くノンフィクションの読者に、病棟の制度を問うたキージーの傑作を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "a-clockwork-orange",
+      "toSlug": "brave-new-world",
+      "reasonJa": "自由意志と幸福をめぐるディストピアの問い。ハクスリーの管理社会と、バージェスの暴力が対話する。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "a-clockwork-orange",
+      "toSlug": "the-warehouse",
+      "reasonJa": "管理と労働が人間を塗り替えるディストピア。現代の倉庫の世界にバージェスの問いを重ねられる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "nineteen-eighty-four",
+      "toSlug": "a-clockwork-orange",
+      "reasonJa": "管理社会が個人を矯正する物語を読んだ人に、暴力と自由意志を問うバージェスの傑作を。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-picture-of-dorian-gray",
+      "toSlug": "the-strange-case-of-dr-jekyll-and-mr-hyde",
+      "reasonJa": "美と悪が同居する魂の物語。ジキル博士の二重人格と並べて、19世紀の悪の系譜を味わう。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-picture-of-dorian-gray",
+      "toSlug": "the-temple-of-the-golden-pavilion",
+      "reasonJa": "美の破壊と美的倒錯を描く三島由紀夫。ワイルドの耽美に秘めた破滅と比較して読みたい。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "no-longer-human",
+      "toSlug": "the-picture-of-dorian-gray",
+      "reasonJa": "美しさと自己崩壊をめぐる文学の読者に、魂を肖像画に売り渡す青年の耽美的な物語へ誘う。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-wardrobe",
+      "toSlug": "the-hobbit",
+      "reasonJa": "異世界への入り口を開く児童ファンタジーの名作。ホビット荘の冒険と並べて楽しめる。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-wardrobe",
+      "toSlug": "the-great-divorce",
+      "reasonJa": "ナルニアの作者が書いたもう一つのファンタジー。宗教と自由をめぐる寓意で、世界観がより深まる。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-narnia-caspian",
+      "toSlug": "the-wardrobe",
+      "reasonJa": "ナルニア世界の続編を読んだ人に、シリーズの原点となる衣装だんすから始まる物語を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-collected-poems-of-sylvia-plath",
+      "toSlug": "the-white-book",
+      "reasonJa": "言葉で喪失を結晶させた詩人。ハン・ガンの『白』が、プラスの鋭い詩句と静かに呼応する。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-collected-poems-of-sylvia-plath",
+      "toSlug": "the-bell-jar",
+      "reasonJa": "詩の裏にあった精神の闘いを、小説という形で追体験できる。プラスの内面に触れたい人に。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-year-of-magical-thinking",
+      "toSlug": "the-collected-poems-of-sylvia-plath",
+      "reasonJa": "喪失を言葉で乗り越える作品を読んだ人に、詩と散文で死別を紡いだプラスの詩集をぜひ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-villette",
+      "toSlug": "the-jane-eyre",
+      "reasonJa": "自立する女性と密やかな愛を描くブロンテ。ヴィレットとジェイン・エアを並べて味わう。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-villette",
+      "toSlug": "the-pride-and-prejudice",
+      "reasonJa": "19世紀イギリスの恋愛と結婚をめぐる物語。ブロンテの内省にオースティンの機知を重ねる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-wuthering-heights",
+      "toSlug": "the-villette",
+      "reasonJa": "ブロンテ家の情熱とゴシックを読んだ人に、より内省的で孤独なヒロインの物語を味わってほしい。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-far-from-the-madding-crowd",
+      "toSlug": "the-tess-of-the-durbervilles",
+      "reasonJa": "田園を舞台に運命に翻弄される女性たち。ハーディの世界を、別の角度からゆっくり味わえる。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-far-from-the-madding-crowd",
+      "toSlug": "the-sense-and-sensibility",
+      "reasonJa": "田舎と恋愛を描く19世紀イギリス文学。オースティンの機知とハーディの抒情を比較できる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-pride-and-prejudice",
+      "toSlug": "the-far-from-the-madding-crowd",
+      "reasonJa": "恋愛と結婚をめぐる古典を読んだ人に、牧場を舞台に恋に揺れるハーディの物語をどうぞ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-bel-ami",
+      "toSlug": "the-great-gatsby",
+      "reasonJa": "女と権力で成り上がる男の物語。ギャツビーの栄光と没落と対比して読むとさらに面白い。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-bel-ami",
+      "toSlug": "the-sentimental-education",
+      "reasonJa": "19世紀パリで青年が社会に飲み込まれていく物語。フローベールの青春小説と並べて読もう。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-madame-bovary",
+      "toSlug": "the-bel-ami",
+      "reasonJa": "フランス自然主義の系譜を読む人に、モーパッサンが描く男の野心と上昇の物語を進める。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-stendhal-red-and-black",
+      "toSlug": "the-sentimental-education",
+      "reasonJa": "野心と恋愛に揺れる青年の物語。スタンダールのジュリヤンとフローベールの青年を比較する。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-stendhal-red-and-black",
+      "toSlug": "the-great-gatsby",
+      "reasonJa": "地方から上流社会へ駆け上がろうとする野心。ギャツビーとジュリヤンの挫折が重なる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-madame-bovary",
+      "toSlug": "the-stendhal-red-and-black",
+      "reasonJa": "19世紀フランスのリアリズムを味わった人に、野心と恋愛を描いたスタンダールの名作を。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-bouvard",
+      "toSlug": "don-quixote",
+      "reasonJa": "知識欲と現実の落差を笑い飛ばす物語。ドン・キホーテの遍歴とフローベールの知識喜劇が呼応する。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-bouvard",
+      "toSlug": "the-riddle-of-the-labyrinth",
+      "reasonJa": "学びと知性の限界を描く実験小説。ラスト・サムライの異才の少年と通じるテーマを持つ。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-book-of-laughter",
+      "toSlug": "the-bouvard",
+      "reasonJa": "笑いと知識をめぐる断章を書いた読者に、百科全書に挑戦する二人の男の喜劇をすすめたい。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-billy-budd",
+      "toSlug": "the-moby-dick",
+      "reasonJa": "海と人間の善悪を描くメルヴィル。白鯨の叙事詩と並べて、晩年の寓話をじっくり味わえる。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-billy-budd",
+      "toSlug": "the-scarlet-letter",
+      "reasonJa": "罪と良心を問う19世紀アメリカ文学。ホーソーンの緋文字とメルヴィルの善悪を比較する。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-heart-of-darkness",
+      "toSlug": "the-billy-budd",
+      "reasonJa": "善悪と文明の闇を描いたコンラッドの読者に、海軍の船上で善悪が対決するメルヴィルを。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-house-of-the-seven-gables",
+      "toSlug": "the-scarlet-letter",
+      "reasonJa": "罪と一族の宿業を描くホーソーン。緋文字と合わせて、そのゴシックの世界観を味わう。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-house-of-the-seven-gables",
+      "toSlug": "the-wuthering-heights",
+      "reasonJa": "呪われた家と因縁の連鎖を描く物語。嵐が丘と七破風の家の暗く重い気配が深く通じ合う。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-strange-case-of-dr-jekyll-and-mr-hyde",
+      "toSlug": "the-house-of-the-seven-gables",
+      "reasonJa": "罪と秘密をめぐるゴシックを読んだ人に、一族の呪いを描くホーソーンの傑作をぜひどうぞ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-red-badge-of-courage",
+      "toSlug": "half-of-a-yellow-sun",
+      "reasonJa": "戦場で青年が勇気と恐怖を学ぶ物語。南北戦争とビアフラ戦争の内面が深く重なり合う。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-red-badge-of-courage",
+      "toSlug": "the-time-of-the-heroes",
+      "reasonJa": "暴力と訓練の中で青年が試される物語。クレインとリョサの兵士像をじっくり比較できる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-sympathizer",
+      "toSlug": "the-red-badge-of-courage",
+      "reasonJa": "戦争が人間の内面を変える様を描いた読者に、南北戦争の臆病な兵士の心理描写を味わおう。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-last-of-the-mohicans",
+      "toSlug": "the-huckleberry-finn",
+      "reasonJa": "荒野と大河を舞台にしたアメリカの冒険。ミシシッピ川の筏の旅と並べて読むと楽しい。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-last-of-the-mohicans",
+      "toSlug": "the-heart-of-darkness",
+      "reasonJa": "辺境へ向かう旅と人間の闇。クーパーの冒険から、コンラッドの深い内面の旅へと誘う。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-adventures-of-tom-sawyer",
+      "toSlug": "the-last-of-the-mohicans",
+      "reasonJa": "アメリカの少年冒険物語を読んだ人に、先住民と森を舞台にしたクーパーの古典をどうぞ。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-ivanhoe",
+      "toSlug": "don-quixote",
+      "reasonJa": "騎士と身分をめぐる物語。ドン・キホーテの風刺と、スコットの騎士道ロマンスを対比できる。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-ivanhoe",
+      "toSlug": "the-memoirs-of-hadrian",
+      "reasonJa": "歴史と権力の内面を描く小説。中世騎士の世界から、ローマ皇帝の回想へと広がっていく。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-captains-daughter",
+      "toSlug": "the-ivanhoe",
+      "reasonJa": "歴史の渦に巻き込まれる青年を描いた読者に、騎士道時代を活写したスコットの歴史小説を。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-waverley",
+      "toSlug": "the-captains-daughter",
+      "reasonJa": "歴史の動乱に流される青年の物語。プーシキンのロシアとスコットのスコットランドが重なる。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-waverley",
+      "toSlug": "the-war-and-peace",
+      "reasonJa": "歴史の波に個人が飲み込まれていく大河小説。トルストイがスコットの系譜をしっかり受け継ぐ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-colors-of-the-flag",
+      "toSlug": "the-waverley",
+      "reasonJa": "時代と個人の運命を描くドイツ文学の読者に、歴史小説の祖スコットの代表作をどうぞ。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-northanger-abbey",
+      "toSlug": "the-pride-and-prejudice",
+      "reasonJa": "オースティンの機知と恋愛を味わうなら、ゴシックへの皮肉も効いた初期作から正統派へ。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-northanger-abbey",
+      "toSlug": "the-jane-eyre",
+      "reasonJa": "ゴシックの雰囲気とヒロインの恋。オースティンの茶化しに、ブロンテの本物のゴシックを。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-sense-and-sensibility",
+      "toSlug": "the-northanger-abbey",
+      "reasonJa": "オースティンの恋愛喜劇を読んだ人に、ゴシック小説を皮肉る痛快な初期作をすすめたい。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-persuasion",
+      "toSlug": "the-pride-and-prejudice",
+      "reasonJa": "オースティンの恋愛と結婚をめぐる物語。再会の恋という味わいを正統派でしっかり満たせる。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-persuasion",
+      "toSlug": "the-sense-and-sensibility",
+      "reasonJa": "沈黙と心変わりを描く恋愛小説。感情と理性の対立を描くオースティン作品と深く通じる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-emma",
+      "toSlug": "the-persuasion",
+      "reasonJa": "オースティンの機知を楽しんだ人に、取り戻せなかった恋を静かに描く晩年の名作をどうぞ。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-cranford",
+      "toSlug": "the-little-women",
+      "reasonJa": "女性たちの暮らしと絆を描く物語。四姉妹の成長とクランフォードの町の笑いが通じる。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-cranford",
+      "toSlug": "the-emma",
+      "reasonJa": "田舎町の人間模様とユーモア。オースティンの機知とギャスケルの温かい眼差しが響く。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-crow-road",
+      "toSlug": "the-cranford",
+      "reasonJa": "ユーモアと地方の人間模様を描くスコットランド文学の読者に、女性たちの町の物語を。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-north-and-south",
+      "toSlug": "the-grapes-of-wrath",
+      "reasonJa": "産業化と貧困のなかで生きる人々の物語。イギリスとアメリカの階級格差を比較できる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-north-and-south",
+      "toSlug": "the-white-tiger",
+      "reasonJa": "階級の壁と野心を描く現代小説。インドのカーストとヴィクトリア朝の格差が呼応する。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "a-fine-balance",
+      "toSlug": "the-north-and-south",
+      "reasonJa": "社会の底辺と個人の尊厳を描く大河小説の読者に、産業革命下の恋と階級の物語をすすめる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-life-of-the-mind",
+      "toSlug": "the-human-condition",
+      "reasonJa": "アーレントの思索をさらに深めるなら、活動と労働を論じた主著を併読するのがおすすめ。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-life-of-the-mind",
+      "toSlug": "the-origins-of-totalitarianism",
+      "reasonJa": "精神の活動を論じる前に、全体主義を生んだ条件を問うた著作でしっかり土台を作っておける。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "eichmann-in-jerusalem",
+      "toSlug": "the-life-of-the-mind",
+      "reasonJa": "悪の凡庸さを論じた読者に、思考・意志・判断をテーマにした晩年の思索へと誘う一冊を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-sea",
+      "toSlug": "the-remains-of-the-day",
+      "reasonJa": "記憶と喪失を静かに紡ぐブッカー賞作家。イシグロの回想とバンヴィルの追憶が交差する。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-sea",
+      "toSlug": "swanns-way",
+      "reasonJa": "海辺の記憶をたどる時間の物語。プルーストの記憶のメカニズムと通じる叙情が宿っている。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-sea-the-sea",
+      "toSlug": "the-sea",
+      "reasonJa": "海を題材にした小説を読んだ人に、海辺の記憶をめぐるバンヴィルのブッカー賞作をどうぞ。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "atonement",
+      "toSlug": "half-of-a-yellow-sun",
+      "reasonJa": "罪と戦争が人生を分かつ物語。マキューアンの贖罪とアディーチェの内戦を重ねられる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "atonement",
+      "toSlug": "the-remains-of-the-day",
+      "reasonJa": "過去の罪と回想をめぐるイギリス文学。イシグロの名作と併読して記憶の重みを味わう。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-sympathizer",
+      "toSlug": "atonement",
+      "reasonJa": "罪とアイデンティティの重層を描いた読者に、誤った証言が人生を変える贖罪をすすめる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-line-of-beauty",
+      "toSlug": "on-earth-were-briefly-gorgeous",
+      "reasonJa": "クィアの主人公が愛と階級を生きる物語。ヴォンの抒情とホリングハーストの文体が通じる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-line-of-beauty",
+      "toSlug": "the-great-gatsby",
+      "reasonJa": "上流社会の魅力と欺瞞を内側から描く小説。サッチャー時代のロンドンとジャズエイジが重なる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "a-little-life",
+      "toSlug": "the-line-of-beauty",
+      "reasonJa": "友情と苦しみを描く現代文学を読んだ人に、1980年代ロンドンのゲイの青年の物語を。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "wolf-hall",
+      "toSlug": "the-feast-of-the-goat",
+      "reasonJa": "権力の内側に肉薄する歴史小説。トマス・クロムウェルと独裁者の側近を対比して読める。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "wolf-hall",
+      "toSlug": "the-memoirs-of-hadrian",
+      "reasonJa": "権力者の内面を描く歴史小説の系譜。マンテルの宮廷とユルスナールのローマが響き合う。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "my-name-is-red",
+      "toSlug": "wolf-hall",
+      "reasonJa": "歴史のなかで芸術と殺人が交錯する物語を読んだ人に、トューダー朝の権力闘争をどうぞ。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-bee-sting",
+      "toSlug": "shuggie-bain",
+      "reasonJa": "経済破綻に揺れる家族の崩壊と再生を描くブッカー賞長編。スコットランドの少年の物語と、家族の傷に正面から向き合う系譜が続く。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-bee-sting",
+      "toSlug": "a-fine-balance",
+      "reasonJa": "格差と社会の荒波に翻弄される人々の大河。アイルランドの一家とインドの四人、違う大陸で同じく生を繋ぐ物語が響き合う。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "normal-people",
+      "toSlug": "the-bee-sting",
+      "reasonJa": "現代アイルランド文学の世代を超えた系譜。日常の繊細さを描くルーニーから、危機に揺れる大家族の叙事的な物語へ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "small-things-like-these",
+      "toSlug": "the-remains-of-the-day",
+      "reasonJa": "沈黙する主人公が抱える職務と良心。小さな町の修道院と英国の屋敷、抑制された筆致で問いかける静かな傑作同士。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "small-things-like-these",
+      "toSlug": "the-buried-giant",
+      "reasonJa": "共同体が記憶を忘れることの代償を静かに問う寓話。アイルランドの小さな町の良心と、イシグロの霧の国が重なり合う。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "normal-people",
+      "toSlug": "small-things-like-these",
+      "reasonJa": "現代アイルランド文学の静かな傑作。日常の細やかな感情を描くルーニーから、小さな町の良心を問うキーガンの小説へ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "open-city",
+      "toSlug": "the-lonely-city",
+      "reasonJa": "ニューヨークの街を歩き、孤独と芸術をめぐって思索する二冊。医学生の記憶の散歩と、アーティストたちの孤独論が静かに響き合う。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "open-city",
+      "toSlug": "season-of-migration-to-the-north",
+      "reasonJa": "西洋に渡ったアフリカ知識人の眼差し。ニューヨークを歩く医学生とロンドンに渡ったスーダン人、植民地の記憶を抱える二つの魂。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "americanah",
+      "toSlug": "open-city",
+      "reasonJa": "ナイジェリア出身者の視点からアメリカを描く文学。移民のアイデンティティを描くアディーチェから、都市を彷徨う思索小説へ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-novelist",
+      "toSlug": "outline",
+      "reasonJa": "プロットを排し、語りと対話だけで小説を作る実験性。SNS時代の作家を描く小説と、インタビュー形式のカスクが呼応する。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-novelist",
+      "toSlug": "too-loud-a-solitude",
+      "reasonJa": "本と執筆に取り憑かれた語り手のモノローグ。SNSに溺れる現代の作家と、廃品場で本を救う男——書くことへの執念。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "cloud-atlas",
+      "toSlug": "the-novelist",
+      "reasonJa": "小説の形式を解体・再構築する実験文学。入れ子構造の大作から、SNS時代の作家を描くミニマルな実験小説へ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "trust",
+      "toSlug": "the-great-gatsby",
+      "reasonJa": "富と権力が生み出す虚構の人生。大恐慌時代の資本を描くトラストと、狂騒の二十年代のギャツビーが時代を超えて照応する。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "trust",
+      "toSlug": "debt-the-first-5000-years",
+      "reasonJa": "資本と負債の物語をめぐる対話。金融資本の虚構を描く小説と、貨幣の五千年史を論じる思想書が交差する。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-gods-of-money",
+      "toSlug": "trust",
+      "reasonJa": "資本の歴史から、資本の虚構を描く小説へ。金融の進化を扱うファーガソンと、多視点で財閥を暴くディアス。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "demon-copperhead",
+      "toSlug": "the-grapes-of-wrath",
+      "reasonJa": "貧困と格差に抗うアメリカの物語。アパラチアの少年の成長と、大恐慌を逃れて西へ向かう一家——社会派小説の系譜。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "demon-copperhead",
+      "toSlug": "educated",
+      "reasonJa": "荒んだ家庭で育ち、教育で自分を立て直す物語。フィクションと自伝、二つの形で語られるアメリカの格差と再生。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "evicted",
+      "toSlug": "demon-copperhead",
+      "reasonJa": "現代アメリカの貧困を描く対。家を追われる人々のルポと、アパラチアの少年の物語——格差の現実を二つの角度から。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-book-of-form-and-emptiness",
+      "toSlug": "piranesi",
+      "reasonJa": "喪失の後に広がる異界の寓話。物の声が聞こえる少年と、無限の館に住む男——記憶と孤独をめぐる現代の幻想文学。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-book-of-form-and-emptiness",
+      "toSlug": "the-memory-police",
+      "reasonJa": "消えゆく記憶と向き合う静かな物語。父を喪った少年の世界と、記憶を奪われる島の寓話が喪失の形を問い直す。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-year-of-magical-thinking",
+      "toSlug": "the-book-of-form-and-emptiness",
+      "reasonJa": "喪失の後の心のあり方を描く対。夫の死を綴るノンフィクションから、父の死を幻想小説へ昇華した現代文学へ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "a-town-called-solace",
+      "toSlug": "seven-empty-houses",
+      "reasonJa": "日常の奥に潜む不気味さと喪失。カナダの小さな町とアルゼンチンの空き家——静かな不安を描く現代文学。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "a-town-called-solace",
+      "toSlug": "the-year-of-magical-thinking",
+      "reasonJa": "喪失と悲しみを静かに見つめる物語。隣人の失踪を抱えた少女と、夫を喪った作家——悲しみの異なる語り。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "shuggie-bain",
+      "toSlug": "a-town-called-solace",
+      "reasonJa": "家族の崩壊と喪失を描く現代の静かな物語。グラスゴーの少年とカナダの少女、壊れゆく家庭で育つ子供たちの眼差し。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-warehouse",
+      "toSlug": "nineteen-eighty-four",
+      "reasonJa": "監視と管理が行き届いた社会のディストピア。巨大倉庫の労働とビッグブラザーの監視——抑圧の描き方の系譜。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-warehouse",
+      "toSlug": "brave-new-world",
+      "reasonJa": "効率と幸福の名の下に自由が奪われる世界。巨大企業の倉庫と快楽で支配する社会——管理社会の二つの形。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-handmaids-tale",
+      "toSlug": "the-warehouse",
+      "reasonJa": "全体主義的な権力構造を描くディストピアの現代的展開。身体を管理する社会から、労働を管理する社会へ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "girl-in-translation",
+      "toSlug": "americanah",
+      "reasonJa": "移民の女性が教育と社会で成長する物語。香港の工場からアメリカへ渡った少女と、ナイジェリアから渡った主人公。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "girl-in-translation",
+      "toSlug": "educated",
+      "reasonJa": "貧しさから学びで抜け出す女性の物語。中国系移民の少女と山奥で育ったタラ——教育が人生を変える実話の系譜。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "i-am-malala",
+      "toSlug": "girl-in-translation",
+      "reasonJa": "困難を乗り越えて学ぶ少女たちの物語。銃撃されたマララと、工場で働きながら英語を学ぶ少女——教育の力。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-botanists-daughter",
+      "toSlug": "the-luminaries",
+      "reasonJa": "十九世紀の英国植民地を舞台にした謎解きの物語。オーストラリアの植物学者とニュージーランドの金鉱の町——歴史ミステリの双璧。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-botanists-daughter",
+      "toSlug": "voss",
+      "reasonJa": "オーストラリアの自然と探検を描く文学。植物を追う娘の冒険と、砂漠へ消えるヴォス——荒野の大陸の物語。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-island-of-sea-women",
+      "toSlug": "the-botanists-daughter",
+      "reasonJa": "歴史のなかを生き抜く女性たちの物語。チェジュ島の海女とオーストラリアの植物学者——時代に縛られた女性の挑戦。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-lost-words",
+      "toSlug": "the-riddle-of-the-labyrinth",
+      "reasonJa": "言葉の起源と辞書をめぐる物語。オックスフォード英語辞典の誕生を描く小説と、線文字B解読の記録——言語の謎。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-lost-words",
+      "toSlug": "my-name-is-red",
+      "reasonJa": "歴史のなかで言葉と芸術が生まれる瞬間。辞書編纂の小説とオスマン細密画の小説——ものづくりの歴史小説。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-vermeer-hat",
+      "toSlug": "the-lost-words",
+      "reasonJa": "言葉と歴史の謎を解き明かす対。十七世紀の絵画から世界史を読むノンフィクションから、辞書編纂の歴史小説へ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-snow-hunter",
+      "toSlug": "the-luminaries",
+      "reasonJa": "十八、九世紀を舞台にした謎と女性の物語。凍る川の街と金鉱の町——歴史ミステリの系譜で謎解きの快楽を。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-snow-hunter",
+      "toSlug": "the-tess-of-the-durbervilles",
+      "reasonJa": "十九世紀を生きる女性の運命を描く物語。氷の川で謎に挑む猟師と、社会に翻弄されるテス——女性の悲劇の系譜。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "my-name-is-red",
+      "toSlug": "the-snow-hunter",
+      "reasonJa": "歴史のなかで謎に挑む人々の物語。オスマンの殺人事件から、十八世紀の川の秘密へ——歴史ミステリの伝統。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-lessons-of-the-river",
+      "toSlug": "the-member-of-the-wedding",
+      "reasonJa": "思春期の少女の繊細な内面を描く物語。インドの川辺とアメリカ南部——孤独な少女の成長をめぐる二つの傑作。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-lessons-of-the-river",
+      "toSlug": "the-god-of-small-things",
+      "reasonJa": "インドの社会と子供時代を描く文学。英国統治下の川辺の町とケーララの幼い兄妹——インドをめぐる物語の対話。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-little-women",
+      "toSlug": "the-lessons-of-the-river",
+      "reasonJa": "少女たちの成長と家族の物語。アメリカの四姉妹とインドの少女——時代と場所を超えて重なる思春期の輝き。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-captains-daughter",
+      "toSlug": "the-war-and-peace",
+      "reasonJa": "ロシアの歴史と個人の運命を描く小説。プーシキンの農民反乱からトルストイの戦争へ——ロシア歴史小説の系譜。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-captains-daughter",
+      "toSlug": "the-anna-karenina",
+      "reasonJa": "ロシア文学の恋愛と社会を描く古典。プーシキンの純愛とトルストイの不倫——十九世紀ロシアの恋愛の二つの形。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-fathers-and-sons",
+      "toSlug": "the-captains-daughter",
+      "reasonJa": "ロシア文学の入口にふさわしい二冊。ツルゲーネフの世代論から、歴史と恋愛を織り込んだプーシキンへ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-time-machine-matters",
+      "toSlug": "the-anna-karenina",
+      "reasonJa": "十九世紀の社会と結婚を描く大長編。英国の田舎町の群像とロシア貴族の恋愛——人間社会の全体像を描く双璧。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-time-machine-matters",
+      "toSlug": "the-pride-and-prejudice",
+      "reasonJa": "十九世紀イギリスの地方社会と恋愛を描く小説。ミドルマーチの群像劇と、オースティンの機知が同じ時代を照らす。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-madame-bovary",
+      "toSlug": "the-time-machine-matters",
+      "reasonJa": "十九世紀の地方社会と女性を描くリアリズム。フロベールの田舎町と、エリオットの英国町——社会小説の双璧。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-house-on-the-gulf",
+      "toSlug": "the-handmaids-tale",
+      "reasonJa": "アトウッドの手がけたSFの別の顔。全体主義国家の物語から、遺伝子操作と家族をめぐる作品へ——作家の幅を知る。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-house-on-the-gulf",
+      "toSlug": "never-let-me-go",
+      "reasonJa": "遺伝子と運命を背負わされた存在の物語。SFの枠組みで人間とは何かを問う、静かな反響を呼ぶ二作。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-the-midwich-cuckoos",
+      "toSlug": "the-house-on-the-gulf",
+      "reasonJa": "特別な子供たちと家族をめぐるSF。外部の力で変えられる子供の物語から、遺伝子をめぐる家族の物語へ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-undoing-project",
+      "toSlug": "thinking-fast-and-slow",
+      "reasonJa": "カーネマンとトヴェルスキーの発見を物語るノンフィクションから、その主著へ。二人の思考を原典で深める一歩。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-undoing-project",
+      "toSlug": "the-blink",
+      "reasonJa": "人間の意思決定の裏側を描くノンフィクション。直感の力と心理学の誕生——決断の謎を二つの視点から。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "outliers",
+      "toSlug": "the-undoing-project",
+      "reasonJa": "成功と意思決定をめぐる物語性のあるノンフィクション。グラッドウェルの成功論から、カーネマンとトヴェルスキーへ。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "guns-germs-and-steel",
+      "toSlug": "sapiens",
+      "reasonJa": "文明の成り立ちを問う二大ベストセラー。環境と地理で人類史を説くダイアモンドから、虚構の力で語るハラリへ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "guns-germs-and-steel",
+      "toSlug": "the-sixth-extinction",
+      "reasonJa": "人類と環境の歴史を問うピューリッツァー賞ノンフィクション。文明の興亡から絶滅の歴史へ——地球規模の視点。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-enlightenment-now",
+      "toSlug": "guns-germs-and-steel",
+      "reasonJa": "人類の進歩と文明をめぐる大きな物語。理性の進歩を擁護するピンカーから、文明の起源を地理に求めるダイアモンドへ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-immortal-life-of-henrietta-lacks",
+      "toSlug": "the-hidden-figures",
+      "reasonJa": "科学の世界で人種の壁に挑んだ女性たちの物語。細胞を盗まれた黒人女性と、NASAの計算を担った黒人女性たち。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-immortal-life-of-henrietta-lacks",
+      "toSlug": "the-complications",
+      "reasonJa": "医療と倫理の境界を問うノンフィクション。患者の身体をめぐる倫理から、医療の失敗と現実を描く外科医の手記へ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "when-breath-becomes-air",
+      "toSlug": "the-immortal-life-of-henrietta-lacks",
+      "reasonJa": "病と命に向き合う人々の物語。余命宣告を受けた医師の手記と、細胞で生き続ける女性の物語——医療と人間の交差点。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-man-who-mistook-his-wife-for-a-hat",
+      "toSlug": "the-body-keeps-the-score",
+      "reasonJa": "心と脳の不思議を描くノンフィクション。神経症例の物語と、トラウマが身体に刻まれる科学——人間の内面を診る。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-man-who-mistook-his-wife-for-a-hat",
+      "toSlug": "the-madness-and-civilization",
+      "reasonJa": "狂気と心の病をめぐる古典。脳科学の症例集から、狂気の歴史と権力の系譜へ——人間の精神を問う二つの道。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-sleeping-lady",
+      "toSlug": "the-man-who-mistook-his-wife-for-a-hat",
+      "reasonJa": "医師が人間の生と死を見つめるノンフィクション。老いと死を扱うガワンデから、脳の奇妙な症例を綴るサックスへ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "stumbling-on-happiness",
+      "toSlug": "the-four-tendencies",
+      "reasonJa": "幸福の科学をめぐる二冊。幸福を予測する想像力の歪みを論じるギルバートと、幸福の条件を問うハイトが呼応する。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "stumbling-on-happiness",
+      "toSlug": "thinking-fast-and-slow",
+      "reasonJa": "人間の認知の癖を明かす心理学の二大著。幸福の予測が外れる仕組みから、思考のバイアスの全体像へ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-geography-of-thought",
+      "toSlug": "stumbling-on-happiness",
+      "reasonJa": "人間の思考と感情を科学する心理学。文化で変わる思考法と、幸福の予測のズレ——心の科学の二つの入口。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-power-of-habit",
+      "toSlug": "the-tipping-point",
+      "reasonJa": "人の行動がどう変わるかを解き明かす人気ノンフィクション。習慣のメカニズムと流行の臨界点——行動科学の面白さ。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-power-of-habit",
+      "toSlug": "outliers",
+      "reasonJa": "成功と行動の仕組みを語るベストセラー。習慣が成功をどう作るか、成功者の環境——自己啓発の入り口として。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-blink",
+      "toSlug": "the-power-of-habit",
+      "reasonJa": "無意識の行動を科学するノンフィクション。一瞬の直感と、習慣という自動化された行動——人間の思考の裏側。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-checklist-manifesto",
+      "toSlug": "the-complications",
+      "reasonJa": "ガワンデが医療の現場を描く二冊。チェックリストの実践から、外科医の失敗と倫理へ——同じ作家の視点で医療を考える。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-checklist-manifesto",
+      "toSlug": "when-breath-becomes-air",
+      "reasonJa": "医療の現場で命と向き合うノンフィクション。医療を改善する実践書から、余命を宣告された医師の手記へ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-sleeping-lady",
+      "toSlug": "the-checklist-manifesto",
+      "reasonJa": "ガワンデが終末期医療を語る一冊。医療を守る実践から、死のあり方を考える思考へ——著者の視点の広がり。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-gene-an-intimate-history",
+      "toSlug": "the-chaos",
+      "reasonJa": "科学の歴史を物語るノンフィクション。遺伝子の歴史とカオス理論の発見——科学革命をめぐる二つの語り。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-gene-an-intimate-history",
+      "toSlug": "the-body-keeps-the-score",
+      "reasonJa": "生命科学と人間の苦しみをめぐるノンフィクション。遺伝子の歴史から、トラウマが身体に刻まれる科学へ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "when-breath-becomes-air",
+      "toSlug": "the-gene-an-intimate-history",
+      "reasonJa": "病と遺伝子をめぐる科学の物語。命を終える医師の手記から、遺伝子の歴史という壮大な物語へ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-emperor-of-all-maladies",
+      "toSlug": "when-breath-becomes-air",
+      "reasonJa": "癌と医師をめぐる二冊。がんの歴史という大著から、自ら癌に倒れた医師の手記へ——命と医療を二つの視点で。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-emperor-of-all-maladies",
+      "toSlug": "the-sleeping-lady",
+      "reasonJa": "医療と死をめぐるノンフィクション。がんの歴史と、老いと死の医療——命の終わりを考える二つの視点。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-complications",
+      "toSlug": "the-emperor-of-all-maladies",
+      "reasonJa": "医療の光と影を描くノンフィクション。外科医の失敗の告白から、がん医療の歴史という大著へ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-right-stuff",
+      "toSlug": "the-hidden-figures",
+      "reasonJa": "宇宙開発をめぐるノンフィクションの双璧。テストパイロットとNASAの計算手——宇宙を目指した人々の物語。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-right-stuff",
+      "toSlug": "into-the-wild",
+      "reasonJa": "挑戦と自由を求めるアメリカンの物語。宇宙へ挑むパイロットたちと、文明から逃れた青年——自由の系譜。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-cosmos",
+      "toSlug": "the-right-stuff",
+      "reasonJa": "宇宙への憧れをめぐる科学と冒険。宇宙の歴史を語るセーガンから、宇宙へ挑んだ人々のノンフィクションへ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-looming-tower",
+      "toSlug": "the-origins-of-totalitarianism",
+      "reasonJa": "暴力と全体主義の系譜をたどる二冊。九・一一の背景を描くルポと、全体主義の起源を論じるアーレント。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-looming-tower",
+      "toSlug": "the-beekeeper-of-alepoo",
+      "reasonJa": "中東の戦乱と難民を描く物語。九・一一から続く戦争のルポと、シリアから逃れた養蜂家の小説——中東の現代史。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-sympathizer",
+      "toSlug": "the-looming-tower",
+      "reasonJa": "戦争と国家の暴力を描く対。ベトナム戦争のスパイ小説から、九・一一をめぐるルポルタージュへ——戦争の傷。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "nothing-to-envy",
+      "toSlug": "the-origins-of-totalitarianism",
+      "reasonJa": "全体主義の理論と実態を描く対。北朝鮮の日常というルポと、全体主義の起源を問う思想書が照応する。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "nothing-to-envy",
+      "toSlug": "reading-lolita-in-tehran",
+      "reasonJa": "閉ざされた社会で生きる人々の記録。北朝鮮の市民とイランの教室——検閲と抑圧のなかで生きる日常。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "i-am-malala",
+      "toSlug": "nothing-to-envy",
+      "reasonJa": "抑圧された社会を生き延びた女性たちの物語。銃撃されたマララと、北朝鮮を脱出した人々——自由への渇望。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-new-york-times-street-smart",
+      "toSlug": "the-mythologies",
+      "reasonJa": "大衆文化を読み解く二つの試み。アメリカのコメディ史と、フランスの神話作用——笑いと文化の記号を分析。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-new-york-times-street-smart",
+      "toSlug": "the-tipping-point",
+      "reasonJa": "文化現象の流行と仕組みを分析するノンフィクション。スタンダップコメディの歴史から、流行の法則へ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-lonely-city",
+      "toSlug": "the-new-york-times-street-smart",
+      "reasonJa": "ニューヨークの文化と孤独を描くエッセイ。街の芸術家たちの孤独と、NYのコメディ史——都市文化の二つの物語。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-soul-of-a-new-machine",
+      "toSlug": "the-hidden-figures",
+      "reasonJa": "コンピュータと宇宙開発の現場を描くノンフィクション。ミニコンの開発チームと、NASAの計算手たち——技術者の情熱。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-soul-of-a-new-machine",
+      "toSlug": "the-chaos",
+      "reasonJa": "科学と技術の最前線を描くピューリッツァー賞ノンフィクション。コンピュータ開発の現場と、カオス理論の誕生。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-order-of-genius",
+      "toSlug": "the-soul-of-a-new-machine",
+      "reasonJa": "天才と技術の物語を描くノンフィクション。科学者の伝記から、エンジニアたちの開発現場へ——知の冒険。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-battle-of-the-labyrinth",
+      "toSlug": "sapiens",
+      "reasonJa": "人類史と文明の起源を問い直すノンフィクション。コロンブス以前のアメリカと、サピエンス全史——文明の物語を書き直す。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-battle-of-the-labyrinth",
+      "toSlug": "the-sixth-extinction",
+      "reasonJa": "人間と環境の歴史をめぐるピューリッツァー級ノンフィクション。先住民の環境史から、絶滅の歴史へ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-enlightenment-now",
+      "toSlug": "the-battle-of-the-labyrinth",
+      "reasonJa": "人間と文明の進歩をめぐる大きな物語。理性と進歩を擁護するピンカーから、コロンブス以前を再評価するマンへ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-civilization",
+      "toSlug": "sapiens",
+      "reasonJa": "文明の興亡と比較をめぐるノンフィクション。西洋の優位を検証するファーガソンと、人類史を描くハラリ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-civilization",
+      "toSlug": "the-gods-of-money",
+      "reasonJa": "ファーガソンが歴史を語る二冊。西洋文明の繁栄と金融の歴史——同じ著者による歴史の二つの切り口。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-gods-of-money",
+      "toSlug": "the-civilization",
+      "reasonJa": "資本主義と文明をめぐるファーガソンの歴史観。マネーの進化史から西洋文明の興亡へ——経済からの歴史。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-physics-of-the-future",
+      "toSlug": "seven-brief-lessons-on-physics",
+      "reasonJa": "物理学の面白さを伝える二冊。未来の技術を予測するカクと、現代物理を短く語るロヴェッリ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-physics-of-the-future",
+      "toSlug": "the-cosmos",
+      "reasonJa": "科学と宇宙の未来をめぐるノンフィクション。未来の技術予測から、宇宙の歴史を語るセーガンへ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-pale-blue-dot",
+      "toSlug": "the-physics-of-the-future",
+      "reasonJa": "科学が拓く宇宙と未来の物語。地球を見つめるセーガンから、未来の技術を予測するカクへ——科学の視座。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-singularity-is-near",
+      "toSlug": "the-2001-a-space-odyssey",
+      "reasonJa": "人工知能と人類の未来を問う作品。AIの到来を予測する論考から、AIと対話する宇宙の古典SFへ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-singularity-is-near",
+      "toSlug": "do-androids-dream-of-electric-sheep",
+      "reasonJa": "機械と人間の境界を考える二作。シンギュラリティの予測と、アンドロイドの感情——AIと人間性の問い。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "klara-and-the-sun",
+      "toSlug": "the-singularity-is-near",
+      "reasonJa": "人工知能の未来を文学と科学で読む。AIの無垢な視点を描く小説から、技術の特異点を予測する論考へ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "no-map-to-south",
+      "toSlug": "half-of-a-yellow-sun",
+      "reasonJa": "アフリカの戦争と人々を描く二作。シエラレオネの少年兵の自伝と、ナイジェリア内戦の小説——現代アフリカの傷。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "no-map-to-south",
+      "toSlug": "i-am-malala",
+      "reasonJa": "困難な時代を生き延びた若者の自伝。少年兵だったベアと、銃撃から生還したマララ——子どもと戦争の物語。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "things-fall-apart",
+      "toSlug": "no-map-to-south",
+      "reasonJa": "アフリカの近代と暴力を描く文学の系譜。植民地支配の古典から、シエラレオネ内戦の少年兵の自伝へ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-sheep-and-the-rain",
+      "toSlug": "to-live",
+      "reasonJa": "中国の動乱を庶民の生から描く作品。野生の白鳥で家族の歴史を読んだなら、同じ中国を生き抜く人々の物語へ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-sheep-and-the-rain",
+      "toSlug": "i-am-malala",
+      "reasonJa": "歴史に翻弄されながらも強く生きた女性の自伝。野生の白鳥に続けて、教育と自由を求めた少女の実話を読める。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "educated",
+      "toSlug": "the-sheep-and-the-rain",
+      "reasonJa": "家族の出自を書き綴る自伝が好きなら、中国の大変動を三代にわたって生き抜いた野生の白鳥も同じ深さで読める。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-protestant-ethic",
+      "toSlug": "the-gods-of-money",
+      "reasonJa": "資本主義の精神の由来を問うヴェーバーに、貨幣と金融の5000年を辿る経済史を重ねれば近代への理解が深まる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-protestant-ethic",
+      "toSlug": "the-civilization",
+      "reasonJa": "近代資本主義がなぜ西洋で生まれたかを比較文明史で論じる一冊。ヴェーバーと同じ謎を歴史の側面から追える。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "debt-the-first-5000-years",
+      "toSlug": "the-protestant-ethic",
+      "reasonJa": "資本主義批判や貨幣史に興味を持つ読者には、資本主義の精神的な土台を分析したヴェーバーの古典がおすすめ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "eichmann-in-jerusalem",
+      "toSlug": "the-origins-of-totalitarianism",
+      "reasonJa": "アーレントが悪の凡庸さを裁いた報告。続けて同じ著者の全体主義の起源を読めば、その思想の土台が分かる。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "eichmann-in-jerusalem",
+      "toSlug": "nothing-to-envy",
+      "reasonJa": "全体主義が日常をどう支配するかを描くルポ。アイヒマン裁判の記録の後、実生活の視点から全体主義を見たい人へ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "voices-from-chernobyl",
+      "toSlug": "eichmann-in-jerusalem",
+      "reasonJa": "体制が個人に与えた傷を証言で描く作品が響くなら、巨大な悪を遂行した人物の内面を追うアイヒマン報告も必読。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-structure-of-scientific-revolutions",
+      "toSlug": "the-chaos",
+      "reasonJa": "パラダイム転換の理論を学んだら、実際に科学の見方が変わった瞬間を描くカオス理論の物語で確かめられる。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-structure-of-scientific-revolutions",
+      "toSlug": "the-emperor-of-all-maladies",
+      "reasonJa": "科学知識がどう生まれ変わるかに興味があるなら、がん研究の歴史を描く一冊でパラダイムの働きを実例で見られる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "sapiens",
+      "toSlug": "the-structure-of-scientific-revolutions",
+      "reasonJa": "知識の進化に興味がある読者に、科学そのものの転換点を理論化したクーンの名著をぜひ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-society-of-the-spectacle",
+      "toSlug": "simulacra-and-simulation",
+      "reasonJa": "メディアが作る像の社会を論じた系譜。スペクタクルの社会の後は、ボードリヤールのシミュラークル論で続く。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-society-of-the-spectacle",
+      "toSlug": "the-mythologies",
+      "reasonJa": "大衆社会の記号を読み解く文化批評。消費文化の表象を批判的に見る眼差しがスペクタクルの社会と共通する。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-postmodern-condition",
+      "toSlug": "the-society-of-the-spectacle",
+      "reasonJa": "ポストモダンの社会論に触れたなら、その土台にあるメディア批判としてドゥボールの古典へ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-genealogy-of-morals",
+      "toSlug": "beyond-good-and-evil",
+      "reasonJa": "道徳の起源を系譜学で解体するニーチェ。同じ著者の善悪の彼岸で哲学的な攻撃の続きを味わえる。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-genealogy-of-morals",
+      "toSlug": "the-world-as-will-and-representation",
+      "reasonJa": "道徳の背後に意志の力学を見るニーチェに、意志の形而上学を築いたショーペンハウアーを合わせて深く理解する。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "notes-from-underground",
+      "toSlug": "the-genealogy-of-morals",
+      "reasonJa": "実存主義の源流に触れた読者に、道徳そのものを哲学史的に解体するニーチェの系譜学を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "either-or",
+      "toSlug": "existentialism-is-a-humanism",
+      "reasonJa": "選択と実存を問うキェルケゴールに、サルトルの明快な講義で実存主義の全体像を学び直せる。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "either-or",
+      "toSlug": "the-concept-of-anxiety",
+      "reasonJa": "実存の感情を掘り下げたいなら、同じキェルケゴールの不安の概念で心理の深層を辿れる。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "nausea",
+      "toSlug": "either-or",
+      "reasonJa": "実存の不安を小説で描いたサルトルに惹かれたなら、選択の哲学的基盤を問うキェルケゴールへ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "fear-and-trembling",
+      "toSlug": "the-courage-to-be",
+      "reasonJa": "信仰の跳躍を問うキェルケゴールに、不安と実存の勇気を論じるティリッヒを合わせれば深く響く。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "fear-and-trembling",
+      "toSlug": "the-myth-of-sisyphus",
+      "reasonJa": "神なき世界で生の意味を問うカミュは、信仰による飛躍というキェルケゴールの答えへの対極として読める。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-concept-of-anxiety",
+      "toSlug": "fear-and-trembling",
+      "reasonJa": "キェルケゴールの実存思想に触れたら、不安を主題にした続編で信仰と心理の問いをさらに深められる。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-critique-of-practical-reason",
+      "toSlug": "critique-of-pure-reason",
+      "reasonJa": "理論理性の批判と対をなす道徳哲学。カントの認識論を読んだ人は、実践理性批判で倫理の土台へ進める。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-critique-of-practical-reason",
+      "toSlug": "nicomachean-ethics",
+      "reasonJa": "西洋道徳哲学の二大潮流を比較するなら、アリストテレスの徳と幸福の倫理学と並べて読むのがよい。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-just-society",
+      "toSlug": "the-critique-of-practical-reason",
+      "reasonJa": "正義と道徳の原理を現代の視点で論じる入門を読んだら、カントの道徳哲学の源流へ遡るのがおすすめ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-mirror-stage",
+      "toSlug": "the-order-of-the-signs",
+      "reasonJa": "無意識を言語のように構造化したラカン。その前提となるソシュールの言語学を読むと理解が格段に深まる。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-mirror-stage",
+      "toSlug": "black-skin-white-masks",
+      "reasonJa": "自我の成立をめぐる問いは、植民地の鏡で生まれるアイデンティティを論じたファノンと響き合う。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-history-of-sexuality",
+      "toSlug": "the-mirror-stage",
+      "reasonJa": "主体と権力の関係を問うフーコーを読んだ読者に、無意識と主体を論じたラカンのエクリを。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-ticklish-subject",
+      "toSlug": "the-phenomenology-of-spirit",
+      "reasonJa": "ジジェクが読み直すヘーゲルの弁証法。くすぐったい主体の議論を深く理解するための土台になる。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-ticklish-subject",
+      "toSlug": "the-essential-political",
+      "reasonJa": "政治的主体と敵対性を論じるシュミットは、ジジェクが対話する政治哲学の代表的な相手だ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-communist-manifesto",
+      "toSlug": "the-ticklish-subject",
+      "reasonJa": "イデオロギーと階級の視点から政治を読むなら、精神分析とヘーゲルを駆使するジジェクの主体論へ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-two-sources",
+      "toSlug": "the-gift",
+      "reasonJa": "道徳と社会の起源を問うベルクソンに、贈与という人類学的な社会の基礎を論じるモースを合わせる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-two-sources",
+      "toSlug": "the-courage-to-be",
+      "reasonJa": "宗教と道徳の源泉を生命の観点から問うベルクソン。不安に抗う信仰を論じるティリッヒが対になる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-myth-of-sisyphus",
+      "toSlug": "the-two-sources",
+      "reasonJa": "生の意味を問う実存の哲学に触れたら、生命と道徳の根源へ迫るベルクソンで視野を広げられる。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "creative-evolution",
+      "toSlug": "the-phenomenology-of-perception",
+      "reasonJa": "身体と知覚の時間性を哲学するメルロ＝ポンティは、ベルクソンの生命と直観の延長線上にある。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "creative-evolution",
+      "toSlug": "seven-brief-lessons-on-physics",
+      "reasonJa": "持続と時間をテーマに、ベルクソンの直観と現代物理学の時間観を並べて読み比べてみたい人へ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-world-as-will-and-representation",
+      "toSlug": "creative-evolution",
+      "reasonJa": "意志と表象の世界で生を哲学した読者は、生命を創造的進化として捉え直したベルクソンへ進もう。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-origins-of-social",
+      "toSlug": "imagined-communities",
+      "reasonJa": "現実が社会的に構成されるというテーゼを、ナショナリズムという具体的な事例で検証できる一冊。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-origins-of-social",
+      "toSlug": "the-geography-of-thought",
+      "reasonJa": "文化が思考の枠組みを作ることを実証した研究は、現実の社会的構成の考えを裏付けてくれる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-suicide",
+      "toSlug": "the-origins-of-social",
+      "reasonJa": "社会的事実を扱うデュルケームの方法に触れたなら、現実が社会的に構成されるというバーガーへ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-division-of-labor",
+      "toSlug": "the-gift",
+      "reasonJa": "分業が社会を結びつけるというなら、贈与という別の結合原理を人類学の立場からモースが論じる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-division-of-labor",
+      "toSlug": "the-human-condition",
+      "reasonJa": "分業と社会統合を問うデュルケームに、労働と公共性を哲学するアーレントで社会を再考できる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-suicide",
+      "toSlug": "the-division-of-labor",
+      "reasonJa": "自殺論で社会的事実の考え方に触れたなら、分業が社会統合を生むと論じる本書が続く。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-elementary-forms",
+      "toSlug": "the-power-of-myth",
+      "reasonJa": "宗教体験の社会的根源を論じるデュルケームに、神話が人間に与える力を心理面から語るキャンベルを。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-elementary-forms",
+      "toSlug": "the-spiral-staircase",
+      "reasonJa": "宗教の社会的起源を知ったら、個人の信仰の内側を描いた自伝で宗教を別の角度から見られる。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-gift",
+      "toSlug": "the-elementary-forms",
+      "reasonJa": "贈与と交換が社会を織りなす人類学に立つなら、宗教の社会的起源を論じたデュルケームへ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-protestant-ethic-and-the-spirit",
+      "toSlug": "seeing-like-a-state",
+      "reasonJa": "官僚制と合理化という近代の骨格を論じたヴェーバーに、近代国家の合理性を疑うスコットを合わせる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-protestant-ethic-and-the-spirit",
+      "toSlug": "the-civilization",
+      "reasonJa": "西洋文明の勃興を比較史で描くファーガソンは、ヴェーバーの近代論を歴史の側面から補強する。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-gods-of-money",
+      "toSlug": "the-protestant-ethic-and-the-spirit",
+      "reasonJa": "資本主義と近代社会の成り立ちに興味があるなら、官僚制と合理化で分析したヴェーバーへ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-order-of-events",
+      "toSlug": "of-grammatology",
+      "reasonJa": "言説の成立条件を問うフーコーに、言語そのものを解体するデリダを合わせて思考を拡張できる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-order-of-events",
+      "toSlug": "the-madness-and-civilization",
+      "reasonJa": "狂気という言説がどう排除されてきたかを描くフーコーの方法論が、知の考古学に通じている。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-order-of-things",
+      "toSlug": "the-order-of-events",
+      "reasonJa": "言葉と物でフーコーの認識論に触れたなら、その方法の土台を理論化した知の考古学を。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-birth-of-clinic",
+      "toSlug": "the-body-keeps-the-score",
+      "reasonJa": "医療のまなざしの歴史を知ったら、身体がトラウマを記録する現代の研究でその続きを読める。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-birth-of-clinic",
+      "toSlug": "the-man-who-mistook-his-wife-for-a-hat",
+      "reasonJa": "臨床医学のまなざしの成立を学んだ後に、神経症例を描く医学書で臨床の現場を味わいたい。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-madness-and-civilization",
+      "toSlug": "the-birth-of-clinic",
+      "reasonJa": "狂気の歴史で排除の言説を学んだ読者に、医療のまなざしが生まれる場を解剖した本書を。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-truth-and-method",
+      "toSlug": "the-phenomenology-of-spirit",
+      "reasonJa": "歴史と伝統を通じた理解を論じるガーダマーに、弁証法の古典である精神現象学で流れを辿る。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-truth-and-method",
+      "toSlug": "the-visible-and-the-invisible",
+      "reasonJa": "理解を現象学から問うガーダマーに、知覚と世界の関係を哲学するメルロ＝ポンティを合わせる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "being-and-time",
+      "toSlug": "the-truth-and-method",
+      "reasonJa": "ハイデガーの存在論に触れたなら、それを解釈学として体系化したガーダマーの本書を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-concept-of-irony",
+      "toSlug": "the-myth-of-sisyphus",
+      "reasonJa": "実存と精神の機動を問うキェルケゴールに、不条理への眼差しで同じ問いを続けるカミュを読む。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-concept-of-irony",
+      "toSlug": "the-bouvard",
+      "reasonJa": "人間の愚かしさをイロニーの眼で描くフローベールの笑いと、キェルケゴールのイロニー論が鮮やかに響き合う。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-book-of-laughter",
+      "toSlug": "the-concept-of-irony",
+      "reasonJa": "笑いと記憶が交錯する小説を楽しんだなら、イロニーの哲学的な意味をキェルケゴールで学べる。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "parable-of-the-sower",
+      "toSlug": "the-fifth-season",
+      "reasonJa": "環境破壊の世界を生きる物語。第五の季節も種まく者のたとえも生存と再生の問いを共有している。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "parable-of-the-sower",
+      "toSlug": "the-underground-railroad",
+      "reasonJa": "環境と人種の危機を描くバトラーに、奴隷制を超歴史的に描くホワイトヘッドを並べて読みたい。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "kindred",
+      "toSlug": "parable-of-the-sower",
+      "reasonJa": "タイムトラベルと黒人史を融合したバトラーが気に入ったなら、環境ディストピアの本領である本書を。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "roadside-picnic",
+      "toSlug": "annihilation",
+      "reasonJa": "変容するゾーンと探検隊を描く全滅領域は、路傍のピクニックの系譜を受け継ぐニューウィアード。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "roadside-picnic",
+      "toSlug": "solaris",
+      "reasonJa": "未知の存在との接触を描くロシアSFの系譜。ストルガツキーからレムへ読み継ぐのが自然だ。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-the-midwich-cuckoos",
+      "toSlug": "roadside-picnic",
+      "reasonJa": "異星との遭遇を文学的に描く古典SFが好きなら、残留物で変容するゾーンと人間の距離を描く本作を。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-city-and-the-city",
+      "toSlug": "open-city",
+      "reasonJa": "都市を歩きながら認識を揺さぶられる文学。都市論の知性を感じたい読者にオープン・シティを。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-city-and-the-city",
+      "toSlug": "the-the-crying-of-lot-49",
+      "reasonJa": "謎と都市の陰謀を描くピンチョンの世界は、見えない境界をめぐる本書の問いにつながる。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-the-left-hand-of-cities",
+      "toSlug": "the-city-and-the-city",
+      "reasonJa": "都市を舞台にした知的なミステリが好きなら、物理的な境界のない二重の都市をめぐる本作をぜひ。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-hobbit",
+      "toSlug": "the-wardrobe",
+      "reasonJa": "子ども時代に開かれる異世界への扉。トールキンとルイス、英国ファンタジーの双璧を味わう。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-hobbit",
+      "toSlug": "a-wizard-of-earthsea",
+      "reasonJa": "少年が冒険と成長で世界を知る物語。ゲド戦記はホビットの読後にぴったりのファンタジー。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-lord-of-the-rings",
+      "toSlug": "the-hobbit",
+      "reasonJa": "指輪物語で中つ国の世界観に魅了されたなら、その物語の出発点にあたるホビットの冒険へ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-sandman",
+      "toSlug": "the-the-norse-mythology",
+      "reasonJa": "サンドマンに登場する神々の源流を、ゲイマン自身が語り直した北欧神話で知ることができる。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-sandman",
+      "toSlug": "the-power-of-myth",
+      "reasonJa": "神話の原型を物語に活かすゲイマンに、背後にある神話学の知見をキャンベルで補える。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "american-gods",
+      "toSlug": "the-sandman",
+      "reasonJa": "現代世界に神々が息づく作品に惹かれたなら、夢と神話を主役にしたゲイマンの傑作グラフィックノベルへ。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "solarpunk",
+      "toSlug": "the-last-migration",
+      "reasonJa": "植物と人の共生を描く希望のSFに、渡り鳥と人の距離を描く作品を重ねて自然観を深められる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "solarpunk",
+      "toSlug": "station-eleven",
+      "reasonJa": "崩壊した世界の後も希望を描く作風が共通する。ソーラーパンクの光に満ちた未来観と響き合う一冊。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-overstory",
+      "toSlug": "solarpunk",
+      "reasonJa": "樹木と人の共生を描く物語に惹かれたなら、環境に優しい未来社会を描くソーラーパンクの代表作へ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-invisible-man",
+      "toSlug": "the-time-machine",
+      "reasonJa": "科学の怖さと文明の脆さを描くウェルズ。タイムマシンと併せて古典SFの世界観を堪能できる。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-invisible-man",
+      "toSlug": "the-frankenstein",
+      "reasonJa": "科学の力を得た者が孤立していく物語。SFの原型であるフランケンシュタインと読み比べたい。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-war-of-the-worlds",
+      "toSlug": "the-invisible-man",
+      "reasonJa": "ウェルズの科学幻想に魅了されたなら、目に見えぬ存在が社会にもたらす恐怖を描いた透明人間へ。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-island-of-dr-moreau",
+      "toSlug": "brave-new-world",
+      "reasonJa": "生命を操作する科学への警鐘。モロー博士の島からハクスリーへ、科学批判の系譜を繋ぐ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-island-of-dr-moreau",
+      "toSlug": "the-frankenstein",
+      "reasonJa": "生命を創る科学の傲慢を問う古典。フランケンシュタインとモロー博士の島は表裏の関係にある。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-war-of-the-worlds",
+      "toSlug": "the-island-of-dr-moreau",
+      "reasonJa": "ウェルズのSFに科学への問いを感じたなら、人間の尊厳をテーマにしたモロー博士の島を。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-journey-to-the-centre",
+      "toSlug": "the-2001-a-space-odyssey",
+      "reasonJa": "未知の領域へ挑む冒険が好きなら、地底から宇宙へと探検のスケールを上げて楽しめる一冊。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-journey-to-the-centre",
+      "toSlug": "the-call-of-the-wild",
+      "reasonJa": "未知への探検が内なる野性を目覚めさせる。ヴェルヌとロンドン、冒険譚の興奮が共通する。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-time-machine",
+      "toSlug": "the-journey-to-the-centre",
+      "reasonJa": "科学幻想の入口に立ったなら、冒険SFの元祖ヴェルヌの地底旅行でロマンを味わおう。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-twenty-thousand-leagues",
+      "toSlug": "the-moby-dick",
+      "reasonJa": "海の謎と人間の執念を描く白鯨と、深海への航海を描く本作。海洋冒険の古典を重ね読みする。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-twenty-thousand-leagues",
+      "toSlug": "the-old-man-and-the-sea",
+      "reasonJa": "海と向き合う人間の物語。ネモ船長の冒険から、孤独な漁師が海と対峙する古典へ続けて読みたい。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-call-of-the-wild",
+      "toSlug": "the-twenty-thousand-leagues",
+      "reasonJa": "未知への冒険に胸を高鳴らせる読者なら、潜水艦で深海の世界を旅する本作にも夢中になれるだろう。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-first-men-in-the-moon",
+      "toSlug": "the-martian",
+      "reasonJa": "月への人類の旅から、火星でのサバイバルへ。宇宙冒険の想像力の系譜を続けて楽しめる。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-first-men-in-the-moon",
+      "toSlug": "the-time-machine",
+      "reasonJa": "宇宙と時間、ウェルズの想像力は尽きない。タイムマシンと併読して古典SFを堪能する。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-war-of-the-worlds",
+      "toSlug": "the-first-men-in-the-moon",
+      "reasonJa": "ウェルズのSFに夢中になったら、人類初の月面冒険と異星文明との遭遇を描いた本作をぜひ。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-rampage-of-the-future",
+      "toSlug": "the-childhoods-end",
+      "reasonJa": "超知性との接触がもたらす人類の変容を描くクラーク。幼年期の終わりで思想を深める。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-rampage-of-the-future",
+      "toSlug": "project-hail-mary",
+      "reasonJa": "未知との接触と人類の知恵を描くSF。科学への信頼感とハードSFのリアリティが共通する。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-2001-a-space-odyssey",
+      "toSlug": "the-rampage-of-the-future",
+      "reasonJa": "クラークの宇宙観に心を奪われたら、未知の知性との出会いを描いた宇宙のランデブーを。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-left-handed-story",
+      "toSlug": "a-wizard-of-earthsea",
+      "reasonJa": "夢と現実の境界を描くル＝グウィン。ゲド戦記で魔法世界の冒険と成長物語を味わえる。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-left-handed-story",
+      "toSlug": "the-dispossessed",
+      "reasonJa": "社会と個人の関係をSFで問うル＝グウィン。所有せざる人々で思想的な側面を見られる。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-left-hand-of-darkness",
+      "toSlug": "the-left-handed-story",
+      "reasonJa": "ル＝グウィンの世界観に浸った読者へ、夢と現実が交錯する異色の実験的な短篇をぜひ手に取って。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-stranger-in-a-strange-land",
+      "toSlug": "the-the-door-into-summer",
+      "reasonJa": "ハインラインの明るい想像力とユーモアが詰まった一冊。異星の客と作風の幅を比べて読める。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-stranger-in-a-strange-land",
+      "toSlug": "dune",
+      "reasonJa": "火星生まれの自由と宗教をめぐる物語に、砂漠の惑星で宗教と権力を壮大に描くデューンを。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-solar-sail",
+      "toSlug": "the-stranger-in-a-strange-land",
+      "reasonJa": "ハインラインの自由と政治をめぐる思想に興味を持ったら、宗教と自由を問う異星の客を。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-the-drowned-world",
+      "toSlug": "station-eleven",
+      "reasonJa": "滅びゆく世界の後の人間の営みを描くステーション・イレブンは、気候変動SFの次に読むべき一冊。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-the-drowned-world",
+      "toSlug": "silent-spring",
+      "reasonJa": "環境破壊の警告をSFで描くバラードに、科学ノンフィクションの金字塔を添えれば現実感が増す。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-the-day-of-the-trifids",
+      "toSlug": "the-the-drowned-world",
+      "reasonJa": "世界の終わり方に文学的な興味があるなら、気候変動が人類を変えた世界を描く本作を。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-thermo-nuclear-war",
+      "toSlug": "the-plague",
+      "reasonJa": "核戦争後の静かな終末と疫病下の都市の苦闘。文明の崩壊に直面した人間の連帯と尊厳を描く点で響き合う。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-thermo-nuclear-war",
+      "toSlug": "the-old-man-and-the-sea",
+      "reasonJa": "残された時間を静かに生き抜く諦念と強さ。死を待つ人々の日常は、孤独な老人の海での闘いと通じる静謐さを持つ。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "nineteen-eighty-four",
+      "toSlug": "the-thermo-nuclear-war",
+      "reasonJa": "オーウェルの管理社会に衝撃を受けたあなたへ。全体主義の先の世界を、市井の人々の視点で描いた本作を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-the-day-of-the-trifids",
+      "toSlug": "the-plague",
+      "reasonJa": "疫病が日常を襲う社会崩壊の物語。トリフィドの日の世界的混乱は、隔離都市の恐怖と連帯を描くペストに通じる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-the-day-of-the-trifids",
+      "toSlug": "station-eleven",
+      "reasonJa": "パンデミック後の文明と生存者の暮らし。目の見えなくなった世界を立て直す物語は、ステーション・イレブンの余韻と重なる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-war-of-the-worlds",
+      "toSlug": "the-the-day-of-the-trifids",
+      "reasonJa": "古典イギリスSFの遺伝子を受け継ぐ作品。火星人の侵略を楽しんだあなたに、植物がもたらす終末を描く本作を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-the-shape-of-things",
+      "toSlug": "the-metamorphosis",
+      "reasonJa": "身体の変異が招く社会からの排除。異形となった者の孤独は、カフカのグレーゴル・ザムザの運命と重なる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-the-shape-of-things",
+      "toSlug": "kindred",
+      "reasonJa": "異質な存在として迫害される恐怖。変異する人間の生存を描く本作は、人種と差異を問うキンドレッドに響く。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-island-of-dr-moreau",
+      "toSlug": "the-the-shape-of-things",
+      "reasonJa": "変異と人間性の境界を問う古典SFファンへ。ウェルズの獣人実験を経たあなたに、突然変異する人間の物語を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-the-zone-one",
+      "toSlug": "the-underground-railroad",
+      "reasonJa": "文学的なゾンビ小説の先に読む、同じ作家の傑作。黙示録の余白に時代の影を縫い込む手法が通じる。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-the-zone-one",
+      "toSlug": "station-eleven",
+      "reasonJa": "パンデミック後世界を無関心な視線で描く語り。ゾーン・ワンの乾いた文体は、ステーション・イレブンと対で味わえる。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-nickel-boys",
+      "toSlug": "the-the-zone-one",
+      "reasonJa": "コルソン・ホワイトヘッドの歴史小説に没頭したあなたへ。同じ作家がゾンビ黙示録に込めた文明論をどうぞ。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-the-glass-hotel",
+      "toSlug": "station-eleven",
+      "reasonJa": "金融危機と大疫病を跨いで編まれる連作。ガラスのホテルの断片は、同じ作者の代表作で立体的に繋がる。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-the-glass-hotel",
+      "toSlug": "trust",
+      "reasonJa": "資本と富の物語の奥行き。ホテルを巡る寓話の先に、金融の虚構を複数の視点で組み立てる本作を。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-great-gatsby",
+      "toSlug": "the-the-glass-hotel",
+      "reasonJa": "光る装いの裏に虚無を抱えた人々を描く作品。ギャツビーの夢の終わりを読んだあなたに、現代の富裕層を巡る寓話を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-the-light-of-other-days",
+      "toSlug": "the-time-machine",
+      "reasonJa": "時間の果てを見通す想像力の原点。バクスターの壮大なスケールは、ウェルズの古典から続く探求だ。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-the-light-of-other-days",
+      "toSlug": "the-three-body-problem",
+      "reasonJa": "物理学的な宇宙を描くスケール感。時間と光の果てを追う本作には、宇宙社会を描く三体が続く。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-childhoods-end",
+      "toSlug": "the-the-light-of-other-days",
+      "reasonJa": "黄金期ハードSFの味を知るあなたへ。クラークの宇宙進化論の後には、時間の終わりを描く本作を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-the-brave-new-world-of-dystopia",
+      "toSlug": "nineteen-eighty-four",
+      "reasonJa": "ディストピア小説の原点であり到達点。オーウェルに影響を与えた本作は、監視社会の原型として読める。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-the-brave-new-world-of-dystopia",
+      "toSlug": "brave-new-world",
+      "reasonJa": "幸福の名の下に自由を奪う管理社会。われらの整合性の恐怖は、ハクスリーの幸福な未来と響き合う。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "fahrenheit-451",
+      "toSlug": "the-the-brave-new-world-of-dystopia",
+      "reasonJa": "検閲と全体主義の物語を楽しんだあなたへ。ディストピアの祖とも言える本作で、管理の系譜を辿ってみて。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-the-crying-of-lot-49",
+      "toSlug": "slaughterhouse-five",
+      "reasonJa": "時間と物語が断片化するポストモダンの語り。ピンチョンの陰謀の迷宮に嵌ったなら、ヴォネガットも。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-the-crying-of-lot-49",
+      "toSlug": "the-master-and-margarita",
+      "reasonJa": "スパイと悪魔が入り乱れる狂騒の世界。アメリカの影を追う本書は、ブルガーコフの幻想譚と似た奔放さ。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "ficciones",
+      "toSlug": "the-the-crying-of-lot-49",
+      "reasonJa": "迷宮的な知の小説が好きなあなたへ。ボルヘスの幻想短編の先に、ポストモダンの謎解き迷宮を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-the-left-hand-of-cities",
+      "toSlug": "the-metamorphosis",
+      "reasonJa": "存在の輪郭が揺らぐ不条理。作家の身元が溶けていく不安は、カフカ的な疎外感と通じる。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "trust",
+      "toSlug": "the-the-left-hand-of-cities",
+      "reasonJa": "現実と虚構が交錯する語りの迷宮。トラストで複層的な物語に嵌まったら、ニューヨークの謎解きへ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-the-slow-regard",
+      "toSlug": "the-name-of-the-wind",
+      "reasonJa": "同じ作者が紡ぐ世界の片隅の物語。風の名前の語りに惹かれたなら、静謐なスピンオフをどうぞ。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-the-slow-regard",
+      "toSlug": "piranesi",
+      "reasonJa": "孤独な部屋と向き合う内省の物語。独白形式の本作は、迷宮の世界に一人きりのピラネージと響く。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "a-wizard-of-earthsea",
+      "toSlug": "the-the-slow-regard",
+      "reasonJa": "静かなファンタジーの深みを知るあなたへ。壮大な物語の隙間で、孤独な一つの心を描いた本作を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-white-tiger",
+      "toSlug": "the-god-of-small-things",
+      "reasonJa": "インドの格差とカーストを描く文学。白い虎の切実な語りは、家族と差別を綴るロイの傑作へ続く。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-white-tiger",
+      "toSlug": "a-fine-balance",
+      "reasonJa": "下層社会に生きる人々の生存と格差。インドの都市で暮らす者の苦闘は、ミストリーの大河小説と重なる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "midnights-children",
+      "toSlug": "the-white-tiger",
+      "reasonJa": "インドの近代を描く文学の系譜へ。ラシュディの魔術的歴史譚の後、現実の格差を鋭く語る本作を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "chronicle-of-a-death-foretold",
+      "toSlug": "one-hundred-years-of-solitude",
+      "reasonJa": "運命と共同体の時間が渦巻くマルケスの世界。予告された殺人は、同じ作家の代表作と並べて読みたい。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "chronicle-of-a-death-foretold",
+      "toSlug": "the-house-of-the-spirits",
+      "reasonJa": "運命づけられた死と家族の記憶。ラテンアメリカの宿命論的世界を、アジェンデの大作と合わせて。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "pedro-paramo",
+      "toSlug": "chronicle-of-a-death-foretold",
+      "reasonJa": "死と運命の濃密な世界を楽しむあなたへ。ルルフォの怪奇を経て、予告された殺人の記録を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-aleph",
+      "toSlug": "ficciones",
+      "reasonJa": "ボルヘスの幻想世界の双璧。アレフを読んだなら、同じ短編集の伝奇集で迷宮を歩こう。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-aleph",
+      "toSlug": "pedro-paramo",
+      "reasonJa": "幻想と現実が溶け合う世界。ボルヘスの幻視は、死者たちの村を描くルルフォの魔術と通じる。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "one-hundred-years-of-solitude",
+      "toSlug": "the-aleph",
+      "reasonJa": "マジックリアリズムの源を辿りたいあなたへ。ガルシア＝マルケスが敬愛したボルヘスの幻想短編を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-castle",
+      "toSlug": "the-trial",
+      "reasonJa": "到達不能な権威との終わりなき闘い。城の官僚的な迷宮は、審判の裁判所の不安と深く呼応する。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-castle",
+      "toSlug": "the-metamorphosis",
+      "reasonJa": "不条理な存在の運命を問うカフカの世界。城と並べて変身を読めば、その輪郭が見えてくる。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-woman-in-the-dunes",
+      "toSlug": "the-castle",
+      "reasonJa": "不条理と自由を問う日本文学の金字塔。砂に囚われた男の物語が好きなら、カフカの迷宮へどうぞ。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "death-with-interruptions",
+      "toSlug": "blindness",
+      "reasonJa": "寓話的想像力の頂点に立つ作者。死が止まった国の物語を、同じ作家が描く失明の疫病譚と合わせて。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "death-with-interruptions",
+      "toSlug": "the-plague",
+      "reasonJa": "死を巡る寓話の系譜を辿る二冊。カミュが疫病で問う生を、サラマーゴはユーモアで逆照射する。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-master-and-margarita",
+      "toSlug": "death-with-interruptions",
+      "reasonJa": "悪魔と死が日常に入り込む幻想。ブルガーコフの奇想を楽しんだら、死が休暇を取る本作を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "a-general-theory-of-oblivion",
+      "toSlug": "one-day-in-the-life-of-ivan-denisovich",
+      "reasonJa": "孤立と牢獄の日常を綴る記録。アンゴラの独居老人の内省は、グラグの一日と対になる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "a-general-theory-of-oblivion",
+      "toSlug": "the-heart-is-a-lonely-hunter",
+      "reasonJa": "孤独な魂の静かな記録。隔離された世界の内面は、南部の町に生きる孤独者たちの声と響き合う。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "things-fall-apart",
+      "toSlug": "a-general-theory-of-oblivion",
+      "reasonJa": "アフリカの歴史と記憶を描く文学を辿るあなたへ。アンゴラの独立と忘却を描く本作を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-tenth-muse",
+      "toSlug": "the-hidden-figures",
+      "reasonJa": "女性と数学が織りなす物語。大戦下で数学に生きた女性は、NASAの女性計算手たちと重なる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-tenth-muse",
+      "toSlug": "the-glass-universe",
+      "reasonJa": "科学史に埋もれた女性たちの貴重な記録。数学と天文学に生きた女性たちの足跡が交差する。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "educated",
+      "toSlug": "the-tenth-muse",
+      "reasonJa": "学びの力で人生を切り開く物語。エデュケイテッドを読んだあなたに、数学に魅せられた女性を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "outline-of-a-silent-man",
+      "toSlug": "2666",
+      "reasonJa": "暴力と記憶が絡むラテンアメリカの物語。コロンビアの内戦の沈黙は、ボラーニョの長編と通じる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "outline-of-a-silent-man",
+      "toSlug": "the-remains-of-the-day",
+      "reasonJa": "過去の記憶と向き合う静かな語り。沈黙が暴く歴史の影は、イシグロの回想小説と共鳴する。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-house-of-the-spirits",
+      "toSlug": "outline-of-a-silent-man",
+      "reasonJa": "ラテンアメリカの政治的記憶を描く文学。アジェンデの家族史を読んだあなたに、内戦の記憶を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-kreutzer-sonata",
+      "toSlug": "the-anna-karenina",
+      "reasonJa": "結婚と嫉妬の深淵をえぐるトルストイ。夫婦の物語を描いた大作と、激しい中編を並べて。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-kreutzer-sonata",
+      "toSlug": "the-madame-bovary",
+      "reasonJa": "愛と破滅の心理を追う小説。クロイツェル・ソナタの嫉妬は、フローベールの不倫の物語と響く。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-death-of-ivan-ilyich",
+      "toSlug": "the-kreutzer-sonata",
+      "reasonJa": "トルストイの中編が好きなあなたへ。死を見つめるイワン・イリイチの対極、愛と嫉妬の断崖を。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-warden-of-the-shadow",
+      "toSlug": "fahrenheit-451",
+      "reasonJa": "本への愛と書物の秘密。風の影の忘却の書庫は、焚書に抗うブラッドベリの世界と呼応する。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-warden-of-the-shadow",
+      "toSlug": "the-name-of-the-wind",
+      "reasonJa": "回想によって紡がれる語りの妙。失われた本を巡る風の影は、ロスファスの物語技法と通じる。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "reading-lolita-in-tehran",
+      "toSlug": "the-warden-of-the-shadow",
+      "reasonJa": "書物が持つ自由の力を描く物語。禁じられた本を読む少女たちを読んだあなたに、本の謎を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-labyrinth-of-the-spirits",
+      "toSlug": "my-name-is-red",
+      "reasonJa": "書物と秘密を巡る物語の厚み。バルセロナの書物の迷宮は、イスタンブールの写本の謎と交差する。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-labyrinth-of-the-spirits",
+      "toSlug": "the-master-and-margarita",
+      "reasonJa": "謎と魔術が絡む都市の物語。スペインの影の歴史は、ブルガーコフの悪魔譚と対比で面白い。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "my-name-is-red",
+      "toSlug": "the-labyrinth-of-the-spirits",
+      "reasonJa": "写本と絵画が物語る歴史ミステリ。パムクの作品を楽しんだあなたに、書物を巡る本作を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-rain-islands",
+      "toSlug": "the-madame-bovary",
+      "reasonJa": "欲望と不倫が織りなす人間模様。マードックの恋愛心理は、フローベールのリアリズムに通じる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-rain-islands",
+      "toSlug": "the-great-gatsby",
+      "reasonJa": "憧れと欲望の行方。砂の城の恋愛劇は、ギャツビーの一方的な憧憬と同じ哀しさを孕む。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-sea-the-sea",
+      "toSlug": "the-rain-islands",
+      "reasonJa": "同じマードックの代表作を読んだあなたへ。愛の自己欺瞞を描く本作で、執着の物語を味わって。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-white-goddess",
+      "toSlug": "the-power-of-myth",
+      "reasonJa": "神話の構造と詩の起源を探る書。グレーヴズの女神論は、キャンベルの神話理論と並べて読みたい。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-white-goddess",
+      "toSlug": "american-gods",
+      "reasonJa": "神々と文化の交差する世界。古代の女神の系譜は、現代アメリカに神が潜むゲイマンの世界と呼応する。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-hero-with-a-thousand-faces",
+      "toSlug": "the-white-goddess",
+      "reasonJa": "神話の源泉を知りたいあなたへ。キャンベルの英雄論の後、詩と女神を結ぶグレーヴズを。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-spiral-staircase",
+      "toSlug": "the-year-of-magical-thinking",
+      "reasonJa": "喪失と信仰を巡る自伝的記録。修道院を捨てた著者の遍歴は、ディディオンの悲嘆の記録と響く。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-spiral-staircase",
+      "toSlug": "reading-lolita-in-tehran",
+      "reasonJa": "宗教と文学の狭間を生きた女性の証言。信仰を捨てた苦悩と、禁じられた書物を読む自由が交差する。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "i-am-malala",
+      "toSlug": "the-spiral-staircase",
+      "reasonJa": "信仰と現代世界の相克を描く自伝の系譜。マララの勇気に心打たれたあなたに、修道女を辞めた魂の遍歴を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-thing-around-your-neck",
+      "toSlug": "americanah",
+      "reasonJa": "移民とアイデンティティを描く短編から、同じ作者の長編へ。アディーチェの世界観を深められる。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-thing-around-your-neck",
+      "toSlug": "the-interpreter-of-maladies",
+      "reasonJa": "移民の断片が紡ぐ短編集の醍醐味。複数の視点で移民の日常を描く両作は対で読みたい。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "half-of-a-yellow-sun",
+      "toSlug": "the-thing-around-your-neck",
+      "reasonJa": "ナイジェリアを語る作家のもう一つの顔。内戦の大作を読んだあなたに、移民の声を集めた短編集を。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-great-divorce",
+      "toSlug": "the-wardrobe",
+      "reasonJa": "ルイスの想像力の源泉となる幻想譚。天国と地獄の論争を、ナルニアの始まりの一冊と併せてどうぞ。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-great-divorce",
+      "toSlug": "the-buried-giant",
+      "reasonJa": "善悪の境界が揺らぐ寓話。ルイスの道徳的幻想は、記憶を巡るイシグロの寓話と深く通じる。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "faust",
+      "toSlug": "the-great-divorce",
+      "reasonJa": "魂の行方を問う物語を楽しんだあなたへ。悪魔契約のゲーテに対し、天国訪問の幻想譚を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-narnia-caspian",
+      "toSlug": "the-hobbit",
+      "reasonJa": "子供たちの冒険と試練を描く物語。予想を裏切る展開は、トールキンの旅の物語と通じる。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-lord-of-the-rings",
+      "toSlug": "the-narnia-caspian",
+      "reasonJa": "ファンタジーの王道を楽しむあなたへ。指輪物語の先に、ナルニアの児童文学的な冒険を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-narnia-dawn-treader",
+      "toSlug": "the-wardrobe",
+      "reasonJa": "ナルニアの世界に再び足を踏み入れる冒険。島々を巡る航海は、最初の物語への回遊路となる。",
+      "type": "if-you-like-author"
+    },
+    {
+      "fromSlug": "the-narnia-dawn-treader",
+      "toSlug": "the-twenty-thousand-leagues",
+      "reasonJa": "航海と未知の海域への冒険。島々を巡るナルニアの船旅は、ヴェルヌの海底探検と響き合う。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "a-wizard-of-earthsea",
+      "toSlug": "the-narnia-dawn-treader",
+      "reasonJa": "海を舞台にした成長の物語が好きなあなたへ。ル＝グウィンの航海を経て、ナルニアの船旅を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-colors-of-the-flag",
+      "toSlug": "the-metamorphosis",
+      "reasonJa": "異形の語り手が暴く残酷な現実。成長を拒んだ少年の目は、カフカの変身譚の鋭さに通じる。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-colors-of-the-flag",
+      "toSlug": "the-master-and-margarita",
+      "reasonJa": "戦後ドイツの寓話と悪魔的な語り。グラスの奔放な幻想は、ブルガーコフの世界と並ぶ。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-remains-of-the-day",
+      "toSlug": "the-colors-of-the-flag",
+      "reasonJa": "戦争の記憶と個人の回想を描く文学へ。イシグロを楽しんだあなたに、ドイツ戦後を描く本作を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-white-band",
+      "toSlug": "the-remains-of-the-day",
+      "reasonJa": "記憶が覆される回想の物語。昔の英国を遡る仲介人は、イシグロの執事の回想と重なる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-white-band",
+      "toSlug": "swanns-way",
+      "reasonJa": "幼少の記憶と恋の疼きをたどる物語。過去へ還る語りは、プルーストの記憶と時間に通じる。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "atonement",
+      "toSlug": "the-white-band",
+      "reasonJa": "罪と過去を回想する小説の系譜。マキューアンの贖罪を読んだあなたに、夏の日の秘密を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-man-who-was-thursday",
+      "toSlug": "the-master-and-margarita",
+      "reasonJa": "正体が次々に入れ替わる夢のような陰謀。チェスタトンの幻想譚は、ブルガーコフの狂騒と似た眩暈。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-man-who-was-thursday",
+      "toSlug": "the-trial",
+      "reasonJa": "掴めない権力と対峙する不気味な不安。警視の身元が揺らぐ物語は、カフカの審判と重なる。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "nineteen-eighty-four",
+      "toSlug": "the-man-who-was-thursday",
+      "reasonJa": "監視と陰謀の世界が好きなあなたへ。正体不明の組織に挑む哲学的ミステリで、迷宮の夜を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-travels-of-babu",
+      "toSlug": "midnights-children",
+      "reasonJa": "インド近現代史を語る大いなる物語。ビルマとインドを跨ぐ家族史は、ラシュディと通じる。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-travels-of-babu",
+      "toSlug": "pachinko",
+      "reasonJa": "国を越えた家族のディアスポラの物語。植民地を巡る一族の歴史は、在日を描くパチンコと響き合う。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-namesake",
+      "toSlug": "the-travels-of-babu",
+      "reasonJa": "移民の家系を描く物語を読んだあなたへ。ラヒリの家族史の先に、アジアを跨ぐ一族を。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-sea-of-poppies",
+      "toSlug": "the-twenty-thousand-leagues",
+      "reasonJa": "海洋と冒険の叙事詩。帆船で海を渡る物語は、ヴェルヌの海底探検と通じる胸騒ぎがある。",
+      "type": "similar-theme"
+    },
+    {
+      "fromSlug": "the-sea-of-poppies",
+      "toSlug": "the-moby-dick",
+      "reasonJa": "海と運命の物語の厚み。アヘン戦争へと向かう船旅は、白鯨の海洋叙事詩と静かに呼応する。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "midnights-children",
+      "toSlug": "the-sea-of-poppies",
+      "reasonJa": "インドの歴史を物語る大河が好きなあなたへ。ラシュディの魔術的歴史の後、海を舞台にした植民地史を。",
+      "type": "reading-path"
     }
   ]
 }

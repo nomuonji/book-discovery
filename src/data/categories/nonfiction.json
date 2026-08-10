@@ -27,7 +27,9 @@
         "人種"
       ],
       "selectionReasonJa": "ボールドウィンの黒人文学の古典。コーツの系譜の出発点。",
-      "titleEn": "The Fire Next Time"
+      "titleEn": "The Fire Next Time",
+      "descriptionEn": "\"You were born into a society which spelled out with brutal clarity... that you were a worthless human being.\" This treasure of American literature pairs a letter to the author's fourteen-year-old nephew with essays on his religious experience in Harlem. In the clash of anger and love, despair and hope, Baldwin's words lay bare the essence of racism — and half a century on, his questions are more urgent than ever.",
+      "whyReadEn": "The essence of Black American literature. The direct ancestor of Coates' Between the World and Me, and overwhelming in its literary beauty. Short enough to read in a weekend, yet a life-changing book."
     },
     {
       "slug": "sapiens",
@@ -52,7 +54,9 @@
         "文明"
       ],
       "selectionReasonJa": "「虚構を信じる力」で人類史を語る、現代最強の世界史入門。",
-      "titleEn": "Sapiens: A Brief History of Humankind"
+      "titleEn": "Sapiens: A Brief History of Humankind",
+      "descriptionEn": "How did Homo sapiens come to dominate the Earth? This bestselling history races from the Cognitive Revolution through the Agricultural and Scientific Revolutions to the future. Crossing history, biology and economics, Harari argues that the power to believe in shared fictions is humanity's greatest weapon. A modern essential, with over 45 million copies sold worldwide.",
+      "whyReadEn": "The gateway book from one of the world's most-read thinkers. Perfect if you want the big frameworks rather than fine-grained detail. It will change how you read the news."
     },
     {
       "slug": "thinking-fast-and-slow",
@@ -77,7 +81,9 @@
         "科学"
       ],
       "selectionReasonJa": "ノーベル経済学賞受賞。人間の認知バイアスを科学する決定版。",
-      "titleEn": "Thinking, Fast and Slow"
+      "titleEn": "Thinking, Fast and Slow",
+      "descriptionEn": "A Nobel Prize-winning psychologist's account of the science of human decision-making. Fast, intuitive System 1 and slow, logical System 2 — Kahneman shows, with a wealth of experimental episodes, how these two modes of thought generate our cognitive biases. A catalogue of how unreliable your 'gut feelings' really are.",
+      "whyReadEn": "Understanding your own mental habits helps you resist advertising, make fewer investment mistakes, and improve your relationships. A rare book that is both practical and intellectually thrilling."
     },
     {
       "slug": "the-lonely-city",
@@ -101,7 +107,9 @@
         "都市"
       ],
       "selectionReasonJa": "NYのアーティストたちの孤独を描く、都市と孤独の傑作。",
-      "titleEn": "The Lonely City: Adventures in the Art of Being Alone"
+      "titleEn": "The Lonely City: Adventures in the Art of Being Alone",
+      "descriptionEn": "An English writer, lonely in New York, walks through the lives and work of lonely artists — Edward Hopper, Andy Warhol, Henry Darger and others. This tender, intelligent work of nonfiction rereads loneliness, transforming it from something shameful into a source of creativity.",
+      "whyReadEn": "The most beautiful book ever written about loneliness. An excellent guide to art and literature that will send you straight to the museums of New York."
     },
     {
       "slug": "silent-spring",
@@ -126,7 +134,9 @@
         "アメリカ文学"
       ],
       "selectionReasonJa": "環境運動の原点。DDTの危険を告発した科学と情熱の書。",
-      "titleEn": "Silent Spring"
+      "titleEn": "Silent Spring",
+      "descriptionEn": "The pesticide DDT was silencing the birds and destroying entire ecosystems — and a marine biologist rose to denounce this environmental destruction in the language of science. The founding text of the ecology movement, it was fiercely attacked by the chemical industry on publication, yet without it the modern environmental movement would not exist. Proof that science can change the world.",
+      "whyReadEn": "The classic on environmental issues we should all still read. In the age of climate change, it stands as the most successful example of science transforming society, and a textbook of science journalism."
     },
     {
       "slug": "the-year-of-magical-thinking",
@@ -151,7 +161,9 @@
         "ノンフィクション"
       ],
       "selectionReasonJa": "喪失を書く、ノンフィクションの到達点。ディディオンの傑作。",
-      "titleEn": "The Year of Magical Thinking"
+      "titleEn": "The Year of Magical Thinking",
+      "descriptionEn": "One December evening, the author's husband suffered a heart attack at the dinner table and was gone. This National Book Award-winning memoir by one of America's greatest writers records, in clinical detail, the sudden death and the 'magical thinking' of the year that followed. No one has written more clearly about what grief is, or what memory is.",
+      "whyReadEn": "One of the finest books humanity has written about loss. Impossible to read without tears, yet filled with profound insight into what it means to be alive. Read it alongside Ernaux's The Years."
     },
     {
       "slug": "voices-from-chernobyl",
@@ -176,7 +188,9 @@
         "ロシア"
       ],
       "selectionReasonJa": "ノーベル賞受賞。チェルノブイリの証言で科学技術の闇を描く。",
-      "titleEn": "Voices from Chernobyl"
+      "titleEn": "Voices from Chernobyl",
+      "descriptionEn": "A stunning work of nonfiction built entirely from interviews with more than five hundred survivors of the Chernobyl nuclear disaster. The firefighter's wife, a scientist, a former Soviet bureaucrat, and the suicide notes of the dead — these overlapping voices bring the full picture of a 'technological apocalypse' into view. Nobel Prize in Literature, 2015.",
+      "whyReadEn": "A book the Japanese, who lived through Fukushima, must read. Proof that nonfiction can wield the power of literature. Alexievich's method also echoes Ernaux in The Years."
     },
     {
       "slug": "seven-brief-lessons-on-physics",
@@ -201,7 +215,9 @@
         "イタリア"
       ],
       "selectionReasonJa": "科学書の新スタンダード。詩のように美しい物理学入門。",
-      "titleEn": "Sette brevi lezioni di fisica"
+      "titleEn": "Sette brevi lezioni di fisica",
+      "descriptionEn": "In barely eighty pages, an Italian theoretical physicist writes beautifully about everything from general relativity and quantum mechanics to cosmology. There is not a single equation, yet the book reaches the deepest questions of how the universe came to be and who we are. A reading experience in which the boundary between philosophy and science dissolves.",
+      "whyReadEn": "The new standard for science books. A science essay as poetic as it is accessible — zero difficulty, endless depth. Think of it as the astrophysics companion to Harari's Sapiens."
     },
     {
       "slug": "the-undoing-project",
@@ -225,7 +241,9 @@
         "物語"
       ],
       "selectionReasonJa": "行動経済学を創った二人の天才の人間ドラマ。",
-      "titleEn": "The Undoing Project"
+      "titleEn": "The Undoing Project",
+      "descriptionEn": "A nonfiction account of the friendship and rivalry between the Israeli psychologists Daniel Kahneman and Amos Tversky, the founders of behavioral economics. Behind the scenes of Thinking, Fast and Slow lay the drama of two geniuses. Their story of studying human irrationality and changing the world is full of the fragility of friendship and the joy of intellectual creation.",
+      "whyReadEn": "The human-drama companion to Thinking, Fast and Slow. Knowing the people behind the theories makes Kahneman's research all the more precious. The finest science drama from a master of nonfiction."
     },
     {
       "slug": "outliers",
@@ -250,7 +268,9 @@
         "ベストセラー"
       ],
       "selectionReasonJa": "成功の神話をデータで解体する、グラッドウェルの代表作。",
-      "titleEn": "Outliers: The Story of Success"
+      "titleEn": "Outliers: The Story of Success",
+      "descriptionEn": "'Genius' is not something you are born with. Bill Gates and the Beatles were 'outliers' — people favored by ten thousand hours of practice and a fortunate moment in history. Gladwell dismantles the myth of success with data and storytelling in this pinnacle of popular sociology, balancing readability with intellectual stimulation.",
+      "whyReadEn": "More than a self-help book — an introduction to modern sociology. Alongside Thinking, Fast and Slow and Sapiens, it belongs on the essential reading list of the 'modern liberal arts.' Light yet deep."
     },
     {
       "slug": "the-opposite-of-loneliness",
@@ -275,7 +295,9 @@
         "洋書入門"
       ],
       "selectionReasonJa": "夭折した若き才能の、青春の不安と希望を描く短編集。",
-      "titleEn": "The Opposite of Loneliness"
+      "titleEn": "The Opposite of Loneliness",
+      "descriptionEn": "The only collection by Marina Keegan, a talent of twenty-two who died in a car accident just before graduating from Yale. The title essay, read at her graduation ceremony, went viral around the world. It captures beautifully both the omnipotence of youth and the poignancy of knowing it will not last. Published posthumously, it became a national bestseller.",
+      "whyReadEn": "The voice of a talent whose future was stolen. Essays that speak directly to the anxieties and hopes of the young. The English is accessible, making it an ideal first book in English."
     },
     {
       "slug": "between-the-world-and-me",
@@ -300,7 +322,9 @@
         "ノンフィクション"
       ],
       "selectionReasonJa": "黒人であることを息子に伝える手紙。全米図書賞受賞。",
-      "titleEn": "Between the World and Me"
+      "titleEn": "Between the World and Me",
+      "descriptionEn": "In the form of a letter to his teenage son, Ta-Nehisi Coates writes of the terror and pride of being Black in America. Half a century after Baldwin's The Fire Next Time, this National Book Award winner reaches the heart of the country's racial crisis. Toni Morrison called it 'a letter, a prayer, and a warning.'",
+      "whyReadEn": "An entry point to another lineage of American literature — Black writing from Baldwin to Coates. It also becomes a lens for thinking about discrimination in Japan."
     },
     {
       "slug": "the-years",
@@ -324,7 +348,9 @@
         "記憶"
       ],
       "selectionReasonJa": "ノーベル賞受賞。個人の記憶を集団の記憶として描く自伝文学の革命。",
-      "titleEn": "The Years"
+      "titleEn": "The Years",
+      "descriptionEn": "From the 1940s to the 2000s, this masterpiece traces the transformation of French society through the body and memory of a single woman. Neither autobiography nor collective history, each chapter opens with the description of a photograph and is told in 'elle' ('she'), as personal memory dissolves into generational memory. Nobel Prize in Literature, 2022.",
+      "whyReadEn": "An innovative work that expands the very concept of autobiography. Its technique of reviving an era through pop culture and everyday objects offers Japanese readers a brand-new reading experience."
     },
     {
       "slug": "guns-germs-and-steel",
@@ -348,7 +374,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/7884018-L.jpg",
       "selectionReasonJa": "文明の発展を地理と環境から解く、ピューリッツァー賞受賞の世界史。",
-      "titleEn": "Guns, Germs, and Steel"
+      "titleEn": "Guns, Germs, and Steel",
+      "descriptionEn": "Why did Europeans conquer the world? This Pulitzer Prize-winning masterwork finds the answer not in race but in geography and environment. Its grand hypothesis — that civilizations diverged according to the possibilities of food production — fundamentally changed how we view world history.",
+      "whyReadEn": "The other world history to read before Sapiens. It opens up the complexity of history, between environmental determinism and theories of race.",
+      "asin": "B0CRF3PYDZ"
     },
     {
       "slug": "the-sixth-extinction",
@@ -372,7 +401,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/7910870-L.jpg",
       "selectionReasonJa": "人間が引き起こす大量絶滅を描く、ピューリッツァー賞受賞作。",
-      "titleEn": "The Sixth Extinction"
+      "titleEn": "The Sixth Extinction",
+      "descriptionEn": "The sixth mass extinction in the Earth's history is underway — and this time it is not a natural phenomenon but caused by humans. Winner of the Pulitzer Prize. Kolbert reports from field sites around the world to document, in precise detail, the ongoing crisis of collapsing biodiversity.",
+      "whyReadEn": "Reframes climate change and environmental issues through the grand lens of species extinction. The modern Silent Spring."
     },
     {
       "slug": "the-immortal-life-of-henrietta-lacks",
@@ -396,7 +427,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/8364866-L.jpg",
       "selectionReasonJa": "医療の影に生きた女性と、科学と人種を描く傑作ルポ。",
-      "titleEn": "The Immortal Life of Henrietta Lacks"
+      "titleEn": "The Immortal Life of Henrietta Lacks",
+      "descriptionEn": "Henrietta Lacks was a Black woman who died of cervical cancer in 1951. Her cancer cells, immortalized as the 'HeLa' line, made revolutionary contributions to medical research — yet her family knew nothing of it for decades and remained poor. A masterwork of reportage on medical ethics and the shadows of science.",
+      "whyReadEn": "One of the most important books about the people who stand in the shadow of scientific progress. Medicine, race, and ethics in a single story."
     },
     {
       "slug": "into-the-wild",
@@ -419,7 +452,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/1377482-L.jpg",
       "selectionReasonJa": "「自由とは何か」を問う、最も有名なノンフィクション。",
-      "titleEn": "Into the Wild"
+      "titleEn": "Into the Wild",
+      "descriptionEn": "Christopher McCandless abandoned a prestigious university, gave away his savings, and rode into the Alaskan wilderness to a 'magical bus.' Why did he die? A landmark of nonfiction exploring idealism and reality, freedom and solitude.",
+      "whyReadEn": "The most famous nonfiction to ask what freedom means. Also superb as a story of travel and self-discovery.",
+      "asin": "4087605248"
     },
     {
       "slug": "the-man-who-mistook-his-wife-for-a-hat",
@@ -443,7 +479,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/6986188-L.jpg",
       "selectionReasonJa": "脳と人間性を優しく描く、医学ノンフィクションの古典。",
-      "titleEn": "The Man Who Mistook His Wife for a Hat"
+      "titleEn": "The Man Who Mistook His Wife for a Hat",
+      "descriptionEn": "Patients whose brain disorders leave them able to see but unable to understand — a man who mistakes his wife for a hat, a man who keeps forgetting himself. Neurologist Oliver Sacks elevated the medical case report to the level of literature, portraying the mysteries of human consciousness and the brain with a gentle eye.",
+      "whyReadEn": "The most widely read classic introduction to neuroscience. Read it as an exploration of humanity that goes far beyond medicine."
     },
     {
       "slug": "stumbling-on-happiness",
@@ -467,7 +505,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/6803663-L.jpg",
       "selectionReasonJa": "「幸福の予測の失敗」を科学で解く、幸福研究の決定版。",
-      "titleEn": "Stumbling on Happiness"
+      "titleEn": "Stumbling on Happiness",
+      "descriptionEn": "Humans are strikingly bad at imagining what will make us happy in the future. Harvard psychologist Daniel Gilbert draws on cognitive science to explain, with wit, the failure of our happiness predictions. The definitive scientific introduction to the feeling of happiness.",
+      "whyReadEn": "The happiness chapter of Thinking, Fast and Slow. An intelligent, enjoyable book that reveals your own 'happiness misconceptions.'"
     },
     {
       "slug": "the-power-of-habit",
@@ -491,7 +531,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/9078085-L.jpg",
       "selectionReasonJa": "習慣の科学的メカニズムを解く、実用的な一冊。",
-      "titleEn": "The Power of Habit"
+      "titleEn": "The Power of Habit",
+      "descriptionEn": "Cue, routine, reward — habits operate in the brain as a 'loop.' A New York Times reporter unpacks the scientific machinery of habits in companies and individuals alike, with a wealth of vivid examples.",
+      "whyReadEn": "For anyone who wants to understand 'can't stop' scientifically. A practical book that takes the best of self-help and science."
     },
     {
       "slug": "the-checklist-manifesto",
@@ -515,7 +557,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/8231866-L.jpg",
       "selectionReasonJa": "複雑な世界でチェックリストが人を救う、実践的な知恵。",
-      "titleEn": "The Checklist Manifesto"
+      "titleEn": "The Checklist Manifesto",
+      "descriptionEn": "Surgeon Atul Gawande investigates how checklists have prevented disasters in medicine, aviation, and construction. Why does such a simple tool work so well in a complex world? A meditation on the wisdom needed in the age of complexity.",
+      "whyReadEn": "The case for arranging systems rather than adding tools. Full of practical lessons for raising the quality of your work and life."
     },
     {
       "slug": "the-gene-an-intimate-history",
@@ -539,7 +583,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/11320163-L.jpg",
       "selectionReasonJa": "遺伝子の全歴史を家族の歴史と重ねて描く、生命科学の決定版。",
-      "titleEn": "The Gene: An Intimate History"
+      "titleEn": "The Gene: An Intimate History",
+      "descriptionEn": "A sweeping history of genetics, from Mendel to CRISPR, interwoven with the author's own family history of mental illness. What does the human genome promise us, and what does it threaten? A dialogue between science and philosophy over the meaning of 'fate.'",
+      "whyReadEn": "The definitive history of the gene, from the author of The Emperor of All Maladies. For anyone who wants the big picture of life science."
     },
     {
       "slug": "the-emperor-of-all-maladies",
@@ -563,7 +609,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/11320203-L.jpg",
       "selectionReasonJa": "がんの4000年の歴史を描く、ピューリッツァー賞受賞の医療ノンフィクション。",
-      "titleEn": "The Emperor of All Maladies"
+      "titleEn": "The Emperor of All Maladies",
+      "descriptionEn": "The history of cancer is the history of humanity. From records four thousand years old to modern targeted molecular therapy, this Pulitzer Prize-winning masterwork portrays cancer — the 'disease' — as a single living thing. The pinnacle of medical journalism.",
+      "whyReadEn": "To understand cancer is to understand life. A towering landmark of science nonfiction."
     },
     {
       "slug": "the-warmth-of-other-suns",
@@ -587,7 +635,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/10129368-L.jpg",
       "selectionReasonJa": "大移動を個人の人生から描く、ピューリッツァー賞受賞の黒人史。",
-      "titleEn": "The Warmth of Other Suns"
+      "titleEn": "The Warmth of Other Suns",
+      "descriptionEn": "Between 1915 and 1970, six million Black Americans left the South for the North and West in the Great Migration. Following the lives of three real people, this Pulitzer Prize winner lays bare the structure of racism and the people who nonetheless sought 'the warmth of other suns.'",
+      "whyReadEn": "American racism read through individual lives rather than statistics. The book that explains the background to Between the World and Me."
     },
     {
       "slug": "caste",
@@ -611,7 +661,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/10201429-L.jpg",
       "selectionReasonJa": "人種差別をカーストとして構造化する、現代社会論の必読書。",
-      "titleEn": "Caste: The Origins of Our Discontents"
+      "titleEn": "Caste: The Origins of Our Discontents",
+      "descriptionEn": "American racism should be understood not as 'race' but as 'caste' — an entrenched hierarchy. Comparing it with India's caste system and Nazi racial policy, Wilkerson exposes the hidden stratification of American society. An essential book of contemporary social thought.",
+      "whyReadEn": "Understanding, as structure, why discrimination never disappears. It also serves as a mirror for thinking about status consciousness in Japanese society."
     },
     {
       "slug": "evicted",
@@ -635,7 +687,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/12915110-L.jpg",
       "selectionReasonJa": "追い立てられる人々から貧困の構造を描く、ピューリッツァー賞受賞作。",
-      "titleEn": "Evicted: Poverty and Profit in the American City"
+      "titleEn": "Evicted: Poverty and Profit in the American City",
+      "descriptionEn": "This Pulitzer Prize-winning reportage follows a year in the lives of people being 'evicted' from the poorest neighborhoods of America for failing to pay rent. Poverty is not laziness — it is produced by the machinery of the housing market. A consideration of housing inequality that speaks to Japan as well.",
+      "whyReadEn": "What does it mean to lose your home? The most important recent book of social thought, reframing poverty as a structure."
     },
     {
       "slug": "when-breath-becomes-air",
@@ -659,7 +713,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/11463139-L.jpg",
       "selectionReasonJa": "死を目前にした医師の手記。死と生をめぐる最も誠実な記録。",
-      "titleEn": "When Breath Becomes Air"
+      "titleEn": "When Breath Becomes Air",
+      "descriptionEn": "A 36-year-old neurosurgeon learns he has terminal cancer. A man who has spent his career 'dealing with death' as a doctor now confronts it as a patient. His unfinished manuscript became the most honest testament ever written about death and life.",
+      "whyReadEn": "No memoir asks 'how to live with limited time' more directly. Impossible to read without tears."
     },
     {
       "slug": "the-body-keeps-the-score",
@@ -683,7 +739,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/8315367-L.jpg",
       "selectionReasonJa": "トラウマは身体に刻まれる。PTSD研究の決定版。",
-      "titleEn": "The Body Keeps the Score"
+      "titleEn": "The Body Keeps the Score",
+      "descriptionEn": "Trauma is not recorded only in words and memory — it is inscribed in the body itself. A psychiatrist who has led the world in trauma research draws on the clinical front line to paint the full picture of treatment. The definitive book on PTSD.",
+      "whyReadEn": "Also the key to understanding the inner world of Jude in A Little Life. For anyone who seriously wants to know the link between mind and body."
     },
     {
       "slug": "educated",
@@ -707,7 +765,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/8314077-L.jpg",
       "selectionReasonJa": "ケンブリッジ大学博士に至る、教育が人を変える証明。",
-      "titleEn": "Educated"
+      "titleEn": "Educated",
+      "descriptionEn": "Tara Westover grew up at the foot of a mountain, in a family that believed in an anti-school philosophy, never setting foot in a school or hospital. At seventeen she sat her first exam; she went on to earn a doctorate in history at Cambridge. An astonishing memoir — proof that education can change a person.",
+      "whyReadEn": "Forces you to reconsider, from its very roots, what it means to learn. The most famous contemporary memoir, and it overwhelms every reader."
     },
     {
       "slug": "the-right-stuff",
@@ -730,7 +790,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/3326778-L.jpg",
       "selectionReasonJa": "最初の宇宙飛行士たちを描く、ノンフィクション文学の傑作。",
-      "titleEn": "The Right Stuff"
+      "titleEn": "The Right Stuff",
+      "descriptionEn": "The Mercury Seven — the first astronauts, chosen from fighter pilots. In the style of New Journalism, Tom Wolfe portrays the myth of 'the man among men' they embodied, and the golden age of the space program. A masterwork of literary nonfiction.",
+      "whyReadEn": "The most entertaining book ever written about the myths of courage and manliness. A landmark of the revolution in nonfiction prose."
     },
     {
       "slug": "the-looming-tower",
@@ -754,7 +816,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/8172445-L.jpg",
       "selectionReasonJa": "9・11はなぜ防げなかったのかを描く、ピューリッツァー賞受賞作。",
-      "titleEn": "The Looming Tower"
+      "titleEn": "The Looming Tower",
+      "descriptionEn": "Why was 9/11 not prevented? This Pulitzer Prize winner renders, as superb reportage, every thread from the birth of al-Qaeda and the rivalry between the FBI and the CIA to bin Laden himself. The pinnacle of contemporary history writing.",
+      "whyReadEn": "The best book for understanding how the gears of history meshed. A deep grasp of international politics and terrorism."
     },
     {
       "slug": "nothing-to-envy",
@@ -778,7 +842,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/7948097-L.jpg",
       "selectionReasonJa": "北朝鮮の日常を6人の証言で描く、全体主義を生活から理解する。",
-      "titleEn": "Nothing to Envy"
+      "titleEn": "Nothing to Envy",
+      "descriptionEn": "Reconstructing daily life in North Korea from the testimonies of six 'ordinary people' who left. Famine, information control, the caste system — the book shows, through the details of everyday life, how totalitarianism has governed the private lives of its people. A masterwork of international reporting.",
+      "whyReadEn": "Reads the 'society over there' through the lives of real named individuals. A changed perspective on the reality of a country bordering Japan."
     },
     {
       "slug": "the-new-york-times-street-smart",
@@ -802,7 +868,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/2936447-L.jpg",
       "selectionReasonJa": "スタンダップコメディの歴史を描く、アメリカ社会風刺の文化史。",
-      "titleEn": "Comedy at the Edge"
+      "titleEn": "Comedy at the Edge",
+      "descriptionEn": "Where did post-war American comedy come from? This history traces stand-up comedy meticulously from Lenny Bruce and George Carlin onward. The story of the people who broke society's taboos through laughter.",
+      "whyReadEn": "The pleasure of reading 'laughter' as cultural history. Savor the depth of American social satire, with all the background context."
     },
     {
       "slug": "the-years-of-lyndon-johnson",
@@ -826,7 +894,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/12869915-L.jpg",
       "selectionReasonJa": "権力のリアリズムを最も深く描く、政治ノンフィクションの最高峰。",
-      "titleEn": "Master of the Senate"
+      "titleEn": "Master of the Senate",
+      "descriptionEn": "How did Lyndon Johnson become 'the greatest Senate majority leader in history'? This third volume of Robert Caro's LBJ biography captures power's machinery and human ambition through incomparable reporting. Hailed as the pinnacle of political nonfiction.",
+      "whyReadEn": "The deepest portrait of the realism of power ever written. Anyone interested in politics will be shaped by it."
     },
     {
       "slug": "the-soul-of-a-new-machine",
@@ -851,7 +921,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/5290886-L.jpg",
       "selectionReasonJa": "エンジニアたちの情熱を描く、ピューリッツァー賞受賞の古典。",
-      "titleEn": "The Soul of a New Machine"
+      "titleEn": "The Soul of a New Machine",
+      "descriptionEn": "In the late 1970s, a young team of engineers at Data General raced to build a next-generation minicomputer called 'Eagle' in just twelve months. Winner of the Pulitzer Prize. A classic about the passion of engineers, written before the myth of Silicon Valley was born.",
+      "whyReadEn": "A masterpiece of nonfiction about the fervor of makers. It transmits, to this day, the essence of what it means to be an engineer."
     },
     {
       "slug": "the-battle-of-the-labyrinth",
@@ -875,7 +947,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/803118-L.jpg",
       "selectionReasonJa": "コロンブス以前のアメリカ大陸の高度文明を描く、歴史ノンフィクションの金字塔。",
-      "titleEn": "1491"
+      "titleEn": "1491",
+      "descriptionEn": "Was the Americas before Columbus really a sparsely populated 'New World'? Recent archaeology and anthropology have revealed the advanced civilizations and prosperity of indigenous peoples. A monumental work of historical nonfiction that unsettles the Eurocentric view of history.",
+      "whyReadEn": "Turns the textbook version of world history upside down. An essential book for thinking about environment and civilization."
     },
     {
       "slug": "the-glass-universe",
@@ -899,7 +973,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/7893959-L.jpg",
       "selectionReasonJa": "ハーバード天文台の女性コンピュータたちを描く、科学史の感動作。",
-      "titleEn": "The Glass Universe"
+      "titleEn": "The Glass Universe",
+      "descriptionEn": "At the Harvard Observatory in the late nineteenth century, the 'women computers' analyzed photographic plates of the night sky and laid the foundations of stellar classification — the very basis of astronomy. The untold story of the women scientists who did the work.",
+      "whyReadEn": "A moving nonfiction tribute to the achievements of women buried in the history of science."
     },
     {
       "slug": "the-hidden-figures",
@@ -923,7 +999,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/10661694-L.jpg",
       "selectionReasonJa": "宇宙開発を支えた黒人女性数学者たちを描く、映画『ドリーム』の原作。",
-      "titleEn": "Hidden Figures"
+      "titleEn": "Hidden Figures",
+      "descriptionEn": "Behind the space program stood Black women mathematicians who did the computing. This is the story of the women who worked in the 'colored computers' room, their accomplishments, and the double wall of race and gender they faced. The basis of the film Hidden Figures.",
+      "whyReadEn": "The story of scientists who broke through the walls of racism and sexism."
     },
     {
       "slug": "the-order-of-genius",
@@ -947,7 +1025,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/417398-L.jpg",
       "selectionReasonJa": "天才物理学者ファインマンの生涯を描く、科学伝記の最高傑作。",
-      "titleEn": "Genius"
+      "titleEn": "Genius",
+      "descriptionEn": "A biography of physicist Richard Feynman — Nobel laureate, charismatic teacher, and incorrigible joker. Gleick portrays the life and thinking of a 'genius' who embodied the joy of science.",
+      "whyReadEn": "The finest science biography ever written about what genius is."
     },
     {
       "slug": "the-chaos",
@@ -971,7 +1051,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/94249-L.jpg",
       "selectionReasonJa": "カオス理論を一般読者に初めて伝えた、科学ジャーナリズムの古典。",
-      "titleEn": "Chaos"
+      "titleEn": "Chaos",
+      "descriptionEn": "Can a butterfly's wingbeat cause a storm far away? This masterwork first brought the science of 'chaos' — deterministic yet unpredictable — to the general reader. A classic that communicates a paradigm shift in science.",
+      "whyReadEn": "The science of unpredictability. An introduction to the world of complex systems."
     },
     {
       "slug": "the-sleeping-lady",
@@ -995,7 +1077,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/8477368-L.jpg",
       "selectionReasonJa": "高齢化と終末期医療を描く、現代の必読書。",
-      "titleEn": "Being Mortal"
+      "titleEn": "Being Mortal",
+      "descriptionEn": "Extending life with medicine is not necessarily a good life. Surgeon Atul Gawande portrays the realities of aging and end-of-life care, and asks how we should live and how we should die. An essential modern book.",
+      "whyReadEn": "A moving, thought-provoking book that confronts aging and death from inside medicine.",
+      "asin": "B0GX2Q4SW1"
     },
     {
       "slug": "the-complications",
@@ -1019,7 +1104,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/5277801-L.jpg",
       "selectionReasonJa": "医療の不確かさを率直に語る、外科医の誠実なエッセイ集。",
-      "titleEn": "Complications"
+      "titleEn": "Complications",
+      "descriptionEn": "Doctors make mistakes. Surgeon Atul Gawande speaks frankly about the uncertainty of medicine and the human failures of physicians. A powerful, honest collection of essays from inside the medical world.",
+      "whyReadEn": "A fine work of medical nonfiction about the imperfect practice of medicine."
     },
     {
       "slug": "the-gods-of-money",
@@ -1043,7 +1130,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/6327852-L.jpg",
       "selectionReasonJa": "金融の歴史は文明の歴史。マネーの進化を壮大に描く。",
-      "titleEn": "The Ascent of Money"
+      "titleEn": "The Ascent of Money",
+      "descriptionEn": "Bonds, stocks, insurance, real estate — the history of finance is the history of civilization. Historian Niall Ferguson traces the grand evolution of money, from the banker Medicis to the subprime crisis.",
+      "whyReadEn": "Knowing the history of money changes how you see the world. The foundation of financial literacy.",
+      "asin": "4152090952"
     },
     {
       "slug": "the-civilization",
@@ -1067,7 +1157,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/7117712-L.jpg",
       "selectionReasonJa": "西洋文明が世界を支配した六つの理由を問う、刺激的な比較史。",
-      "titleEn": "Civilization"
+      "titleEn": "Civilization",
+      "descriptionEn": "Why did Western civilization come to dominate the world? Ferguson advances a bold hypothesis: six 'killer apps' — competition, science, property rights, medicine, consumer society, and the work ethic — made the West strong.",
+      "whyReadEn": "A provocative answer to the big questions of world history. Read it as a sequel to Sapiens."
     },
     {
       "slug": "the-happiness-of-peoples",
@@ -1091,7 +1183,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/7906239-L.jpg",
       "selectionReasonJa": "現代は過去より暴力が少ない、をデータで示す大著。",
-      "titleEn": "The Better Angels of Our Nature"
+      "titleEn": "The Better Angels of Our Nature",
+      "descriptionEn": "'The present has less violence than the past.' Cognitive psychologist Steven Pinker marshals mountains of data to reveal the historical decline of violence. The most stimulating and debated grand work on human history in recent memory.",
+      "whyReadEn": "Data that overturns the assumption that the world is getting worse. An argument for hope in history.",
+      "asin": "4791768469"
     },
     {
       "slug": "the-enlightenment-now",
@@ -1115,7 +1210,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/8147013-L.jpg",
       "selectionReasonJa": "理性と進歩をデータで擁護する、現代思想の白熱の議論。",
-      "titleEn": "Enlightenment Now"
+      "titleEn": "Enlightenment Now",
+      "descriptionEn": "Reason, science, humanism, progress — Pinker argues from the data that humanity has improved dramatically over the past half-century, and takes on anti-Enlightenment pessimism. A fierce debate at the front line of contemporary thought.",
+      "whyReadEn": "Do you believe in progress? For readers who want to weigh the case for and against modernity, argued with data."
     },
     {
       "slug": "the-power-of-myth",
@@ -1139,7 +1236,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/240505-L.jpg",
       "selectionReasonJa": "神話の構造を知れば物語が読める。キャンベルの対話。",
-      "titleEn": "The Power of Myth"
+      "titleEn": "The Power of Myth",
+      "descriptionEn": "Dialogues between mythologist Joseph Campbell, famous for his theory of the 'hero's journey,' and a journalist. Speaking across religion, psychology and literature, they explore how myths work in our lives. A book that even influenced the making of Star Wars.",
+      "whyReadEn": "Know the structure of myth and every story opens itself to you. The literacy you need to read culture.",
+      "asin": "4152035234"
     },
     {
       "slug": "the-hero-with-a-thousand-faces",
@@ -1163,7 +1263,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/443668-L.jpg",
       "selectionReasonJa": "「英雄の旅」の理論。すべての物語論の基礎となった古典。",
-      "titleEn": "The Hero with a Thousand Faces"
+      "titleEn": "The Hero with a Thousand Faces",
+      "descriptionEn": "The myths of the world keep repeating the same pattern: the 'hero's journey.' A towering work of mythology that became the basis of every theory of narrative and screenwriting that followed.",
+      "whyReadEn": "The most important book for knowing the patterns of story. Required reading for any creator."
     },
     {
       "slug": "the-courage-to-be",
@@ -1187,7 +1289,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/161349-L.jpg",
       "selectionReasonJa": "不安とそれに抗う勇気を哲学と神学から論じる。",
-      "titleEn": "The Courage to Be"
+      "titleEn": "The Courage to Be",
+      "descriptionEn": "What is anxiety, and what is the courage that opposes it? Theologian Paul Tillich discusses existential anxiety and the courage 'to be' in spite of it. A philosophical classic that offers profound comfort.",
+      "whyReadEn": "Considering the courage to live, from philosophy and theology. The book to read in an age of anxiety."
     },
     {
       "slug": "the-ecology-of-commerce",
@@ -1211,7 +1315,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/3941250-L.jpg",
       "selectionReasonJa": "環境破壊とビジネスを結び、持続可能な経済を提唱。",
-      "titleEn": "The Ecology of Commerce"
+      "titleEn": "The Ecology of Commerce",
+      "descriptionEn": "Locating the root of environmental destruction in the very way business is conducted, this book proposes the possibility of a sustainable economy. As the business theory of the environmental movement, it is still widely read today.",
+      "whyReadEn": "Thinking about a path where economy and environment coexist. A classic of eco-capitalism."
     },
     {
       "slug": "the-tragedy-of-the-commons",
@@ -1235,7 +1341,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/1646253-L.jpg",
       "selectionReasonJa": "「共有地の悲劇」の概念を提示した、環境論の古典。",
-      "titleEn": "The Tragedy of the Commons"
+      "titleEn": "The Tragedy of the Commons",
+      "descriptionEn": "If everyone on a shared pasture adds to their herds, the grass will be exhausted. This essay presents the concept of 'the tragedy of the commons' — where individual interest destroys the whole — and became a classic of environmental and population issues.",
+      "whyReadEn": "The starting point of the commons problem. The theoretical foundation of environmental and resource issues."
     },
     {
       "slug": "the-geography-of-thought",
@@ -1259,7 +1367,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/910322-L.jpg",
       "selectionReasonJa": "文化が思考様式をどう形作るかを実証する、文化心理学の古典。",
-      "titleEn": "The Geography of Thought"
+      "titleEn": "The Geography of Thought",
+      "descriptionEn": "Easterners see the world through context, Westerners through objects — a cognitive psychologist demonstrates empirically how culture shapes styles of thought. A classic of cultural psychology.",
+      "whyReadEn": "Know the cultural differences in thinking and the distinctive features of Japanese thought come into view."
     },
     {
       "slug": "the-blink",
@@ -1283,7 +1393,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/14421850-L.jpg",
       "selectionReasonJa": "直感の力と危険を事例で解く、グラッドウェルの代表作。",
-      "titleEn": "Blink"
+      "titleEn": "Blink",
+      "descriptionEn": "Judgments made in the first two seconds can be more accurate than deliberation. Gladwell portrays, through abundant examples, the power and the danger of intuition, unpacking the science of snap decisions.",
+      "whyReadEn": "Should you trust your gut? A fascinating way into the science of decision-making.",
+      "asin": "B0GX7RWZYP"
     },
     {
       "slug": "the-tipping-point",
@@ -1307,7 +1420,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/10873292-L.jpg",
       "selectionReasonJa": "「流行の臨界点」を解き明かした、グラッドウェルのデビュー作。",
-      "titleEn": "The Tipping Point"
+      "titleEn": "The Tipping Point",
+      "descriptionEn": "Why do fads suddenly explode? Gladwell explains the 'tipping point' of products, information, and trends through the dynamics of psychology and society. The author's debut.",
+      "whyReadEn": "For anyone who wants to understand how trends work. A bridge between marketing and social psychology."
     },
     {
       "slug": "the-four-tendencies",
@@ -1331,7 +1446,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/298622-L.jpg",
       "selectionReasonJa": "幸福の科学と古代の知恵を統合する、ポジティブ心理学の名著。",
-      "titleEn": "The Happiness Hypothesis"
+      "titleEn": "The Happiness Hypothesis",
+      "descriptionEn": "'The elephant and the rider' — emotion is a huge elephant, reason the rider. Integrating the science of happiness with ancient wisdom, this book searches for the meaning of a well-lived life. The best introduction to positive psychology.",
+      "whyReadEn": "Considering how to be happy, through science and philosophy. A classic of happiness research."
     },
     {
       "slug": "the-righteous-mind",
@@ -1355,7 +1472,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/7256782-L.jpg",
       "selectionReasonJa": "道徳的分断を六つの「味蕾」で解く、現代の重要書。",
-      "titleEn": "The Righteous Mind"
+      "titleEn": "The Righteous Mind",
+      "descriptionEn": "Why do people clash over politics and morality? Human moral intuitions are built from six 'taste buds' — moral psychology lays bare the political divides of our time in this important contemporary book.",
+      "whyReadEn": "The key to understanding why other people think differently. Essential for thinking about today's divisions."
     },
     {
       "slug": "the-fooled-by-randomness",
@@ -1379,7 +1498,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/855791-L.jpg",
       "selectionReasonJa": "運と実力を区別する、タレブ「不確実性」四部作の第一作。",
-      "titleEn": "Fooled by Randomness"
+      "titleEn": "Fooled by Randomness",
+      "descriptionEn": "Are successful traders skilled, or just lucky? Taleb questions the distinction between luck and ability, exposing the role of chance lurking inside stories of success. The first book in his 'uncertainty' quartet.",
+      "whyReadEn": "Sharpen your eye for telling luck from skill. An intellectual adventure that questions the commonplaces of self-help."
     },
     {
       "slug": "the-anti-fragile",
@@ -1403,7 +1524,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/9180157-L.jpg",
       "selectionReasonJa": "混乱でより強くなる「アンチフラジャイル」の思想。",
-      "titleEn": "Antifragile"
+      "titleEn": "Antifragile",
+      "descriptionEn": "Some things don't just resist harm — they grow stronger under chaos and stress. Taleb calls this 'antifragility' and argues for how to live in a world of uncertainty.",
+      "whyReadEn": "A philosophy of making uncertainty your ally. As a sequel to The Black Swan, it works on life planning."
     },
     {
       "slug": "the-skin-in-the-game",
@@ -1427,7 +1550,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/10856868-L.jpg",
       "selectionReasonJa": "リスクを負わない者の危険性を喝破する、痛快な哲学書。",
-      "titleEn": "Skin in the Game"
+      "titleEn": "Skin in the Game",
+      "descriptionEn": "Those who profit by pushing risk onto others — Taleb exposes the danger of decision-makers who bear no risk, and argues that action and responsibility must be aligned. A practical, exhilarating philosophy.",
+      "whyReadEn": "Asking what it means to bear responsibility. Effective in both business and life."
     },
     {
       "slug": "the-physics-of-the-future",
@@ -1451,7 +1576,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/6712851-L.jpg",
       "selectionReasonJa": "科学が50年後の世界をどう変えるかを予測する。",
-      "titleEn": "Physics of the Future"
+      "titleEn": "Physics of the Future",
+      "descriptionEn": "Computers, medicine, energy, space — how will science change the world fifty years from now? Theoretical physicist Michio Kaku predicts the future from the frontiers of science. Enjoy a reality that reads like science fiction.",
+      "whyReadEn": "Foresee the future through science. Raises your scientific literacy."
     },
     {
       "slug": "the-singularity-is-near",
@@ -1475,7 +1602,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/400518-L.jpg",
       "selectionReasonJa": "AI時代の「予言の書」。技術的特異点を論じた基本文献。",
-      "titleEn": "The Singularity Is Near"
+      "titleEn": "The Singularity Is Near",
+      "descriptionEn": "The 'Singularity' — the moment artificial intelligence surpasses human intelligence. Inventor Ray Kurzweil makes bold predictions about the technological singularity and the future of humanity. The starting point of every debate about the AI era.",
+      "whyReadEn": "The 'book of prophecy' for the AI age. Foundational reading for thinking about the future of technology and humanity."
     },
     {
       "slug": "the-prison-industrial-complex",
@@ -1499,7 +1628,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/14826736-L.jpg",
       "selectionReasonJa": "大量収監という新しい人種差別を暴く、現代アメリカの核心。",
-      "titleEn": "The New Jim Crow"
+      "titleEn": "The New Jim Crow",
+      "descriptionEn": "The war on drugs and mass incarceration are a 'new form' of racism. Alexander analyzes with rigor the system that excludes large numbers of Black men as criminals. The most important book on America's race problem.",
+      "whyReadEn": "The core of contemporary America on crime and race. Read alongside Caste for full depth."
     },
     {
       "slug": "the-just-society",
@@ -1523,7 +1654,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/1129014-L.jpg",
       "selectionReasonJa": "ハーバード大人気講義を書籍化。正義を考える哲学入門の金字塔。",
-      "titleEn": "Justice"
+      "titleEn": "Justice",
+      "descriptionEn": "'Is a fertilized egg a person?' 'Should we pay the ransom?' Based on the wildly popular Harvard lecture course, this is the landmark introduction to philosophy. Through dialogue about justice, it trains the muscles of thinking.",
+      "whyReadEn": "The bestselling introduction to philosophy. Make justice and ethics your own questions.",
+      "asin": "B0H9DLHRWK"
     },
     {
       "slug": "the-tyranny-of-merit",
@@ -1547,7 +1681,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/10431529-L.jpg",
       "selectionReasonJa": "実力主義が格差を正当化する、現代を代表する社会論。",
-      "titleEn": "The Tyranny of Merit"
+      "titleEn": "The Tyranny of Merit",
+      "descriptionEn": "'Work hard and you will be rewarded.' Is meritocracy not the dream of equality but an ideology that legitimizes inequality? Sandel sharply questions the dark side of meritocracy in this defining work of social thought for our time.",
+      "whyReadEn": "In an age of inequality and division, reconsider what success and failure mean. It strikes home for Japanese readers too."
     },
     {
       "slug": "the-pale-blue-dot",
@@ -1571,7 +1707,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/14417175-L.jpg",
       "selectionReasonJa": "宇宙から地球を見つめ直す、セーガンの感動の名著。",
-      "titleEn": "Pale Blue Dot"
+      "titleEn": "Pale Blue Dot",
+      "descriptionEn": "'Our planet is a lonely speck in the great enveloping cosmic dark.' Carl Sagan, the father of space science, speaks majestically about the place of Earth and humanity in the universe. A classic fusing science and humanity.",
+      "whyReadEn": "Seeing Earth anew from space — the greatest emotional experience science can offer."
     },
     {
       "slug": "the-cosmos",
@@ -1595,7 +1733,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/8283901-L.jpg",
       "selectionReasonJa": "宇宙の歴史と科学史を語る、20世紀最大の科学普及書。",
-      "titleEn": "Cosmos"
+      "titleEn": "Cosmos",
+      "descriptionEn": "The greatest science popularization of the twentieth century, carrying the history of the universe and of human science to the world alongside its television series. Sagan tells of galaxies, stars, and the evolution of life, spreading the joy of science to all humanity.",
+      "whyReadEn": "Where the fun of science begins. A classic about the universe and life that everyone should read once.",
+      "asin": "B01MXCQAAE"
     },
     {
       "slug": "the-fluent-body",
@@ -1619,7 +1760,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/14420637-L.jpg",
       "selectionReasonJa": "システム思考の金字塔。複雑な世界を捉える枠組み。",
-      "titleEn": "Thinking in Systems"
+      "titleEn": "Thinking in Systems",
+      "descriptionEn": "The world is not a collection of parts but a web of relationships. This towering work on 'systems thinking' offers a framework for grasping a complex world, from environmental problems to organizational theory.",
+      "whyReadEn": "The classic of seeing the whole. For anyone who wants to understand the structure of problems."
     },
     {
       "slug": "reading-lolita-in-tehran",
@@ -1643,7 +1786,10 @@
         "文学",
         "自由"
       ],
-      "coverUrl": "https://covers.openlibrary.org/b/id/227873-L.jpg"
+      "coverUrl": "https://covers.openlibrary.org/b/id/227873-L.jpg",
+      "descriptionEn": "In Tehran after the Iranian revolution, university professor Azar Nafisi gathered seven female students in her home to secretly read Nabokov and Fitzgerald. A worldwide bestseller about what it means to read literature under censorship and oppression.",
+      "whyReadEn": "A moving nonfiction work asking what 'the freedom to read literature' means under totalitarianism. Where Iranian modern history and literature cross.",
+      "asin": "4309467431"
     },
     {
       "slug": "i-am-malala",
@@ -1667,7 +1813,9 @@
         "女性",
         "ノーベル賞"
       ],
-      "coverUrl": "https://covers.openlibrary.org/b/id/9358664-L.jpg"
+      "coverUrl": "https://covers.openlibrary.org/b/id/9358664-L.jpg",
+      "descriptionEn": "Shot by the Taliban and still fighting for girls' right to education, the girl Malala tells the astonishing story of her life and beliefs. The autobiography of the youngest Nobel Peace Prize laureate in history.",
+      "whyReadEn": "How precious is it for a girl to go to school? A portrait of Pakistan's reality and the power of education."
     },
     {
       "slug": "behind-the-beautiful-forevers",
@@ -1691,7 +1839,9 @@
         "貧困",
         "全米図書賞"
       ],
-      "coverUrl": "https://covers.openlibrary.org/b/id/7166857-L.jpg"
+      "coverUrl": "https://covers.openlibrary.org/b/id/7166857-L.jpg",
+      "descriptionEn": "Annawadi, a slum beside Mumbai's international airport. For three years the author lived alongside its residents to describe a year of their lives. Poverty, corruption, and hope. A National Book Award-winning masterpiece of reportage.",
+      "whyReadEn": "Poverty told not as statistics but as living human stories. A microcosm of modern India."
     },
     {
       "slug": "no-map-to-south",
@@ -1715,7 +1865,9 @@
         "戦争",
         "自伝"
       ],
-      "coverUrl": "https://covers.openlibrary.org/b/id/11592698-L.jpg"
+      "coverUrl": "https://covers.openlibrary.org/b/id/11592698-L.jpg",
+      "descriptionEn": "The memoir of Ishmael Beah, swept into civil war at age twelve and made to fight as a child soldier. Violence and loss, and rehabilitation. A worldwide bestseller about Africa's tragedy and human resilience.",
+      "whyReadEn": "The reality of child soldiers in the words of the one who lived it. The truth of Africa's conflicts, and human strength."
     },
     {
       "slug": "the-sheep-and-the-rain",
@@ -1739,7 +1891,9 @@
         "女性",
         "自伝"
       ],
-      "coverUrl": "https://covers.openlibrary.org/b/id/6809006-L.jpg"
+      "coverUrl": "https://covers.openlibrary.org/b/id/6809006-L.jpg",
+      "descriptionEn": "Through the lives of three generations of women in one Chinese family — grandmother, mother, and the author herself — Jung Chang tells the modern history of China from the Mao era to the reforms. The finest nonfiction on China, with over ten million copies sold worldwide.",
+      "whyReadEn": "Chinese modern history read as the lives of three women. Essential reading for understanding Chinese society."
     }
   ]
 }

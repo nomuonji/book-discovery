@@ -6,10 +6,30 @@
       "descriptionJa": "カミュの不条理から出発し、サルトルの自由の哲学、フーコーの権力論へ——20世紀フランス思想の展開を4冊でたどる読書パス。「自分は自由なのか？」「社会にどう規定されているのか？」を考えながら読むと、世界の見え方が変わる。",
       "difficulty": 2,
       "steps": [
-        {"order": 1, "bookSlug": "the-stranger", "noteJa": "まずは小説から。ムルソーの「無関心」を通じて、社会の常識がいかに恣意的かを体感する。哲学を頭ではなく身体で理解するための入口。", "keyConceptJa": "不条理——世界に意味はないという解放"},
-        {"order": 2, "bookSlug": "the-myth-of-sisyphus", "noteJa": "小説で感じた不条理を、今度は理論として理解する。カミュはなぜ「シーシュポスは幸福でなければならない」と言ったのか。", "keyConceptJa": "不条理からの出発——自殺しない理由"},
-        {"order": 3, "bookSlug": "existentialism-is-a-humanism", "noteJa": "カミュの「不条理」に近くて遠いサルトルの「実存」。自由の重さと、選択の責任を引き受けることの意味を、わかりやすい講演調で学ぶ。", "keyConceptJa": "実存は本質に先立つ——自由と責任"},
-        {"order": 4, "bookSlug": "discipline-and-punish", "noteJa": "サルトルの「自由な主体」は本当に自由か？ フーコーは「主体は権力によって作られる」と喝破する。学校も会社も監獄と同じ構造だと知ったとき、社会の見え方は一変する。", "keyConceptJa": "規律権力——自由な主体はどこから来るのか"}
+        {
+          "order": 1,
+          "bookSlug": "the-stranger",
+          "noteJa": "まずは小説から。ムルソーの「無関心」を通じて、社会の常識がいかに恣意的かを体感する。哲学を頭ではなく身体で理解するための入口。",
+          "keyConceptJa": "不条理——世界に意味はないという解放"
+        },
+        {
+          "order": 2,
+          "bookSlug": "the-myth-of-sisyphus",
+          "noteJa": "小説で感じた不条理を、今度は理論として理解する。カミュはなぜ「シーシュポスは幸福でなければならない」と言ったのか。",
+          "keyConceptJa": "不条理からの出発——自殺しない理由"
+        },
+        {
+          "order": 3,
+          "bookSlug": "existentialism-is-a-humanism",
+          "noteJa": "カミュの「不条理」に近くて遠いサルトルの「実存」。自由の重さと、選択の責任を引き受けることの意味を、わかりやすい講演調で学ぶ。",
+          "keyConceptJa": "実存は本質に先立つ——自由と責任"
+        },
+        {
+          "order": 4,
+          "bookSlug": "discipline-and-punish",
+          "noteJa": "サルトルの「自由な主体」は本当に自由か？ フーコーは「主体は権力によって作られる」と喝破する。学校も会社も監獄と同じ構造だと知ったとき、社会の見え方は一変する。",
+          "keyConceptJa": "規律権力——自由な主体はどこから来るのか"
+        }
       ]
     },
     {
@@ -18,11 +38,36 @@
       "descriptionJa": "西洋哲学の地下水脈をたどる旅。ニーチェの価値転換から、アーレントの全体主義批判、そしてバトラーやサイードの現代思想へ。哲学が「生き方」と「社会」をどう変えてきたかを知る5冊。",
       "difficulty": 3,
       "steps": [
-        {"order": 1, "bookSlug": "thus-spoke-zarathustra", "noteJa": "「神は死んだ」——西洋のあらゆる価値観を根底から覆した預言書。哲学を詩として読む体験。難しいが、ここの一撃がなければ後の思想は生まれなかった。", "keyConceptJa": "神の死と超人——既成価値の破壊"},
-        {"order": 2, "bookSlug": "the-origins-of-totalitarianism", "noteJa": "ニーチェの後に起きた20世紀の悲劇——ナチズムとスターリニズムはなぜ可能だったのか。哲学が歴史と政治に降り立つ瞬間。", "keyConceptJa": "全体主義の構造——人間の複数性の破壊"},
-        {"order": 3, "bookSlug": "the-second-sex", "noteJa": "「人は女に生まれない、女になる」——実存主義の方法をジェンダーに応用し、フェミニズム理論の扉を開いた金字塔。", "keyConceptJa": "他者としての女性——ジェンダーの構築性"},
-        {"order": 4, "bookSlug": "black-skin-white-masks", "noteJa": "植民地主義が人間の精神に何をしたか。差別の内面化を精神医学と言語学から解剖する。ヨーロッパ哲学への強烈なカウンター。", "keyConceptJa": "植民地化された精神——内面化される差別"},
-        {"order": 5, "bookSlug": "orientalism", "noteJa": "「東洋」は西洋が作り出した幻想だった——知と権力の結びつきを暴き、ポストコロニアル理論を創始した記念碑。", "keyConceptJa": "表象の権力——知はいかに支配するか"}
+        {
+          "order": 1,
+          "bookSlug": "thus-spoke-zarathustra",
+          "noteJa": "「神は死んだ」——西洋のあらゆる価値観を根底から覆した預言書。哲学を詩として読む体験。難しいが、ここの一撃がなければ後の思想は生まれなかった。",
+          "keyConceptJa": "神の死と超人——既成価値の破壊"
+        },
+        {
+          "order": 2,
+          "bookSlug": "the-origins-of-totalitarianism",
+          "noteJa": "ニーチェの後に起きた20世紀の悲劇——ナチズムとスターリニズムはなぜ可能だったのか。哲学が歴史と政治に降り立つ瞬間。",
+          "keyConceptJa": "全体主義の構造——人間の複数性の破壊"
+        },
+        {
+          "order": 3,
+          "bookSlug": "the-second-sex",
+          "noteJa": "「人は女に生まれない、女になる」——実存主義の方法をジェンダーに応用し、フェミニズム理論の扉を開いた金字塔。",
+          "keyConceptJa": "他者としての女性——ジェンダーの構築性"
+        },
+        {
+          "order": 4,
+          "bookSlug": "black-skin-white-masks",
+          "noteJa": "植民地主義が人間の精神に何をしたか。差別の内面化を精神医学と言語学から解剖する。ヨーロッパ哲学への強烈なカウンター。",
+          "keyConceptJa": "植民地化された精神——内面化される差別"
+        },
+        {
+          "order": 5,
+          "bookSlug": "orientalism",
+          "noteJa": "「東洋」は西洋が作り出した幻想だった——知と権力の結びつきを暴き、ポストコロニアル理論を創始した記念碑。",
+          "keyConceptJa": "表象の権力——知はいかに支配するか"
+        }
       ]
     },
     {
@@ -31,10 +76,30 @@
       "descriptionJa": "ボーヴォワールの古典から始まり、バトラーのクィア理論、ソルニットのエッセイまで、フェミニズム思想の進化を4冊でたどる。難解な理論書から日常のエッセイまで、バランスよく選んだ。",
       "difficulty": 2,
       "steps": [
-        {"order": 1, "bookSlug": "the-second-sex", "noteJa": "フェミニズムの原点。生物学・歴史・神話を横断しながら、「女は作られる」ことを徹底的に証明する。分量は多いが、この一冊がすべての始まり。", "keyConceptJa": "女は女に生まれない、女になる"},
-        {"order": 2, "bookSlug": "gender-trouble", "noteJa": "「女」というカテゴリーそのものを解体するバトラーの革命作。難解だが、ボーヴォワールを読んだあとなら挑戦できる。性の「自然さ」が崩れ去る体験。", "keyConceptJa": "ジェンダー・パフォーマティヴィティ"},
-        {"order": 3, "bookSlug": "men-explain-things-to-me", "noteJa": "理論から実践へ。日常の「あるある」から性差別の構造を浮かび上がらせるエッセイ集。理論書で重くなった頭をほぐしつつ、怒りと笑いを。", "keyConceptJa": "日常のフェミニズム——理論を生きる"},
-        {"order": 4, "bookSlug": "girl-woman-other", "noteJa": "理論から文学へ。現代イギリスの12人の黒人女性たちを描く多声的小説。フェミニズムが「誰のためか」を問い直し、交差性（インターセクショナリティ）を体感する。", "keyConceptJa": "交差性——人種とジェンダーの複合"}
+        {
+          "order": 1,
+          "bookSlug": "the-second-sex",
+          "noteJa": "フェミニズムの原点。生物学・歴史・神話を横断しながら、「女は作られる」ことを徹底的に証明する。分量は多いが、この一冊がすべての始まり。",
+          "keyConceptJa": "女は女に生まれない、女になる"
+        },
+        {
+          "order": 2,
+          "bookSlug": "gender-trouble",
+          "noteJa": "「女」というカテゴリーそのものを解体するバトラーの革命作。難解だが、ボーヴォワールを読んだあとなら挑戦できる。性の「自然さ」が崩れ去る体験。",
+          "keyConceptJa": "ジェンダー・パフォーマティヴィティ"
+        },
+        {
+          "order": 3,
+          "bookSlug": "men-explain-things-to-me",
+          "noteJa": "理論から実践へ。日常の「あるある」から性差別の構造を浮かび上がらせるエッセイ集。理論書で重くなった頭をほぐしつつ、怒りと笑いを。",
+          "keyConceptJa": "日常のフェミニズム——理論を生きる"
+        },
+        {
+          "order": 4,
+          "bookSlug": "girl-woman-other",
+          "noteJa": "理論から文学へ。現代イギリスの12人の黒人女性たちを描く多声的小説。フェミニズムが「誰のためか」を問い直し、交差性（インターセクショナリティ）を体感する。",
+          "keyConceptJa": "交差性——人種とジェンダーの複合"
+        }
       ]
     },
     {
@@ -43,11 +108,36 @@
       "descriptionJa": "植民地支配が残した傷と、そこから生まれた創造力。アフリカ、中東、アジア、カリブ海——「周縁」から世界文学の中心を書き換えた作家たちを読む。",
       "difficulty": 2,
       "steps": [
-        {"order": 1, "bookSlug": "things-fall-apart", "noteJa": "植民地化される側の視点で初めて英語で書かれたアフリカ文学の原点。イボ族の戦士の栄光と没落を通じて、「文明化」の暴力を目撃する。", "keyConceptJa": "被植民者の声——アフリカからの応答"},
-        {"order": 2, "bookSlug": "black-skin-white-masks", "noteJa": "文学から理論へ。植民地主義が人の精神に何をしたか。差別を「内面化」するとはどういうことか。", "keyConceptJa": "植民地化された精神"},
-        {"order": 3, "bookSlug": "season-of-migration-to-the-north", "noteJa": "西洋からアフリカへ戻った男のミステリアスな物語。コンラッド『闇の奥』への痛烈なアンサーであり、アラブ文学の至宝。", "keyConceptJa": "植民地の逆襲——東から西へ"},
-        {"order": 4, "bookSlug": "the-sympathizer", "noteJa": "ベトナム戦争後を生きる二重スパイの告白。西洋と東洋、資本主義と共産主義のあいだで引き裂かれた男の苦悩とユーモア。", "keyConceptJa": "ディアスポラ——二つの世界に生きる"},
-        {"order": 5, "bookSlug": "homegoing", "noteJa": "300年にわたるアフリカとアメリカの架け橋。18世紀のガーナから現代のハーレムまで、一世代一章で紡がれる叙事詩。", "keyConceptJa": "記憶の継承——つながる歴史"}
+        {
+          "order": 1,
+          "bookSlug": "things-fall-apart",
+          "noteJa": "植民地化される側の視点で初めて英語で書かれたアフリカ文学の原点。イボ族の戦士の栄光と没落を通じて、「文明化」の暴力を目撃する。",
+          "keyConceptJa": "被植民者の声——アフリカからの応答"
+        },
+        {
+          "order": 2,
+          "bookSlug": "black-skin-white-masks",
+          "noteJa": "文学から理論へ。植民地主義が人の精神に何をしたか。差別を「内面化」するとはどういうことか。",
+          "keyConceptJa": "植民地化された精神"
+        },
+        {
+          "order": 3,
+          "bookSlug": "season-of-migration-to-the-north",
+          "noteJa": "西洋からアフリカへ戻った男のミステリアスな物語。コンラッド『闇の奥』への痛烈なアンサーであり、アラブ文学の至宝。",
+          "keyConceptJa": "植民地の逆襲——東から西へ"
+        },
+        {
+          "order": 4,
+          "bookSlug": "the-sympathizer",
+          "noteJa": "ベトナム戦争後を生きる二重スパイの告白。西洋と東洋、資本主義と共産主義のあいだで引き裂かれた男の苦悩とユーモア。",
+          "keyConceptJa": "ディアスポラ——二つの世界に生きる"
+        },
+        {
+          "order": 5,
+          "bookSlug": "homegoing",
+          "noteJa": "300年にわたるアフリカとアメリカの架け橋。18世紀のガーナから現代のハーレムまで、一世代一章で紡がれる叙事詩。",
+          "keyConceptJa": "記憶の継承——つながる歴史"
+        }
       ]
     },
     {
@@ -56,11 +146,36 @@
       "descriptionJa": "村上春樹が影響を受けた作家たちから、同じDNAを持つ現代の世界文学まで。春樹を入口に、アメリカ文学、ラテンアメリカ文学、ヨーロッパ実験文学へと視野を広げる。",
       "difficulty": 1,
       "steps": [
-        {"order": 1, "bookSlug": "norwegian-wood", "noteJa": "春樹の出発点を再訪。世界中で読まれた理由を考えながら読むと、次に紹介する「影響を受けた作家たち」の影が見えてくる。", "keyConceptJa": "喪失と再生——春樹文学の核"},
-        {"order": 2, "bookSlug": "what-we-talk-about-when-we-talk-about-love", "noteJa": "春樹が翻訳したカーヴァー。削ぎ落とされた文体と「語られないこと」の重み。最小限の言葉で最大の余白を。", "keyConceptJa": "ミニマリズム——書かないことで書く"},
-        {"order": 3, "bookSlug": "slaughterhouse-five", "noteJa": "ユーモアと異世界感覚で戦争と人間を描く。春樹作品の「あちら側」感覚と、独特の醒めたユーモアの源泉に出会える。", "keyConceptJa": "ポストモダン——時空を飛び越える語り"},
-        {"order": 4, "bookSlug": "one-hundred-years-of-solitude", "noteJa": "現実と異界が溶け合うマジックリアリズムの最高峰。『ねじまき鳥クロニクル』の豊かな源泉。", "keyConceptJa": "マジックリアリズム——現実と非現実の融合"},
-        {"order": 5, "bookSlug": "cloud-atlas", "noteJa": "春樹を経由してたどり着く、現代の実験小説。6つの時代と場所がマトリョーシカ構造でつながる驚異の構造美。", "keyConceptJa": "小説の新しい構造——時空を超える物語"}
+        {
+          "order": 1,
+          "bookSlug": "norwegian-wood",
+          "noteJa": "春樹の出発点を再訪。世界中で読まれた理由を考えながら読むと、次に紹介する「影響を受けた作家たち」の影が見えてくる。",
+          "keyConceptJa": "喪失と再生——春樹文学の核"
+        },
+        {
+          "order": 2,
+          "bookSlug": "what-we-talk-about-when-we-talk-about-love",
+          "noteJa": "春樹が翻訳したカーヴァー。削ぎ落とされた文体と「語られないこと」の重み。最小限の言葉で最大の余白を。",
+          "keyConceptJa": "ミニマリズム——書かないことで書く"
+        },
+        {
+          "order": 3,
+          "bookSlug": "slaughterhouse-five",
+          "noteJa": "ユーモアと異世界感覚で戦争と人間を描く。春樹作品の「あちら側」感覚と、独特の醒めたユーモアの源泉に出会える。",
+          "keyConceptJa": "ポストモダン——時空を飛び越える語り"
+        },
+        {
+          "order": 4,
+          "bookSlug": "one-hundred-years-of-solitude",
+          "noteJa": "現実と異界が溶け合うマジックリアリズムの最高峰。『ねじまき鳥クロニクル』の豊かな源泉。",
+          "keyConceptJa": "マジックリアリズム——現実と非現実の融合"
+        },
+        {
+          "order": 5,
+          "bookSlug": "cloud-atlas",
+          "noteJa": "春樹を経由してたどり着く、現代の実験小説。6つの時代と場所がマトリョーシカ構造でつながる驚異の構造美。",
+          "keyConceptJa": "小説の新しい構造——時空を超える物語"
+        }
       ]
     },
     {
@@ -69,11 +184,36 @@
       "descriptionJa": "ノーベル賞からブッカー賞まで、世界中で評価されている現代文学のハイライト。多様な声に触れることで、「文学」の地図が広がる。",
       "difficulty": 1,
       "steps": [
-        {"order": 1, "bookSlug": "normal-people", "noteJa": "アイルランドの青春小説。世界中で読まれた理由は「誰もがコネルとマリアンヌだったことがあるから」。現代恋愛小説の新基準。", "keyConceptJa": "声に出せないこと——現代のコミュニケーション"},
-        {"order": 2, "bookSlug": "the-vegetarian", "noteJa": "韓国からノーベル賞へ。身体と拒絶をめぐる静かで過激な物語。アジア文学の新たな到達点。", "keyConceptJa": "身体の反抗——アジア文学のグローバル化"},
-        {"order": 3, "bookSlug": "my-brilliant-friend", "noteJa": "ナポリから世界へ。女性の友情と競争を描き、世界中の読者を熱狂させた「ナポリの物語」の始まり。", "keyConceptJa": "世界に届くローカル——場所の普遍性"},
-        {"order": 4, "bookSlug": "the-years", "noteJa": "フランスの自伝的集団史。1940年代から2000年代までのフランスを、一人の女性の記憶を通して描くノーベル賞受賞作。", "keyConceptJa": "個人の記憶=集団の記憶"},
-        {"order": 5, "bookSlug": "girl-woman-other", "noteJa": "イギリスに生きる12人の黒人女性たち。多声的語りが新しい「私たち」を作り出すブッカー賞受賞作。", "keyConceptJa": "複数の声——一つの物語ではない世界文学"}
+        {
+          "order": 1,
+          "bookSlug": "normal-people",
+          "noteJa": "アイルランドの青春小説。世界中で読まれた理由は「誰もがコネルとマリアンヌだったことがあるから」。現代恋愛小説の新基準。",
+          "keyConceptJa": "声に出せないこと——現代のコミュニケーション"
+        },
+        {
+          "order": 2,
+          "bookSlug": "the-vegetarian",
+          "noteJa": "韓国からノーベル賞へ。身体と拒絶をめぐる静かで過激な物語。アジア文学の新たな到達点。",
+          "keyConceptJa": "身体の反抗——アジア文学のグローバル化"
+        },
+        {
+          "order": 3,
+          "bookSlug": "my-brilliant-friend",
+          "noteJa": "ナポリから世界へ。女性の友情と競争を描き、世界中の読者を熱狂させた「ナポリの物語」の始まり。",
+          "keyConceptJa": "世界に届くローカル——場所の普遍性"
+        },
+        {
+          "order": 4,
+          "bookSlug": "the-years",
+          "noteJa": "フランスの自伝的集団史。1940年代から2000年代までのフランスを、一人の女性の記憶を通して描くノーベル賞受賞作。",
+          "keyConceptJa": "個人の記憶=集団の記憶"
+        },
+        {
+          "order": 5,
+          "bookSlug": "girl-woman-other",
+          "noteJa": "イギリスに生きる12人の黒人女性たち。多声的語りが新しい「私たち」を作り出すブッカー賞受賞作。",
+          "keyConceptJa": "複数の声——一つの物語ではない世界文学"
+        }
       ]
     },
     {
@@ -82,10 +222,30 @@
       "descriptionJa": "20世紀文学の地図を塗り替えたラテンアメリカ文学。短編の魔術師ボルヘスから始まり、マジックリアリズムの頂点を経て、21世紀の巨匠ボラーニョまで。",
       "difficulty": 2,
       "steps": [
-        {"order": 1, "bookSlug": "ficciones", "noteJa": "まずは短編集から。無限の図書館、記憶の正確な男——数ページで宇宙を創造するボルヘスの魔術。一話ごとに世界が変わる。", "keyConceptJa": "メタフィクション——虚構が現実を侵食する"},
-        {"order": 2, "bookSlug": "one-hundred-years-of-solitude", "noteJa": "ボルヘスの知的遊戯を、血の通った一族の叙事詩に拡張するとこうなる。マジックリアリズムの最高到達点にして、最も読まれているラテンアメリカ文学。", "keyConceptJa": "マジックリアリズム——日常が神話になる"},
-        {"order": 3, "bookSlug": "the-hour-of-the-star", "noteJa": "ブラジルの至宝リスペクトルに触れる。貧しいタイピストの「何もない」人生を描くことで、存在の神秘に迫る詩的小説。", "keyConceptJa": "言葉と存在——散文が哲学になる瞬間"},
-        {"order": 4, "bookSlug": "2666", "noteJa": "21世紀のラテンアメリカ文学の巨人。連続殺人事件を軸に、世界の混沌と暴力を描く全5部の巨大な小説。現代文学の最高峰の一つ。", "keyConceptJa": "暴力と文学——書くことの倫理"}
+        {
+          "order": 1,
+          "bookSlug": "ficciones",
+          "noteJa": "まずは短編集から。無限の図書館、記憶の正確な男——数ページで宇宙を創造するボルヘスの魔術。一話ごとに世界が変わる。",
+          "keyConceptJa": "メタフィクション——虚構が現実を侵食する"
+        },
+        {
+          "order": 2,
+          "bookSlug": "one-hundred-years-of-solitude",
+          "noteJa": "ボルヘスの知的遊戯を、血の通った一族の叙事詩に拡張するとこうなる。マジックリアリズムの最高到達点にして、最も読まれているラテンアメリカ文学。",
+          "keyConceptJa": "マジックリアリズム——日常が神話になる"
+        },
+        {
+          "order": 3,
+          "bookSlug": "the-hour-of-the-star",
+          "noteJa": "ブラジルの至宝リスペクトルに触れる。貧しいタイピストの「何もない」人生を描くことで、存在の神秘に迫る詩的小説。",
+          "keyConceptJa": "言葉と存在——散文が哲学になる瞬間"
+        },
+        {
+          "order": 4,
+          "bookSlug": "2666",
+          "noteJa": "21世紀のラテンアメリカ文学の巨人。連続殺人事件を軸に、世界の混沌と暴力を描く全5部の巨大な小説。現代文学の最高峰の一つ。",
+          "keyConceptJa": "暴力と文学——書くことの倫理"
+        }
       ]
     },
     {
@@ -94,11 +254,36 @@
       "descriptionJa": "人類史、心理学、経済学、環境問題、フェミニズム——各分野で「常識」をひっくり返したノンフィクションの傑作を集めた。小説とは違う「読む喜び」を。",
       "difficulty": 1,
       "steps": [
-        {"order": 1, "bookSlug": "sapiens", "noteJa": "人類史を一気に俯瞰する。認知革命からAIまで——ホモ・サピエンスの成功と失敗の全体像を掴む。まずはこの大きな地図から。", "keyConceptJa": "虚構を信じる力——人類最大の武器"},
-        {"order": 2, "bookSlug": "thinking-fast-and-slow", "noteJa": "人間の「不合理」を科学する。直感（システム1）と熟考（システム2）——2つの思考モードがあなたの人生をいかに左右しているか。", "keyConceptJa": "認知バイアス——自分の頭のクセを知る"},
-        {"order": 3, "bookSlug": "debt-the-first-5000-years", "noteJa": "「お金の常識」を人類学でひっくり返す。物々交換神話からビットコインまで、負債と貨幣が社会をどう作ったか。", "keyConceptJa": "貨幣の神話——経済学を脱構築する"},
-        {"order": 4, "bookSlug": "silent-spring", "noteJa": "科学が社会を変えた最も成功した事例。DDTの危険性を告発し、環境保護運動を生み出した古典。気候変動時代にこそ読み直したい。", "keyConceptJa": "科学と社会——知識はどう行動になるか"},
-        {"order": 5, "bookSlug": "the-year-of-magical-thinking", "noteJa": "最後は「人間」に戻る。突然の夫の死と喪失の一年を描くディディオンの傑作。ノンフィクションがここまで美しくなれるのか。", "keyConceptJa": "喪失を書く——ノンフィクションの到達点"}
+        {
+          "order": 1,
+          "bookSlug": "sapiens",
+          "noteJa": "人類史を一気に俯瞰する。認知革命からAIまで——ホモ・サピエンスの成功と失敗の全体像を掴む。まずはこの大きな地図から。",
+          "keyConceptJa": "虚構を信じる力——人類最大の武器"
+        },
+        {
+          "order": 2,
+          "bookSlug": "thinking-fast-and-slow",
+          "noteJa": "人間の「不合理」を科学する。直感（システム1）と熟考（システム2）——2つの思考モードがあなたの人生をいかに左右しているか。",
+          "keyConceptJa": "認知バイアス——自分の頭のクセを知る"
+        },
+        {
+          "order": 3,
+          "bookSlug": "debt-the-first-5000-years",
+          "noteJa": "「お金の常識」を人類学でひっくり返す。物々交換神話からビットコインまで、負債と貨幣が社会をどう作ったか。",
+          "keyConceptJa": "貨幣の神話——経済学を脱構築する"
+        },
+        {
+          "order": 4,
+          "bookSlug": "silent-spring",
+          "noteJa": "科学が社会を変えた最も成功した事例。DDTの危険性を告発し、環境保護運動を生み出した古典。気候変動時代にこそ読み直したい。",
+          "keyConceptJa": "科学と社会——知識はどう行動になるか"
+        },
+        {
+          "order": 5,
+          "bookSlug": "the-year-of-magical-thinking",
+          "noteJa": "最後は「人間」に戻る。突然の夫の死と喪失の一年を描くディディオンの傑作。ノンフィクションがここまで美しくなれるのか。",
+          "keyConceptJa": "喪失を書く——ノンフィクションの到達点"
+        }
       ]
     },
     {
@@ -107,11 +292,36 @@
       "descriptionJa": "「ジャズ・エイジ」の光と翳から、人種・階級・性の多様性を描く現代文学まで。アメリカという国の変化を、小説という鏡で追う読書パス。",
       "difficulty": 1,
       "steps": [
-        {"order": 1, "bookSlug": "the-great-gatsby", "noteJa": "1920年代ニューヨーク。大富豪ギャツビーの夢と破滅から、アメリカン・ドリームという物語の原型を見る。短くて美しい名作から始める。", "keyConceptJa": "アメリカン・ドリーム——夢の裏側"},
-        {"order": 2, "bookSlug": "the-grapes-of-wrath", "noteJa": "大恐慌期、土地を追われてカリフォルニアへ向かう家族。ドリームの時代の次に来た、現実の貧困と移動の物語。", "keyConceptJa": "大恐慌と移動——夢の崩壊"},
-        {"order": 3, "bookSlug": "the-sympathizer", "noteJa": "ベトナム戦争を「向こう側」の視点から見る。アメリカン・ドリームの光景は、難民にとっては別の顔を持つ。", "keyConceptJa": "難民とアイデンティティ——二つの世界"},
-        {"order": 4, "bookSlug": "the-underground-railroad", "noteJa": "奴隷制の遺産を歴史ファンタジーとして描く。アメリカの原罪と、いまなお続く人種の物語へ。", "keyConceptJa": "人種と歴史——アメリカの原罪"},
-        {"order": 5, "bookSlug": "girl-woman-other", "noteJa": "現代イギリスではなく、多様性文学の到達点として。12人の黒人女性の声が、これまでのアメリカ文学とは違う「私たち」を立ち上げる。", "keyConceptJa": "多様性——一つの物語ではないアメリカ"}
+        {
+          "order": 1,
+          "bookSlug": "the-great-gatsby",
+          "noteJa": "1920年代ニューヨーク。大富豪ギャツビーの夢と破滅から、アメリカン・ドリームという物語の原型を見る。短くて美しい名作から始める。",
+          "keyConceptJa": "アメリカン・ドリーム——夢の裏側"
+        },
+        {
+          "order": 2,
+          "bookSlug": "the-grapes-of-wrath",
+          "noteJa": "大恐慌期、土地を追われてカリフォルニアへ向かう家族。ドリームの時代の次に来た、現実の貧困と移動の物語。",
+          "keyConceptJa": "大恐慌と移動——夢の崩壊"
+        },
+        {
+          "order": 3,
+          "bookSlug": "the-sympathizer",
+          "noteJa": "ベトナム戦争を「向こう側」の視点から見る。アメリカン・ドリームの光景は、難民にとっては別の顔を持つ。",
+          "keyConceptJa": "難民とアイデンティティ——二つの世界"
+        },
+        {
+          "order": 4,
+          "bookSlug": "the-underground-railroad",
+          "noteJa": "奴隷制の遺産を歴史ファンタジーとして描く。アメリカの原罪と、いまなお続く人種の物語へ。",
+          "keyConceptJa": "人種と歴史——アメリカの原罪"
+        },
+        {
+          "order": 5,
+          "bookSlug": "girl-woman-other",
+          "noteJa": "現代イギリスではなく、多様性文学の到達点として。12人の黒人女性の声が、これまでのアメリカ文学とは違う「私たち」を立ち上げる。",
+          "keyConceptJa": "多様性——一つの物語ではないアメリカ"
+        }
       ]
     },
     {
@@ -120,11 +330,36 @@
       "descriptionJa": "1960年代の黄金期から現代の文学的SFまで、SFというジャンルが「人間とは何か」を問い続けてきた系譜を、名作でたどる。",
       "difficulty": 1,
       "steps": [
-        {"order": 1, "bookSlug": "foundation", "noteJa": "アシモフが築いた銀河規模の歴史SF。文明の崩壊と再建という構想力にまず触れる。", "keyConceptJa": "心理歴史学——科学としての歴史"},
-        {"order": 2, "bookSlug": "dune", "noteJa": "生態学と宗教と権力を描いた、SF黄金期の最高峰。惑星規模の物語で、SFの可能性を実感する。", "keyConceptJa": "生態学と運命——砂の惑星"},
-        {"order": 3, "bookSlug": "the-left-hand-of-darkness", "noteJa": "性別を持たない惑星の物語。ル＝グウィンが「人間」の定義そのものを問い直す。", "keyConceptJa": "性と人間——ジェンダーの再考"},
-        {"order": 4, "bookSlug": "neuromancer", "noteJa": "1980年代、サイバーパンクが世界を変えた。デジタル社会の予言として読み直すと驚く。", "keyConceptJa": "サイバースペース——ネットの予言"},
-        {"order": 5, "bookSlug": "klara-and-the-sun", "noteJa": "AIが友達になる時代。文学がSFとして問い続けてきた「人間らしさ」を、ノーベル賞作家が現代に問う。", "keyConceptJa": "AIと人間——文学の最終回答"}
+        {
+          "order": 1,
+          "bookSlug": "foundation",
+          "noteJa": "アシモフが築いた銀河規模の歴史SF。文明の崩壊と再建という構想力にまず触れる。",
+          "keyConceptJa": "心理歴史学——科学としての歴史"
+        },
+        {
+          "order": 2,
+          "bookSlug": "dune",
+          "noteJa": "生態学と宗教と権力を描いた、SF黄金期の最高峰。惑星規模の物語で、SFの可能性を実感する。",
+          "keyConceptJa": "生態学と運命——砂の惑星"
+        },
+        {
+          "order": 3,
+          "bookSlug": "the-left-hand-of-darkness",
+          "noteJa": "性別を持たない惑星の物語。ル＝グウィンが「人間」の定義そのものを問い直す。",
+          "keyConceptJa": "性と人間——ジェンダーの再考"
+        },
+        {
+          "order": 4,
+          "bookSlug": "neuromancer",
+          "noteJa": "1980年代、サイバーパンクが世界を変えた。デジタル社会の予言として読み直すと驚く。",
+          "keyConceptJa": "サイバースペース——ネットの予言"
+        },
+        {
+          "order": 5,
+          "bookSlug": "klara-and-the-sun",
+          "noteJa": "AIが友達になる時代。文学がSFとして問い続けてきた「人間らしさ」を、ノーベル賞作家が現代に問う。",
+          "keyConceptJa": "AIと人間——文学の最終回答"
+        }
       ]
     },
     {
@@ -133,10 +368,30 @@
       "descriptionJa": "世界文学の二つの頂点、トルストイとドストエフスキー。歴史と社会の全体を描くトルストイ、人間の魂の深みを掘るドストエフスキー。両極を往復して、ロシア文学の本質に触れる。",
       "difficulty": 3,
       "steps": [
-        {"order": 1, "bookSlug": "the-anna-karenina", "noteJa": "まずはトルストイの大河から。アンナの恋愛と、対照的なレヴィンの家庭生活——人生の全体像を描く小説の極致。", "keyConceptJa": "社会と個人——小説の全体性"},
-        {"order": 2, "bookSlug": "the-war-and-peace", "noteJa": "個人の物語から、戦争と歴史の全体へ。ナポレオン戦争を背景に、人間と歴史の関係を問う世界最大級の小説。", "keyConceptJa": "歴史と人間——運命の力学"},
-        {"order": 3, "bookSlug": "crime-and-punishment", "noteJa": "トルストイの全体性から、ドストエフスキーの内面へ。罪を犯した男の心理の迷宮。", "keyConceptJa": "罪と良心——内面の闘争"},
-        {"order": 4, "bookSlug": "the-brothers-karamazov", "noteJa": "ドストエフスキーの到達点。信仰と理性、父と子、そして人間の魂の深み——世界文学の頂点に挑む。", "keyConceptJa": "神と自由——魂の問い"}
+        {
+          "order": 1,
+          "bookSlug": "the-anna-karenina",
+          "noteJa": "まずはトルストイの大河から。アンナの恋愛と、対照的なレヴィンの家庭生活——人生の全体像を描く小説の極致。",
+          "keyConceptJa": "社会と個人——小説の全体性"
+        },
+        {
+          "order": 2,
+          "bookSlug": "the-war-and-peace",
+          "noteJa": "個人の物語から、戦争と歴史の全体へ。ナポレオン戦争を背景に、人間と歴史の関係を問う世界最大級の小説。",
+          "keyConceptJa": "歴史と人間——運命の力学"
+        },
+        {
+          "order": 3,
+          "bookSlug": "crime-and-punishment",
+          "noteJa": "トルストイの全体性から、ドストエフスキーの内面へ。罪を犯した男の心理の迷宮。",
+          "keyConceptJa": "罪と良心——内面の闘争"
+        },
+        {
+          "order": 4,
+          "bookSlug": "the-brothers-karamazov",
+          "noteJa": "ドストエフスキーの到達点。信仰と理性、父と子、そして人間の魂の深み——世界文学の頂点に挑む。",
+          "keyConceptJa": "神と自由——魂の問い"
+        }
       ]
     },
     {
@@ -145,11 +400,226 @@
       "descriptionJa": "「自立する女性」の物語は、1847年のジェイン・エアから始まった。19世紀の古典、20世紀のモダニズム、そして現代の交差性まで、女性の自己解放を描く文学の系譜をたどる。",
       "difficulty": 1,
       "steps": [
-        {"order": 1, "bookSlug": "the-jane-eyre", "noteJa": "出発点はこれ。孤児の家庭教師ジェインが、愛と尊厳を両立させる物語。19世紀の「自立する女」の原型。", "keyConceptJa": "自尊と愛——女性の自立"},
-        {"order": 2, "bookSlug": "the-awakening", "noteJa": "19世紀末、ショパンが「自分に目覚める女」を描いた。結婚と母としての役割から逸脱するエドナ。", "keyConceptJa": "自己のめざめ——役割からの解放"},
-        {"order": 3, "bookSlug": "the-bell-jar", "noteJa": "20世紀、プラスが「天才的な女」の精神の瓦解を描いた。才能ある女性が社会に押し込められる苦しみ。", "keyConceptJa": "ガラスの壺——女性の圧迫"},
-        {"order": 4, "bookSlug": "the-second-sex", "noteJa": "小説から理論へ。ボーヴォワールが「女は作られる」と宣言した、フェミニズムの原典。", "keyConceptJa": "女は作られる——構築された女性"},
-        {"order": 5, "bookSlug": "girl-woman-other", "noteJa": "理論の後、現代へ。12人の黒人女性の多声的物語が、フェミニズムを「誰のものか」へと問い直す。", "keyConceptJa": "交差性——複数の声のフェミニズム"}
+        {
+          "order": 1,
+          "bookSlug": "the-jane-eyre",
+          "noteJa": "出発点はこれ。孤児の家庭教師ジェインが、愛と尊厳を両立させる物語。19世紀の「自立する女」の原型。",
+          "keyConceptJa": "自尊と愛——女性の自立"
+        },
+        {
+          "order": 2,
+          "bookSlug": "the-awakening",
+          "noteJa": "19世紀末、ショパンが「自分に目覚める女」を描いた。結婚と母としての役割から逸脱するエドナ。",
+          "keyConceptJa": "自己のめざめ——役割からの解放"
+        },
+        {
+          "order": 3,
+          "bookSlug": "the-bell-jar",
+          "noteJa": "20世紀、プラスが「天才的な女」の精神の瓦解を描いた。才能ある女性が社会に押し込められる苦しみ。",
+          "keyConceptJa": "ガラスの壺——女性の圧迫"
+        },
+        {
+          "order": 4,
+          "bookSlug": "the-second-sex",
+          "noteJa": "小説から理論へ。ボーヴォワールが「女は作られる」と宣言した、フェミニズムの原典。",
+          "keyConceptJa": "女は作られる——構築された女性"
+        },
+        {
+          "order": 5,
+          "bookSlug": "girl-woman-other",
+          "noteJa": "理論の後、現代へ。12人の黒人女性の多声的物語が、フェミニズムを「誰のものか」へと問い直す。",
+          "keyConceptJa": "交差性——複数の声のフェミニズム"
+        }
+      ]
+    },
+    {
+      "slug": "german-language-literature",
+      "titleJa": "ドイツ語圏文学の深層——カフカからゼーバルトへ",
+      "descriptionJa": "世界で最も深く「人間の不安」を描いてきたドイツ語圏文学。カフカの不条理から、ヘッセの魂の探求、ゲーテの近代神話、そしてゼーバルトの記憶の文学まで。20世紀を支配した不安と意味の問いを、5冊でたどる読書パス。",
+      "difficulty": 2,
+      "steps": [
+        {
+          "order": 1,
+          "bookSlug": "the-metamorphosis",
+          "noteJa": "まずは最小の不条理から。ある朝、虫になった男。理由もなく理不尽に変わる世界に、私たちはどう向き合うのか。短いので一気に読める。",
+          "keyConceptJa": "不条理と疎外——理由のない変容"
+        },
+        {
+          "order": 2,
+          "bookSlug": "the-trial",
+          "noteJa": "カフカの世界は一度きりでは理解できない。逮捕されたのに罪状がわからない男。見えない制度に飲み込まれる人間の姿を、長編でじっくり味わう。",
+          "keyConceptJa": "見えない制度と罪の意識"
+        },
+        {
+          "order": 3,
+          "bookSlug": "the-siddhartha",
+          "noteJa": "不条理を背負ったあと、今度は内側へ。ヘッセはインドの求道者の物語で、魂の救済を探求する。カフカの絶望の対極にある、癒しの文学。",
+          "keyConceptJa": "自己と向き合う魂の探求"
+        },
+        {
+          "order": 4,
+          "bookSlug": "faust",
+          "noteJa": "ドイツ文学の源流に戻る。学者ファウストは悪魔メフィストフェレスに魂を売る。人間の欲望と知識の限界を問う、ゲーテの壮大な近代神話。",
+          "keyConceptJa": "人間の欲望と限界——近代の神話"
+        },
+        {
+          "order": 5,
+          "bookSlug": "the-emigrants",
+          "noteJa": "最後に、記憶の文学へ。ゼーバルトは写真と言葉を重ねながら、亡命した人々の記憶を掘り起こす。カフカから続く「不安」が、歴史と記憶の次元に開かれていく。",
+          "keyConceptJa": "記憶と亡命——断片的な語り"
+        }
+      ]
+    },
+    {
+      "slug": "british-novel-tradition",
+      "titleJa": "イギリス小説の伝統——オースティンからイシグロへ",
+      "descriptionJa": "世界文学の中心であり続けたイギリス小説。オースティンの機知、ブロンテの情熱、ハーディの運命観、そして現代イギリスを代表するイシグロへ。社会と個人、感情と規範の織りなす200年の系譜を5冊で読む。",
+      "difficulty": 1,
+      "steps": [
+        {
+          "order": 1,
+          "bookSlug": "the-pride-and-prejudice",
+          "noteJa": "イギリス小説の傑作の代名詞。恋愛と結婚をめぐる鋭い機知とアイロニー。オースティンから始めれば、この文学圏の「型」が手に取るようにわかる。",
+          "keyConceptJa": "機知と社会規範——結婚の経済学"
+        },
+        {
+          "order": 2,
+          "bookSlug": "the-wuthering-heights",
+          "noteJa": "オースティンの社会性とは対極にある、荒野に吹き荒れる情熱の物語。エミリー・ブロンテが描く、理性を焼き尽くす愛と復讐。",
+          "keyConceptJa": "情熱と復讐——荒野のゴシック"
+        },
+        {
+          "order": 3,
+          "bookSlug": "the-tess-of-the-durbervilles",
+          "noteJa": "ヴィクトリア朝の因習が、ひとりの少女を追い詰めていく。ハーディの運命観と自然主義は、イギリス小説に「悲劇」の深さをもたらした。",
+          "keyConceptJa": "運命と社会の因習"
+        },
+        {
+          "order": 4,
+          "bookSlug": "the-moon-and-sixpence",
+          "noteJa": "20世紀のイギリス小説へ。安定した人生を捨てて絵を描き始めた男。モームの語りは、芸術と人生の価値を逆転させる。",
+          "keyConceptJa": "芸術と人生の相克"
+        },
+        {
+          "order": 5,
+          "bookSlug": "the-remains-of-the-day",
+          "noteJa": "現代イギリス小説の最高峰。人生の全てを「使用人としての忠誠」に捧げた男の回想。抑制された語りが、喪失と悔恨を静かに浮かび上がらせる。",
+          "keyConceptJa": "回想と抑制——イギリス的心性"
+        }
+      ]
+    },
+    {
+      "slug": "dystopia-classics",
+      "titleJa": "ディストピア文学の古典——管理社会への抵抗",
+      "descriptionJa": "人間の自由はどこまで侵されるのか。管理社会を描いたディストピア文学は、私たちが生きる社会を鏡のように照らす。オーウェルから現代のフェミニズムSFまで、警告の文学を5冊で読む。",
+      "difficulty": 2,
+      "steps": [
+        {
+          "order": 1,
+          "bookSlug": "nineteen-eighty-four",
+          "noteJa": "ディストピア文学の原点。全体主義が個人の思考と歴史まで支配する世界。ビッグブラザーという概念を生んだ、20世紀最大の警告書。",
+          "keyConceptJa": "全体主義と思考統制——監視社会"
+        },
+        {
+          "order": 2,
+          "bookSlug": "brave-new-world",
+          "noteJa": "抑圧するのは暴力ではなく快楽。幸福という名の管理社会。オーウェルと対をなす、もう一つのディストピアの形。",
+          "keyConceptJa": "快楽による管理——幸福のディストピア"
+        },
+        {
+          "order": 3,
+          "bookSlug": "the-handmaids-tale",
+          "noteJa": "オーウェルが描かなかった次元、身体と生殖の統制を描くフェミニスト・ディストピアの古典。社会の圧力が個人の身体に及ぶとき。",
+          "keyConceptJa": "身体と生殖の政治学"
+        },
+        {
+          "order": 4,
+          "bookSlug": "fahrenheit-451",
+          "noteJa": "本が燃やされる世界。書物の記憶をめぐる火をテーマに、知と教養の消滅を描くブラッドベリのSF。管理社会のもう一つの姿。",
+          "keyConceptJa": "知の検閲と記憶の火"
+        },
+        {
+          "order": 5,
+          "bookSlug": "the-memory-police",
+          "noteJa": "記憶そのものが消されていく世界。日本発の現代ディストピア。小川洋子の静謐な語りが、忘却と存在の問いをSFに変える。",
+          "keyConceptJa": "記憶の消去と存在の不安"
+        }
+      ]
+    },
+    {
+      "slug": "japanese-literature-world",
+      "titleJa": "日本文学の深み——源氏物語からハン・ガンまで",
+      "descriptionJa": "千年の物語を生んできた日本文学。世界最古の長編『源氏物語』から、漱石の近代の自我、川端の美、太宰の絶望、そして現代の韓国文学ハン・ガンまで。日本語圏の感性の系譜を5冊でたどる。",
+      "difficulty": 1,
+      "steps": [
+        {
+          "order": 1,
+          "bookSlug": "the-tale-of-genji",
+          "noteJa": "すべての始まり。世界最古級の長編小説『源氏物語』。王朝の恋と雅、そして無常観。日本文学の感性の原型がここにある。",
+          "keyConceptJa": "王朝の美と無常観"
+        },
+        {
+          "order": 2,
+          "bookSlug": "kokoro",
+          "noteJa": "近代日本を象徴する小説。自我の目覚めと孤独。「私」と「先生」の交錯が、明治以降の日本の心性を描き出す。",
+          "keyConceptJa": "近代の自我と孤独"
+        },
+        {
+          "order": 3,
+          "bookSlug": "snow-country",
+          "noteJa": "川端康成の美の世界。雪国を舞台にした、執拗なまでの抒情。日本人として初のノーベル文学賞は、この美意識から生まれた。",
+          "keyConceptJa": "抒情と日本の美意識"
+        },
+        {
+          "order": 4,
+          "bookSlug": "no-longer-human",
+          "noteJa": "近代日本のもう一つの顔。人間失格という言葉を生んだ太宰治の絶望。演じ続ける自己と、本当の自分をめぐる告白。",
+          "keyConceptJa": "自己喪失とアイデンティティ"
+        },
+        {
+          "order": 5,
+          "bookSlug": "the-vegetarians-brother",
+          "noteJa": "日本語圏文学の現在。韓国のノーベル賞作家ハン・ガンの『少年が来る』は、光州事件をめぐる沈黙と記憶を描く。日本文学と地続きの、現代アジアの文学。",
+          "keyConceptJa": "記憶と沈黙——現代の語り"
+        }
+      ]
+    },
+    {
+      "slug": "modern-thought-keywords",
+      "titleJa": "現代思想のキーワード——フーコーからデリダへ",
+      "descriptionJa": "20世紀後半を支配したフランス現代思想。フーコーの権力論、ラカンの精神分析、バルトの記号論、デリダの脱構築。世界の見え方を変えた思考の骨格を、主要著作から5冊で読み解く。",
+      "difficulty": 3,
+      "steps": [
+        {
+          "order": 1,
+          "bookSlug": "the-madness-and-civilization",
+          "noteJa": "フーコー思想の出発点。狂気が「理性の他者」として排除されてきた歴史。精神病院という制度を問うことで、近代の知の構造が見えてくる。",
+          "keyConceptJa": "狂気と理性——排除の構造"
+        },
+        {
+          "order": 2,
+          "bookSlug": "discipline-and-punish",
+          "noteJa": "フーコーの代表作。監獄の誕生を通して、近代社会に遍在する規律権力を描く。学校も病院も工場も、同じ権力構造だと知る衝撃。",
+          "keyConceptJa": "規律権力——監視と訓練"
+        },
+        {
+          "order": 3,
+          "bookSlug": "the-mirror-stage",
+          "noteJa": "フーコーが解いた社会の次は、無意識の世界へ。ラカンはフロイトを構造主義的に読み直し、主体の成立を「鏡像段階」で説明する。",
+          "keyConceptJa": "鏡像段階——主体の成立"
+        },
+        {
+          "order": 4,
+          "bookSlug": "the-mythologies",
+          "noteJa": "日常の神話を読み解くバルト。化粧品広告からレスリングまで、記号論で社会のイデオロギーを暴く。現代思想の「面白さ」が味わえる一冊。",
+          "keyConceptJa": "記号論と神話作用"
+        },
+        {
+          "order": 5,
+          "bookSlug": "of-grammatology",
+          "noteJa": "現代思想の最難関にして転換点。デリダは西洋哲学の伝統そのものを脱構築する。この一冊で、ポスト構造主義の核心に触れる。",
+          "keyConceptJa": "脱構築——西洋哲学の解体"
+        }
       ]
     }
   ]

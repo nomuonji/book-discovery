@@ -27,7 +27,9 @@
         "村上春樹好きに"
       ],
       "selectionReasonJa": "ミニマリズム文学の頂点。レイモンド・カーヴァーの代表作で、村上春樹が翻訳し大きな影響を受けた一冊。",
-      "titleEn": "What We Talk About When We Talk About Love"
+      "titleEn": "What We Talk About When We Talk About Love",
+      "descriptionEn": "A collection of short stories that marked a turning point in American literature, depicting the fissures in everyday life with a stripped-down style. Restlessness hidden in casual conversation, the delicate nuances of emotions that cannot be put into words. A quiet, deep literary world translated by Haruki Murakami, who came to call it 'Carver Country.'",
+      "whyReadEn": "The root of Haruki Murakami's writing. The technique of creating maximum resonance from minimal words will also change how you read Murakami's own fiction. The pinnacle of minimalist literature."
     },
     {
       "slug": "norwegian-wood",
@@ -53,7 +55,9 @@
         "レコメンド起点"
       ],
       "selectionReasonJa": "海外で最も読まれた日本文学の一つ。村上春樹を世界的作家に押し上げ、本サイトの「村上春樹好きに」入口の起点。",
-      "titleEn": "Norwegian Wood"
+      "titleEn": "Norwegian Wood",
+      "descriptionEn": "Set in late-1960s Tokyo, this is the story of Watanabe, torn between Naoko and Midori, in a tale of loss and regeneration. With the Beatles' 'Norwegian Wood' playing in the background, it renders the pain of youth and the uncertainty of love, becoming a worldwide bestseller. Here lies the answer to why a novel written in Japanese is read so widely across the globe.",
+      "whyReadEn": "One of the most widely read Japanese novels abroad. From here, you can explore both the Japanese literature the world admires and the Western works that influenced it."
     },
     {
       "slug": "trout-fishing-in-america",
@@ -78,7 +82,9 @@
         "村上春樹好きに"
       ],
       "selectionReasonJa": "60年代カウンターカルチャーの象徴。詩と小説の境界を越えた実験的傑作で、村上春樹文学の比喩感覚の源泉。",
-      "titleEn": "Trout Fishing in America"
+      "titleEn": "Trout Fishing in America",
+      "descriptionEn": "A supremely free text that is neither quite novel nor quite poem. Each time the phrase 'Trout Fishing in America' repeats, its meaning shifts, dissolves, and a landscape rises up. Written amid hippie culture and the counterculture, it is an idiosyncratic masterpiece of 1960s American literature, by one of the writers who influenced Haruki Murakami.",
+      "whyReadEn": "The sheer pleasure of playing with language itself. If you love the leaps of metaphor in Murakami's work, this is where you'll meet their source. A novel you can read like a poem."
     },
     {
       "slug": "the-emigrants",
@@ -103,7 +109,9 @@
         "実験文学"
       ],
       "selectionReasonJa": "20世紀最後の文学の巨匠ゼーバルトの代表作。写真と散文で記憶と喪失を描き、小説の可能性を拡張した。",
-      "titleEn": "The Emigrants"
+      "titleEn": "The Emigrants",
+      "descriptionEn": "Prose of photographs, memory, and travel. Tracing the lives of four émigrés, it quietly surfaces how the memory of the Holocaust is etched into the European landscape. Literature unlike any other—neither novel, nor travelogue, nor history. A master of the late 20th century whose reputation has only grown since his death.",
+      "whyReadEn": "A writer who expanded the possibilities of literature. His exploration of memory woven from photographs and text suits readers interested in Murakami's nonfiction and modern phototextual literature."
     },
     {
       "slug": "the-wind-up-bird-chronicle",
@@ -128,7 +136,9 @@
         "村上春樹"
       ],
       "selectionReasonJa": "村上春樹の最高傑作の一つ。個人の喪失と歴史の暴力を結ぶ大河小説で、海外評価が最も高い日本文学。",
-      "titleEn": "The Wind-Up Bird Chronicle"
+      "titleEn": "The Wind-Up Bird Chronicle",
+      "descriptionEn": "It begins with a missing cat, descends into a well, and plunges into the darkness of history—a sweeping novel often called Murakami's masterpiece. The memories of the Nomonhan Incident and Manchukuo eerily encroach on present-day Tokyo, binding personal loss to historical violence. One of Murakami's most highly regarded works abroad.",
+      "whyReadEn": "A volume that distills the essence of Murakami's fiction. If you want to leap from here into world literature, go toward magical realism (García Márquez) or the literature of historical trauma (Sebald)."
     },
     {
       "slug": "ficciones",
@@ -153,7 +163,9 @@
         "幻想文学"
       ],
       "selectionReasonJa": "ラテンアメリカ文学の出発点。ボルヘスの短編集で、メタフィクションと幻想文学の原型を作った。",
-      "titleEn": "Ficciones"
+      "titleEn": "Ficciones",
+      "descriptionEn": "The infinite library, the man who remembers everything, a society run by lottery—Borges's short stories create entire universes in just a few pages. A fusion of metafiction and philosophical speculation that influenced writers around the world and even gave rise to the adjective 'Borgesian.' The starting point where Latin American literature changed the world.",
+      "whyReadEn": "A supreme collection of short fiction. Each story changes how you see the world. Before moving on to García Márquez, begin here. A major influence on Murakami too."
     },
     {
       "slug": "the-great-gatsby",
@@ -177,7 +189,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/10590366-L.jpg",
       "selectionReasonJa": "ジャズ・エイジの象徴。アメリカン・ドリームの光と翳を描く、アメリカ文学の古典中の古典。",
-      "titleEn": "The Great Gatsby"
+      "titleEn": "The Great Gatsby",
+      "descriptionEn": "New York in the 1920s. The mysterious millionaire Gatsby throws lavish parties every night—all of it to summon the woman he once loved, Daisy. A classic of American literature, painting the light and shadow of the 'Jazz Age' in a glittering style. The most famous novel of the American canon.",
+      "whyReadEn": "If you're going to read American literature, start with this. Also famous for Haruki Murakami's translation. Short, yet new every time you read it."
     },
     {
       "slug": "to-the-lighthouse",
@@ -201,7 +215,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/8231846-L.jpg",
       "selectionReasonJa": "モダニズム文学の最高峰。意識の流れと時間の経過を描く、ウルフの代表作。",
-      "titleEn": "To the Lighthouse"
+      "titleEn": "To the Lighthouse",
+      "descriptionEn": "A seaside house in Scotland. One day with Mrs. Ramsay, her family, and their visiting guests, and another day ten years later. Around a childhood promise to visit the lighthouse, Woolf traces the stream of consciousness and the passage of time. One of the pinnacles of modernist literature.",
+      "whyReadEn": "A turning point in 20th-century literature that wraps the reader in the 'stream of consciousness.' For those who want to continue into post-Proust literature of memory.",
+      "asin": "B0GTZX82JL"
     },
     {
       "slug": "mrs-dalloway",
@@ -225,7 +242,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/6397580-L.jpg",
       "selectionReasonJa": "「一日」で小説が書けることを証明した傑作。都市と意識が交差する、ウルフの代表作。",
-      "titleEn": "Mrs Dalloway"
+      "titleEn": "Mrs Dalloway",
+      "descriptionEn": "One day in London. We follow Mrs. Dalloway preparing for a party, her inner life intercut with the consciousness of people walking the streets. In a single post-war London day, Woolf crams in life and death, society and solitude. A masterpiece that distills her art.",
+      "whyReadEn": "The book that proved a single day could carry a whole novel. Mrs. Dalloway's inner tremors pulse in rhythm with the heartbeat of the city itself.",
+      "asin": "4622006634"
     },
     {
       "slug": "the-sound-and-the-fury",
@@ -249,7 +269,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/8292212-L.jpg",
       "selectionReasonJa": "20世紀文学最大の実験の一つ。フォークナーの意識の流れと時間の解体が、ノーベル賞に繋がった。",
-      "titleEn": "The Sound and the Fury"
+      "titleEn": "The Sound and the Fury",
+      "descriptionEn": "The collapse of the Compson family, an aristocratic Southern clan in decline, told through four different narrations—by the intellectually disabled brother Benjy, the suicidal brother, and the head of the family. One of the great experiments of 20th-century literature, dismantling time and shifting narrators. Awarded the Nobel Prize in Literature.",
+      "whyReadEn": "The byword for the 'difficult novel.' Yet the pleasure of finally cracking it open is extraordinary. For those who want to take on the summit of modernism.",
+      "asin": "B0H7CGXFK4"
     },
     {
       "slug": "journey-to-the-end-of-the-night",
@@ -272,7 +295,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/14054027-L.jpg",
       "selectionReasonJa": "20世紀文学の文体を変えた書。皮肉とニヒリズムの表現を確立し、後のあらゆる「毒舌」の祖先となった。",
-      "titleEn": "Journey to the End of the Night"
+      "titleEn": "Journey to the End of the Night",
+      "descriptionEn": "World War I, the African colonies, America, and a poor clinic in Paris—Bardamu, who calls himself a 'fool,' travels through the world's disappointments. Filled with rage, despair, and vulgarity, this novel fundamentally transformed the style of 20th-century literature.",
+      "whyReadEn": "A monument that fixed 'irony' and 'nihilism' in literature. The ancestor of every sharp-tongued writer from Beckett and Sartre to even Tarantino."
     },
     {
       "slug": "the-master-and-margarita",
@@ -296,7 +321,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/12947486-L.jpg",
       "selectionReasonJa": "ソ連で長く禁じられた幻想文学の最高峰。悪魔と猫のユーモアで歴史の闇を描く、世界で最も愛されるロシア文学。",
-      "titleEn": "The Master and Margarita"
+      "titleEn": "The Master and Margarita",
+      "descriptionEn": "The devil Woland appears in 1930s Moscow with a cat at his side, throwing the godless city into chaos. Meanwhile, the persecuted 'Master' and his lover Margarita weave a tale of vengeance and redemption. Long suppressed in the Soviet Union, the summit of 20th-century fantastical literature.",
+      "whyReadEn": "A devil's jokes, a talking cat, and the darkness of history. One of the most beloved Russian novels in the world. For fans of One Hundred Years of Solitude.",
+      "asin": "B0H7CQD75P"
     },
     {
       "slug": "invisible-man",
@@ -319,7 +347,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/998256-L.jpg",
       "selectionReasonJa": "アメリカ黒人文学の金字塔。人種とアイデンティティを問う、全米図書賞受賞の20世紀最高傑作の一つ。",
-      "titleEn": "Invisible Man"
+      "titleEn": "Invisible Man",
+      "descriptionEn": "From the South to Harlem. A young Black man who calls himself an 'invisible man' wanders between racism, communism, and violence upon violence. A cornerstone of African American literature and one of the greatest American novels of the 20th century, winner of the National Book Award.",
+      "whyReadEn": "What does 'invisible' mean? The book that most deeply interrogates America's racial problem as literature. The starting point of the lineage that leads to Between the World and Me."
     },
     {
       "slug": "lolita",
@@ -342,7 +372,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/12984540-L.jpg",
       "selectionReasonJa": "文学史上最もスキャンダラスで最も高度な文体。ナボコフの言葉の魔法の極致。",
-      "titleEn": "Lolita"
+      "titleEn": "Lolita",
+      "descriptionEn": "The confession of Humbert Humbert, a middle-aged scholar, of his forbidden love for the girl Lolita. A novel that scandalized readers, yet is known above all for its beauty of language and its trap-like narration. The most scandalous and the most technically brilliant prose in literary history.",
+      "whyReadEn": "The ultimate answer to how to tell an immoral subject. Lose yourself in the magic of Nabokov's language—the height of literary pleasure.",
+      "asin": "B0G4JQZ621"
     },
     {
       "slug": "the-catcher-in-the-rye",
@@ -365,7 +398,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/9273490-L.jpg",
       "selectionReasonJa": "青春小説の原点にして頂点。10代の孤独と反抗の代名詞として、何世代もの読者を魅了した。",
-      "titleEn": "The Catcher in the Rye"
+      "titleEn": "The Catcher in the Rye",
+      "descriptionEn": "Sixteen-year-old Holden Caulfield, expelled from school, wanders New York City for two days. The monologue of a boy who can't stand all the world's 'phonies' has captivated generation after generation as the emblem of teenage loneliness and rebellion.",
+      "whyReadEn": "For everyone who is fed up with the adult world. The origin and apex of the coming-of-age novel. The Japanese translation is also easy to read.",
+      "asin": "B0H87LMGTS"
     },
     {
       "slug": "one-day-in-the-life-of-ivan-denisovich",
@@ -388,7 +424,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/14921148-L.jpg",
       "selectionReasonJa": "ソ連収容所の一日を淡々と描いた告発文学。全体主義の日常を可視化し、ノーベル賞受賞の作家の代表作。",
-      "titleEn": "One Day in the Life of Ivan Denisovich"
+      "titleEn": "One Day in the Life of Ivan Denisovich",
+      "descriptionEn": "Just one day in a Soviet labor camp, the Gulag. From morning roll call to evening roll call, the prisoner Ivan's day is depicted with utmost detachment, making visible the everyday terror of totalitarianism. Winner of the Nobel Prize in Literature. The origin of 20th-century literature of testimony.",
+      "whyReadEn": "How heavy can an 'ordinary day' be? It shows, without ornament, how totalitarianism destroys human life.",
+      "asin": "4102132015"
     },
     {
       "slug": "the-plague",
@@ -411,7 +450,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/13151272-L.jpg",
       "selectionReasonJa": "疫病と封鎖を描くカミュの代表作。不条理と連帯を問い、現代の私たちの経験と重なる。",
-      "titleEn": "The Plague"
+      "titleEn": "The Plague",
+      "descriptionEn": "Plague suddenly strikes Oran, a port town in Algeria. In the sealed city, Doctor Rieux and the citizens each choose their own path in a world that has lost its ordinary life. Camus's representative work about the courage to keep saying 'no.'",
+      "whyReadEn": "A pandemic and a lockdown—the situation overlaps with what we have actually lived through. The culmination of Camus's literature on absurdity and solidarity."
     },
     {
       "slug": "the-heart-of-darkness",
@@ -434,7 +475,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/12307847-L.jpg",
       "selectionReasonJa": "植民地主義の闇を描く20世紀文学の原点。アチェベ『崩れゆく絆』と対で読むと深い。",
-      "titleEn": "Heart of Darkness"
+      "titleEn": "Heart of Darkness",
+      "descriptionEn": "The river captain Marlow voyages up the Congo. As he ascends the river in search of Kurtz, the 'saint' reigning over the jungle in pursuit of ivory, the darkness of colonialism and human desire is laid bare. The source of Coppola's Apocalypse Now.",
+      "whyReadEn": "The origin of colonial literature and its deepest critique in one book. Perfect when read in tandem with Achebe's Things Fall Apart."
     },
     {
       "slug": "nineteen-eighty-four",
@@ -458,7 +501,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/9267242-L.jpg",
       "selectionReasonJa": "ディストピア文学の最高峰。監視社会を予言し、「ビッグブラザー」という言葉を生んだ。",
-      "titleEn": "Nineteen Eighty-Four"
+      "titleEn": "Nineteen Eighty-Four",
+      "descriptionEn": "'Big Brother is watching you.' In the totalitarian state of Oceania, the Thought Police monitor everything. Depicting Winston Smith's rebellion and ruin, this dystopian masterpiece gave the world words like 'Big Brother' and 'doublethink.'",
+      "whyReadEn": "Essential reading for thinking about the surveillance society. Together with Discipline and Punish, you get two perspectives on power and surveillance."
     },
     {
       "slug": "brave-new-world",
@@ -482,7 +527,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/8231823-L.jpg",
       "selectionReasonJa": "快楽による支配を描いたディストピア文学の双璧。現代社会に最も近い未来予言とも言われる。",
-      "titleEn": "Brave New World"
+      "titleEn": "Brave New World",
+      "descriptionEn": "In this perfectly designed future society, humans are produced by class in test tubes and happiness is guaranteed by a drug called soma. But a Savage who 'fell through' this happiness launches a rebellion. The great counterpart to Orwell in dystopian literature, portraying domination through pleasure.",
+      "whyReadEn": "A warning about being 'comfortably ruled.' Of the two totalitarianisms—surveillance and pleasure—the modern world may be closer to this one."
     },
     {
       "slug": "the-old-man-and-the-sea",
@@ -505,7 +552,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/463307-L.jpg",
       "selectionReasonJa": "ノーベル賞受賞のヘミングウェイの極致。短く力強く、生きる意味を海と老漁夫だけで描く。",
-      "titleEn": "The Old Man and the Sea"
+      "titleEn": "The Old Man and the Sea",
+      "descriptionEn": "Santiago, an old fisherman who has caught nothing for 84 days. On the 85th day he fights a giant marlin, only to have sharks strip it to the bone on the way home. 'A man can be destroyed but not defeated'—the Nobel Prize-winning work, the height of Hemingway's hard, clean prose.",
+      "whyReadEn": "Short, powerful, and beautiful. The English is simple enough to make it ideal for starting foreign-language reading. What it means to live, told through nothing but the sea and an old fisherman."
     },
     {
       "slug": "for-whom-the-bell-tolls",
@@ -529,7 +578,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/2560810-L.jpg",
       "selectionReasonJa": "スペイン内戦を描く戦争文学の最高峰。愛と義務、死と理想を静かで力強い散文で。",
-      "titleEn": "For Whom the Bell Tolls"
+      "titleEn": "For Whom the Bell Tolls",
+      "descriptionEn": "The Spanish Civil War. Robert Jordan, a young American, joins guerrillas on a mission to blow up a bridge. In three days' time, the story traces love and duty, death and ideals in human beings. The source of 'for whom the bell tolls.'",
+      "whyReadEn": "One of the peaks of war literature. In quiet, forceful prose it asks what it means to fight for an ideal.",
+      "asin": "4102100164"
     },
     {
       "slug": "the-grapes-of-wrath",
@@ -552,7 +604,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/12715902-L.jpg",
       "selectionReasonJa": "大恐慌期アメリカを描く最も深い社会小説。ピューリッツァー賞受賞。",
-      "titleEn": "The Grapes of Wrath"
+      "titleEn": "The Grapes of Wrath",
+      "descriptionEn": "In the 1930s, the Joad family—farmers driven off their drought-stricken land in Oklahoma—travel by car to California. But there, exploitation and discrimination await. A Pulitzer Prize winner. The deepest social novel of Depression-era America.",
+      "whyReadEn": "A classic of literature about poverty and movement. Its universal questions still speak to today's inequality and the immigrant crisis."
     },
     {
       "slug": "steppenwolf",
@@ -575,7 +629,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/3221083-L.jpg",
       "selectionReasonJa": "ノーベル賞作家ヘッセの代表作。自己分裂を文学として描き、後の若者文化に絶大な影響を与えた。",
-      "titleEn": "Steppenwolf"
+      "titleEn": "Steppenwolf",
+      "descriptionEn": "'In every human heart dwells a wolf.' Haller, an intellectual tormented by the conflict between self and society, is torn between morality and pleasure, spirit and flesh. Depicting Germany's spiritual crisis of the 1920s, this Nobel Prize-winning novel exerted a vast influence on later youth culture.",
+      "whyReadEn": "The representative literary treatment of the divided self. For those who want to experience the 'labyrinth of the inner life' that runs through Murakami's work."
     },
     {
       "slug": "wide-sargasso-sea",
@@ -598,7 +654,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/9269373-L.jpg",
       "selectionReasonJa": "『ジェイン・エア』の屋根裏の妻を主人公にした、ポストコロニアル文学の先駆け。",
-      "titleEn": "Wide Sargasso Sea"
+      "titleEn": "Wide Sargasso Sea",
+      "descriptionEn": "Antoinette, the madwoman in the attic of Jane Eyre—who was she really? In the 19th-century Caribbean, a Creole woman breaks apart amid love and the violence of colonialism. A monumental act of subversion that inscribed the colonized perspective into literary history.",
+      "whyReadEn": "What does it mean to write 'the story of the side that was never told'? Essential reading as a pioneer of postcolonial literature."
     },
     {
       "slug": "the-golden-notebook",
@@ -622,7 +680,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/42601-L.jpg",
       "selectionReasonJa": "フェミニズム文学の金字塔。女性の分裂を実験的な構造で描く、ノーベル賞作家レッシングの代表作。",
-      "titleEn": "The Golden Notebook"
+      "titleEn": "The Golden Notebook",
+      "descriptionEn": "Anna, a woman writer, keeps her life divided into four notebooks—black, red, yellow, and blue. What is the 'golden notebook' that binds them together? Depicting the fragmentation of women in both form and content, and winner of the Nobel Prize in Literature. A cornerstone of feminist literature.",
+      "whyReadEn": "The supreme work of rendering 'the split in being a woman' through experimental structure. Alongside Beauvoir, literature of women's liberation."
     },
     {
       "slug": "on-the-road",
@@ -645,7 +705,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/34655-L.jpg",
       "selectionReasonJa": "ビート・ジェネレーションの宣言書。カウンターカルチャーと自由への賛歌。",
-      "titleEn": "On the Road"
+      "titleEn": "On the Road",
+      "descriptionEn": "The manifesto of the Beat Generation. Sal and Dean Moriarty hitchhike across the American continent in pursuit of jazz, drink, drugs, and friendship. Written in improvisatory prose, it is a hymn to freedom and the holy book of the counterculture.",
+      "whyReadEn": "The origin of the feeling that 'life is movement.' Read it with Brautigan to feel the freedom of 1960s America.",
+      "asin": "B0GGR5RYS9"
     },
     {
       "slug": "one-flew-over-the-cuckoos-nest",
@@ -668,7 +731,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/9272688-L.jpg",
       "selectionReasonJa": "制度による人間の管理を描く、60年代アメリカの反体制文学。",
-      "titleEn": "One Flew Over the Cuckoo's Nest"
+      "titleEn": "One Flew Over the Cuckoo's Nest",
+      "descriptionEn": "The fight between Big Nurse Ratched, who rules the psychiatric ward, and McMurphy, the free spirit who appears there. With black humor and lyrical prose it depicts the management of human beings by institutions. A novel that symbolizes the anti-establishment spirit of 1960s America.",
+      "whyReadEn": "The question 'don't let institutions tame you.' Read as the literary version of Foucault's Discipline and Punish, it goes even deeper."
     },
     {
       "slug": "a-clockwork-orange",
@@ -692,7 +757,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/13151224-L.jpg",
       "selectionReasonJa": "自由意志と暴力を問うディストピアSF。クブラック映画で有名な、バージェスの代表作。",
-      "titleEn": "A Clockwork Orange"
+      "titleEn": "A Clockwork Orange",
+      "descriptionEn": "Near-future Britain. Alex, a teenage gang leader, is a madman who loves violence and Beethoven. After 'treatment' in prison leaves him harmless, what awaits him—a dystopian science fiction classic that questions the eradication of 'free will.'",
+      "whyReadEn": "What is 'the freedom to choose good'? Famous from Kubrick's film, but the novel's ending is far deeper."
     },
     {
       "slug": "notes-from-underground",
@@ -715,7 +782,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/10445973-L.jpg",
       "selectionReasonJa": "実存主義の先駆け。ドストエフスキーが人間の矛盾と自己欺瞞を描いた問題作。",
-      "titleEn": "Notes from Underground"
+      "titleEn": "Notes from Underground",
+      "descriptionEn": "'I am a sick man... but I am proud of my sickness.' The monologue of a man who withdraws from society and weaves self-loathing and pride in his underground room. A problem-novel that questions modern rationalism and human contradiction—Dostoevsky as the forerunner of existentialism.",
+      "whyReadEn": "The book Sartre called 'the beginning of existentialism.' You can experience, as literature, the origin of the thinking that leads to Nietzsche and Camus."
     },
     {
       "slug": "crime-and-punishment",
@@ -738,7 +807,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/15183762-L.jpg",
       "selectionReasonJa": "罪と罰を問う、ドストエフスキーの最高傑作。世界文学の頂点の一つ。",
-      "titleEn": "Crime and Punishment"
+      "titleEn": "Crime and Punishment",
+      "descriptionEn": "Raskolnikov, a poor former student, puts into practice his theory that 'extraordinary men are permitted crime' and murders an old pawnbroker. But the weight of the crime gnaws at him. One of Dostoevsky's greatest works, plumbing the depths of the human soul.",
+      "whyReadEn": "The book that most deeply asks, as literature, what crime is. Read in contrast with Nietzsche's Übermensch and it gets even more interesting.",
+      "asin": "B0H7CR7LPG"
     },
     {
       "slug": "the-brothers-karamazov",
@@ -761,7 +833,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/14889167-L.jpg",
       "selectionReasonJa": "「神がいなければすべて許されるのか」。世界文学最大の問いを描く大河。",
-      "titleEn": "The Brothers Karamazov"
+      "titleEn": "The Brothers Karamazov",
+      "descriptionEn": "A dissolute father and three brothers—Alyosha of faith, Ivan of reason, and Dmitri of passion. Around a parricide, a vast dialogue unfolds on faith and atheism, reason and passion, freedom and God. The sweeping novel called the summit of world literature.",
+      "whyReadEn": "'If God does not exist, is everything permitted?'—it confronts this question head-on. The intersection of Western philosophy and literature.",
+      "asin": "4334751067"
     },
     {
       "slug": "the-metamorphosis",
@@ -785,7 +860,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/12820198-L.jpg",
       "selectionReasonJa": "不条理文学の原点。ある朝、虫になっていた男の物語。カフカの名を不朽にした。",
-      "titleEn": "The Metamorphosis"
+      "titleEn": "The Metamorphosis",
+      "descriptionEn": "One morning Gregor Samsa, a traveling salesman, wakes up to find he has turned into a giant insect. His family is horrified and soon treats him as useless. No story has depicted human alienation so concisely. The masterpiece that made Kafka's name immortal.",
+      "whyReadEn": "The terror of 'one day becoming useless.' The origin of absurdity that connects to Japanese salaryman fiction and to Murakami.",
+      "asin": "B00ZYM0EN2"
     },
     {
       "slug": "the-strange-case-of-dr-jekyll-and-mr-hyde",
@@ -809,7 +887,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/295773-L.jpg",
       "selectionReasonJa": "人間の善悪の二重性を描く、ゴシックホラーの名作。",
-      "titleEn": "Strange Case of Dr Jekyll and Mr Hyde"
+      "titleEn": "Strange Case of Dr Jekyll and Mr Hyde",
+      "descriptionEn": "Dr. Jekyll, who drinks a potion that splits personality into good and evil, becomes the incarnation of evil, Mr. Hyde. Rendering the inner split of modern man as gothic horror, it made 'Jekyll and Hyde' a permanent metaphor worldwide.",
+      "whyReadEn": "The most famous story about the duality of good and evil in human beings. Even more interesting when read alongside psychology and psychoanalysis.",
+      "asin": "B0H5HT3Z6Z"
     },
     {
       "slug": "the-picture-of-dorian-gray",
@@ -832,7 +913,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/14314858-L.jpg",
       "selectionReasonJa": "美と堕落をめぐる、ワイルド唯一の長編。耽美文学の頂点。",
-      "titleEn": "The Picture of Dorian Gray"
+      "titleEn": "The Picture of Dorian Gray",
+      "descriptionEn": "Young Dorian Gray wishes for eternal beauty. His portrait ages in his place, and he drowns in the beauty of sin. Wilde's only novel, on aestheticism and morality, beauty and corruption—and one that keeps you turning pages with its razor-sharp epigrams.",
+      "whyReadEn": "A masterpiece that renders the split between 'beauty' and 'goodness' in gothic form. The prototype of every 'fall through beauty' story in pop culture.",
+      "asin": "B0H6C74NNZ"
     },
     {
       "slug": "the-wardrobe",
@@ -856,7 +940,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/8441376-L.jpg",
       "selectionReasonJa": "「扉の向こうに別の世界」の原型。ファンタジー文学の金字塔ナルニアの開幕。",
-      "titleEn": "The Lion, the Witch and the Wardrobe"
+      "titleEn": "The Lion, the Witch and the Wardrobe",
+      "descriptionEn": "Behind an old wardrobe lies another world: the land of Narnia. Four siblings, to save a Narnia ruled by the White Witch, meet the lion king Aslan. The opening of The Chronicles of Narnia.",
+      "whyReadEn": "The prototype of the 'another world behind the door' premise. If you're going to read fantasy literature, start here."
     },
     {
       "slug": "the-bell-jar",
@@ -879,7 +965,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/8477115-L.jpg",
       "selectionReasonJa": "フェミニズム文学の古典。天才詩人プラスが描く、女性の精神の瓦解。",
-      "titleEn": "The Bell Jar"
+      "titleEn": "The Bell Jar",
+      "descriptionEn": "The autobiographical account, by a genius poet, of a young woman's mental collapse. A talented woman, pressed under society's 'glass bell jar,' finds she cannot breathe. A classic of feminist literature and one of its most piercing narratives.",
+      "whyReadEn": "A half-autobiographical classic of the conflict between 'being a woman' and 'living.'"
     },
     {
       "slug": "the-collected-poems-of-sylvia-plath",
@@ -902,7 +990,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/33279-L.jpg",
       "selectionReasonJa": "20世紀英語詩の最高到達点。プラスの死後発表の詩集で、詩の歴史を変えた。",
-      "titleEn": "Ariel"
+      "titleEn": "Ariel",
+      "descriptionEn": "Plath's poetry collection published after her death. Fierce passion and sharp pain detonate in a distinctive rhythm. One of the highest achievements of 20th-century English-language poetry, it changed the history of poetry.",
+      "whyReadEn": "A landmark of English poetry. For those who want to experience Plath's world directly in poetic form."
     },
     {
       "slug": "the-awakening",
@@ -925,7 +1015,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/8750241-L.jpg",
       "selectionReasonJa": "「女性の自己解放」を描いた最初期のアメリカ小説。発表当時はスキャンダルとなった。",
-      "titleEn": "The Awakening"
+      "titleEn": "The Awakening",
+      "descriptionEn": "New Orleans at the end of the 19th century. Edna, a married woman, awakens to her own desires and independence. A scandal on publication and a forerunner of American feminist literature.",
+      "whyReadEn": "One of the earliest American novels of 'women's self-liberation.' The precursor to The Bell Jar."
     },
     {
       "slug": "the-yellow-wallpaper",
@@ -948,7 +1040,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/652029-L.jpg",
       "selectionReasonJa": "精神医療と女性の抑圧を描く、フェミニズム文学の古典的ホラー。",
-      "titleEn": "The Yellow Wallpaper"
+      "titleEn": "The Yellow Wallpaper",
+      "descriptionEn": "A woman confined for 'the rest cure' begins to see things in the pattern of her room's yellow wallpaper. A classic of feminist horror literature depicting mental health care and the oppression of women.",
+      "whyReadEn": "Short and shattering. A pioneering work depicting the representation of 'female madness.'"
     },
     {
       "slug": "the-jane-eyre",
@@ -971,7 +1065,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/8235363-L.jpg",
       "selectionReasonJa": "「自立する女性」の物語の原型。ヴィクトリア朝文学の金字塔。",
-      "titleEn": "Jane Eyre"
+      "titleEn": "Jane Eyre",
+      "descriptionEn": "Jane Eyre, raised as an orphan, becomes a governess at a great house where she falls in love with its master, Rochester—and uncovers the secret hidden in the attic. Depicting a woman's independence and dignity, a cornerstone of Victorian literature.",
+      "whyReadEn": "The prototype of the 'self-reliant woman' story. A fusion of gothic and realism."
     },
     {
       "slug": "the-wuthering-heights",
@@ -994,7 +1090,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/12818862-L.jpg",
       "selectionReasonJa": "「愛」の文学として史上最高。英国ロマン主義文学の荒々しい頂点。",
-      "titleEn": "Wuthering Heights"
+      "titleEn": "Wuthering Heights",
+      "descriptionEn": "On the bleak moors of Yorkshire. The destructive love and revenge of Heathcliff, the foundling, and Catherine. Passion and violence, nature and society—the summit of English Romantic fiction.",
+      "whyReadEn": "Perhaps the greatest love story ever written. Fierce, beautiful, and without redemption.",
+      "asin": "B07DSXW7Q7"
     },
     {
       "slug": "the-villette",
@@ -1017,7 +1116,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/5737854-L.jpg",
       "selectionReasonJa": "ブロンテの最も成熟した作品。孤独と自立を深く描く。",
-      "titleEn": "Villette"
+      "titleEn": "Villette",
+      "descriptionEn": "The orphan Lucy, working at a boarding school in the Francophone city of Villette, seeks independence and love. Brontë's most introspective and mature work.",
+      "whyReadEn": "The mature form of Jane Eyre. A deep treatment of solitude and self-reliance."
     },
     {
       "slug": "the-tess-of-the-durbervilles",
@@ -1040,7 +1141,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/13109386-L.jpg",
       "selectionReasonJa": "社会と運命に翻弄される女性の悲劇。ビクトリア朝道徳への痛烈な批判。",
-      "titleEn": "Tess of the d'Urbervilles"
+      "titleEn": "Tess of the d'Urbervilles",
+      "descriptionEn": "The tragedy of Tess, a country girl. Society and fate toy with the destiny of a 'pure woman.' Hardy's most famous work and a scathing critique of Victorian morality.",
+      "whyReadEn": "A classic of tragedy depicting how 'fate' and 'society' destroy an individual."
     },
     {
       "slug": "the-far-from-the-madding-crowd",
@@ -1063,7 +1166,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/902038-L.jpg",
       "selectionReasonJa": "田園と恋の傑作。ハーディの明朗な代表作。",
-      "titleEn": "Far from the Madding Crowd"
+      "titleEn": "Far from the Madding Crowd",
+      "descriptionEn": "Three suitors around Bathsheba, an independent farmer. The seasons of the countryside and human passion interweave in Hardy's luminous masterpiece, also adapted into film.",
+      "whyReadEn": "A masterpiece of 'woman, man, and love.' Hardy's vision of nature and human nature at its sharpest."
     },
     {
       "slug": "the-madame-bovary",
@@ -1086,7 +1191,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/12993424-L.jpg",
       "selectionReasonJa": "リアリズム小説の原点。近代小説の手法を確立した記念碑的作品。",
-      "titleEn": "Madame Bovary"
+      "titleEn": "Madame Bovary",
+      "descriptionEn": "Emma, wife of a dull provincial doctor, yearns for romantic love and ruins herself with debt and adultery. A monument that established the methods of the modern novel as the origin of realism.",
+      "whyReadEn": "The starting point of the modern novel of 'boredom' and 'desire.' Famous for the perfection of its prose."
     },
     {
       "slug": "the-sentimental-education",
@@ -1109,7 +1216,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/12602042-L.jpg",
       "selectionReasonJa": "フローベールの最高傑作。夢と現実の落差を描く近代小説の完成形。",
-      "titleEn": "Sentimental Education"
+      "titleEn": "Sentimental Education",
+      "descriptionEn": "Paris in the era of the 1848 revolution. Frédéric, a young man, and his unfulfilled love and ordinary life. Flaubert's portrait of 'the desperate truth of life,' the completed form of the modern novel.",
+      "whyReadEn": "The great novel of the gap between dreams and reality—Flaubert's masterpiece.",
+      "asin": "B0H7CSMFH9"
     },
     {
       "slug": "the-bel-ami",
@@ -1132,7 +1242,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/997432-L.jpg",
       "selectionReasonJa": "成り上がりを描く風刺小説の名作。権力のリアリズム。",
-      "titleEn": "Bel-Ami"
+      "titleEn": "Bel-Ami",
+      "descriptionEn": "Duroy, a poor former soldier, climbs the ranks of Parisian high society by using women as stepping stones. Ambition, beauty, and power—Maupassant's cynical, exhilarating tale of social ascent.",
+      "whyReadEn": "A famous satire of 'social climbing.' The realism of power."
     },
     {
       "slug": "the-stendhal-red-and-black",
@@ -1155,7 +1267,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/15050012-L.jpg",
       "selectionReasonJa": "野心と恋愛をめぐる心理小説の古典。近代心理小説の先駆け。",
-      "titleEn": "The Red and the Black"
+      "titleEn": "The Red and the Black",
+      "descriptionEn": "Julien Sorel, a young man burning with ambition. He tries to rise by two paths—the seminary (black) and the army (red)—but is tossed about by love and class society. A forerunner of the modern psychological novel.",
+      "whyReadEn": "A classic psychological novel about 'ambition.' The culmination of Stendhal's art.",
+      "asin": "4106601052"
     },
     {
       "slug": "the-bouvard",
@@ -1178,7 +1293,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/10735314-L.jpg",
       "selectionReasonJa": "「知識」と「人間の愚かさ」をめぐる、フローベール晩年の空前のコメディ。",
-      "titleEn": "Bouvard and Pécuchet"
+      "titleEn": "Bouvard and Pécuchet",
+      "descriptionEn": "Two copy clerks, having inherited a country estate, try their hand at every branch of knowledge—and fail at all of them. With humor and irony, Flaubert's late mad masterpiece renders an unrelenting distrust of human intelligence.",
+      "whyReadEn": "An unprecedented comedy about 'knowledge' and 'human folly.'",
+      "asin": "B0H7CP82K5"
     },
     {
       "slug": "the-moby-dick",
@@ -1201,7 +1319,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/10544254-L.jpg",
       "selectionReasonJa": "アメリカ文学最大の冒険叙事詩。復讐と狂気と知識の深遠。",
-      "titleEn": "Moby-Dick"
+      "titleEn": "Moby-Dick",
+      "descriptionEn": "Captain Ahab drags his entire crew into his vengeance against Moby-Dick, the white whale that took his leg. Whaling, the sea, human madness and knowledge—the greatest adventure epic of American literature.",
+      "whyReadEn": "The supreme American novel of 'revenge and obsession.' One that invites deep rereading.",
+      "asin": "B0H6NR1FWD"
     },
     {
       "slug": "the-billy-budd",
@@ -1224,7 +1345,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/9223569-L.jpg",
       "selectionReasonJa": "善と悪を純粋に描く、メルヴィル晩年の寓話。",
-      "titleEn": "Billy Budd"
+      "titleEn": "Billy Budd",
+      "descriptionEn": "The innocent sailor Billy Budd. Against an officer's conspiracy and the question of the boundary between good and evil—Melville's posthumous work. An allegorical masterpiece set in the British Navy.",
+      "whyReadEn": "A late miniature from Melville depicting the pure conflict of 'good and evil.'"
     },
     {
       "slug": "the-huckleberry-finn",
@@ -1247,7 +1370,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/1237481-L.jpg",
       "selectionReasonJa": "アメリカ文学の原点。ミシシッピ川で自由を描いた、人種を問う名作。",
-      "titleEn": "Adventures of Huckleberry Finn"
+      "titleEn": "Adventures of Huckleberry Finn",
+      "descriptionEn": "Huck, a boy floating down the Mississippi on a raft with Jim, a runaway slave. Freedom, friendship, and the race question—the representative novel of American literature. Hemingway said all American literature begins with it.",
+      "whyReadEn": "The origin of American literature. It renders race and freedom through a boy's voice.",
+      "asin": "B0H4WCCPH1"
     },
     {
       "slug": "the-adventures-of-tom-sawyer",
@@ -1270,7 +1396,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/12043351-L.jpg",
       "selectionReasonJa": "「少年の冒険」の原型。トウェインの自由で楽しい代表作。",
-      "titleEn": "The Adventures of Tom Sawyer"
+      "titleEn": "The Adventures of Tom Sawyer",
+      "descriptionEn": "The adventures of Tom, a mischievous boy in a town along the Mississippi. A classic of American children's literature capturing the joy of childhood freedom and adventure.",
+      "whyReadEn": "The prototype of 'boyhood adventure.' A free and joyful story."
     },
     {
       "slug": "the-little-women",
@@ -1293,7 +1421,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/8775559-L.jpg",
       "selectionReasonJa": "少女の成長を描く、世界中で愛される青春小説。",
-      "titleEn": "Little Women"
+      "titleEn": "Little Women",
+      "descriptionEn": "America during the Civil War. A beloved coming-of-age novel of four sisters growing up, rendered warmly and humorously—the girls' independence and family bonds, loved around the world to this day.",
+      "whyReadEn": "A classic of literature about 'girls growing up.' Repeatedly celebrated in film adaptations.",
+      "asin": "B0GWYH4RNX"
     },
     {
       "slug": "the-scarlet-letter",
@@ -1316,7 +1447,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/5654516-L.jpg",
       "selectionReasonJa": "罪と恥を描く、アメリカ・ロマン主義文学の古典。",
-      "titleEn": "The Scarlet Letter"
+      "titleEn": "The Scarlet Letter",
+      "descriptionEn": "In 17th-century Puritan society, Hester, guilty of adultery, is forced to sew the letter 'A' on her breast. Sin and punishment, shame and self-reliance—a classic of American Romantic literature.",
+      "whyReadEn": "A moral drama about 'sin.' The representative work of the founding father of American literature."
     },
     {
       "slug": "the-house-of-the-seven-gables",
@@ -1339,7 +1472,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/12506481-L.jpg",
       "selectionReasonJa": "家に宿る呪いと記憶のゴシック名作。",
-      "titleEn": "The House of the Seven Gables"
+      "titleEn": "The House of the Seven Gables",
+      "descriptionEn": "A family cursed by its ancestors and an old house with seven gables. Hawthorne's gothic novel of the sins of the past and liberation in the present.",
+      "whyReadEn": "The curse and memory that dwell in a 'house.' A masterpiece of gothic literature."
     },
     {
       "slug": "the-red-badge-of-courage",
@@ -1363,7 +1498,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/8236915-L.jpg",
       "selectionReasonJa": "戦場の心理を描いた、戦争文学の原点。",
-      "titleEn": "The Red Badge of Courage"
+      "titleEn": "The Red Badge of Courage",
+      "descriptionEn": "Henry, a young man who enlists in the Civil War, awakens to fear, cowardice, and courage. A forerunner of war literature that realistically renders the psychology of the battlefield.",
+      "whyReadEn": "The origin of war literature, depicting 'battlefield psychology.'"
     },
     {
       "slug": "the-last-of-the-mohicans",
@@ -1387,7 +1524,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/8236937-L.jpg",
       "selectionReasonJa": "アメリカの辺境とインディアンの世界を描く、冒険文学の原点。",
-      "titleEn": "The Last of the Mohicans"
+      "titleEn": "The Last of the Mohicans",
+      "descriptionEn": "America in the era of colonial wars. A classic of adventure fiction depicting the people of the frontier and the world of the Indians. The representative work of the Leatherstocking Tales.",
+      "whyReadEn": "The origin of adventure literature depicting America's 'frontier.'"
     },
     {
       "slug": "the-ivanhoe",
@@ -1411,7 +1550,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/314235-L.jpg",
       "selectionReasonJa": "歴史小説の父スコットの代表作。騎士道物語の原型。",
-      "titleEn": "Ivanhoe"
+      "titleEn": "Ivanhoe",
+      "descriptionEn": "Medieval England in the time of Richard the Lionheart. The adventures and love of the knight Ivanhoe. The representative work of Scott, the father of the historical novel, and the prototype of chivalric romance.",
+      "whyReadEn": "The book that created the genre of the 'historical novel.' Step into the world of medieval chivalry."
     },
     {
       "slug": "the-waverley",
@@ -1435,7 +1576,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/5966880-L.jpg",
       "selectionReasonJa": "「歴史小説」というジャンルを作った、スコットの元祖。",
-      "titleEn": "Waverley"
+      "titleEn": "Waverley",
+      "descriptionEn": "Against the backdrop of the Jacobite rising of 1745, an English youth plunges into Scottish highland society. The work that changed literary history as the origin of the historical novel.",
+      "whyReadEn": "The starting point of the 'historical novel.' The work that made Scott immortal."
     },
     {
       "slug": "the-pride-and-prejudice",
@@ -1458,7 +1601,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/14348537-L.jpg",
       "selectionReasonJa": "恋愛小説の最高峰。オースティンの機知が冴える英語文学の頂点。",
-      "titleEn": "Pride and Prejudice"
+      "titleEn": "Pride and Prejudice",
+      "descriptionEn": "'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.' A classic full of wit and humor about the marriage prospects of five daughters of a country gentry family. The peak of the love novel.",
+      "whyReadEn": "The apex of English literature about 'love' and 'society.' New every time you read it."
     },
     {
       "slug": "the-sense-and-sensibility",
@@ -1481,7 +1626,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/9278292-L.jpg",
       "selectionReasonJa": "理性と感情を描く、オースティンの処女出版作。",
-      "titleEn": "Sense and Sensibility"
+      "titleEn": "Sense and Sensibility",
+      "descriptionEn": "Elinor of reason and Marianne of feeling. Two sisters of very different temperaments grow through love and marriage. Austen's first published work.",
+      "whyReadEn": "The starting point of Austen's art, dramatizing the contrast between 'sense and sensibility.'"
     },
     {
       "slug": "the-emma",
@@ -1504,7 +1651,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/9278312-L.jpg",
       "selectionReasonJa": "「おせっかい」を描いた、オースティン最高の喜劇。",
-      "titleEn": "Emma"
+      "titleEn": "Emma",
+      "descriptionEn": "Emma, a meddlesome young woman of society, keeps trying to arrange marriages for everyone around her—and keeps failing. Austen's most perfectly crafted comedy of love and self-knowledge.",
+      "whyReadEn": "A masterpiece of witty comedy about being a 'matchmaker.'",
+      "asin": "B0GTZWYP3F"
     },
     {
       "slug": "the-northanger-abbey",
@@ -1527,7 +1677,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/12567961-L.jpg",
       "selectionReasonJa": "ゴシック文学への愛情と皮肉を込めた、オースティンの遊び心あふれる作品。",
-      "titleEn": "Northanger Abbey"
+      "titleEn": "Northanger Abbey",
+      "descriptionEn": "Catherine, a girl who has read too many gothic novels, projects mysteries onto a real country house. Austen's most playful work, full of both affection for and irony toward gothic literature.",
+      "whyReadEn": "A classic of 'books leading life astray.' The literary metafiction is a joy.",
+      "asin": "4866678348"
     },
     {
       "slug": "the-persuasion",
@@ -1550,7 +1703,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/12824691-L.jpg",
       "selectionReasonJa": "失われた愛の再会を描く、オースティン晩年の成熟した傑作。",
-      "titleEn": "Persuasion"
+      "titleEn": "Persuasion",
+      "descriptionEn": "Anne was once persuaded to break off her engagement. Eight years later she meets the man again, now a naval officer, and wavers between regret and hope. Austen's most mature late love novel.",
+      "whyReadEn": "A tale of 'the reunion of lost love'—the culmination of Austen's fiction."
     },
     {
       "slug": "the-cranford",
@@ -1573,7 +1728,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/5188445-L.jpg",
       "selectionReasonJa": "老女たちの社交を温かく描く、ギャスケルの傑作。",
-      "titleEn": "Cranford"
+      "titleEn": "Cranford",
+      "descriptionEn": "With humor and affection, Gaskell portrays the daily lives of elderly ladies in Cranford, a small Victorian English town. The warmth and absurdity of a world of women.",
+      "whyReadEn": "A gentle, witty masterpiece about 'the social life of old ladies.'",
+      "asin": "B0H7HK39HK"
     },
     {
       "slug": "the-north-and-south",
@@ -1596,7 +1754,9 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/8242253-L.jpg",
       "selectionReasonJa": "階級と恋愛を描く、産業革命時代の傑作。",
-      "titleEn": "North and South"
+      "titleEn": "North and South",
+      "descriptionEn": "Margaret moves from the countryside to an industrial city and falls in love with Thornton, a factory owner. A love story of the industrial revolution against a backdrop of class conflict and labor disputes.",
+      "whyReadEn": "A Victorian masterpiece of 'class' and 'love.'"
     },
     {
       "slug": "the-anna-karenina",
@@ -1619,7 +1779,10 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/2560652-L.jpg",
       "selectionReasonJa": "世界文学最高の大河小説の一つ。人生の全体を描く究極の小説。",
-      "titleEn": "Anna Karenina"
+      "titleEn": "Anna Karenina",
+      "descriptionEn": "'Happy families are all alike; every unhappy family is unhappy in its own way.' Anna's fall into adultery and the contrasting story of another family. One of the greatest sweeping novels of world literature, depicting humanity and society.",
+      "whyReadEn": "What does it mean to render 'the whole of life' in a novel? One of the ultimate answers.",
+      "asin": "B0H6TCQ4SQ"
     },
     {
       "slug": "kokoro",
@@ -1643,7 +1806,10 @@
         "近代",
         "夏目漱石"
       ],
-      "coverUrl": "https://covers.openlibrary.org/b/id/3970410-L.jpg"
+      "coverUrl": "https://covers.openlibrary.org/b/id/3970410-L.jpg",
+      "descriptionEn": "The friendship between 'I' and Sensei, and Sensei's confession: 'my past.' Depicting solitude, guilt, and the inner life of the modern Japanese intellectual, Soseki's masterpiece. One of the most widely read classics of Japanese literature.",
+      "whyReadEn": "The classic of Japanese classics. Its universality in portraying solitude and the inner life makes it world literature.",
+      "asin": "B0H768SCCQ"
     },
     {
       "slug": "the-life-of-the-mind",
@@ -1667,7 +1833,10 @@
         "アーレント",
         "精神"
       ],
-      "coverUrl": "https://covers.openlibrary.org/b/id/116286-L.jpg"
+      "coverUrl": "https://covers.openlibrary.org/b/id/116286-L.jpg",
+      "descriptionEn": "What does it mean to 'think'? Arendt's uncompleted trilogy on the life of the mind—thinking, willing, and judging. Drawing on the experience of totalitarianism, it questions the fundamental activities of the human mind. The masterwork of her later years.",
+      "whyReadEn": "Alongside The Origins of Totalitarianism and The Human Condition, the synthesis of Arendt's thought. The intersection of philosophy and politics.",
+      "asin": "B0GDY1H5Z4"
     },
     {
       "slug": "julys-people",
@@ -1690,7 +1859,9 @@
         "人種",
         "ノーベル賞"
       ],
-      "coverUrl": "https://covers.openlibrary.org/b/id/5374535-L.jpg"
+      "coverUrl": "https://covers.openlibrary.org/b/id/5374535-L.jpg",
+      "descriptionEn": "A Black revolution breaks out in South Africa, and a white family takes refuge in the village of their servant July. In a world where power relations have reversed, the bonds between white and Black waver. The representative novel of Nobel laureate Nadine Gordimer.",
+      "whyReadEn": "A South African masterpiece that foresaw the collapse of apartheid. It depicts the reversal of race and power."
     },
     {
       "slug": "voss",
@@ -1713,7 +1884,9 @@
         "探検",
         "ノーベル賞"
       ],
-      "coverUrl": "https://covers.openlibrary.org/b/id/6961991-L.jpg"
+      "coverUrl": "https://covers.openlibrary.org/b/id/6961991-L.jpg",
+      "descriptionEn": "Nineteenth-century Australia. Voss leads an expedition into the interior. Nobel laureate White renders on a grand scale a story of exploration burdened with ambition and questions of the self. The supreme achievement of Australian literature.",
+      "whyReadEn": "The peak of Australian literature. The most ambitious work of the Nobel-winning White."
     },
     {
       "slug": "the-kingdom-of-this-world",
@@ -1737,7 +1910,10 @@
         "ラテンアメリカ",
         "マジックリアリズム"
       ],
-      "coverUrl": "https://covers.openlibrary.org/b/id/5519447-L.jpg"
+      "coverUrl": "https://covers.openlibrary.org/b/id/5519447-L.jpg",
+      "descriptionEn": "Haiti at the end of the 18th century. Ti Noël, a slave, experiences the interweaving of the people's reality and the supernatural. With his concept of 'lo real maravilloso,' Carpentier pioneered magical realism—a source of Latin American literature.",
+      "whyReadEn": "The origin of magical realism. One of the starting points where Latin American literature changed the world.",
+      "asin": "4891762691"
     },
     {
       "slug": "a-grain-of-wheat",
@@ -1761,7 +1937,10 @@
         "独立",
         "歴史"
       ],
-      "coverUrl": "https://covers.openlibrary.org/b/id/14342094-L.jpg"
+      "coverUrl": "https://covers.openlibrary.org/b/id/14342094-L.jpg",
+      "descriptionEn": "On the eve of Kenyan independence. Around the return of a man hailed as a hero of the Mau Mau struggle, the memories and betrayals of the villagers interweave. Ngũgĩ, a giant of African literature, portrays the ideal and the reality of independence.",
+      "whyReadEn": "The representative work of Ngũgĩ, the most important writer in African literature. Kenyan independence history told from an individual perspective.",
+      "asin": "4884746902"
     },
     {
       "slug": "the-bone-people",
@@ -1784,7 +1963,59 @@
         "ブッカー賞",
         "再生"
       ],
-      "coverUrl": "https://covers.openlibrary.org/b/id/3080172-L.jpg"
+      "coverUrl": "https://covers.openlibrary.org/b/id/3080172-L.jpg",
+      "descriptionEn": "Kerewin, a solitary woman on an isolated New Zealand island. Simon, a deaf-mute boy, and his adoptive father Joe. A Booker Prize-winning landmark of Oceanian literature about the wounds and bonds of three people.",
+      "whyReadEn": "Māori culture and the regeneration of wounded people. The masterpiece that brought New Zealand literature to the world."
+    },
+    {
+      "slug": "don-quixote",
+      "title": "El ingenioso hidalgo don Quijote de la Mancha",
+      "titleJa": "ドン・キホーテ",
+      "author": "Miguel de Cervantes",
+      "authorJa": "ミゲル・デ・セルバンテス",
+      "country": "スペイン",
+      "year": 1605,
+      "genre": [
+        "小説"
+      ],
+      "tags": [
+        "古典",
+        "スペイン文学",
+        "風刺",
+        "騎士道物語のパロディ"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/14428305-L.jpg",
+      "descriptionJa": "騎士道物語に狂わされた老紳士アルマソのラ・マンチャは、自らを遍歴の騎士ドン・キホーテと名乗り、相棒のサンチョ・パンサとともに風車に挑む。現実と理想の落差を笑いと哀しみで描き、風車の巨人は世界文学で最も有名な挿話となった。「近代小説の始祖」と称される、スペインが生んだ空前の傑作。",
+      "whyReadJa": "小説の原点にして頂点。理想と現実の滑稽な落差が、笑いの奥に人生の真実を宿す、世界で最も読まれた古典。",
+      "selectionReasonJa": "「近代小説の始祖」と称される世界文学の最高峰。理想と現実の滑稽さと哀しみを描いた不朽の名作。",
+      "descriptionEn": "Driven mad by tales of chivalry, the aging gentleman of La Mancha names himself Don Quixote, the knight-errant, and sets out with his squire Sancho Panza to tilt at windmills. The gap between reality and ideal is drawn with laughter and sorrow, and the giants that were windmills became the most famous episode in world literature. Called 'the ancestor of the modern novel,' this is Spain's unmatched masterpiece—a comedy of ideals that grows deeper every time it is read.",
+      "whyReadEn": "The origin and summit of the novel. In the comic gap between ideals and reality hides the truth of human life—the most widely read classic in the world, and the funniest book with a broken heart.",
+      "titleEn": "Don Quixote"
+    },
+    {
+      "slug": "faust",
+      "title": "Faust",
+      "titleJa": "ファウスト",
+      "author": "Johann Wolfgang von Goethe",
+      "authorJa": "ヨハン・ヴォルフガング・フォン・ゲーテ",
+      "country": "ドイツ",
+      "year": 1808,
+      "genre": [
+        "劇詩"
+      ],
+      "tags": [
+        "古典",
+        "ドイツ文学",
+        "人間の条件",
+        "近代の神話"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/6499459-L.jpg",
+      "descriptionJa": "学問に飽いた学者ファウストは、悪魔メフィストフェレスと魂を賭けた契約を結ぶ。愛、権力、享楽、そして理想の実現——絶えず満足せず求め続ける人間の姿を、ゲーテが六十年の歳月をかけて描き尽くした壮大な詩劇。人間の欲望と救済をめぐる、西洋文学最大級の問いかけ。",
+      "whyReadJa": "「永遠に求め続ける人間」の物語。ゲーテが生涯をかけた西洋文学最大の詩劇で、人間の本質への探求。",
+      "selectionReasonJa": "ゲーテが六十年かけた西洋文学の金字塔。知識と欲望、救済をめぐる、人間存在の巨大な問いかけ。",
+      "descriptionEn": "Tired of scholarship, the scholar Faust makes a wager with the devil, Mephistopheles. Love, power, pleasure, the realization of ideals—Goethe spent sixty years rendering in this immense verse drama the human being who never rests, who forever seeks and is never satisfied. On desire and redemption, this is one of the largest questions ever posed in Western literature, and its restless hero became the emblem of the modern human condition.",
+      "whyReadEn": "The story of the human being who seeks forever. Goethe's lifelong masterpiece and the West's greatest verse drama—an immense inquiry into knowledge, desire, and what might still manage to save us.",
+      "titleEn": "Faust"
     }
   ]
 }

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import Link from "next/link";
+import Script from "next/script";
 import "./globals.css";
 import { getAllCategories, getStats } from "@/lib/data";
 import { MobileNav } from "@/components/MobileNav";
@@ -152,6 +153,20 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="ja" className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}>
       <body className="min-h-full flex flex-col">
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-J71L8WW50V"
+          strategy="afterInteractive"
+        />
+        <Script id="gtag-init" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            if (location.hostname === "books.antonbase.com") {
+              gtag("js", new Date());
+              gtag("config", "G-J71L8WW50V");
+            }
+          `}
+        </Script>
         <Header />
         <main className="flex-1">{children}</main>
         <Footer />

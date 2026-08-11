@@ -12,13 +12,13 @@ export function TagBadge({ tag, linkable = true, active, count }: TagBadgeProps)
     <span
       className={`inline-flex items-center gap-1 text-xs px-2.5 py-1 rounded-full transition-colors ${
         active
-          ? "bg-[var(--accent)] text-white"
+          ? "bg-[var(--accent)] text-[var(--background)]"
           : "bg-[var(--border)]/30 text-[var(--muted)] hover:bg-[var(--border)] hover:text-[var(--foreground)]"
       }`}
     >
       {tag}
       {count !== undefined && (
-        <span className="opacity-60 text-[10px]">{count}</span>
+        <span className="text-[10px]">{count}</span>
       )}
     </span>
   );

@@ -98,7 +98,7 @@ export default function RecommendPage() {
           </div>
           <button
             onClick={() => handleSearch()}
-            className="px-6 py-3 bg-[var(--accent)] text-white rounded-lg hover:opacity-90 transition-opacity font-medium text-sm"
+            className="px-6 py-3 bg-[var(--accent)] text-[var(--background)] rounded-lg hover:opacity-90 transition-opacity font-medium text-sm"
           >
             検索
           </button>

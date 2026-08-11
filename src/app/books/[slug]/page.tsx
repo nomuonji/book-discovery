@@ -119,7 +119,7 @@ export default async function BookDetailPage({ params }: PageProps) {
                   }
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="block w-full text-center text-sm py-2.5 rounded-lg bg-amber-500 hover:bg-amber-600 text-white font-medium transition-colors"
+                  className="block w-full text-center text-sm py-2.5 rounded-lg bg-amber-500 hover:bg-amber-600 text-amber-950 font-medium transition-colors"
                 >
                   🛒 Amazonで見る（日本語版）
                 </a>

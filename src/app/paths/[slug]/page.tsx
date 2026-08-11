@@ -137,7 +137,7 @@ export default async function PathDetailPage({ params }: PageProps) {
           </Link>
           <Link
             href="/recommend"
-            className="text-sm px-4 py-2 bg-[var(--accent)] text-white rounded-lg hover:opacity-90 transition-opacity"
+            className="text-sm px-4 py-2 bg-[var(--accent)] text-[var(--background)] rounded-lg hover:opacity-90 transition-opacity"
           >
             おすすめを探す
           </Link>

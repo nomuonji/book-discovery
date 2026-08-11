@@ -35,7 +35,7 @@ export default function HomePage() {
             <span>🗺️ {stats.totalPaths}パス</span>
           </div>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
-            <Link href="/recommend" className="inline-flex items-center justify-center px-6 py-3 bg-[var(--accent)] text-white rounded-lg hover:opacity-90 transition-opacity font-medium">
+            <Link href="/recommend" className="inline-flex items-center justify-center px-6 py-3 bg-[var(--accent)] text-[var(--background)] rounded-lg hover:opacity-90 transition-opacity font-medium">
               🎯 おすすめを探す
             </Link>
             <Link href="/paths" className="inline-flex items-center justify-center px-6 py-3 border border-[var(--border)] rounded-lg hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors font-medium">
@@ -129,7 +129,7 @@ export default function HomePage() {
           <p className="text-[var(--muted)] mb-6 max-w-md mx-auto">
             「村上春樹」「カミュ」「ハン・ガン」——好きな作家や本の名前を入れると、AIが厳選したおすすめを表示します。
           </p>
-          <Link href="/recommend" className="inline-flex items-center px-6 py-3 bg-[var(--accent)] text-white rounded-lg hover:opacity-90 transition-opacity font-medium">
+          <Link href="/recommend" className="inline-flex items-center px-6 py-3 bg-[var(--accent)] text-[var(--background)] rounded-lg hover:opacity-90 transition-opacity font-medium">
             おすすめを探してみる →
           </Link>
         </div>

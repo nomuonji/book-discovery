@@ -75,7 +75,7 @@ export function BooksPageClient() {
             {genreFilter && (
               <a
                 href="/books"
-                className="text-xs px-2.5 py-1 rounded-full bg-[var(--accent)] text-white transition-colors"
+                className="text-xs px-2.5 py-1 rounded-full bg-[var(--accent)] text-[var(--background)] transition-colors"
               >
                 ✕ クリア
               </a>
@@ -86,11 +86,11 @@ export function BooksPageClient() {
                 href={`/books?genre=${encodeURIComponent(g.slug)}`}
                 className={`text-xs px-2.5 py-1 rounded-full border transition-colors ${
                   genreFilter === g.slug
-                    ? "border-[var(--accent)] bg-[var(--accent)] text-white"
+                    ? "border-[var(--accent)] bg-[var(--accent)] text-[var(--background)]"
                     : "border-[var(--border)] hover:border-[var(--accent)] hover:text-[var(--accent)]"
                 }`}
               >
-                {g.labelJa} <span className="opacity-50">{g.count}</span>
+                {g.labelJa} <span>{g.count}</span>
               </a>
             ))}
           </div>

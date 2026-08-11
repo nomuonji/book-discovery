@@ -24,7 +24,7 @@ export default function ErrorPage({
       <div className="flex gap-3">
         <button
           onClick={retry}
-          className="px-5 py-2.5 bg-[var(--accent)] text-white rounded-lg hover:opacity-90 transition-opacity text-sm font-medium"
+          className="px-5 py-2.5 bg-[var(--accent)] text-[var(--background)] rounded-lg hover:opacity-90 transition-opacity text-sm font-medium"
         >
           もう一度試す
         </button>

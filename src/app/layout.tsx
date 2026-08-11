@@ -58,7 +58,7 @@ function Header() {
             <Link href="/books" className="hover:text-[var(--accent)] transition-colors py-2">
               本を探す ▾
             </Link>
-            <div className="absolute top-full left-0 mt-0 w-48 bg-[var(--card)] border border-[var(--border)] rounded-lg shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-150 z-20">
+            <div className="absolute top-full left-0 mt-0 w-48 bg-[var(--card)] border border-[var(--border)] rounded-lg shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible group-focus-within:opacity-100 group-focus-within:visible transition-all duration-150 z-20">
               <div className="p-2 space-y-0.5">
                 <Link href="/books" className="block px-3 py-1.5 text-xs rounded hover:bg-[var(--card-hover)] transition-colors">
                   すべての本
@@ -66,7 +66,7 @@ function Header() {
                 <div className="border-t border-[var(--border)] my-1" />
                 {categories.map((cat) => (
                   <Link key={cat.slug} href={`/categories/${cat.slug}`} className="block px-3 py-1.5 text-xs rounded hover:bg-[var(--card-hover)] transition-colors">
-                    {cat.label} <span className="opacity-50">({cat.count})</span>
+                    {cat.label} <span className="text-[var(--muted)]">({cat.count})</span>
                   </Link>
                 ))}
               </div>

@@ -15,7 +15,7 @@ import type { PostContent, PlatformName } from "./types";
 import { XPublisher } from "./publish/x";
 import { ThreadsPublisher } from "./publish/threads";
 import { InstagramPublisher } from "./publish/instagram";
-import { recordPost } from "./state";
+import { recordPost, findPendingLinkComment, markLinkCommentPosted } from "./state";
 import { CHARACTER_LIMITS } from "./publish/types";
 import { getThreadsCredentials } from "./threadsAuth";
 
@@ -60,6 +60,39 @@ function makePublishers(
   return map;
 }
 
+/**
+ * 前回投稿のリンクを時差付きでコメント付与する。
+ * 本投稿直後にリンクを付けると評価が絞られると考えられるため、
+ * 翌スロット（8〜16時間後）に、その投稿へ返信として付ける。
+ */
+async function attachPendingLinkComment(
+  publisher: XPublisher | ThreadsPublisher | InstagramPublisher,
+  platform: PlatformName,
+  dryRun: boolean,
+): Promise<void> {
+  const pending = findPendingLinkComment(platform);
+  if (!pending?.id || !pending.link) return;
+
+  if (dryRun) {
+    console.log(`[${platform}] (dry-run) 前回投稿へのリンクコメント（時差付与）`);
+    console.log(`  → 対象ID: ${pending.id}`);
+    console.log(`  → リンク: ${pending.link}`);
+    console.log("---");
+    return;
+  }
+
+  if (!(publisher instanceof ThreadsPublisher)) return;
+
+  try {
+    await publisher.publishLinkComment(pending.id, pending.link);
+    markLinkCommentPosted(pending.id);
+    console.log(`✅ [${platform}] 前回投稿へリンクコメントを投稿しました id=${pending.id}`);
+  } catch (err) {
+    // 失敗しても新規投稿は続行する。フラグは立てないので次回リトライされる。
+    console.error(`❌ [${platform}] 前回投稿へのリンクコメント投稿失敗: ${(err as Error).message}`);
+  }
+}
+
 /** 本文の文字数チェック（プラットフォーム固有上限） */
 function validateContent(content: PostContent, platform: PlatformName): string | null {
   const limit = CHARACTER_LIMITS[platform];
@@ -78,6 +111,7 @@ async function publishToPlatform(
     console.log(`[${publisher.name}] (dry-run)`);
     console.log(content.text);
     console.log(`  → 画像: ${content.imageUrl ?? "なし"}`);
+    console.log(`  → リンク(翌スロットで時差コメント): ${content.link ?? "なし"}`);
     console.log(`  → キー: ${content.dedupeKey}`);
     console.log("---");
     return;
@@ -85,7 +119,13 @@ async function publishToPlatform(
 
   const result = await publisher.publish(content);
   if (result.ok) {
-    recordPost({ dedupeKey: content.dedupeKey, platform: publisher.name, id: result.id, url: result.url });
+    recordPost({
+      dedupeKey: content.dedupeKey,
+      platform: publisher.name,
+      id: result.id,
+      url: result.url,
+      link: content.link,
+    });
     console.log(`✅ [${publisher.name}] 投稿成功 id=${result.id}${result.url ? ` url=${result.url}` : ""}`);
   } else {
     console.error(`❌ [${publisher.name}] 投稿失敗: ${result.error}`);
@@ -138,6 +178,7 @@ async function run(): Promise<void> {
         console.log(`\n[slot ${gidx} / ${platform}] (${content.type}) ${content.dedupeKey}`);
         console.log(content.text);
         console.log(`  → 画像: ${content.imageUrl ?? "なし"}`);
+        console.log(`  → リンク(翌スロットで時差コメント): ${content.link ?? "なし"}`);
       }
     }
     return;
@@ -160,6 +201,10 @@ async function run(): Promise<void> {
 
   for (const platform of platforms) {
     const publisher = publishers.get(platform)!;
+
+    // 前回投稿のリンクを時差付与してから新規投稿する
+    await attachPendingLinkComment(publisher, platform, opts.dryRun);
+
     const content = buildContentForSlot({ ...buildOpts, platform, globalIdx: baseIdx });
     if (!content) {
       console.error(`[${platform}] 投稿コンテンツを生成できませんでした（素材不足 or 直近重複）`);

@@ -209,18 +209,39 @@ function maxLenFor(platform: BuildOptions["platform"]): number {
   return platform === "x" ? 280 : platform === "threads" ? 500 : 2200;
 }
 
+/**
+ * 末尾（ハッシュタグ＋リンク）を組み立てる。
+ * - x: 従来どおり本文にリンクを含める（未運用のため挙動を変えない）
+ * - threads / instagram: 本文にリンクを置くとリーチが絞られるため本文から外し、
+ *   link フィールドに分離して翌スロットに時差コメントとして付与する
+ */
+function buildTail(
+  opts: BuildOptions,
+  hashtags: string[],
+  url: string,
+  middle = "",
+): { text: string; link?: string } {
+  const tags = hashtags.join(" ");
+  const middlePart = middle ? `\n\n${middle}\n\n` : "\n\n";
+  if (opts.platform === "x") {
+    return { text: `${middlePart}${tags}\n🔗 ${url}` };
+  }
+  return { text: `${middlePart}${tags}`, link: url };
+}
+
 export function buildBookContent(book: BookRecord, opts: BuildOptions): PostContent {
   const url = `${opts.siteUrl}/books/${book.slug}?utm_source=${opts.platform}&utm_medium=social&utm_campaign=book`;
   const head = `📖 今日の一冊\n\n『${book.titleJa}』${book.authorJa}\n${book.country}・${book.year}`;
   const main = book.selectionReasonJa || book.whyReadJa || book.descriptionJa;
-  const hashtags = buildHashtags(book.tags, opts.platform).join(" ");
-  const tail = `\n\n${hashtags}\n🔗 ${url}`;
+  const hashtags = buildHashtags(book.tags, opts.platform);
+  const tail = buildTail(opts, hashtags, url);
   const maxLen = maxLenFor(opts.platform);
-  const text = fitText(main, head, tail, maxLen);
+  const text = fitText(main, head, tail.text, maxLen);
   return {
     type: "book",
     slug: book.slug,
     text,
+    link: tail.link,
     imageUrl: book.coverUrl,
     campaign: "book",
     dedupeKey: `book:${book.slug}`,
@@ -230,14 +251,15 @@ export function buildBookContent(book: BookRecord, opts: BuildOptions): PostCont
 export function buildRecommendContent(from: BookRecord, to: BookRecord, reason: string, opts: BuildOptions): PostContent {
   const url = `${opts.siteUrl}/books/${to.slug}?utm_source=${opts.platform}&utm_medium=social&utm_campaign=recommend`;
   const head = `🎯 『${from.titleJa}』が好きなら\n\n→ 『${to.titleJa}』（${to.authorJa}）\n`;
-  const hashtags = buildHashtags(to.tags, opts.platform).join(" ");
-  const tail = `\n\n${hashtags}\n🔗 ${url}`;
+  const hashtags = buildHashtags(to.tags, opts.platform);
+  const tail = buildTail(opts, hashtags, url);
   const maxLen = maxLenFor(opts.platform);
-  const text = fitText(reason, head, tail, maxLen);
+  const text = fitText(reason, head, tail.text, maxLen);
   return {
     type: "recommend",
     slug: to.slug,
     text,
+    link: tail.link,
     imageUrl: to.coverUrl,
     campaign: "recommend",
     dedupeKey: `recommend:${from.slug}>${to.slug}`,
@@ -254,14 +276,15 @@ export function buildPathContent(p: PathRecord, opts: BuildOptions): PostContent
     .slice(0, 3)
     .map((s) => getBookBySlug(s.bookSlug)?.titleJa ?? s.bookSlug)
     .join(" → ");
-  const hashtags = buildHashtags(["読書メモ"], opts.platform).join(" ");
-  const tail = `\n\n${stepLine}\n\n${hashtags}\n🔗 ${url}`;
+  const hashtags = buildHashtags(["読書メモ"], opts.platform);
+  const tail = buildTail(opts, hashtags, url, stepLine);
   const maxLen = maxLenFor(opts.platform);
-  const text = fitText(p.descriptionJa, head, tail, maxLen);
+  const text = fitText(p.descriptionJa, head, tail.text, maxLen);
   return {
     type: "path",
     slug: p.slug,
     text,
+    link: tail.link,
     imageUrl: coverBook?.coverUrl,
     campaign: "path",
     dedupeKey: `path:${p.slug}`,
@@ -275,14 +298,15 @@ export function buildAuthorContent(a: AuthorRecord, opts: BuildOptions): PostCon
     .slice(0, 3)
     .map((b) => `📚『${b.titleJa}』（${b.year}）`)
     .join("\n");
-  const hashtags = buildHashtags(["読書"], opts.platform).join(" ");
-  const tail = `\n\n${hashtags}\n🔗 ${url}`;
+  const hashtags = buildHashtags(["読書"], opts.platform);
+  const tail = buildTail(opts, hashtags, url);
   const maxLen = maxLenFor(opts.platform);
-  const text = fitText(bookLines, head, tail, maxLen);
+  const text = fitText(bookLines, head, tail.text, maxLen);
   return {
     type: "author",
     slug: a.slug,
     text,
+    link: tail.link,
     imageUrl: a.books[0]?.coverUrl,
     campaign: "author",
     dedupeKey: `author:${a.slug}`,

@@ -74,6 +74,32 @@ export class ThreadsPublisher {
     return json.id;
   }
 
+  /**
+   * 指定の投稿にリンクを返信（コメント）として付与する。
+   * 本投稿直後ではなく翌スロットで呼ぶ（時差付与）。本投稿の配信判定が
+   * リンクで絞られないようにするため、publish() 内では呼ばない。
+   */
+  async publishLinkComment(replyToId: string, link: string): Promise<void> {
+    const params = new URLSearchParams({
+      access_token: this.opts.accessToken,
+      media_type: "TEXT",
+      text: `🔗 続きはこちら\n${link}`,
+      reply_to_id: replyToId,
+    });
+
+    const res = await fetch(`${GRAPH_BASE}/${this.opts.userId}/threads`, {
+      method: "POST",
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body: params.toString(),
+    });
+
+    const json = (await res.json()) as ThreadsContainerResponse;
+    if (!res.ok || !json.id) {
+      throw new Error(`リンクコメント用コンテナ作成失敗: ${JSON.stringify(json.error ?? json)}`);
+    }
+    await this.publishContainer(json.id);
+  }
+
   private async publishContainer(containerId: string): Promise<ThreadsPublishResponse> {
     const params = new URLSearchParams({
       access_token: this.opts.accessToken,

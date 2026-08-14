@@ -16,6 +16,10 @@ interface PublishedRecord {
   postedAt: string; // ISO 日時（JST 変換前の UTC）
   id?: string;
   url?: string;
+  /** 記事リンク。本投稿には含めず、翌スロットでコメントとして時差付与する */
+  link?: string;
+  /** リンクコメントを付与済みか（時差付与の完了フラグ） */
+  linkCommentPosted?: boolean;
 }
 
 let _cache: PublishedRecord[] | null = null;
@@ -58,4 +62,24 @@ export function recordPost(record: Omit<PublishedRecord, "postedAt">): void {
   // 1,000件を超えたら古いものから削除
   const trimmed = filtered.slice(-1000);
   save(trimmed);
+}
+
+/**
+ * リンクコメントをまだ付与していない「最古」の投稿を返す（時差付与の対象）。
+ * リンクコメントは本投稿直後ではなく翌スロットに付けることで、
+ * 本投稿のリーチがリンクで絞られないようにする。
+ */
+export function findPendingLinkComment(platform: string): PublishedRecord | undefined {
+  return load()
+    .filter((r) => r.platform === platform && r.link && !r.linkCommentPosted)
+    .sort((a, b) => new Date(a.postedAt).getTime() - new Date(b.postedAt).getTime())[0];
+}
+
+/** リンクコメントの付与完了を記録する（成功時のみ呼ぶ） */
+export function markLinkCommentPosted(postId: string): void {
+  const records = load();
+  const target = records.find((r) => r.id === postId);
+  if (!target) return;
+  target.linkCommentPosted = true;
+  save(records);
 }

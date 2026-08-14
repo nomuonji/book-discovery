@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { BookGrid } from "@/components/BookGrid";
 import { CategoryNav } from "@/components/CategoryNav";
 import { getBooksByCategory, getCategoryBySlug, getAllCategories, getAllBooks } from "@/lib/data";
+import { buildMetadata } from "@/lib/seo";
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -17,10 +18,11 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const { slug } = await params;
   const cat = getCategoryBySlug(slug);
   if (!cat) return { title: "Not Found" };
-  return {
+  return buildMetadata({
     title: `${cat.label} — カテゴリ別一覧`,
     description: cat.description,
-  };
+    path: `/categories/${cat.slug}`,
+  });
 }
 
 export default async function CategoryPage({ params }: PageProps) {

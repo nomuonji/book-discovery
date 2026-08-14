@@ -5,6 +5,7 @@ import { notFound } from "next/navigation";
 import { BookCard } from "@/components/BookCard";
 import { getBookBySlug, getRecommendationsFrom, getPathsContainingBook, getAllBooks } from "@/lib/data";
 import { getAmazonLink, getAmazonSearchLink, getAmazonComSearchLink, AMAZON_DISCLAIMER } from "@/lib/amazon";
+import { buildMetadata } from "@/lib/seo";
 import { ReadingPath } from "@/types";
 
 interface PageProps {
@@ -20,10 +21,18 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const { slug } = await params;
   const book = getBookBySlug(slug);
   if (!book) return { title: "Not Found" };
-  return {
-    title: `${book.titleJa}（${book.authorJa}）`,
-    description: book.descriptionJa.slice(0, 120),
-  };
+  const title = `${book.titleJa}（${book.authorJa}）`;
+  const description = book.descriptionJa.slice(0, 120);
+  return buildMetadata({
+    title,
+    description,
+    path: `/books/${book.slug}`,
+    type: "book",
+    bookAuthors: [book.authorJa],
+    images: book.coverUrl
+      ? [{ url: book.coverUrl, alt: `${book.titleJa}の書影` }]
+      : undefined,
+  });
 }
 
 export default async function BookDetailPage({ params }: PageProps) {
@@ -34,8 +43,25 @@ export default async function BookDetailPage({ params }: PageProps) {
   const recommendations = getRecommendationsFrom(slug);
   const paths = getPathsContainingBook(slug);
 
+  // 構造化データ（Google リッチリザルト / 検索向け）
+  const bookJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Book",
+    name: book.titleJa,
+    alternateName: book.title,
+    author: { "@type": "Person", name: book.authorJa },
+    datePublished: String(book.year),
+    genre: book.genre,
+    image: book.coverUrl || undefined,
+    description: book.descriptionJa,
+  };
+
   return (
     <div className="max-w-5xl mx-auto px-4 py-8">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(bookJsonLd) }}
+      />
       {/* Breadcrumb */}
       <nav className="text-sm text-[var(--muted)] mb-6">
         <Link href="/" className="hover:text-[var(--accent)] transition-colors">ホーム</Link>

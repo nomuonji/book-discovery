@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { BookGrid } from "@/components/BookGrid";
 import { TagCluster } from "@/components/TagBadge";
 import { getBooksByTag, getAllTags, getAllBooks } from "@/lib/data";
+import { buildMetadata } from "@/lib/seo";
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -18,10 +19,11 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { slug } = await params;
   const decoded = decodeURIComponent(slug);
-  return {
+  return buildMetadata({
     title: `「${decoded}」タグの本`,
     description: `「${decoded}」に関連する洋書・思想書の一覧。`,
-  };
+    path: `/tags/${encodeURIComponent(decoded)}`,
+  });
 }
 
 export default async function TagPage({ params }: PageProps) {

@@ -3,6 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getAllPaths, getPathWithBooks, getBookBySlug } from "@/lib/data";
+import { buildMetadata } from "@/lib/seo";
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -15,13 +16,15 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { slug } = await params;
-  const paths = getAllPaths();
-  const path = paths.find((p) => p.slug === slug);
+  const path = getPathWithBooks(slug);
   if (!path) return { title: "Not Found" };
-  return {
-    title: path.titleJa,
+  const firstCover = path.stepsWithBooks[0]?.book.coverUrl;
+  return buildMetadata({
+    title: `${path.titleJa} — 読書パス`,
     description: path.descriptionJa.slice(0, 120),
-  };
+    path: `/paths/${path.slug}`,
+    images: firstCover ? [{ url: firstCover, alt: path.titleJa }] : undefined,
+  });
 }
 
 const difficultyLabels: Record<number, string> = { 1: "入門", 2: "中級", 3: "発展" };

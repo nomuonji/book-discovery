@@ -1,11 +1,12 @@
-import { Metadata } from "next";
 import { PathCard } from "@/components/PathCard";
 import { getAllPaths, getBookBySlug } from "@/lib/data";
+import { buildMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
+export const metadata = buildMetadata({
   title: "読書パス",
   description: "テーマに沿って順番に読むことで理解が深まる、厳選された読書ガイド。実存主義から現代思想、世界文学まで。",
-};
+  path: "/paths",
+});
 
 export default function PathsPage() {
   const paths = getAllPaths();

@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { BookGrid } from "@/components/BookGrid";
 import { TagCluster } from "@/components/TagBadge";
 import { getAuthorBySlug, getRecommendationsForAuthor, getAllAuthors, getAllBooks } from "@/lib/data";
+import { buildMetadata } from "@/lib/seo";
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -17,10 +18,11 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const { slug } = await params;
   const author = getAuthorBySlug(slug);
   if (!author) return { title: "Not Found" };
-  return {
+  return buildMetadata({
     title: `${author.nameJa}（${author.name}）の紹介と著書`,
     description: `${author.nameJa}の著書一覧と、関連するおすすめ本。`,
-  };
+    path: `/authors/${author.slug}`,
+  });
 }
 
 export default async function AuthorPage({ params }: PageProps) {

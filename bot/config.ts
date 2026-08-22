@@ -60,9 +60,9 @@ function env(name: string): string {
 export function loadConfig(): BotConfig {
   loadDotEnv();
 
-  // This project only runs Threads (kanna_neko_xx) for now. X support is kept
-  // in the codebase (publish/x.ts, oauth.ts) in case it's wired up later, but
-  // is not part of the default platform set.
+  // This project only runs Threads (jellyfish.1619959) for now. X support is
+  // kept in the codebase (publish/x.ts, oauth.ts) in case it's wired up later,
+  // but is not part of the default platform set.
   const platforms = (env("BOT_PLATFORMS") || "threads")
     .split(",")
     .map((p) => p.trim().toLowerCase() as PlatformName)
@@ -76,7 +76,7 @@ export function loadConfig(): BotConfig {
     platforms,
     postsPerDay: Number(env("BOT_POSTS_PER_DAY")) || 1,
     dryRun,
-    threadsGistAccount: env("THREADS_GIST_ACCOUNT") || "kanna_neko_xx",
+    threadsGistAccount: env("THREADS_GIST_ACCOUNT") || "jellyfish.1619959",
   };
 
   if (platforms.includes("x")) {

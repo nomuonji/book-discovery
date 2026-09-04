@@ -42,7 +42,7 @@ export function BooksPageClient() {
 
       {/* Search */}
       <div className="mb-8 max-w-md">
-        <form action="/books" method="GET" className="relative">
+        <form action="/books/" method="GET" className="relative">
           <span className="absolute left-3 top-1/2 -translate-y-1/2 text-sm text-[var(--muted)] pointer-events-none">
             🔍
           </span>
@@ -54,9 +54,9 @@ export function BooksPageClient() {
             className="w-full pl-9 pr-3 py-2.5 rounded-lg border border-[var(--border)] bg-[var(--card)] focus:outline-none focus:ring-2 focus:ring-[var(--accent)] focus:border-transparent text-sm"
           />
           {query && (
-            <a href="/books" className="absolute right-3 top-1/2 -translate-y-1/2 text-sm text-[var(--muted)] hover:text-[var(--accent)]">
+            <Link href="/books/" className="absolute right-3 top-1/2 -translate-y-1/2 text-sm text-[var(--muted)] hover:text-[var(--accent)]">
               ✕
-            </a>
+            </Link>
           )}
         </form>
       </div>
@@ -73,17 +73,17 @@ export function BooksPageClient() {
           <h2 className="text-xs font-medium text-[var(--muted)] mb-2">ジャンル（{genres.length}）</h2>
           <div className="flex flex-wrap gap-1.5">
             {genreFilter && (
-              <a
-                href="/books"
+              <Link
+                href="/books/"
                 className="text-xs px-2.5 py-1 rounded-full bg-[var(--accent)] text-[var(--background)] transition-colors"
               >
                 ✕ クリア
-              </a>
+              </Link>
             )}
             {genres.map((g) => (
-              <a
+              <Link
                 key={g.slug}
-                href={`/books?genre=${encodeURIComponent(g.slug)}`}
+                href={`/books/?genre=${encodeURIComponent(g.slug)}`}
                 className={`text-xs px-2.5 py-1 rounded-full border transition-colors ${
                   genreFilter === g.slug
                     ? "border-[var(--accent)] bg-[var(--accent)] text-[var(--background)]"
@@ -91,7 +91,7 @@ export function BooksPageClient() {
                 }`}
               >
                 {g.labelJa} <span>{g.count}</span>
-              </a>
+              </Link>
             ))}
           </div>
         </div>
@@ -101,7 +101,7 @@ export function BooksPageClient() {
             {countries.map((c) => (
               <Link
                 key={c}
-                href={`/tags/${encodeURIComponent(c)}`}
+                href={`/tags/${encodeURIComponent(c)}/`}
                 className="text-xs px-2.5 py-1 rounded-full border border-[var(--border)] hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors"
               >
                 {c}
@@ -116,13 +116,13 @@ export function BooksPageClient() {
         <h2 className="text-xs font-medium text-[var(--muted)] mb-2">年代</h2>
         <div className="flex flex-wrap gap-1.5">
           {decades.map((d) => (
-            <a
+            <Link
               key={d}
-              href={`/tags/${encodeURIComponent(d + "年代")}`}
+              href={`/tags/${encodeURIComponent(d + "年代")}/`}
               className="text-xs px-2.5 py-1 rounded-full border border-[var(--border)] hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors"
             >
               {d}年代
-            </a>
+            </Link>
           ))}
         </div>
       </div>

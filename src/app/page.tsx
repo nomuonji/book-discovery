@@ -35,13 +35,13 @@ export default function HomePage() {
             <span>🗺️ {stats.totalPaths}パス</span>
           </div>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
-            <Link href="/recommend" className="inline-flex items-center justify-center px-6 py-3 bg-[var(--accent)] text-[var(--background)] rounded-lg hover:opacity-90 transition-opacity font-medium">
+            <Link href="/recommend/" className="inline-flex items-center justify-center px-6 py-3 bg-[var(--accent)] text-[var(--background)] rounded-lg hover:opacity-90 transition-opacity font-medium">
               🎯 おすすめを探す
             </Link>
-            <Link href="/paths" className="inline-flex items-center justify-center px-6 py-3 border border-[var(--border)] rounded-lg hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors font-medium">
+            <Link href="/paths/" className="inline-flex items-center justify-center px-6 py-3 border border-[var(--border)] rounded-lg hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors font-medium">
               🗺️ 読書パスを見る
             </Link>
-            <Link href="/books" className="inline-flex items-center justify-center px-6 py-3 border border-[var(--border)] rounded-lg hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors font-medium">
+            <Link href="/books/" className="inline-flex items-center justify-center px-6 py-3 border border-[var(--border)] rounded-lg hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors font-medium">
               📚 本を探す
             </Link>
           </div>
@@ -97,7 +97,7 @@ export default function HomePage() {
             <h2 className="text-xl font-bold">読書パス</h2>
             <p className="text-sm text-[var(--muted)] mt-1">順番に読むことで理解が深まるテーマ別ガイド</p>
           </div>
-          <Link href="/paths" className="text-sm text-[var(--accent)] hover:underline shrink-0">すべて見る →</Link>
+          <Link href="/paths/" className="text-sm text-[var(--accent)] hover:underline shrink-0">すべて見る →</Link>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
           {paths.slice(0, 6).map((path) => {
@@ -117,7 +117,7 @@ export default function HomePage() {
             <h2 className="text-xl font-bold">ピックアップ</h2>
             <p className="text-sm text-[var(--muted)] mt-1">世界中で評価されている、まず手に取りたい6冊</p>
           </div>
-          <Link href="/books" className="text-sm text-[var(--accent)] hover:underline shrink-0">すべて見る →</Link>
+          <Link href="/books/" className="text-sm text-[var(--accent)] hover:underline shrink-0">すべて見る →</Link>
         </div>
         <BookGrid books={featuredBooks} />
       </section>
@@ -129,7 +129,7 @@ export default function HomePage() {
           <p className="text-[var(--muted)] mb-6 max-w-md mx-auto">
             「村上春樹」「カミュ」「ハン・ガン」——好きな作家や本の名前を入れると、AIが厳選したおすすめを表示します。
           </p>
-          <Link href="/recommend" className="inline-flex items-center px-6 py-3 bg-[var(--accent)] text-[var(--background)] rounded-lg hover:opacity-90 transition-opacity font-medium">
+            <Link href="/recommend/" className="inline-flex items-center px-6 py-3 bg-[var(--accent)] text-[var(--background)] rounded-lg hover:opacity-90 transition-opacity font-medium">
             おすすめを探してみる →
           </Link>
         </div>

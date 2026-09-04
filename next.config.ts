@@ -5,6 +5,8 @@ const nextConfig: NextConfig = {
   // 出力先は `out/`（Next.jsの仕様で固定。distDirでは変えられない）。
   // API routes・middleware・cookies()/headers() 等の動的APIは未使用なので対応可能。
   output: "export",
+  // 公開URLを末尾スラッシュに統一し、静的出力を各ルートの index.html にする。
+  trailingSlash: true,
   images: {
     // next/imageのビルトイン最適化はサーバー機能（/_next/image）なので
     // 静的エクスポートでは使えない。表紙画像はOpen Library/Amazon側で

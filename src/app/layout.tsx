@@ -5,7 +5,7 @@ import Script from "next/script";
 import "./globals.css";
 import { getAllCategories, getStats } from "@/lib/data";
 import { MobileNav } from "@/components/MobileNav";
-import { DEFAULT_OG_IMAGE } from "@/lib/seo";
+import { DEFAULT_OG_IMAGE, siteUrl } from "@/lib/seo";
 
 const geistSans = Geist({ variable: "--font-geist-sans", subsets: ["latin"] });
 const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"] });
@@ -13,12 +13,12 @@ const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"]
 export const metadata: Metadata = {
   title: { default: "読書の羅針盤 — 世界の名作と出会う", template: "%s | 読書の羅針盤" },
   description: "文学史に残る古典から現代の受賞作まで、厳選した世界の名作を日本語で発見できる読書ガイド。村上春樹好きにおすすめの海外文学から、実存主義の読書パスまで。",
-  metadataBase: new URL("https://books.antonbase.com"),
-  alternates: { canonical: "https://books.antonbase.com" },
+  metadataBase: new URL(siteUrl("/")),
+  alternates: { canonical: siteUrl("/") },
   openGraph: {
     title: "読書の羅針盤 — 世界の名作と出会う",
     description: "あなたの次の一冊を、世界の名作から。厳選した海外文学・思想書を日本語で発見できる読書ガイド。",
-    url: "https://books.antonbase.com",
+    url: siteUrl("/"),
     siteName: "読書の羅針盤",
     locale: "ja_JP",
     type: "website",
@@ -43,7 +43,7 @@ function Header() {
         </Link>
 
         {/* Simple search form (hidden on smallest screens) */}
-        <form action="/books" method="GET" className="hidden sm:block flex-1 max-w-xs mx-auto">
+        <form action="/books/" method="GET" className="hidden sm:block flex-1 max-w-xs mx-auto">
           <div className="relative">
             <span className="absolute left-3 top-1/2 -translate-y-1/2 text-sm text-[var(--muted)] pointer-events-none">
               🔍
@@ -60,25 +60,25 @@ function Header() {
         {/* Desktop nav */}
         <nav className="hidden md:flex items-center gap-5 text-sm shrink-0">
           <div className="relative group">
-            <Link href="/books" className="hover:text-[var(--accent)] transition-colors py-2">
+            <Link href="/books/" className="hover:text-[var(--accent)] transition-colors py-2">
               本を探す ▾
             </Link>
             <div className="absolute top-full left-0 mt-0 w-48 bg-[var(--card)] border border-[var(--border)] rounded-lg shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible group-focus-within:opacity-100 group-focus-within:visible transition-all duration-150 z-20">
               <div className="p-2 space-y-0.5">
-                <Link href="/books" className="block px-3 py-1.5 text-xs rounded hover:bg-[var(--card-hover)] transition-colors">
+                <Link href="/books/" className="block px-3 py-1.5 text-xs rounded hover:bg-[var(--card-hover)] transition-colors">
                   すべての本
                 </Link>
                 <div className="border-t border-[var(--border)] my-1" />
                 {categories.map((cat) => (
-                  <Link key={cat.slug} href={`/categories/${cat.slug}`} className="block px-3 py-1.5 text-xs rounded hover:bg-[var(--card-hover)] transition-colors">
+                  <Link key={cat.slug} href={`/categories/${cat.slug}/`} className="block px-3 py-1.5 text-xs rounded hover:bg-[var(--card-hover)] transition-colors">
                     {cat.label} <span className="text-[var(--muted)]">({cat.count})</span>
                   </Link>
                 ))}
               </div>
             </div>
           </div>
-          <Link href="/paths" className="hover:text-[var(--accent)] transition-colors">読書パス</Link>
-          <Link href="/recommend" className="hover:text-[var(--accent)] transition-colors">おすすめを探す</Link>
+          <Link href="/paths/" className="hover:text-[var(--accent)] transition-colors">読書パス</Link>
+          <Link href="/recommend/" className="hover:text-[var(--accent)] transition-colors">おすすめを探す</Link>
         </nav>
 
         {/* Mobile nav button */}
@@ -88,7 +88,7 @@ function Header() {
       </div>
 
       {/* Mobile search (below header on small screens) */}
-      <form action="/books" method="GET" className="sm:hidden px-4 pb-3">
+      <form action="/books/" method="GET" className="sm:hidden px-4 pb-3">
         <div className="relative">
           <span className="absolute left-3 top-1/2 -translate-y-1/2 text-sm text-[var(--muted)] pointer-events-none">
             🔍
@@ -116,17 +116,17 @@ function Footer() {
           <div>
             <h3 className="text-sm font-semibold mb-2">📚 本を探す</h3>
             <ul className="space-y-1 text-xs text-[var(--muted)]">
-              <li><Link href="/books" className="hover:text-[var(--accent)] transition-colors">すべての本</Link></li>
+              <li><Link href="/books/" className="hover:text-[var(--accent)] transition-colors">すべての本</Link></li>
               {categories.slice(0, 4).map((cat) => (
-                <li key={cat.slug}><Link href={`/categories/${cat.slug}`} className="hover:text-[var(--accent)] transition-colors">{cat.label}</Link></li>
+                <li key={cat.slug}><Link href={`/categories/${cat.slug}/`} className="hover:text-[var(--accent)] transition-colors">{cat.label}</Link></li>
               ))}
             </ul>
           </div>
           <div>
             <h3 className="text-sm font-semibold mb-2">🗺️ 読書パス</h3>
             <ul className="space-y-1 text-xs text-[var(--muted)]">
-              <li><Link href="/paths" className="hover:text-[var(--accent)] transition-colors">すべてのパス</Link></li>
-              <li><Link href="/recommend" className="hover:text-[var(--accent)] transition-colors">おすすめを探す</Link></li>
+              <li><Link href="/paths/" className="hover:text-[var(--accent)] transition-colors">すべてのパス</Link></li>
+              <li><Link href="/recommend/" className="hover:text-[var(--accent)] transition-colors">おすすめを探す</Link></li>
             </ul>
           </div>
           <div>

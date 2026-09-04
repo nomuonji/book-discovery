@@ -8,6 +8,22 @@ import type { Metadata } from "next";
 
 export const SITE_NAME = "読書の羅針盤";
 export const SITE_URL = "https://books.antonbase.com";
+export const SITEMAP_URL = `${SITE_URL}/sitemap.xml`;
+
+/**
+ * 静的エクスポートの公開URL方針。
+ * ルート以外は末尾スラッシュを付け、Cloudflare Pages の index.html
+ * 解決先・内部リンク・sitemap・canonical を同じURLに揃える。
+ */
+export function normalizeSitePath(path: string): string {
+  const [pathname, suffix = ""] = path.split(/([?#].*)/, 2);
+  if (pathname === "/" || pathname === "") return `/${suffix}`;
+  return `/${pathname.replace(/^\/+|\/+$/g, "")}/${suffix}`;
+}
+
+export function siteUrl(path = "/"): string {
+  return `${SITE_URL}${normalizeSitePath(path)}`;
+}
 
 export const DEFAULT_OG_IMAGE = {
   url: "/og-default.png",
@@ -33,10 +49,12 @@ export interface SeoOptions {
   images?: OgImage[];
   /** type: "book" のときの og:book:author */
   bookAuthors?: string[];
+  /** index対象外ページでは noindex,follow を指定する */
+  robots?: Metadata["robots"];
 }
 
 export function buildMetadata(opts: SeoOptions): Metadata {
-  const canonical = `${SITE_URL}${opts.path}`;
+  const canonical = siteUrl(opts.path);
   const images = opts.images && opts.images.length > 0 ? opts.images : [DEFAULT_OG_IMAGE];
   const twitterImage = images[0]?.url ?? DEFAULT_OG_IMAGE.url;
 
@@ -66,6 +84,7 @@ export function buildMetadata(opts: SeoOptions): Metadata {
     title: opts.title,
     description: opts.description,
     alternates: { canonical },
+    ...(opts.robots ? { robots: opts.robots } : {}),
     openGraph,
     twitter: {
       card: "summary_large_image",

@@ -1,4 +1,5 @@
 import type { MetadataRoute } from "next";
+import { SITEMAP_URL } from "@/lib/seo";
 
 // output: "export" (next.config.ts) には全ルートが静的である明示が必要
 export const dynamic = "force-static";
@@ -9,6 +10,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://books.antonbase.com/sitemap.xml",
+    sitemap: SITEMAP_URL,
   };
 }

@@ -25,7 +25,7 @@ const difficultyColors: Record<number, string> = {
 export function PathCard({ slug, titleJa, descriptionJa, difficulty, stepCount, representativeBook }: PathCardProps) {
   return (
     <Link
-      href={`/paths/${slug}`}
+      href={`/paths/${slug}/`}
       className="group block bg-[var(--card)] rounded-lg border border-[var(--border)] hover:border-[var(--accent)] hover:bg-[var(--card-hover)] transition-all duration-200 p-5"
     >
       <div className="flex items-start justify-between mb-2">

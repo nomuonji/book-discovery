@@ -55,21 +55,21 @@ export function MobileNav() {
             🏠 ホーム
           </Link>
           <Link
-            href="/books"
+            href="/books/"
             onClick={() => setOpen(false)}
             className="block px-3 py-2 rounded-lg hover:bg-[var(--card-hover)] transition-colors text-sm font-medium"
           >
             📚 すべての本
           </Link>
           <Link
-            href="/paths"
+            href="/paths/"
             onClick={() => setOpen(false)}
             className="block px-3 py-2 rounded-lg hover:bg-[var(--card-hover)] transition-colors text-sm font-medium"
           >
             🗺️ 読書パス
           </Link>
           <Link
-            href="/recommend"
+            href="/recommend/"
             onClick={() => setOpen(false)}
             className="block px-3 py-2 rounded-lg hover:bg-[var(--card-hover)] transition-colors text-sm font-medium"
           >
@@ -82,7 +82,7 @@ export function MobileNav() {
           {categories.map((cat) => (
             <Link
               key={cat.slug}
-              href={`/categories/${cat.slug}`}
+              href={`/categories/${cat.slug}/`}
               onClick={() => setOpen(false)}
               className="block px-3 py-1.5 rounded-lg hover:bg-[var(--card-hover)] transition-colors text-sm"
             >

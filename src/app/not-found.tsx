@@ -16,7 +16,7 @@ export default function NotFound() {
           ホームに戻る
         </Link>
         <Link
-          href="/books"
+          href="/books/"
           className="px-5 py-2.5 border border-[var(--border)] rounded-lg hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors text-sm"
         >
           本を探す

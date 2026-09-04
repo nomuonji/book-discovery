@@ -37,7 +37,7 @@ export default async function CategoryPage({ params }: PageProps) {
       <nav className="text-sm text-[var(--muted)] mb-6">
         <Link href="/" className="hover:text-[var(--accent)] transition-colors">ホーム</Link>
         <span className="mx-2">/</span>
-        <Link href="/books" className="hover:text-[var(--accent)] transition-colors">本を探す</Link>
+        <Link href="/books/" className="hover:text-[var(--accent)] transition-colors">本を探す</Link>
         <span className="mx-2">/</span>
         <span>{cat.label}</span>
       </nav>

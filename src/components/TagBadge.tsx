@@ -26,7 +26,7 @@ export function TagBadge({ tag, linkable = true, active, count }: TagBadgeProps)
   if (!linkable) return content;
 
   return (
-    <Link href={`/tags/${tag}`} className="inline-block">
+    <Link href={`/tags/${tag}/`} className="inline-block">
       {content}
     </Link>
   );

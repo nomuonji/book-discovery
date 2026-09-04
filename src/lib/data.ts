@@ -14,6 +14,33 @@ interface AuthorProfileRaw {
   books: string[];
   similarAuthors?: { slug: string; reasonJa: string }[];
 }
+
+export interface TagSummary {
+  slug: string;
+  labelJa: string;
+  count: number;
+}
+
+export interface AuthorSummary {
+  slug: string;
+  name: string;
+  nameJa: string;
+  country: string;
+  bookCount: number;
+  bioJa: string;
+}
+
+/** タグは固有説明を持たないため、2冊以上の書籍がある一覧だけをindex対象にする。 */
+export function isIndexableTag(tag: Pick<TagSummary, "count">): boolean {
+  return tag.count >= 2;
+}
+
+/** 2冊以上、または80文字以上の固有プロフィールを持つ著者一覧をindex対象にする。 */
+export function isIndexableAuthor(author: Pick<AuthorSummary, "bookCount" | "bioJa">): boolean {
+  const bioLength = author.bioJa.trim().length;
+  // プロフィール欠落は判断不能としてindexableを維持する。
+  return author.bookCount >= 2 || bioLength === 0 || bioLength >= 80;
+}
 import categoryIndex from "@/data/category-index.json";
 
 // ---- 静的インポート：カテゴリ別 ----
@@ -180,7 +207,7 @@ export function getAllGenres(): { slug: string; labelJa: string; count: number }
     .sort((a, b) => b.count - a.count || a.labelJa.localeCompare(b.labelJa, "ja"));
 }
 
-export function getAllTags(): { slug: string; labelJa: string; count: number }[] {
+export function getAllTags(): TagSummary[] {
   const count = new Map<string, number>();
   for (const book of getAllBooks()) {
     for (const t of book.tags) count.set(t, (count.get(t) || 0) + 1);
@@ -192,7 +219,7 @@ export function getAllTags(): { slug: string; labelJa: string; count: number }[]
 
 // ---- 著者 ----
 
-export function getAllAuthors(): { slug: string; name: string; nameJa: string; country: string; bookCount: number }[] {
+export function getAllAuthors(): AuthorSummary[] {
   const map = new Map<string, { name: string; nameJa: string; country: string; books: Set<string> }>();
   for (const book of getAllBooks()) {
     const slug = book.author.toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "");
@@ -202,11 +229,18 @@ export function getAllAuthors(): { slug: string; name: string; nameJa: string; c
     map.get(slug)!.books.add(book.slug);
   }
   return Array.from(map.entries())
-    .map(([slug, data]) => ({ slug, name: data.name, nameJa: data.nameJa, country: data.country, bookCount: data.books.size }))
+    .map(([slug, data]) => ({
+      slug,
+      name: data.name,
+      nameJa: data.nameJa,
+      country: data.country,
+      bookCount: data.books.size,
+      bioJa: allAuthorProfiles[slug]?.bioJa || "",
+    }))
     .sort((a, b) => a.nameJa.localeCompare(b.nameJa, "ja"));
 }
 
-export function getAuthorBySlug(slug: string): { slug: string; name: string; nameJa: string; country: string; bioJa: string; books: Book[] } | undefined {
+export function getAuthorBySlug(slug: string): (AuthorSummary & { books: Book[] }) | undefined {
   const books = getBooksByAuthor(slug);
   if (books.length === 0) return undefined;
   const profile = allAuthorProfiles[slug];
@@ -216,6 +250,7 @@ export function getAuthorBySlug(slug: string): { slug: string; name: string; nam
     nameJa: books[0].authorJa,
     country: books[0].country,
     bioJa: profile?.bioJa || "",
+    bookCount: books.length,
     books,
   };
 }

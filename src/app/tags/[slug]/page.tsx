@@ -3,7 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { BookGrid } from "@/components/BookGrid";
 import { TagCluster } from "@/components/TagBadge";
-import { getBooksByTag, getAllTags, getAllBooks } from "@/lib/data";
+import { getBooksByTag, getAllTags, isIndexableTag } from "@/lib/data";
 import { buildMetadata } from "@/lib/seo";
 
 interface PageProps {
@@ -12,17 +12,22 @@ interface PageProps {
 
 export async function generateStaticParams() {
   const tags = getAllTags();
-  // Next.js は slug に URL-safe な値のみ許可
-  return tags.map((t) => ({ slug: encodeURIComponent(t.slug) }));
+  // Next.js が公開URLへエンコードするため、paramsはデータ上の生値を返す。
+  // ここで encodeURIComponent すると静的export時に二重エンコードされ、
+  // 日本語タグの本文が404フォールバックになる。
+  return tags.map((t) => ({ slug: t.slug }));
 }
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { slug } = await params;
   const decoded = decodeURIComponent(slug);
+  const tag = getAllTags().find((candidate) => candidate.slug === decoded);
+  if (!tag) return { title: "Not Found" };
   return buildMetadata({
     title: `「${decoded}」タグの本`,
     description: `「${decoded}」に関連する洋書・思想書の一覧。`,
     path: `/tags/${encodeURIComponent(decoded)}`,
+    robots: isIndexableTag(tag) ? undefined : { index: false, follow: true },
   });
 }
 
@@ -41,7 +46,7 @@ export default async function TagPage({ params }: PageProps) {
       <nav className="text-sm text-[var(--muted)] mb-6">
         <Link href="/" className="hover:text-[var(--accent)] transition-colors">ホーム</Link>
         <span className="mx-2">/</span>
-        <Link href="/books" className="hover:text-[var(--accent)] transition-colors">本を探す</Link>
+        <Link href="/books/" className="hover:text-[var(--accent)] transition-colors">本を探す</Link>
         <span className="mx-2">/</span>
         <span>#{decoded}</span>
       </nav>

@@ -11,7 +11,7 @@ export function CategoryNav({ current }: CategoryNavProps) {
   return (
     <nav className="flex flex-wrap gap-1.5">
       <Link
-        href="/books"
+        href="/books/"
         className={`text-xs px-3 py-1.5 rounded-full font-medium transition-colors ${
           !current
             ? "bg-[var(--accent)] text-[var(--background)]"
@@ -23,7 +23,7 @@ export function CategoryNav({ current }: CategoryNavProps) {
       {categories.map((cat) => (
         <Link
           key={cat.slug}
-          href={`/categories/${cat.slug}`}
+          href={`/categories/${cat.slug}/`}
           className={`text-xs px-3 py-1.5 rounded-full font-medium transition-colors ${
             current === cat.slug
               ? "bg-[var(--accent)] text-[var(--background)]"

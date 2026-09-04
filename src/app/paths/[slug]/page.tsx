@@ -47,7 +47,7 @@ export default async function PathDetailPage({ params }: PageProps) {
       <nav className="text-sm text-[var(--muted)] mb-6">
         <Link href="/" className="hover:text-[var(--accent)] transition-colors">ホーム</Link>
         <span className="mx-2">/</span>
-        <Link href="/paths" className="hover:text-[var(--accent)] transition-colors">読書パス</Link>
+        <Link href="/paths/" className="hover:text-[var(--accent)] transition-colors">読書パス</Link>
         <span className="mx-2">/</span>
         <span>{path.titleJa}</span>
       </nav>
@@ -80,7 +80,7 @@ export default async function PathDetailPage({ params }: PageProps) {
               <div className="flex flex-col sm:flex-row sm:items-start gap-4">
                 {/* Book card style */}
                 <Link
-                  href={`/books/${step.book.slug}`}
+                  href={`/books/${step.book.slug}/`}
                   className="shrink-0 w-16 h-22 sm:w-20 sm:h-28 rounded overflow-hidden shadow-sm hover:ring-2 ring-[var(--accent)] transition-all relative"
                 >
                   {step.book.coverUrl ? (
@@ -100,7 +100,7 @@ export default async function PathDetailPage({ params }: PageProps) {
 
                 <div className="flex-1 min-w-0">
                   <Link
-                    href={`/books/${step.book.slug}`}
+                    href={`/books/${step.book.slug}/`}
                     className="font-semibold hover:text-[var(--accent)] transition-colors"
                   >
                     {step.book.titleJa}
@@ -133,13 +133,13 @@ export default async function PathDetailPage({ params }: PageProps) {
         </p>
         <div className="flex gap-3 justify-center mt-3">
           <Link
-            href="/paths"
+            href="/paths/"
             className="text-sm px-4 py-2 border border-[var(--border)] rounded-lg hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors"
           >
             他の読書パスを見る
           </Link>
           <Link
-            href="/recommend"
+            href="/recommend/"
             className="text-sm px-4 py-2 bg-[var(--accent)] text-[var(--background)] rounded-lg hover:opacity-90 transition-opacity"
           >
             おすすめを探す

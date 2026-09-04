@@ -19,7 +19,7 @@ export function BookCard({ book, reason, showAmazon = true }: BookCardProps) {
       <div className="flex gap-4 p-4">
         {/* Cover */}
         <Link
-          href={`/books/${book.slug}`}
+          href={`/books/${book.slug}/`}
           className="shrink-0 w-20 h-28 sm:w-24 sm:h-32 rounded overflow-hidden shadow-sm relative block"
         >
           {book.coverUrl ? (
@@ -40,7 +40,7 @@ export function BookCard({ book, reason, showAmazon = true }: BookCardProps) {
         {/* Info */}
         <div className="flex-1 min-w-0 flex flex-col justify-between">
           <div>
-            <Link href={`/books/${book.slug}`}>
+            <Link href={`/books/${book.slug}/`}>
               <h3 className="font-semibold text-sm sm:text-base leading-snug group-hover:text-[var(--accent)] transition-colors line-clamp-2">
                 {book.titleJa}
               </h3>
@@ -50,14 +50,14 @@ export function BookCard({ book, reason, showAmazon = true }: BookCardProps) {
             </p>
             <p className="text-xs text-[var(--muted)]">
               <Link
-                href={`/authors/${authorSlug(book.author)}`}
+                href={`/authors/${authorSlug(book.author)}/`}
                 className="hover:text-[var(--accent)] transition-colors"
               >
                 {book.authorJa}
               </Link>
               {" / "}
               <Link
-                href={`/tags/${encodeURIComponent(book.country)}`}
+                href={`/tags/${encodeURIComponent(book.country)}/`}
                 className="hover:text-[var(--accent)] transition-colors"
               >
                 {book.country}
@@ -68,7 +68,7 @@ export function BookCard({ book, reason, showAmazon = true }: BookCardProps) {
             {book.genre.slice(0, 2).map((g) => (
               <Link
                 key={g}
-                href={`/books?genre=${encodeURIComponent(g)}`}
+                href={`/books/?genre=${encodeURIComponent(g)}`}
                 className="inline-block text-[10px] px-1.5 py-0.5 rounded-full bg-[var(--border)]/40 text-[var(--muted)] hover:bg-[var(--accent)]/20 hover:text-[var(--accent)] transition-colors"
               >
                 {g}

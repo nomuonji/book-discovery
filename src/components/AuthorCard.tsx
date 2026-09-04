@@ -16,7 +16,7 @@ interface AuthorCardProps {
 export function AuthorCard({ slug, name, nameJa, country, bookCount, representativeBook }: AuthorCardProps) {
   return (
     <Link
-      href={`/authors/${slug}`}
+      href={`/authors/${slug}/`}
       className="group block bg-[var(--card)] rounded-lg border border-[var(--border)] hover:border-[var(--accent)] hover:bg-[var(--card-hover)] transition-all duration-200 p-4"
     >
       <div className="flex items-start gap-3">

@@ -7,6 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
+    "verify:seo": "node scripts/verify-seo.mjs",
     "bot:dry-run": "tsx bot/post.ts --dry-run",
     "bot:preview": "tsx bot/post.ts --preview=3",
     "bot:post": "tsx bot/post.ts"

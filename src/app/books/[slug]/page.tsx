@@ -66,7 +66,7 @@ export default async function BookDetailPage({ params }: PageProps) {
       <nav className="text-sm text-[var(--muted)] mb-6">
         <Link href="/" className="hover:text-[var(--accent)] transition-colors">ホーム</Link>
         <span className="mx-2">/</span>
-        <Link href="/books" className="hover:text-[var(--accent)] transition-colors">本を探す</Link>
+        <Link href="/books/" className="hover:text-[var(--accent)] transition-colors">本を探す</Link>
         <span className="mx-2">/</span>
         <span>{book.titleJa}</span>
       </nav>
@@ -113,7 +113,7 @@ export default async function BookDetailPage({ params }: PageProps) {
                   {book.genre.map((g) => (
                     <Link
                       key={g}
-                      href={`/books?genre=${encodeURIComponent(g)}`}
+                      href={`/books/?genre=${encodeURIComponent(g)}`}
                       className="text-xs px-2 py-0.5 rounded-full border border-[var(--border)] hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors"
                     >
                       {g}
@@ -241,7 +241,7 @@ function PathInline({ path, currentBookSlug }: { path: ReadingPath; currentBookS
 
   return (
     <Link
-      href={`/paths/${path.slug}`}
+      href={`/paths/${path.slug}/`}
       className="block bg-[var(--card)] border border-[var(--border)] hover:border-[var(--accent)] rounded-lg p-4 transition-all"
     >
       <div className="flex items-start justify-between mb-2">

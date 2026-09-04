@@ -3,7 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { BookGrid } from "@/components/BookGrid";
 import { TagCluster } from "@/components/TagBadge";
-import { getAuthorBySlug, getRecommendationsForAuthor, getAllAuthors, getAllBooks } from "@/lib/data";
+import { getAuthorBySlug, getRecommendationsForAuthor, getAllAuthors, isIndexableAuthor } from "@/lib/data";
 import { buildMetadata } from "@/lib/seo";
 
 interface PageProps {
@@ -22,6 +22,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     title: `${author.nameJa}（${author.name}）の紹介と著書`,
     description: `${author.nameJa}の著書一覧と、関連するおすすめ本。`,
     path: `/authors/${author.slug}`,
+    robots: isIndexableAuthor(author) ? undefined : { index: false, follow: true },
   });
 }
 
@@ -55,7 +56,7 @@ export default async function AuthorPage({ params }: PageProps) {
       <nav className="text-sm text-[var(--muted)] mb-6">
         <Link href="/" className="hover:text-[var(--accent)] transition-colors">ホーム</Link>
         <span className="mx-2">/</span>
-        <Link href="/books" className="hover:text-[var(--accent)] transition-colors">本を探す</Link>
+        <Link href="/books/" className="hover:text-[var(--accent)] transition-colors">本を探す</Link>
         <span className="mx-2">/</span>
         <span>{author.nameJa}</span>
       </nav>
@@ -97,7 +98,7 @@ export default async function AuthorPage({ params }: PageProps) {
             {sameCountry.map((a) => (
               <Link
                 key={a.slug}
-                href={`/authors/${a.slug}`}
+                href={`/authors/${a.slug}/`}
                 className="text-sm px-3 py-1.5 rounded-full border border-[var(--border)] hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors"
               >
                 {a.nameJa} ({a.bookCount}冊)

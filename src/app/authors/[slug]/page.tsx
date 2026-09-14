@@ -19,8 +19,8 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const author = getAuthorBySlug(slug);
   if (!author) return { title: "Not Found" };
   return buildMetadata({
-    title: `${author.nameJa}（${author.name}）の紹介と著書`,
-    description: `${author.nameJa}の著書一覧と、関連するおすすめ本。`,
+    title: `${author.nameJa}（${author.name}）の代表作・おすすめ本と著書一覧`,
+    description: `${author.nameJa}の代表作と著書${author.books.length}冊の一覧。どれから読むかと関連するおすすめ本を紹介します。`,
     path: `/authors/${author.slug}`,
     robots: isIndexableAuthor(author) ? undefined : { index: false, follow: true },
   });

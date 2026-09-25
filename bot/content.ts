@@ -176,13 +176,15 @@ function sanitizeHashtag(tag: string): string {
 }
 
 function buildHashtags(extraTags: string[], platform: string): string[] {
-  const base = platform === "x" ? ["#読書", "#海外文学"] : ["#読書"];
+  // jellyfish is a personality account, not a book-media feed.
+  // Threads stays hashtag-free by default; keep a small set only if X is used later.
+  if (platform !== "x") return [];
   const extras = extraTags
     .slice(0, 2)
     .map(sanitizeHashtag)
     .filter(Boolean)
     .map((t) => `#${t}`);
-  return [...base, ...extras];
+  return ["#読書", "#海外文学", ...extras];
 }
 
 /** 本文が maxLen を超えないよう main 部分を丸める */
@@ -231,7 +233,14 @@ function buildTail(
 
 export function buildBookContent(book: BookRecord, opts: BuildOptions): PostContent {
   const url = `${opts.siteUrl}/books/${book.slug}?utm_source=${opts.platform}&utm_medium=social&utm_campaign=book`;
-  const head = `📖 今日の一冊\n\n『${book.titleJa}』${book.authorJa}\n${book.country}・${book.year}`;
+  const hooks = [
+    "今日ひっかかった一冊。",
+    "次に読む候補としてメモ。",
+    "この本、入口としてかなり面白い。",
+    "本を1冊だけ置くなら今日はこれ。",
+  ];
+  const hook = hooks[Math.abs(opts.globalIdx) % hooks.length];
+  const head = `${hook}\n\n『${book.titleJa}』${book.authorJa}\n${book.country}・${book.year}`;
   const main = book.selectionReasonJa || book.whyReadJa || book.descriptionJa;
   const hashtags = buildHashtags(book.tags, opts.platform);
   const tail = buildTail(opts, hashtags, url);
@@ -250,7 +259,13 @@ export function buildBookContent(book: BookRecord, opts: BuildOptions): PostCont
 
 export function buildRecommendContent(from: BookRecord, to: BookRecord, reason: string, opts: BuildOptions): PostContent {
   const url = `${opts.siteUrl}/books/${to.slug}?utm_source=${opts.platform}&utm_medium=social&utm_campaign=recommend`;
-  const head = `🎯 『${from.titleJa}』が好きなら\n\n→ 『${to.titleJa}』（${to.authorJa}）\n`;
+  const hooks = [
+    `『${from.titleJa}』が好きなら、次にこれを置きたい。`,
+    "この2冊、並べると面白い。",
+    "次の一冊をつなぐなら、この流れ。",
+  ];
+  const hook = hooks[Math.abs(opts.globalIdx) % hooks.length];
+  const head = `${hook}\n\n『${from.titleJa}』 → 『${to.titleJa}』（${to.authorJa}）\n`;
   const hashtags = buildHashtags(to.tags, opts.platform);
   const tail = buildTail(opts, hashtags, url);
   const maxLen = maxLenFor(opts.platform);
@@ -271,7 +286,13 @@ export function buildPathContent(p: PathRecord, opts: BuildOptions): PostContent
   const firstStep = p.steps[0];
   const coverBook = firstStep ? getBookBySlug(firstStep.bookSlug) : undefined;
 
-  const head = `🗺️ 読書パス「${p.titleJa}」\n`;
+  const hooks = [
+    "このテーマ、1冊で分かろうとすると迷う。",
+    "読む順番でかなり見通しが変わるテーマ。",
+    "この順番で追うと、つながりが見えやすい。",
+  ];
+  const hook = hooks[Math.abs(opts.globalIdx) % hooks.length];
+  const head = `${hook}\n「${p.titleJa}」\n`;
   const stepLine = p.steps
     .slice(0, 3)
     .map((s) => getBookBySlug(s.bookSlug)?.titleJa ?? s.bookSlug)
@@ -293,7 +314,13 @@ export function buildPathContent(p: PathRecord, opts: BuildOptions): PostContent
 
 export function buildAuthorContent(a: AuthorRecord, opts: BuildOptions): PostContent {
   const url = `${opts.siteUrl}/authors/${a.slug}?utm_source=${opts.platform}&utm_medium=social&utm_campaign=author`;
-  const head = `👤 ${a.nameJa}（${a.name}）\n${a.country}\n`;
+  const hooks = [
+    "作家で掘るなら今日はこの人。",
+    "この作家、作品を横に並べると輪郭が見えやすい。",
+    "1冊だけじゃなく作家ごと追いたい人。",
+  ];
+  const hook = hooks[Math.abs(opts.globalIdx) % hooks.length];
+  const head = `${hook}\n${a.nameJa}（${a.name}）\n${a.country}\n`;
   const bookLines = a.books
     .slice(0, 3)
     .map((b) => `📚『${b.titleJa}』（${b.year}）`)

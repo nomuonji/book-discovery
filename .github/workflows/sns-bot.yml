@@ -1,28 +1,13 @@
-name: SNS Bot Post
+name: SNS Bot Preview (disabled for jellyfish)
 
 on:
-  schedule:
-    # 12:00 JST: 新規本投稿
-    - cron: "0 3 * * *"
-    # 20:00 JST: 12時投稿へのリンクコメントのみ
-    - cron: "0 11 * * *"
   workflow_dispatch:
-    inputs:
-      dry_run:
-        description: "投稿せずにドライラン"
-        type: boolean
-        default: false
 
 permissions:
   contents: read
 
-concurrency:
-  # Gist への書き込み競合を防ぐため多重実行を禁止する
-  group: sns-bot
-  cancel-in-progress: false
-
 jobs:
-  post:
+  preview:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -34,17 +19,16 @@ jobs:
 
       - run: npm ci
 
-      - name: Post to SNS
-        run: npm run bot:post
+      - name: Dry-run only
+        run: npm run bot:post -- --dry-run
         env:
-          BOT_ENABLED: ${{ vars.BOT_ENABLED }}
+          BOT_ENABLED: "true"
           SITE_URL: ${{ vars.SITE_URL }}
-          BOT_PLATFORMS: ${{ vars.BOT_PLATFORMS }}
-          # 2実行スロットのうち、新規投稿はslot 0だけ。slot 1はリンク追記専用。
-          BOT_POSTS_PER_DAY: "2"
-          BOT_NEW_POST_SLOTS: "0"
-          BOT_SLOT: ${{ github.event.schedule == '0 3 * * *' && '0' || '1' }}
-          # Threads のトークンは Gist で管理する（bot/gistState.ts / threadsAuth.ts）。
-          # GH_GIST_TOKEN は gist スコープのみの PAT。他の権限は持たせないこと。
+          BOT_PLATFORMS: "threads"
+          BOT_POSTS_PER_DAY: "1"
+          BOT_SLOT: "0"
+          # Live book posting to jellyfish.1619959 is intentionally disabled.
+          # This workflow must remain preview-only until a different target account is configured.
+          THREADS_GIST_ACCOUNT: "jellyfish.1619959"
           GH_GIST_TOKEN: ${{ secrets.GH_GIST_TOKEN }}
           GIST_ID: ${{ secrets.GIST_ID }}

@@ -47,6 +47,17 @@ function currentSlotInDay(postsPerDay: number): number {
   return Math.min(Math.floor(jstHour / span), postsPerDay - 1);
 }
 
+/** 新規投稿を作るスロット。未指定なら従来どおり全スロットで投稿する。 */
+function shouldPublishNewPost(slotInDay: number): boolean {
+  const raw = process.env.BOT_NEW_POST_SLOTS?.trim();
+  if (!raw) return true;
+  const slots = raw
+    .split(",")
+    .map((value) => Number(value.trim()))
+    .filter((value) => Number.isInteger(value) && value >= 0);
+  return slots.includes(slotInDay);
+}
+
 function makePublishers(
   platforms: PlatformName[],
   cfg: ReturnType<typeof loadConfig>
@@ -202,8 +213,13 @@ async function run(): Promise<void> {
   for (const platform of platforms) {
     const publisher = publishers.get(platform)!;
 
-    // 前回投稿のリンクを時差付与してから新規投稿する
+    // 前回投稿のリンクを時差付与する。リンク専用スロットでもここは実行する。
     await attachPendingLinkComment(publisher, platform, opts.dryRun);
+
+    if (!shouldPublishNewPost(slotInDay)) {
+      console.log(`[${platform}] slot ${slotInDay}: リンク追記のみ。新規本投稿はスキップします。`);
+      continue;
+    }
 
     const content = buildContentForSlot({ ...buildOpts, platform, globalIdx: baseIdx });
     if (!content) {

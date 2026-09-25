@@ -2,9 +2,9 @@ name: SNS Bot Post
 
 on:
   schedule:
-    # 毎日 12:00 JST（03:00 UTC）
+    # 12:00 JST: 新規本投稿
     - cron: "0 3 * * *"
-    # 毎日 20:00 JST（11:00 UTC）
+    # 20:00 JST: 12時投稿へのリンクコメントのみ
     - cron: "0 11 * * *"
   workflow_dispatch:
     inputs:
@@ -40,8 +40,9 @@ jobs:
           BOT_ENABLED: ${{ vars.BOT_ENABLED }}
           SITE_URL: ${{ vars.SITE_URL }}
           BOT_PLATFORMS: ${{ vars.BOT_PLATFORMS }}
-          BOT_POSTS_PER_DAY: ${{ vars.BOT_POSTS_PER_DAY }}
-          # 12:00 JST はスロット0、20:00 JST はスロット1（BOT_POSTS_PER_DAY=2 前提）
+          # 2実行スロットのうち、新規投稿はslot 0だけ。slot 1はリンク追記専用。
+          BOT_POSTS_PER_DAY: "2"
+          BOT_NEW_POST_SLOTS: "0"
           BOT_SLOT: ${{ github.event.schedule == '0 3 * * *' && '0' || '1' }}
           # Threads のトークンは Gist で管理する（bot/gistState.ts / threadsAuth.ts）。
           # GH_GIST_TOKEN は gist スコープのみの PAT。他の権限は持たせないこと。

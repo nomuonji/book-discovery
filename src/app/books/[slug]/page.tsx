@@ -201,6 +201,21 @@ export default async function BookDetailPage({ params }: PageProps) {
             <p className="text-[var(--muted)] leading-relaxed">{book.whyReadJa}</p>
           </section>
 
+          {book.sources && book.sources.length > 0 && (
+            <section>
+              <h2 className="text-sm font-semibold mb-2">出典・参考</h2>
+              <ul className="text-sm text-[var(--muted)] space-y-1">
+                {book.sources.map((source) => (
+                  <li key={source.url}>
+                    <a href={source.url} target="_blank" rel="noopener noreferrer" className="hover:text-[var(--accent)] underline underline-offset-2">
+                      {source.label}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          )}
+
           {/* Reading Paths */}
           {paths.length > 0 && (
             <section>

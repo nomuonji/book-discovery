@@ -20,7 +20,9 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   if (!author) return { title: "Not Found" };
   return buildMetadata({
     title: `${author.nameJa}（${author.name}）の代表作・おすすめ本と著書一覧`,
-    description: `${author.nameJa}の代表作と著書${author.books.length}冊の一覧。どれから読むかと関連するおすすめ本を紹介します。`,
+    description: author.slug === "albert-camus"
+      ? "アルベール・カミュとは、20世紀フランス語文学を代表する作家・思想家の一人。『異邦人』『シーシュポスの神話』『ペスト』から、読みたい入口別に最初の一冊を選べます。"
+      : `${author.nameJa}の代表作と著書${author.books.length}冊の一覧。どれから読むかと関連するおすすめ本を紹介します。`,
     path: `/authors/${author.slug}`,
     robots: isIndexableAuthor(author) ? undefined : { index: false, follow: true },
   });
@@ -45,6 +47,16 @@ export default async function AuthorPage({ params }: PageProps) {
 
   // レコメンド
   const recs = getRecommendationsForAuthor(author.name);
+
+  const camusStartHere = author.slug === "albert-camus"
+    ? [
+        { slug: "the-stranger", label: "小説から", reason: "短い小説で、不条理というカミュの中心テーマを物語としてつかみやすい入口。" },
+        { slug: "the-myth-of-sisyphus", label: "思想から", reason: "「不条理」を哲学的エッセイとして正面から考えたい人向け。" },
+        { slug: "the-plague", label: "感染症と連帯の物語から", reason: "封鎖された都市を舞台に、不条理の中で他者とどう行動するかを読む長編。" },
+      ]
+        .map((item) => ({ ...item, book: author.books.find((book) => book.slug === item.slug) }))
+        .filter((item) => Boolean(item.book))
+    : [];
 
   // 全著者の中から同じ国の著者を抽出
   const sameCountry = getAllAuthors()
@@ -75,6 +87,28 @@ export default async function AuthorPage({ params }: PageProps) {
           </div>
         )}
       </div>
+
+      {camusStartHere.length > 0 && (
+        <section className="mb-12">
+          <h2 className="text-lg font-semibold mb-2">アルベール・カミュはどれから読む？</h2>
+          <p className="text-sm text-[var(--muted)] mb-4">
+            カミュは小説と思想書の両方から入れます。読みたいものに近い入口を選んでください。
+          </p>
+          <div className="grid sm:grid-cols-3 gap-3">
+            {camusStartHere.map((item) => item.book && (
+              <Link
+                key={item.book.slug}
+                href={`/books/${item.book.slug}/`}
+                className="block p-4 rounded-lg border border-[var(--border)] bg-[var(--card)] hover:border-[var(--accent)] transition-colors"
+              >
+                <span className="text-xs font-semibold text-[var(--accent)]">{item.label}</span>
+                <h3 className="font-semibold mt-1 mb-2">{item.book.titleJa}</h3>
+                <p className="text-sm text-[var(--muted)] leading-relaxed">{item.reason}</p>
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
 
       {/* Books by this author */}
       <section className="mb-12">

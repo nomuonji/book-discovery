@@ -22,6 +22,8 @@ export interface Book {
   selectionReasonJa?: string; // この本を選んだ理由（キュレーション方針の根拠・日本語、任意）
   selectionReasonEn?: string; // この本を選んだ理由（英語・将来対応、任意）
   tags: string[];         // テーマタグ
+  /** 作品説明の事実確認に使った一次・準一次資料（任意） */
+  sources?: { label: string; url: string }[];
 }
 
 /** レコメンド */

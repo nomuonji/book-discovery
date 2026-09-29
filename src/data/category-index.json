@@ -18,14 +18,14 @@
     "label": "現代小説",
     "description": "2000年以降の世界の文学シーンを牽引する作家たち。ブッカー賞、全米図書賞、ピューリッツァー賞受賞作を中心に。",
     "order": 3,
-    "count": 79
+    "count": 78
   },
   {
     "slug": "classic-fiction",
     "label": "古典・20世紀文学",
-    "description": "1900年代から1990年代まで、世界文学の基盤を築いた名作群。",
+    "description": "19世紀以前の古典から20世紀文学まで、世界文学の基盤を築いた名作群。",
     "order": 4,
-    "count": 78
+    "count": 79
   },
   {
     "slug": "nonfiction",

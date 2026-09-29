@@ -1985,12 +1985,22 @@
         "騎士道物語のパロディ"
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/14428305-L.jpg",
-      "descriptionJa": "騎士道物語に狂わされた老紳士アルマソのラ・マンチャは、自らを遍歴の騎士ドン・キホーテと名乗り、相棒のサンチョ・パンサとともに風車に挑む。現実と理想の落差を笑いと哀しみで描き、風車の巨人は世界文学で最も有名な挿話となった。「近代小説の始祖」と称される、スペインが生んだ空前の傑作。",
+      "descriptionJa": "ラ・マンチャの郷士が騎士道物語に熱中し、自らを遍歴の騎士ドン・キホーテと名乗って旅に出る。第1部冒頭では本名をキハーダ／ケサーダなど複数の形で語り、後にアロンソ・キハーノと呼ばれる人物であることが示される。サンチョ・パンサとの旅を通して理想と現実のずれを笑いと哀しみで描き、近代小説の祖の一つと評される古典。",
       "whyReadJa": "小説の原点にして頂点。理想と現実の滑稽な落差が、笑いの奥に人生の真実を宿す、世界で最も読まれた古典。",
-      "selectionReasonJa": "「近代小説の始祖」と称される世界文学の最高峰。理想と現実の滑稽さと哀しみを描いた不朽の名作。",
-      "descriptionEn": "Driven mad by tales of chivalry, the aging gentleman of La Mancha names himself Don Quixote, the knight-errant, and sets out with his squire Sancho Panza to tilt at windmills. The gap between reality and ideal is drawn with laughter and sorrow, and the giants that were windmills became the most famous episode in world literature. Called 'the ancestor of the modern novel,' this is Spain's unmatched masterpiece—a comedy of ideals that grows deeper every time it is read.",
+      "selectionReasonJa": "騎士道物語をパロディ化しながら、理想と現実、語りと事実のずれそのものを作品化した世界文学の古典。近代小説の祖の一つと評される。",
+      "descriptionEn": "A country gentleman from La Mancha becomes obsessed with chivalric romances, renames himself Don Quixote, and sets out as a knight-errant with Sancho Panza. In Part I, Chapter 1, the narrator playfully gives variant forms of his family name; later the character is identified as Alonso Quijano. The novel's comic friction between ideals and reality is one reason it is often described as a foundational work of the modern novel.",
       "whyReadEn": "The origin and summit of the novel. In the comic gap between ideals and reality hides the truth of human life—the most widely read classic in the world, and the funniest book with a broken heart.",
-      "titleEn": "Don Quixote"
+      "titleEn": "Don Quixote",
+      "sources": [
+        {
+          "label": "Cervantes Virtual — Don Quijote, Parte I, capítulo I",
+          "url": "https://cvc.cervantes.es/literatura/clasicos/quijote/edicion/parte1/cap01/"
+        },
+        {
+          "label": "Cervantes Virtual — notas al capítulo I",
+          "url": "https://cvc.cervantes.es/literatura/clasicos/quijote/edicion/parte1/cap01/nota_cap_01.htm"
+        }
+      ]
     },
     {
       "slug": "faust",
@@ -2016,6 +2026,32 @@
       "descriptionEn": "Tired of scholarship, the scholar Faust makes a wager with the devil, Mephistopheles. Love, power, pleasure, the realization of ideals—Goethe spent sixty years rendering in this immense verse drama the human being who never rests, who forever seeks and is never satisfied. On desire and redemption, this is one of the largest questions ever posed in Western literature, and its restless hero became the emblem of the modern human condition.",
       "whyReadEn": "The story of the human being who seeks forever. Goethe's lifelong masterpiece and the West's greatest verse drama—an immense inquiry into knowledge, desire, and what might still manage to save us.",
       "titleEn": "Faust"
+    },
+    {
+      "slug": "the-fathers-and-sons",
+      "title": "Отцы и дети",
+      "titleJa": "父と子",
+      "author": "Ivan Turgenev",
+      "authorJa": "イワン・ツルゲーネフ",
+      "country": "ロシア",
+      "year": 1862,
+      "genre": [
+        "小説"
+      ],
+      "descriptionJa": "1860年代ロシア。大学から戻ったアルカージーと、その友人で『ニヒリスト』を名乗るバザーロフが、父世代の地主・貴族文化と衝突する。家族関係のずれを通して、古い価値観と新しい科学・合理主義の対立を描いたツルゲーネフの代表作。",
+      "whyReadJa": "「世代間の断絶」を描いた文学の原型。1860年代ロシアの精神史を知る。",
+      "tags": [
+        "ロシア文学",
+        "世代",
+        "ニヒリズム",
+        "19世紀"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/11149397-L.jpg",
+      "selectionReasonJa": "世代間の断絶を描いた近代ロシア小説の到達点。ニヒリズムの文学化。",
+      "titleEn": "Fathers and Sons",
+      "descriptionEn": "Russia in the 1860s. Arkady returns from university with his friend Bazarov, a self-described nihilist, and their ideas collide with the older generation's landed-gentry values. Through family tensions, Turgenev turns the conflict between inherited culture and a new scientific rationalism into a novel of generations.",
+      "whyReadEn": "The prototype of the literary treatment of the generation gap, and still one of the sharpest ever written. Bazarov is one of the great characters of world fiction. A window onto the spiritual history of 1860s Russia that reads, astonishingly, as if it were written yesterday.",
+      "asin": "4102018069"
     }
   ]
 }

@@ -66,7 +66,30 @@ const allRecommendations: Recommendation[] = recommendationsRaw.recommendations 
 
 // ---- 読書パス ----
 import pathsRaw from "@/data/paths.json";
-const allPaths: ReadingPath[] = (pathsRaw as { paths: ReadingPath[] }).paths as ReadingPath[];
+
+/** Factual overlays for path copy that would otherwise claim an unsupported "first". */
+function applyPathCopyCorrections(paths: ReadingPath[]): ReadingPath[] {
+  return paths.map((path) => {
+    if (path.slug !== "postcolonial-reading") return path;
+    return {
+      ...path,
+      descriptionJa:
+        "このパスが扱うポストコロニアル文学は、植民地支配とその後を被支配側の経験から描く作品である。傷と創造力を、アフリカ、中東、アジア、カリブ海の作家からたどる。",
+      steps: path.steps.map((step) => {
+        if (step.order !== 1 || step.bookSlug !== "things-fall-apart") return step;
+        return {
+          ...step,
+          noteJa:
+            "1958年のThings Fall Apartは英語圏アフリカ小説の「最初」ではない（例: J. E. Casely Hayford『Ethiopia Unbound』1911年）。それでもイボ社会の内部からの語りは、その後の英語圏アフリカ文学と世界的な読まれ方を大きく変えた入口になる。戦士の栄光と没落を通じて、「文明化」の暴力を目撃する。",
+        };
+      }),
+    };
+  });
+}
+
+const allPaths: ReadingPath[] = applyPathCopyCorrections(
+  (pathsRaw as { paths: ReadingPath[] }).paths as ReadingPath[],
+);
 
 // ---- 著者プロフィール ----
 import authorsRaw from "@/data/authors.json";
@@ -74,10 +97,6 @@ const allAuthorProfiles: Record<string, { bioJa: string; similarAuthors?: { slug
 for (const a of (authorsRaw as { authors: AuthorProfileRaw[] }).authors) {
   allAuthorProfiles[a.slug] = { bioJa: a.bioJa, similarAuthors: a.similarAuthors };
 }
-
-// ============================================================
-// 本データ（全カテゴリ統合 + キャッシュ）
-// ============================================================
 
 let _allBooksCache: Book[] | null = null;
 
@@ -100,8 +119,6 @@ export function getAllBooks(): Book[] {
 export function clearCache() {
   _allBooksCache = null;
 }
-
-// ---- 基本的な取得 ----
 
 export function getBookBySlug(slug: string): Book | undefined {
   for (const catBooks of Object.values(CATEGORY_DATA_MAP)) {
@@ -139,8 +156,6 @@ export function getBooksByDecade(decade: number): Book[] {
   return getAllBooks().filter((b) => b.year >= start && b.year <= end);
 }
 
-// ---- 検索 ----
-
 export function searchBooks(query: string): Book[] {
   const q = query.toLowerCase();
   return getAllBooks().filter(
@@ -155,8 +170,6 @@ export function searchBooks(query: string): Book[] {
       b.descriptionJa.includes(q)
   );
 }
-
-// ---- カテゴリ情報 ----
 
 export interface CategoryInfo {
   slug: string;
@@ -174,8 +187,6 @@ export function getCategoryBySlug(slug: string): CategoryInfo | undefined {
   return (categoryIndex as CategoryInfo[]).find((c) => c.slug === slug);
 }
 
-// ---- 年代 ----
-
 export function getAllDecades(): number[] {
   const years = getAllBooks().map((b) => b.year);
   const min = Math.floor(Math.min(...years) / 10) * 10;
@@ -189,13 +200,9 @@ export function getAllDecades(): number[] {
   return decades.sort((a, b) => b - a);
 }
 
-// ---- 国・地域 ----
-
 export function getAllCountries(): string[] {
   return [...new Set(getAllBooks().map((b) => b.country))].sort();
 }
-
-// ---- ジャンル・タグ ----
 
 export function getAllGenres(): { slug: string; labelJa: string; count: number }[] {
   const count = new Map<string, number>();
@@ -216,8 +223,6 @@ export function getAllTags(): TagSummary[] {
     .map(([slug, c]) => ({ slug, labelJa: slug, count: c }))
     .sort((a, b) => b.count - a.count || a.labelJa.localeCompare(b.labelJa, "ja"));
 }
-
-// ---- 著者 ----
 
 export function getAllAuthors(): AuthorSummary[] {
   const map = new Map<string, { name: string; nameJa: string; country: string; books: Set<string> }>();
@@ -254,8 +259,6 @@ export function getAuthorBySlug(slug: string): (AuthorSummary & { books: Book[] 
     books,
   };
 }
-
-// ---- レコメンド ----
 
 export function getAllRecommendations(): Recommendation[] {
   return allRecommendations;
@@ -300,8 +303,6 @@ export function getRecommendationsForAuthor(authorName: string): (Recommendation
   return results;
 }
 
-// ---- 読書パス ----
-
 export function getAllPaths(): ReadingPath[] {
   return allPaths;
 }
@@ -328,8 +329,6 @@ export function getPathWithBooks(slug: string): (ReadingPath & { stepsWithBooks:
 
   return { ...path, stepsWithBooks };
 }
-
-// ---- 統計 ----
 
 export function getStats() {
   const books = getAllBooks();

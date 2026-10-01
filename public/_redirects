@@ -1,0 +1,5 @@
+# Permanent canonicalization for the generated typo slug of Emily St. John Mandel's Sea of Tranquility.
+# Keep this legacy route only as a redirect; the book record and sitemap use /books/sea-of-tranquility/.
+# Sites Operator task 45d312c4-7a9e-47c9-843f-9b79aa93f71a
+/books/the-the-sea-of-translation /books/sea-of-tranquility/ 301
+/books/the-the-sea-of-translation/ /books/sea-of-tranquility/ 301

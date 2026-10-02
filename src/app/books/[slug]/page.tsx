@@ -3,6 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { BookCard } from "@/components/BookCard";
+import { FilterNavButton } from "@/components/FilterNavButton";
 import { getBookBySlug, getRecommendationsFrom, getPathsContainingBook, getAllBooks } from "@/lib/data";
 import { getAmazonLink, getAmazonSearchLink, getAmazonComSearchLink, AMAZON_DISCLAIMER } from "@/lib/amazon";
 import { buildMetadata } from "@/lib/seo";
@@ -111,13 +112,14 @@ export default async function BookDetailPage({ params }: PageProps) {
                 <span className="text-[var(--muted)] text-xs">ジャンル</span>
                 <div className="flex flex-wrap gap-1 mt-1">
                   {book.genre.map((g) => (
-                    <Link
+                    <FilterNavButton
                       key={g}
                       href={`/books/?genre=${encodeURIComponent(g)}`}
-                      className="text-xs px-2 py-0.5 rounded-full border border-[var(--border)] hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors"
+                      className="text-xs px-2 py-0.5 rounded-full border border-[var(--border)] hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors cursor-pointer"
+                      ariaLabel={`${g}で本を絞り込む`}
                     >
                       {g}
-                    </Link>
+                    </FilterNavButton>
                   ))}
                 </div>
               </div>

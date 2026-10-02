@@ -287,7 +287,10 @@ export function getRecommendationsTo(bookSlug: string): (Recommendation & { book
 }
 
 export function getRecommendationsForAuthor(authorName: string): (Recommendation & { book: Book; fromBook: Book })[] {
-  const authorBooks = getAllBooks().filter((b) => b.author.toLowerCase() === authorName.toLowerCase());
+  const normalized = authorName.trim().toLowerCase();
+  const authorBooks = getAllBooks().filter(
+    (b) => b.author.toLowerCase() === normalized || b.authorJa.toLowerCase() === normalized
+  );
   if (authorBooks.length === 0) return [];
 
   const results: (Recommendation & { book: Book; fromBook: Book })[] = [];
@@ -336,6 +339,7 @@ export function getStats() {
     totalBooks: books.length,
     totalAuthors: getAllAuthors().length,
     totalPaths: allPaths.length,
+    totalRecommendations: allRecommendations.length,
     totalCountries: getAllCountries().length,
     totalGenres: getAllGenres().length,
     totalTags: getAllTags().length,

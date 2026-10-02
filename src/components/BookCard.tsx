@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import { FilterNavButton } from "@/components/FilterNavButton";
 import { Book } from "@/types";
 import { getAmazonLink, getAmazonSearchLink, getAmazonComSearchLink } from "@/lib/amazon";
 
@@ -66,13 +67,14 @@ export function BookCard({ book, reason, showAmazon = true }: BookCardProps) {
           </div>
           <div className="flex flex-wrap gap-1 mt-2">
             {book.genre.slice(0, 2).map((g) => (
-              <Link
+              <FilterNavButton
                 key={g}
                 href={`/books/?genre=${encodeURIComponent(g)}`}
-                className="inline-block text-[10px] px-1.5 py-0.5 rounded-full bg-[var(--border)]/40 text-[var(--muted)] hover:bg-[var(--accent)]/20 hover:text-[var(--accent)] transition-colors"
+                className="inline-block text-[10px] px-1.5 py-0.5 rounded-full bg-[var(--border)]/40 text-[var(--muted)] hover:bg-[var(--accent)]/20 hover:text-[var(--accent)] transition-colors cursor-pointer"
+                ariaLabel={`${g}で本を絞り込む`}
               >
                 {g}
-              </Link>
+              </FilterNavButton>
             ))}
           </div>
           {reason ? (

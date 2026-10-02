@@ -24,6 +24,8 @@ export interface Book {
   tags: string[];         // テーマタグ
   /** 作品説明の事実確認に使った一次・準一次資料（任意） */
   sources?: { label: string; url: string }[];
+  /** 日本語版の有無や公式邦題の確認範囲。ある場合だけ詳細ページ冒頭に出す。 */
+  editionNoteJa?: string;
 }
 
 /** レコメンド */

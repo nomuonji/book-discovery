@@ -193,7 +193,7 @@
     {
       "slug": "a-little-life",
       "title": "A Little Life",
-      "titleJa": "ほんの小さな人生",
+      "titleJa": "A Little Life（日本語版は未確認）",
       "author": "Hanya Yanagihara",
       "authorJa": "ハンヤ・ヤナギハラ",
       "country": "アメリカ",
@@ -213,7 +213,26 @@
       "selectionReasonJa": "友情とトラウマを800ページで描く、感情を揺さぶる現代の大河。",
       "titleEn": "A Little Life",
       "descriptionEn": "An 800-page saga of four young men who meet in New York after college, centered on Jude, who carries a traumatic past that is revealed only gradually. Through decades of friendship, success, and suffering, it asks what friendship is, what love is, and what it means to survive. A Booker Prize finalist, it has been called a modern Wuthering Heights for its explosive emotional power, and it has divided readers like few other books of its time.",
-      "whyReadEn": "For readers who believe in the power of fiction to move them to the core. Long, but by the end you will surely feel it was worth every page. It may well become the book that makes you cry the most in your life—a reading experience you will not forget."
+      "whyReadEn": "For readers who believe in the power of fiction to move them to the core. Long, but by the end you will surely feel it was worth every page. It may well become the book that makes you cry the most in your life—a reading experience you will not forget.",
+      "editionNoteJa": "2026-10-03確認時点では、国立国会図書館サーチの著者書誌、CiNii Books、紀伊國屋書店の和書・洋書カタログ、Amazon.co.jpの検索範囲で、公式邦題つきの日本語版は確認できません。『ほんの小さな人生』は公式邦題ではなく、原題の直訳です。同じ確認範囲で読める版は英語版です。紀伊國屋書店の現行洋書レコードは言語ENG、Vintage Books、2016年、ISBN 9780804172707です。CiNii Booksも A Little Life を英語版（Picador、ISBN 9781447294832 など）としてのみ掲載しています。繁体字・簡体字の翻訳は確認できますが、日本語版ではありません。同じ著者の『森の人々』（The People in the Trees、光文社、2016年、ISBN 9784334978853）は日本語版です。",
+      "sources": [
+        {
+          "label": "紀伊國屋書店: A Little Life（言語ENG、ISBN 9780804172707）",
+          "url": "https://www.kinokuniya.co.jp/f/dsg-02-9780804172707"
+        },
+        {
+          "label": "CiNii Books: Yanagihara, Hanya（A Little Lifeは英語版のみ）",
+          "url": "https://ci.nii.ac.jp/author/DA19625354"
+        },
+        {
+          "label": "CiNii Books: A little life（本文言語 eng、ISBN 9781447294832）",
+          "url": "https://ci.nii.ac.jp/ncid/BC12467683"
+        },
+        {
+          "label": "紀伊國屋書店: 森の人々（別作品の日本語版、ISBN 9784334978853）",
+          "url": "https://www.kinokuniya.co.jp/f/dsg-01-9784334978853"
+        }
+      ]
     },
     {
       "slug": "lincoln-in-the-bardo",

@@ -5,6 +5,7 @@ import { useSearchParams } from "next/navigation";
 import { BookGrid } from "@/components/BookGrid";
 import { CategoryNav } from "@/components/CategoryNav";
 import { TagCluster } from "@/components/TagBadge";
+import { FilterNavButton } from "@/components/FilterNavButton";
 import {
   getAllBooks,
   getAllGenres,
@@ -94,13 +95,13 @@ export function BooksPageClient() {
             className="w-full pl-9 pr-3 py-2.5 rounded-lg border border-[var(--border)] bg-[var(--card)] focus:outline-none focus:ring-2 focus:ring-[var(--accent)] focus:border-transparent text-sm"
           />
           {query && (
-            <Link
+            <FilterNavButton
               href={buildBooksHref({ q: undefined })}
-              className="absolute right-3 top-1/2 -translate-y-1/2 text-sm text-[var(--muted)] hover:text-[var(--accent)]"
-              aria-label="検索語を解除"
+              className="absolute right-3 top-1/2 -translate-y-1/2 text-sm text-[var(--muted)] hover:text-[var(--accent)] cursor-pointer"
+              ariaLabel="検索語を解除"
             >
               ✕
-            </Link>
+            </FilterNavButton>
           )}
         </form>
       </div>
@@ -115,25 +116,26 @@ export function BooksPageClient() {
           <h2 className="text-xs font-medium text-[var(--muted)] mb-2">ジャンル（{genres.length}）</h2>
           <div className="flex flex-wrap gap-1.5">
             {genreFilter && (
-              <Link
+              <FilterNavButton
                 href={buildBooksHref({ genre: undefined })}
-                className="text-xs px-2.5 py-1 rounded-full bg-[var(--accent)] text-[var(--background)] transition-colors"
+                className="text-xs px-2.5 py-1 rounded-full bg-[var(--accent)] text-[var(--background)] transition-colors cursor-pointer"
               >
                 ✕ ジャンル解除
-              </Link>
+              </FilterNavButton>
             )}
             {genres.map((g) => (
-              <Link
+              <FilterNavButton
                 key={g.slug}
                 href={buildBooksHref({ genre: g.slug })}
-                className={`text-xs px-2.5 py-1 rounded-full border transition-colors ${
+                className={`text-xs px-2.5 py-1 rounded-full border transition-colors cursor-pointer ${
                   genreFilter === g.slug
                     ? "border-[var(--accent)] bg-[var(--accent)] text-[var(--background)]"
                     : "border-[var(--border)] hover:border-[var(--accent)] hover:text-[var(--accent)]"
                 }`}
+                ariaLabel={`${g.labelJa}で本を絞り込む`}
               >
                 {g.labelJa} <span>{g.count}</span>
-              </Link>
+              </FilterNavButton>
             ))}
           </div>
         </div>
@@ -142,15 +144,15 @@ export function BooksPageClient() {
           <h2 className="text-xs font-medium text-[var(--muted)] mb-2">国・地域（{countries.length}）</h2>
           <div className="flex flex-wrap gap-1.5">
             {countryFilter && (
-              <Link
+              <FilterNavButton
                 href={buildBooksHref({ country: undefined })}
                 className="text-xs px-2.5 py-1 rounded-full bg-[var(--accent)] text-[var(--background)] transition-colors"
               >
                 ✕ 国・地域解除
-              </Link>
+              </FilterNavButton>
             )}
             {countries.map((country) => (
-              <Link
+              <FilterNavButton
                 key={country}
                 href={buildBooksHref({ country })}
                 className={`text-xs px-2.5 py-1 rounded-full border transition-colors ${
@@ -160,7 +162,7 @@ export function BooksPageClient() {
                 }`}
               >
                 {country}
-              </Link>
+              </FilterNavButton>
             ))}
           </div>
         </div>
@@ -170,15 +172,16 @@ export function BooksPageClient() {
         <h2 className="text-xs font-medium text-[var(--muted)] mb-2">年代</h2>
         <div className="flex flex-wrap gap-1.5">
           {decadeFilter !== undefined && (
-            <Link
+            <FilterNavButton
               href={buildBooksHref({ decade: undefined })}
-              className="text-xs px-2.5 py-1 rounded-full bg-[var(--accent)] text-[var(--background)] transition-colors"
+              className="text-xs px-2.5 py-1 rounded-full bg-[var(--accent)] text-[var(--background)] transition-colors cursor-pointer"
+              ariaLabel="年代フィルタを解除"
             >
               ✕ 年代解除
-            </Link>
+            </FilterNavButton>
           )}
           {decades.map((decade) => (
-            <Link
+            <FilterNavButton
               key={decade}
               href={buildBooksHref({ decade })}
               className={`text-xs px-2.5 py-1 rounded-full border transition-colors ${
@@ -188,7 +191,7 @@ export function BooksPageClient() {
               }`}
             >
               {decade}年代
-            </Link>
+            </FilterNavButton>
           ))}
         </div>
       </div>

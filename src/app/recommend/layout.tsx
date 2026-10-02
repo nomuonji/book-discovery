@@ -4,7 +4,7 @@ import { buildMetadata } from "@/lib/seo";
 // セグメントレイアウトで OGP・canonical を提供する。
 export const metadata = buildMetadata({
   title: "おすすめを探す",
-  description: "好きな作家や本を入れると、AIが厳選した「あなたに合う次の一冊」をおすすめします。",
+  description: "好きな本・作家・テーマから、推薦関係と選書理由をたどって次に読む一冊を見つけます。",
   path: "/recommend",
 });
 

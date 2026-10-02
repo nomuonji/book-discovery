@@ -14,123 +14,126 @@ export default function HomePage() {
   ];
   const featuredBooks = featuredSlugs
     .map((slug) => getBookBySlug(slug))
-    .filter((b): b is NonNullable<typeof b> => b !== undefined);
+    .filter((book): book is NonNullable<typeof book> => book !== undefined);
 
   return (
     <div>
-      {/* Hero */}
       <section className="py-16 sm:py-24 text-center px-4">
         <div className="max-w-2xl mx-auto">
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight mb-4 leading-tight">
-            世界の<span className="text-[var(--accent)]">名作</span>を、次の一冊に
+          <span className="text-xs font-semibold tracking-[0.18em] text-[var(--accent)]">READING DISCOVERY</span>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight mt-3 mb-4 leading-tight">
+            次に読む一冊を、<br className="hidden sm:block" />
+            <span className="text-[var(--accent)]">いま好きな本</span>から見つける
           </h1>
-          <p className="text-[var(--muted)] text-base sm:text-lg mb-4 max-w-lg mx-auto leading-relaxed">
-            文学史に残る古典から現代の受賞作まで、<strong className="text-[var(--fg)]">厳選した世界の名作だけ</strong>を収録。
-            「村上春樹が好きならこれも」——名作との新しい出会いを。
+          <p className="text-[var(--muted)] text-base sm:text-lg mb-5 max-w-xl mx-auto leading-relaxed">
+            本を並べるだけのデータベースではなく、好きな本・作家・テーマから
+            「次にどこへ進むか」を選ぶための読書案内です。
           </p>
-          <div className="flex justify-center gap-4 text-sm text-[var(--muted)] mb-8">
-            <span>📚 {stats.totalBooks}冊</span>
-            <span>👤 {stats.totalAuthors}名</span>
-            <span>🌍 {stats.totalCountries}カ国</span>
-            <span>🗺️ {stats.totalPaths}パス</span>
+          <div className="flex flex-wrap justify-center gap-x-5 gap-y-2 text-sm text-[var(--muted)] mb-8">
+            <span>📚 {stats.totalBooks}冊の選書</span>
+            <span>🔗 {stats.totalRecommendations}件の推薦関係</span>
+            <span>🗺️ {stats.totalPaths}本の読書パス</span>
           </div>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
             <Link href="/recommend/" className="inline-flex items-center justify-center px-6 py-3 bg-[var(--accent)] text-[var(--background)] rounded-lg hover:opacity-90 transition-opacity font-medium">
-              🎯 おすすめを探す
+              🎯 次の一冊を探す
             </Link>
             <Link href="/paths/" className="inline-flex items-center justify-center px-6 py-3 border border-[var(--border)] rounded-lg hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors font-medium">
-              🗺️ 読書パスを見る
-            </Link>
-            <Link href="/books/" className="inline-flex items-center justify-center px-6 py-3 border border-[var(--border)] rounded-lg hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors font-medium">
-              📚 本を探す
+              🗺️ 読む順番から探す
             </Link>
           </div>
         </div>
       </section>
 
-      {/* Curation Policy */}
       <section className="border-y border-[var(--border)] bg-[var(--card)]/50">
         <div className="max-w-5xl mx-auto px-4 py-10">
-          <h2 className="text-xl font-bold text-center mb-8">なぜ「名作」だけ？</h2>
-          <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
-            <div className="text-center">
-              <div className="text-3xl mb-2">🏆</div>
-              <h3 className="font-semibold text-sm mb-1">受賞作・文学史の古典</h3>
-              <p className="text-xs text-[var(--muted)] leading-relaxed">
-                ノーベル賞・ブッカー賞・ピューリッツァー賞などの受賞作と、
-                時代を超えて読み継がれてきた古典を中心に選書。
+          <h2 className="text-xl font-bold text-center mb-2">3つの入口から選ぶ</h2>
+          <p className="text-sm text-[var(--muted)] text-center mb-8">タイトルを知っていても、知らなくても始められます。</p>
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+            <Link href="/recommend/" className="rounded-xl border border-[var(--border)] bg-[var(--background)] p-5 hover:border-[var(--accent)] transition-colors">
+              <div className="text-2xl mb-3">📖</div>
+              <h3 className="font-semibold mb-1">好きな本・作家から</h3>
+              <p className="text-sm text-[var(--muted)] leading-relaxed">
+                「これが好き」を起点に、雰囲気・テーマ・影響関係がつながる次の候補へ。
               </p>
-            </div>
-            <div className="text-center">
-              <div className="text-3xl mb-2">🎯</div>
-              <h3 className="font-semibold text-sm mb-1">一冊ごとに選書理由</h3>
-              <p className="text-xs text-[var(--muted)] leading-relaxed">
-                収録されたすべての本に「なぜ選んだか」の理由を明記。
-                本当に読む価値があるか、迷わず判断できます。
+            </Link>
+            <Link href="/recommend/" className="rounded-xl border border-[var(--border)] bg-[var(--background)] p-5 hover:border-[var(--accent)] transition-colors">
+              <div className="text-2xl mb-3">💭</div>
+              <h3 className="font-semibold mb-1">今読みたいテーマから</h3>
+              <p className="text-sm text-[var(--muted)] leading-relaxed">
+                孤独、恋愛、哲学、家族、SFなど、いまの関心から候補を見つける。
               </p>
-            </div>
-            <div className="text-center">
-              <div className="text-3xl mb-2">🌍</div>
-              <h3 className="font-semibold text-sm mb-1">世界の文学の地図</h3>
-              <p className="text-xs text-[var(--muted)] leading-relaxed">
-                西洋古典からアジア・アフリカ・ラテンアメリカの現代文学まで。
-                名作を通じて、世界の文学が見渡せる。
+            </Link>
+            <Link href="/paths/" className="rounded-xl border border-[var(--border)] bg-[var(--background)] p-5 hover:border-[var(--accent)] transition-colors">
+              <div className="text-2xl mb-3">🗺️</div>
+              <h3 className="font-semibold mb-1">読む順番から</h3>
+              <p className="text-sm text-[var(--muted)] leading-relaxed">
+                一冊ずつ意味のある順番で進み、文学や思想のつながりごと読む。
               </p>
-            </div>
+            </Link>
           </div>
         </div>
       </section>
 
-      {/* Category Overview */}
-      <section className="max-w-5xl mx-auto px-4 py-8">
-        <h2 className="text-xl font-bold mb-2">カテゴリから探す</h2>
-        <p className="text-sm text-[var(--muted)] mb-4">
-          6つのカテゴリであなたの興味に合った本を見つける
-        </p>
-        <CategoryNav />
-      </section>
-
-      {/* Reading Paths */}
       <section className="max-w-5xl mx-auto px-4 py-8">
         <div className="flex items-end justify-between mb-6">
           <div>
             <h2 className="text-xl font-bold">読書パス</h2>
-            <p className="text-sm text-[var(--muted)] mt-1">順番に読むことで理解が深まるテーマ別ガイド</p>
+            <p className="text-sm text-[var(--muted)] mt-1">「何を、どの順番で読むか」まで決めたい人へ</p>
           </div>
-          <Link href="/paths/" className="text-sm text-[var(--accent)] hover:underline shrink-0">すべて見る →</Link>
+          <Link href="/paths/" className="text-sm text-[var(--accent)] hover:underline shrink-0">17本すべて見る →</Link>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
           {paths.slice(0, 6).map((path) => {
             const firstBook = path.steps.length > 0 ? getBookBySlug(path.steps[0].bookSlug) : undefined;
             return (
-              <PathCard key={path.slug} slug={path.slug} titleJa={path.titleJa} descriptionJa={path.descriptionJa}
-                difficulty={path.difficulty} stepCount={path.steps.length} representativeBook={firstBook} />
+              <PathCard
+                key={path.slug}
+                slug={path.slug}
+                titleJa={path.titleJa}
+                descriptionJa={path.descriptionJa}
+                difficulty={path.difficulty}
+                stepCount={path.steps.length}
+                representativeBook={firstBook}
+              />
             );
           })}
         </div>
       </section>
 
-      {/* Pickup Books */}
+      <section className="max-w-5xl mx-auto px-4 py-8">
+        <h2 className="text-xl font-bold mb-2">広く眺めたいときは</h2>
+        <p className="text-sm text-[var(--muted)] mb-4">
+          6つの大きなカテゴリから選書全体を見渡せます。細かい条件の絞り込みは「本を探す」で使えます。
+        </p>
+        <CategoryNav />
+        <div className="mt-4">
+          <Link href="/books/" className="text-sm text-[var(--accent)] hover:underline">
+            全{stats.totalBooks}冊を検索・絞り込み →
+          </Link>
+        </div>
+      </section>
+
       <section className="max-w-5xl mx-auto px-4 py-8">
         <div className="flex items-end justify-between mb-6">
           <div>
-            <h2 className="text-xl font-bold">ピックアップ</h2>
-            <p className="text-sm text-[var(--muted)] mt-1">世界中で評価されている、まず手に取りたい6冊</p>
+            <h2 className="text-xl font-bold">入口にしやすい6冊</h2>
+            <p className="text-sm text-[var(--muted)] mt-1">ここから推薦をたどって、次の一冊へ進めます。</p>
           </div>
-          <Link href="/books/" className="text-sm text-[var(--accent)] hover:underline shrink-0">すべて見る →</Link>
+          <Link href="/books/" className="text-sm text-[var(--accent)] hover:underline shrink-0">本を探す →</Link>
         </div>
         <BookGrid books={featuredBooks} />
       </section>
 
-      {/* CTA */}
       <section className="max-w-5xl mx-auto px-4 py-12">
         <div className="bg-[var(--card)] border border-[var(--border)] rounded-xl p-8 sm:p-12 text-center">
-          <h2 className="text-xl sm:text-2xl font-bold mb-3">「好きな作家」から次の一冊を</h2>
-          <p className="text-[var(--muted)] mb-6 max-w-md mx-auto">
-            「村上春樹」「カミュ」「ハン・ガン」——好きな作家や本の名前を入れると、AIが厳選したおすすめを表示します。
+          <h2 className="text-xl sm:text-2xl font-bold mb-3">本の名前が一冊浮かべば、そこから始められます</h2>
+          <p className="text-[var(--muted)] mb-6 max-w-xl mx-auto">
+            収録済みの推薦関係には「なぜ次にこの本なのか」の理由があります。
+            作家名やテーマしか浮かばない場合も、そのまま入力できます。
           </p>
-            <Link href="/recommend/" className="inline-flex items-center px-6 py-3 bg-[var(--accent)] text-[var(--background)] rounded-lg hover:opacity-90 transition-opacity font-medium">
-            おすすめを探してみる →
+          <Link href="/recommend/" className="inline-flex items-center px-6 py-3 bg-[var(--accent)] text-[var(--background)] rounded-lg hover:opacity-90 transition-opacity font-medium">
+            次の一冊を探してみる →
           </Link>
         </div>
       </section>

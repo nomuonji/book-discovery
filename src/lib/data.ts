@@ -343,6 +343,5 @@ export function getStats() {
     totalCountries: getAllCountries().length,
     totalGenres: getAllGenres().length,
     totalTags: getAllTags().length,
-    totalRecommendations: allRecommendations.length,
   };
 }

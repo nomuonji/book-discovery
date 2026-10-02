@@ -102,6 +102,17 @@ export default function HomePage() {
       </section>
 
       <section className="max-w-5xl mx-auto px-4 py-8">
+        <div className="rounded-xl border border-[var(--accent)]/40 bg-[var(--card)] p-5 mb-8 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+          <div>
+            <p className="text-xs font-semibold tracking-[0.14em] text-[var(--accent)] mb-1">START HERE</p>
+            <h2 className="font-bold text-lg">海外文学、最初の一冊で迷っているなら</h2>
+            <p className="text-sm text-[var(--muted)] mt-1">100冊のリストではなく、読みたい体験を6つに分けて一冊まで絞ります。</p>
+          </div>
+          <Link href="/guides/overseas-literature/" className="shrink-0 text-sm font-medium text-[var(--accent)] hover:underline">
+            海外文学ガイドを見る →
+          </Link>
+        </div>
+
         <h2 className="text-xl font-bold mb-2">広く眺めたいときは</h2>
         <p className="text-sm text-[var(--muted)] mb-4">
           6つの大きなカテゴリから選書全体を見渡せます。細かい条件の絞り込みは「本を探す」で使えます。

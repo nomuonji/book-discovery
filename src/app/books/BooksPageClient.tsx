@@ -5,6 +5,7 @@ import { useSearchParams } from "next/navigation";
 import { BookGrid } from "@/components/BookGrid";
 import { CategoryNav } from "@/components/CategoryNav";
 import { TagCluster } from "@/components/TagBadge";
+import { FilterNavButton } from "@/components/FilterNavButton";
 import {
   getAllBooks,
   getAllGenres,
@@ -115,12 +116,12 @@ export function BooksPageClient() {
           <h2 className="text-xs font-medium text-[var(--muted)] mb-2">ジャンル（{genres.length}）</h2>
           <div className="flex flex-wrap gap-1.5">
             {genreFilter && (
-              <Link
+              <FilterNavButton
                 href={buildBooksHref({ genre: undefined })}
                 className="text-xs px-2.5 py-1 rounded-full bg-[var(--accent)] text-[var(--background)] transition-colors"
               >
                 ✕ ジャンル解除
-              </Link>
+              </FilterNavButton>
             )}
             {genres.map((g) => (
               <Link
@@ -142,15 +143,15 @@ export function BooksPageClient() {
           <h2 className="text-xs font-medium text-[var(--muted)] mb-2">国・地域（{countries.length}）</h2>
           <div className="flex flex-wrap gap-1.5">
             {countryFilter && (
-              <Link
+              <FilterNavButton
                 href={buildBooksHref({ country: undefined })}
                 className="text-xs px-2.5 py-1 rounded-full bg-[var(--accent)] text-[var(--background)] transition-colors"
               >
                 ✕ 国・地域解除
-              </Link>
+              </FilterNavButton>
             )}
             {countries.map((country) => (
-              <Link
+              <FilterNavButton
                 key={country}
                 href={buildBooksHref({ country })}
                 className={`text-xs px-2.5 py-1 rounded-full border transition-colors ${
@@ -178,7 +179,7 @@ export function BooksPageClient() {
             </Link>
           )}
           {decades.map((decade) => (
-            <Link
+            <FilterNavButton
               key={decade}
               href={buildBooksHref({ decade })}
               className={`text-xs px-2.5 py-1 rounded-full border transition-colors ${
@@ -188,7 +189,7 @@ export function BooksPageClient() {
               }`}
             >
               {decade}年代
-            </Link>
+            </FilterNavButton>
           ))}
         </div>
       </div>

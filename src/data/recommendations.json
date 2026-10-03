@@ -3145,12 +3145,6 @@
       "type": "similar-theme"
     },
     {
-      "fromSlug": "the-lonely-city",
-      "toSlug": "the-new-york-times-street-smart",
-      "reasonJa": "ニューヨークの文化と孤独を描くエッセイ。街の芸術家たちの孤独と、NYのコメディ史——都市文化の二つの物語。",
-      "type": "similar-vibe"
-    },
-    {
       "fromSlug": "the-soul-of-a-new-machine",
       "toSlug": "the-hidden-figures",
       "reasonJa": "コンピュータと宇宙開発の現場を描くノンフィクション。ミニコンの開発チームと、NASAの計算手たち——技術者の情熱。",
@@ -4493,12 +4487,6 @@
       "toSlug": "open-city",
       "reasonJa": "同じニューヨークを歩く本。レインは芸術家の作品と生涯、コールは小説の散歩。批評か物語かで次を分ける。",
       "type": "similar-vibe"
-    },
-    {
-      "fromSlug": "the-lonely-city",
-      "toSlug": "on-photography",
-      "reasonJa": "絵や写真をどう見るかの文化批評へ進むとき。レインの個別作家より、ソンタグの写真論の方が論点は抽象的。",
-      "type": "similar-theme"
     }
   ]
 }

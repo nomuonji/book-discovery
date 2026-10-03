@@ -30,16 +30,24 @@ export interface AuthorSummary {
   bioJa: string;
 }
 
-/** タグは固有説明を持たないため、2冊以上の書籍がある一覧だけをindex対象にする。 */
+/**
+ * タグページは一覧以外の固有説明を持たないため、
+ * 「選べる集合」として最低4冊あるものだけをindex対象にする。
+ * 4冊はGoogleの閾値ではなく、このサイト固有の検索面ポリシー。
+ */
 export function isIndexableTag(tag: Pick<TagSummary, "count">): boolean {
-  return tag.count >= 2;
+  return tag.count >= 4;
 }
 
-/** 2冊以上、または80文字以上の固有プロフィールを持つ著者一覧をindex対象にする。 */
-export function isIndexableAuthor(author: Pick<AuthorSummary, "bookCount" | "bioJa">): boolean {
-  const bioLength = author.bioJa.trim().length;
-  // プロフィール欠落は判断不能としてindexableを維持する。
-  return author.bookCount >= 2 || bioLength === 0 || bioLength >= 80;
+/**
+ * 著者ページは書誌レコードとしてではなく、次の一冊へ進める発見ハブだけをindex対象にする。
+ * - 2冊以上を比較できる
+ * - 1件以上の編集済み読書パスに参加している
+ * - 3件以上の画面表示対象の推薦先がある
+ */
+export function isIndexableAuthor(author: Pick<AuthorSummary, "slug" | "bookCount">): boolean {
+  const discovery = getAuthorDiscoverySignal(author.slug);
+  return author.bookCount >= 2 || discovery.readingPathCount >= 1 || discovery.recommendationCount >= 3;
 }
 import categoryIndex from "@/data/category-index.json";
 
@@ -118,6 +126,7 @@ export function getAllBooks(): Book[] {
 
 export function clearCache() {
   _allBooksCache = null;
+  _authorDiscoverySignalCache = null;
 }
 
 export function getBookBySlug(slug: string): Book | undefined {
@@ -148,6 +157,59 @@ export function getBooksByAuthor(authorSlug: string): Book[] {
   return getAllBooks().filter(
     (b) => b.author.toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "") === authorSlug
   );
+}
+
+interface AuthorDiscoverySignal {
+  recommendationCount: number;
+  readingPathCount: number;
+}
+
+let _authorDiscoverySignalCache: Map<string, AuthorDiscoverySignal> | null = null;
+
+function getAuthorDiscoverySignal(authorSlug: string): AuthorDiscoverySignal {
+  if (!_authorDiscoverySignalCache) {
+    const bookAuthor = new Map<string, string>();
+    for (const book of getAllBooks()) {
+      const slug = book.author.toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "");
+      bookAuthor.set(book.slug, slug);
+    }
+
+    const recommendationTargets = new Map<string, Set<string>>();
+    for (const rec of allRecommendations) {
+      // 著者ページの「おすすめ」と同じく、reading-path型は推薦件数に含めない。
+      if (rec.type === "reading-path") continue;
+      const slug = bookAuthor.get(rec.fromSlug);
+      if (!slug) continue;
+      if (!recommendationTargets.has(slug)) recommendationTargets.set(slug, new Set());
+      recommendationTargets.get(slug)!.add(rec.toSlug);
+    }
+
+    const readingPaths = new Map<string, Set<string>>();
+    for (const path of allPaths) {
+      for (const step of path.steps) {
+        const slug = bookAuthor.get(step.bookSlug);
+        if (!slug) continue;
+        if (!readingPaths.has(slug)) readingPaths.set(slug, new Set());
+        readingPaths.get(slug)!.add(path.slug);
+      }
+    }
+
+    const slugs = new Set(bookAuthor.values());
+    _authorDiscoverySignalCache = new Map(
+      Array.from(slugs).map((slug) => [
+        slug,
+        {
+          recommendationCount: recommendationTargets.get(slug)?.size ?? 0,
+          readingPathCount: readingPaths.get(slug)?.size ?? 0,
+        },
+      ]),
+    );
+  }
+
+  return _authorDiscoverySignalCache.get(authorSlug) ?? {
+    recommendationCount: 0,
+    readingPathCount: 0,
+  };
 }
 
 export function getBooksByDecade(decade: number): Book[] {

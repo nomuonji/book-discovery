@@ -4,6 +4,31 @@
 対象: `D:\youph\Blog\Wiki\book-discovery`  
 基準: `D:\youph\Blog\SEO_REMEDIATION_PLAN.md` フェーズ1-1、フェーズ2-2
 
+## 2026-10-04 著者・タグのindex/noindex境界再見直し
+
+2026-10-02に決定したサイト方針（Book Discoveryは書誌百科事典ではなく、次の一冊を選ぶためのreading-discovery / decision-support product）に合わせ、データ集合とSearchのindexable URL集合を再分離した。ページ削除・301・内部リンク削除は行わず、index対象外ページも公開・回遊可能なまま `noindex,follow` とする。
+
+| 対象 | 全URL | 旧indexable | 新indexable | 新noindex,follow | 新しい境界 |
+| --- | ---: | ---: | ---: | ---: | --- |
+| 著者 | 322 | 317 | 133 | 189 | 2冊以上、または編集済み読書パスに1件以上参加、または著者ページに表示される重複なしの推薦先が3件以上 |
+| タグ | 592 | 242 | 117 | 475 | 4冊以上の書籍が紐づくタグ |
+| **合計** | **914** | **559** | **250** | **664** | データは維持し、検索面のみ縮小 |
+
+タグの4冊、著者の推薦3件という数値はGoogleの閾値ではなく、このサイト固有のページファミリー契約である。タグは固有説明を持たないため、単なる2〜3件のメタデータ集合よりも「複数候補から次の一冊を選べる集合」を優先した。著者はプロフィール文字数をindex条件から外し、複数著書・読書パス・推薦という実際の発見導線を持つページを残す。
+
+実装は `src/lib/data.ts` の `isIndexableTag` / `isIndexableAuthor` に集約した。各動的ページのrobots metadataと `src/app/sitemap.ts` は既存どおり同じ関数を利用するため、判定の二重管理はしない。著者の推薦件数は実ページ表示と同じく `type === "reading-path"` を除外し、推薦先slugを重複排除して数える。
+
+Cloudflare Pages preview（commit `7c994003bb3f658a0c88192a1ba4557cdd298e62`）ではNext.js 16.3.0のTypeScript検査と静的生成 **1,412ページ** が成功した。previewの実出力で sitemap は **743 URL**。現行ソースには `/guides/overseas-literature/` が追加済みのため、2026-09-02監査の1,051 URLではなく、変更直前の現行ルールなら1,052 URL相当であり、今回の境界では309 URL減となる。
+
+代表確認:
+- `/authors/susan-sontag/`: `noindex, follow`、self canonical維持、sitemap外。
+- `/authors/olga-tokarczuk/`: indexable、sitemap内。1冊著者だが表示対象の推薦先3件を持つ。
+- `/authors/kawabata-yasunari/`: indexable、sitemap内。1冊著者だが編集済み読書パスに参加。
+- `/tags/SF/`: 71冊、indexable、sitemap内。
+- `/tags/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/`: 3冊、`noindex, follow`、self canonical維持、sitemap外。
+
+この変更は既存ページを削除せず、Searchに出すURL集合だけを絞る。今後、個別の著者・タグに独自の読書判断価値を追加した場合は、データ上の発見シグナルまたはページファミリー契約を見直してindexへ戻せる。
+
 ## 今回の技術修正
 
 - 公開URLは「ホームは `/`、その他のルートは末尾 `/`」に統一した。

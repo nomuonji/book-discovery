@@ -22,8 +22,12 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const { slug } = await params;
   const book = getBookBySlug(slug);
   if (!book) return { title: "Not Found" };
-  const title = `${book.titleJa}（${book.authorJa}）`;
-  const description = book.descriptionJa.slice(0, 120);
+  const title = book.editionNoteJa
+    ? `${book.title}（${book.authorJa}）`
+    : `${book.titleJa}（${book.authorJa}）`;
+  const description = book.editionNoteJa
+    ? book.editionNoteJa.slice(0, 120)
+    : book.descriptionJa.slice(0, 120);
   return buildMetadata({
     title,
     description,
@@ -31,7 +35,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     type: "book",
     bookAuthors: [book.authorJa],
     images: book.coverUrl
-      ? [{ url: book.coverUrl, alt: `${book.titleJa}の書影` }]
+      ? [{ url: book.coverUrl, alt: `${book.title}の書影` }]
       : undefined,
   });
 }
@@ -43,18 +47,19 @@ export default async function BookDetailPage({ params }: PageProps) {
 
   const recommendations = getRecommendationsFrom(slug);
   const paths = getPathsContainingBook(slug);
+  const structuredName = book.editionNoteJa ? book.title : book.titleJa;
 
-  // 構造化データ（Google リッチリザルト / 検索向け）
   const bookJsonLd = {
     "@context": "https://schema.org",
     "@type": "Book",
-    name: book.titleJa,
-    alternateName: book.title,
+    name: structuredName,
+    alternateName: book.editionNoteJa ? book.titleJa : book.title,
+    inLanguage: book.editionNoteJa ? "en" : undefined,
     author: { "@type": "Person", name: book.authorJa },
     datePublished: String(book.year),
     genre: book.genre,
     image: book.coverUrl || undefined,
-    description: book.descriptionJa,
+    description: book.editionNoteJa || book.descriptionJa,
   };
 
   return (
@@ -63,24 +68,22 @@ export default async function BookDetailPage({ params }: PageProps) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(bookJsonLd) }}
       />
-      {/* Breadcrumb */}
       <nav className="text-sm text-[var(--muted)] mb-6">
         <Link href="/" className="hover:text-[var(--accent)] transition-colors">ホーム</Link>
         <span className="mx-2">/</span>
         <Link href="/books/" className="hover:text-[var(--accent)] transition-colors">本を探す</Link>
         <span className="mx-2">/</span>
-        <span>{book.titleJa}</span>
+        <span>{book.title}</span>
       </nav>
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-        {/* Sidebar: Cover + Meta */}
         <div className="md:col-span-1">
           <div className="sticky top-20">
             <div className="aspect-[3/4] rounded-lg overflow-hidden shadow-md mb-4 relative">
               {book.coverUrl ? (
                 <Image
                   src={book.coverUrl}
-                  alt={book.titleJa}
+                  alt={book.title}
                   fill
                   className="object-cover"
                   sizes="(max-width: 768px) 100vw, 33vw"
@@ -88,7 +91,7 @@ export default async function BookDetailPage({ params }: PageProps) {
                 />
               ) : (
                 <div className="cover-placeholder w-full h-full flex items-center justify-center text-white/80 p-4 text-center text-sm">
-                  {book.titleJa}
+                  {book.title}
                 </div>
               )}
             </div>
@@ -137,7 +140,6 @@ export default async function BookDetailPage({ params }: PageProps) {
                 </div>
               </div>
 
-              {/* Amazon Affiliate Link */}
               <div className="pt-3 mt-3 border-t border-[var(--border)]">
                 <a
                   href={
@@ -149,7 +151,7 @@ export default async function BookDetailPage({ params }: PageProps) {
                   rel="noopener noreferrer"
                   className="block w-full text-center text-sm py-2.5 rounded-lg bg-amber-500 hover:bg-amber-600 text-amber-950 font-medium transition-colors"
                 >
-                  🛒 Amazonで見る（日本語版）
+                  {book.editionNoteJa ? "🛒 Amazon.co.jpで英語版を探す" : "🛒 Amazonで見る（日本語版）"}
                 </a>
                 <a
                   href={getAmazonComSearchLink(book.titleEn || book.title, book.author)}
@@ -167,17 +169,21 @@ export default async function BookDetailPage({ params }: PageProps) {
           </div>
         </div>
 
-        {/* Main: Description + Why Read + Recommendations + Paths */}
         <div className="md:col-span-2 space-y-8">
-          {/* Title */}
           <div>
-            <h1 className="text-2xl sm:text-3xl font-bold mb-1">{book.titleJa}</h1>
+            <h1 className="text-2xl sm:text-3xl font-bold mb-1">{book.editionNoteJa ? book.title : book.titleJa}</h1>
             <p className="text-[var(--muted)]">
               {book.authorJa} / {book.country} / {book.year}年
             </p>
           </div>
 
-          {/* Selection Reason */}
+          {book.editionNoteJa && (
+            <section className="border-l-4 border-[var(--accent)] bg-[var(--card)] rounded-r-lg px-4 py-3">
+              <h2 className="text-xs font-bold text-[var(--accent)] mb-1">日本語版の有無</h2>
+              <p className="text-sm leading-relaxed">{book.editionNoteJa}</p>
+            </section>
+          )}
+
           {book.selectionReasonJa && (
             <section className="border-l-4 border-[var(--accent)] bg-[var(--card)] rounded-r-lg px-4 py-3">
               <h2 className="text-xs font-bold text-[var(--accent)] mb-1 flex items-center gap-1">
@@ -187,7 +193,6 @@ export default async function BookDetailPage({ params }: PageProps) {
             </section>
           )}
 
-          {/* Description */}
           <section>
             <h2 className="text-lg font-semibold mb-2 flex items-center gap-2">
               <span>📖</span> この本について
@@ -195,7 +200,6 @@ export default async function BookDetailPage({ params }: PageProps) {
             <p className="text-[var(--muted)] leading-relaxed">{book.descriptionJa}</p>
           </section>
 
-          {/* Why Read */}
           <section className="bg-[var(--card)] border border-[var(--border)] rounded-lg p-5">
             <h2 className="text-lg font-semibold mb-2 flex items-center gap-2">
               <span>💡</span> なぜ読むべきか
@@ -218,7 +222,6 @@ export default async function BookDetailPage({ params }: PageProps) {
             </section>
           )}
 
-          {/* Reading Paths */}
           {paths.length > 0 && (
             <section>
               <h2 className="text-lg font-semibold mb-3 flex items-center gap-2">
@@ -232,7 +235,6 @@ export default async function BookDetailPage({ params }: PageProps) {
             </section>
           )}
 
-          {/* Recommendations */}
           {recommendations.length > 0 && (
             <section>
               <h2 className="text-lg font-semibold mb-3 flex items-center gap-2">
@@ -251,7 +253,6 @@ export default async function BookDetailPage({ params }: PageProps) {
   );
 }
 
-/** Inline display of a reading path containing this book */
 function PathInline({ path, currentBookSlug }: { path: ReadingPath; currentBookSlug: string }) {
   const currentStepIndex = path.steps.findIndex((s) => s.bookSlug === currentBookSlug);
   const difficultyLabels: Record<number, string> = { 1: "入門", 2: "中級", 3: "発展" };

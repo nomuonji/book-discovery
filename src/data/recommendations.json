@@ -363,13 +363,13 @@
     {
       "fromSlug": "the-lonely-city",
       "toSlug": "the-year-of-magical-thinking",
-      "reasonJa": "孤独と喪失のノンフィクション。NYのアーティストたち（レイン）と夫の死（ディディオン）——異なる種類の「一人」を描く傑作。",
-      "type": "similar-vibe"
+      "reasonJa": "孤独の一般論ではなく、一人になった直後の記録を読む次の一冊。レインは都市と芸術家、ディディオンは夫の死後の日々で、同じ『一人』ではない。",
+      "type": "similar-theme"
     },
     {
       "fromSlug": "the-lonely-city",
       "toSlug": "the-opposite-of-loneliness",
-      "reasonJa": "孤独の反対を探す旅。大人の孤独を巡るレインと、若者の孤独と希望を描くキーガン。",
+      "reasonJa": "孤独を主題にする短いエッセイ集。レインの都市・美術批評とは年代も形式も違うので、エッセイとして孤独を読みたいときの別入口。",
       "type": "similar-theme"
     },
     {
@@ -4487,6 +4487,18 @@
       "toSlug": "the-sea-of-poppies",
       "reasonJa": "インドの歴史を物語る大河が好きなあなたへ。ラシュディの魔術的歴史の後、海を舞台にした植民地史を。",
       "type": "reading-path"
+    },
+    {
+      "fromSlug": "the-lonely-city",
+      "toSlug": "open-city",
+      "reasonJa": "同じニューヨークを歩く本。レインは芸術家の作品と生涯、コールは小説の散歩。批評か物語かで次を分ける。",
+      "type": "similar-vibe"
+    },
+    {
+      "fromSlug": "the-lonely-city",
+      "toSlug": "on-photography",
+      "reasonJa": "絵や写真をどう見るかの文化批評へ進むとき。レインの個別作家より、ソンタグの写真論の方が論点は抽象的。",
+      "type": "similar-theme"
     }
   ]
 }

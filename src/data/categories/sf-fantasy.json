@@ -365,8 +365,8 @@
         "小説",
         "SF"
       ],
-      "descriptionJa": "本を燃やすことが使命の「消防士」モンターグ。しかし彼は、本が燃やされる世界の空虚さに気づき始める。「華氏451度」は紙が発火する温度。検閲と無知を描いた、ディストピア文学の古典にして、読書の意味を問う作品。",
-      "whyReadJa": "「本を読まない社会」を描いた警告。SNS時代の私たちにも通じる、思考の自由を問う一冊。",
+      "descriptionJa": "ネタバレ範囲: 冒頭の職業設定と、本を禁じた社会で主人公が疑問を持ち始めるところまで。結末やその後の展開は書いていない。1953年の小説。本を燃やすことが仕事の消防士ガイ・モンターグが、本の所持を禁じた社会の空虚さに触れ始める。題名の「華氏451度」は、作品と早川書房の新訳版紹介が「この温度で書物の紙は引火し、そして燃える」と掲げる作者・作中の説明であり、紙の発火点が条件によらず常に451°Fだという科学的な一般値ではない。日本語の現行新訳は早川書房『華氏451度〔新訳版〕』（電子書籍商品ページの刊行日は2014-07-28）。確認日 2026-10-03。",
+      "whyReadJa": "向いているのは、検閲の標語だけでなく、画面に浸って考えることを手放していく社会を短く読みたい人。Ray Bradbury公式サイトは、この世界の消防士は火を消さず本を燃やすこと、多くの人が巨大なテレビ画面の前で暮らし、若いクラリスとの出会いをきっかけにモンターグが印刷された知の残る場所を探し始めることを紹介している。向かないのは、紙の発火温度の科学解説、政治史の網羅、結末までのあらすじを求める読み方。",
       "tags": [
         "ディストピア",
         "SF",
@@ -374,10 +374,10 @@
         "本"
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/12993656-L.jpg",
-      "selectionReasonJa": "本を燃やす社会を描く、検閲と思考の自由を問う古典。",
+      "selectionReasonJa": "読む前の判断用。題名は作品内の説明として限定し、結末は出さない。画面と読書のあいだで、考えることを続ける意味を問う短めのディストピア。",
       "titleEn": "Fahrenheit 451",
-      "descriptionEn": "Montag is a fireman whose job is to burn books. But he begins to glimpse the emptiness of a world where books are destroyed—\"451 degrees Fahrenheit\" being the temperature at which paper ignites. A classic of dystopian literature about censorship and ignorance, and a passionate inquiry into why reading matters.",
-      "whyReadEn": "A warning about a society that stops reading. In our age of social media, its questions about the freedom of thought speak directly to us today. Short, vivid, and unforgettable.",
+      "descriptionEn": "Spoiler scope: opening setup only. The ending and later plot turns are not described. A 1953 novel about Guy Montag, a fireman whose job is to burn books, as he starts to notice the emptiness of a society that forbids them. The title phrase, that 451 degrees Fahrenheit is the temperature at which book paper catches fire and burns, is the novel's and the publisher's framing of the title, not a claim that paper always ignites at exactly 451°F regardless of conditions. The current Japanese new translation is Hayakawa Shobo's Fahrenheit 451 (ebook product page lists a 2014-07-28 release). Checked 2026-10-03.",
+      "whyReadEn": "A fit for readers who want a short look at a society that trades thinking for wall-sized screens, not a scientific note on paper ignition or a full plot summary. The official Ray Bradbury site presents firemen who set fires rather than put them out, people living in front of giant television screens, and Montag's turn toward the printed knowledge that still survives. Less suitable if you want the ending, a political history, or a physics explanation of the title.",
       "asin": "B0GPHTYX3G"
     },
     {

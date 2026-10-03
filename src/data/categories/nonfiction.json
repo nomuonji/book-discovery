@@ -98,18 +98,28 @@
         "エッセイ"
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/12672997-L.jpg",
-      "descriptionJa": "ニューヨークで孤独になったイギリス人作家が、エドワード・ホッパー、アンディ・ウォーホル、ヘンリー・ダーガーなど孤独な芸術家たちの人生と作品を訪ね歩く。孤独を「恥ずべきもの」から「創造の源泉」へと読み替える、優しくて知的なノンフィクション。",
-      "whyReadJa": "孤独について書かれた本の中で最も美しい。アートと文学のガイドとしても優れており、読み終えるとニューヨークの美術館に行きたくなる。",
+      "descriptionJa": "2016年に英国Canongate、米国Picadorから出たオリヴィア・レインのノンフィクション。出版社は、伝記・回想・文化批評を混ぜ、孤独を主題に芸術家の生涯と作品をたどる本だと説明している。Picadorの紹介では、30代半ばにニューヨークへ移った著者が、エドワード・ホッパーの《ナイトホークス》、アンディ・ウォーホルのタイムカプセル、ヘンリー・ダーガーの蒐集、デイヴィッド・ヴォイナロヴィチのAIDS活動を通して孤独を調べるとされる。一般的な自己啓発や、孤独の治し方を手順にする本ではない。",
+      "whyReadJa": "向く人: 都市で感じる孤立を、絵や写真や活動の具体から考えたい人。美術の名前を教科書順ではなく、作品と作者の境遇から拾いたい人。エッセイと批評が混ざる文章を、結論より探索として読める人。向かない可能性: 孤独を短く克服する実用書、物語小説、または作家の評価だけを知りたい人。『最も美しい』といった最上級は、このページでは事実として扱わない。",
       "tags": [
         "エッセイ",
         "孤独",
         "アート",
         "都市"
       ],
-      "selectionReasonJa": "NYのアーティストたちの孤独を描く、都市と孤独の傑作。",
+      "selectionReasonJa": "次の一冊を選ぶための境界として残す。ニューヨークの孤独を、ホッパー、ウォーホル、ダーガー、ヴォイナロヴィチの作品と生涯から読む本であり、書誌項目の再掲ではない。",
       "titleEn": "The Lonely City: Adventures in the Art of Being Alone",
-      "descriptionEn": "An English writer, lonely in New York, walks through the lives and work of lonely artists — Edward Hopper, Andy Warhol, Henry Darger and others. This tender, intelligent work of nonfiction rereads loneliness, transforming it from something shameful into a source of creativity.",
-      "whyReadEn": "The most beautiful book ever written about loneliness. An excellent guide to art and literature that will send you straight to the museums of New York."
+      "descriptionEn": "A 2016 nonfiction book from Canongate in the UK and Picador in the US. The publisher describes it as biography, memoir, and cultural criticism on loneliness, moving through Edward Hopper’s Nighthawks, Andy Warhol’s Time Capsules, Henry Darger’s hoarding, and David Wojnarowicz’s AIDS activism. It is not a general self-help manual.",
+      "whyReadEn": "For readers who want urban loneliness approached through specific artists and the author’s own New York stay. Less suitable if you want a practical cure, a novel, or only a bibliographic listing. This page does not treat superlatives as facts.",
+      "sources": [
+        {
+          "label": "Picador / Macmillan: The Lonely City（形式と扱う芸術家）",
+          "url": "https://us.macmillan.com/books/9781250442710/thelonelycity/"
+        },
+        {
+          "label": "Canongate: Olivia Laing（2016年刊、ニューヨークと孤独、触発された芸術）",
+          "url": "https://canongate.co.uk/contributors/7685-olivia-laing/"
+        }
+      ]
     },
     {
       "slug": "silent-spring",

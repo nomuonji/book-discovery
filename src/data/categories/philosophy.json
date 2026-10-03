@@ -18,7 +18,7 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/13151269-L.jpg",
       "asin": "B09NPPTNDC",
-      "descriptionJa": "母親の死に無関心を装い、やがて太陽のせいで人を殺す——不条理の哲学を小説という形で提示した20世紀文学の金字塔。主人公ムルソーの感情の希薄さが、かえって社会の偽善と生の不条理を浮き彫りにする。たった100ページ強の短さで、読んだ人の世界観を変えてしまう一冊。",
+      "descriptionJa": "ネタバレを含む短い整理。新潮文庫（カミュ著、窪田啓作訳）の出版社紹介は、母の死の翌日の行動、友人の女出入りに関わった殺人、裁判で動機について「太陽のせい」と答えたことを分けて述べている（2026-10-02確認）。作中で観察できるのは、ムルソーが周囲の期待する喪の感情をあまり示さないことであり、無関心を意図的に「装った」とは書かれていない。海辺での対立と発砲、その後の法廷で太陽に言及した答えは別の場面であり、太陽光を殺人の完全な原因と決める説明は出版社紹介も支持しない。編集上の位置づけとしては、通常の論理的一貫性から外れた主人公を通して理性や人間性の不合理を問う不条理小説、という新潮社の紹介に沿う。短く、感情の薄さと社会の反応のずれが中心の問いになる。",
       "whyReadJa": "哲学書を読まずして哲学に出会える稀有な小説。漱石や芥川が好きな日本人の感性にも響く、醒めた語り口と実存の問い。",
       "tags": [
         "不条理",
@@ -28,8 +28,14 @@
       ],
       "selectionReasonJa": "不条理哲学を小説として提示した20世紀文学の金字塔。カミュの代表作。",
       "titleEn": "The Stranger",
-      "descriptionEn": "A man who feigns indifference at his mother's death, and kills a man — because of the sun. A towering work of twentieth-century literature that presents the philosophy of the absurd in the form of a novel. Meursault's thin emotions throw the hypocrisy of society and the absurdity of life into stark relief. Barely over a hundred pages, yet it rewires the worldview of everyone who reads it.",
-      "whyReadEn": "A rare novel that lets you meet philosophy without reading a philosophy book. Its cool narration and existential questions resonate with the sensibility of readers who love Soseki and Akutagawa."
+      "descriptionEn": "Short spoiler-aware account. Shinchosha's page for the Kubota Keisaku translation separates the day after the mother's death, a killing tied to a friend's dispute, and Meursault's later courtroom answer that the motive was 'because of the sun' (checked 2026-10-02). What the novel shows is that Meursault displays little of the grief others expect; it does not say he deliberately feigned indifference. The beach confrontation and shooting, and the later trial answer about the sun, are different scenes. Neither the publisher description nor the sequence treats sunlight as a complete causal explanation. As an editorial frame, Shinchosha presents the novel as Camus's representative work pursuing the irrationality of reason and humanity through a protagonist who lacks ordinary logical consistency. It is short, and the gap between thin feeling and social reaction is the central question.",
+      "whyReadEn": "A rare novel that lets you meet philosophy without reading a philosophy book. Its cool narration and existential questions resonate with the sensibility of readers who love Soseki and Akutagawa.",
+      "sources": [
+        {
+          "label": "新潮社『異邦人』（カミュ著、窪田啓作訳）書誌・内容紹介（2026-10-02確認）",
+          "url": "https://www.shinchosha.co.jp/book/211401/"
+        }
+      ]
     },
     {
       "slug": "the-myth-of-sisyphus",

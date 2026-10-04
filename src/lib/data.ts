@@ -5,6 +5,12 @@
 import { Book, Recommendation, ReadingPath } from "@/types";
 
 /** authors.json の生データ型 */
+interface AuthorReadingPath {
+  label: string;
+  bookSlug: string;
+  reasonJa: string;
+}
+
 interface AuthorProfileRaw {
   slug: string;
   name: string;
@@ -13,6 +19,8 @@ interface AuthorProfileRaw {
   bioJa: string;
   books: string[];
   similarAuthors?: { slug: string; reasonJa: string }[];
+  readingPaths?: AuthorReadingPath[];
+  sourceNotesJa?: string[];
 }
 
 export interface TagSummary {
@@ -101,9 +109,14 @@ const allPaths: ReadingPath[] = applyPathCopyCorrections(
 
 // ---- 著者プロフィール ----
 import authorsRaw from "@/data/authors.json";
-const allAuthorProfiles: Record<string, { bioJa: string; similarAuthors?: { slug: string; reasonJa: string }[] }> = {};
+const allAuthorProfiles: Record<string, { bioJa: string; similarAuthors?: { slug: string; reasonJa: string }[]; readingPaths?: AuthorReadingPath[]; sourceNotesJa?: string[] }> = {};
 for (const a of (authorsRaw as { authors: AuthorProfileRaw[] }).authors) {
-  allAuthorProfiles[a.slug] = { bioJa: a.bioJa, similarAuthors: a.similarAuthors };
+  allAuthorProfiles[a.slug] = {
+    bioJa: a.bioJa,
+    similarAuthors: a.similarAuthors,
+    readingPaths: a.readingPaths,
+    sourceNotesJa: a.sourceNotesJa,
+  };
 }
 
 let _allBooksCache: Book[] | null = null;
@@ -307,7 +320,7 @@ export function getAllAuthors(): AuthorSummary[] {
     .sort((a, b) => a.nameJa.localeCompare(b.nameJa, "ja"));
 }
 
-export function getAuthorBySlug(slug: string): (AuthorSummary & { books: Book[] }) | undefined {
+export function getAuthorBySlug(slug: string): (AuthorSummary & { books: Book[]; readingPaths?: AuthorReadingPath[]; sourceNotesJa?: string[] }) | undefined {
   const books = getBooksByAuthor(slug);
   if (books.length === 0) return undefined;
   const profile = allAuthorProfiles[slug];
@@ -319,6 +332,8 @@ export function getAuthorBySlug(slug: string): (AuthorSummary & { books: Book[] 
     bioJa: profile?.bioJa || "",
     bookCount: books.length,
     books,
+    readingPaths: profile?.readingPaths,
+    sourceNotesJa: profile?.sourceNotesJa,
   };
 }
 

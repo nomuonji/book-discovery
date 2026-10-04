@@ -45,19 +45,28 @@
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/2237620-L.jpg",
       "asin": "4062748681",
-      "descriptionJa": "1960年代末の東京を舞台に、ワタナベと直子、そして緑とのあいだで揺れる喪失と再生の物語。ビートルズの「ノルウェイの森」が流れるなか、青春の痛みと愛の不確かさを描いて世界的ベストセラーとなった。日本語で書かれた小説が、なぜ世界中でこれほど読まれるのか——その理由がここにある。",
-      "whyReadJa": "海外で最も読まれた日本文学の一つ。ここを起点に、世界が評価する日本文学と、その文学が影響を受けた海外作品の両方を探索できる。",
+      "descriptionJa": "1987年9月4日に講談社から上巻が刊行された村上春樹の小説（ISBN 9784062035156）。講談社の紹介には、著者自身の「これは恋愛小説です。激しくて、物静かで、哀しい、100パーセントの恋愛小説です」という言葉が載っている。講談社文庫版の紹介は、初出を1987年の講談社刊とし、語り手の新しい大学生活、自殺した親友キズキ、その恋人の直子、同じ学部の緑に触れている。このページはあらすじの続きや結末は書かない。書名とビートルズの曲の関係、販売部数、世界的評価の順位は、ここで確認した出版社資料だけでは範囲を特定できないため断定しない。",
+      "whyReadJa": "向く人: 1960年代末の東京を回想する大学生の語りで、喪失と恋愛の距離を読みたい人。著者自身が、それまで書かなかった種類の恋愛小説だと述べているため、奇想より人間関係の機微を優先したい人。講談社文庫の紹介が示す範囲では、親友の死とその恋人、同学部の人物が入口になる。向かない可能性: 結末まで含むあらすじ、販売実績や世界的順位、または後年の村上作品に多い異界・歴史の混線を最初から求める人。『二十歳の原点』との関係は、信頼できる資料を確認できなかったためここでは扱わない。",
       "tags": [
         "日本文学",
         "喪失",
         "青春",
-        "恋愛",
-        "レコメンド起点"
+        "恋愛"
       ],
-      "selectionReasonJa": "海外で最も読まれた日本文学の一つ。村上春樹を世界的作家に押し上げ、本サイトの「村上春樹好きに」入口の起点。",
+      "selectionReasonJa": "次の一冊を選ぶ境界として残す。未出典の『世界的ベストセラー』『海外で最も読まれた日本文学の一つ』は外し、講談社が示す恋愛小説としての位置と、喪失を含む人物配置だけを判断材料にする。",
       "titleEn": "Norwegian Wood",
-      "descriptionEn": "Set in late-1960s Tokyo, this is the story of Watanabe, torn between Naoko and Midori, in a tale of loss and regeneration. With the Beatles' 'Norwegian Wood' playing in the background, it renders the pain of youth and the uncertainty of love, becoming a worldwide bestseller. Here lies the answer to why a novel written in Japanese is read so widely across the globe.",
-      "whyReadEn": "One of the most widely read Japanese novels abroad. From here, you can explore both the Japanese literature the world admires and the Western works that influenced it."
+      "descriptionEn": "Haruki Murakami novel whose first Kodansha volume was published on 4 September 1987 (ISBN 9784062035156). Kodansha quotes the author calling it a love story he had not written before: fierce, quiet, and sad. The bunko note identifies the 1987 Kodansha edition and names the narrator's new university life, his dead friend Kizuki, Kizuki's partner Naoko, and Midori from the same department. This page does not continue the plot or rank worldwide readership.",
+      "whyReadEn": "For readers who want a retrospective campus love story of loss and distance, as the publisher frames it. Less suitable if you want a full plot summary, sales rankings, or the later Murakami mode of wells, history, and the uncanny. A claimed link to Twenty Years Old's Starting Point is not asserted here.",
+      "sources": [
+        {
+          "label": "講談社: ノルウェイの森（上）1987年9月4日刊、著者の恋愛小説としての言葉",
+          "url": "https://www.kodansha.co.jp/book/products/0000173577"
+        },
+        {
+          "label": "講談社文庫: 初出は1987年講談社刊、キズキ・直子・緑に触れる紹介",
+          "url": "https://www.kodansha.co.jp/r/book/product?item=0000203589"
+        }
+      ]
     },
     {
       "slug": "trout-fishing-in-america",

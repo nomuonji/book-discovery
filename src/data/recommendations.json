@@ -2,27 +2,21 @@
   "recommendations": [
     {
       "fromSlug": "norwegian-wood",
+      "toSlug": "the-wind-up-bird-chronicle",
+      "reasonJa": "同じ著者のまま、1987年の恋愛小説から1994年の長編へ進む選択。個人の喪失が歴史の記憶と交わる方を試すならこちら。恋愛小説の続きとしては扱わない。",
+      "type": "reading-path"
+    },
+    {
+      "fromSlug": "norwegian-wood",
       "toSlug": "what-we-talk-about-when-we-talk-about-love",
-      "reasonJa": "村上春樹が翻訳し深く影響を受けた作家。日常のすきまに潜む喪失と、言葉にできない感情の描き方が響き合う。",
-      "type": "if-you-like-author"
-    },
-    {
-      "fromSlug": "norwegian-wood",
-      "toSlug": "klara-and-the-sun",
-      "reasonJa": "長崎生まれのノーベル賞作家が描く、無垢な視点から見た人間の愛と喪失。静かな語り口と余白の美学が春樹作品と呼応する。",
-      "type": "similar-vibe"
-    },
-    {
-      "fromSlug": "norwegian-wood",
-      "toSlug": "my-brilliant-friend",
-      "reasonJa": "青春の痛みと人間関係の複雑さを、社会の変化のなかで描き切る物語力。ページを繰る手が止まらなくなる没入感で。",
-      "type": "similar-vibe"
+      "reasonJa": "キャンパスの恋愛ではなく、日常の会話のすきまに喪失を読む短編を選ぶならこちら。このサイトでは村上春樹訳の入口として収録している。影響関係の強さはここでは断定しない。",
+      "type": "reading-path"
     },
     {
       "fromSlug": "norwegian-wood",
       "toSlug": "normal-people",
-      "reasonJa": "声に出せない感情とすれ違い。ノルウェイの森の「喪失の青春」を、アイルランドのミレニアル世代がアップデートした。",
-      "type": "similar-vibe"
+      "reasonJa": "1960年代末の回想ではなく、別の世代の声に出せないすれ違いとして恋愛を読むならこちら。同格の評価や販売比較ではない。",
+      "type": "reading-path"
     },
     {
       "fromSlug": "the-wind-up-bird-chronicle",

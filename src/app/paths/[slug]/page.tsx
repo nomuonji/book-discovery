@@ -34,12 +34,55 @@ const difficultyColors: Record<number, string> = {
   3: "bg-red-100 text-red-800 dark:bg-red-900 dark:text-red-200",
 };
 
+const postcolonialEntryMap = [
+  {
+    concern: "植民地化された共同体",
+    form: "小説",
+    bookSlug: "things-fall-apart",
+    step: 1,
+  },
+  {
+    concern: "内面化された支配",
+    form: "理論",
+    bookSlug: "black-skin-white-masks",
+    step: 2,
+  },
+  {
+    concern: "帰還と南北関係",
+    form: "小説",
+    bookSlug: "season-of-migration-to-the-north",
+    step: 3,
+  },
+  {
+    concern: "ディアスポラ／二重の帰属",
+    form: "小説",
+    bookSlug: "the-sympathizer",
+    step: 4,
+  },
+  {
+    concern: "世代記憶",
+    form: "小説",
+    bookSlug: "homegoing",
+    step: 5,
+  },
+] as const;
+
 export default async function PathDetailPage({ params }: PageProps) {
   const { slug } = await params;
   const enriched = getPathWithBooks(slug);
   if (!enriched) notFound();
 
   const { stepsWithBooks, ...path } = enriched;
+  const entryMap =
+    path.slug === "postcolonial-reading"
+      ? postcolonialEntryMap.map((entry) => {
+          const step = stepsWithBooks.find(
+            (item) => item.order === entry.step && item.bookSlug === entry.bookSlug,
+          );
+          return step ? { ...entry, titleJa: step.book.titleJa } : null;
+        })
+      : null;
+  const showEntryMap = entryMap?.every((entry) => entry !== null) ? entryMap : null;
 
   return (
     <div className="max-w-5xl mx-auto px-4 py-8">
@@ -66,10 +109,36 @@ export default async function PathDetailPage({ params }: PageProps) {
         </p>
       </div>
 
+      {showEntryMap && (
+        <section aria-labelledby="entry-map-heading" className="mb-10 bg-[var(--card)] border border-[var(--border)] rounded-lg p-5">
+          <h2 id="entry-map-heading" className="text-lg font-semibold mb-2">関心から最初の一冊を選ぶ</h2>
+          <p className="text-sm text-[var(--muted)] leading-relaxed max-w-2xl">
+            小説は、植民地化や移動の経験を登場人物の物語としてたどる。理論書は、支配が精神や言葉の中に残る仕組みを説明する。下の5冊は一つの正解順ではなく、関心に近い入口から該当ステップへ進める。
+          </p>
+          <ul className="mt-4 grid gap-3 sm:grid-cols-2">
+            {showEntryMap.map((entry) => (
+              <li key={entry.bookSlug}>
+                <a
+                  href={`#step-${entry.step}`}
+                  className="block h-full rounded-lg border border-[var(--border)] p-3 hover:border-[var(--accent)] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[var(--accent)]"
+                >
+                  <span className="block text-sm font-medium">{entry.concern}</span>
+                  <span className="mt-1 block text-sm">
+                    {entry.titleJa}
+                    <span className="ml-2 text-xs text-[var(--muted)]">{entry.form}</span>
+                  </span>
+                  <span className="mt-2 block text-xs text-[var(--accent)]">ステップ{entry.step}へ</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+
       {/* Steps */}
       <div className="space-y-0">
-        {stepsWithBooks.map((step, index) => (
-          <div key={step.bookSlug} className="relative step-connector pb-8 pl-10">
+        {stepsWithBooks.map((step) => (
+          <div id={`step-${step.order}`} key={step.bookSlug} className="relative step-connector pb-8 pl-10 scroll-mt-6">
             {/* Step number circle */}
             <div className="absolute left-0 top-0 w-10 h-10 rounded-full border-2 border-[var(--accent)] bg-[var(--background)] flex items-center justify-center font-bold text-sm text-[var(--accent)] z-10">
               {step.order}

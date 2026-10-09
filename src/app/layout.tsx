@@ -115,7 +115,7 @@ function Footer() {
       <div className="max-w-5xl mx-auto px-4">
         <div className="grid grid-cols-2 sm:grid-cols-4 gap-6 mb-8">
           <div>
-            <h3 className="text-sm font-semibold mb-2">📚 本を探す</h3>
+            <h3 className="text-sm font-semibold mb-2">書棚を見る</h3>
             <ul className="space-y-1 text-xs text-[var(--muted)]">
               <li><Link href="/books/" className="hover:text-[var(--accent)] transition-colors">すべての本</Link></li>
               {categories.slice(0, 4).map((cat) => (
@@ -124,14 +124,14 @@ function Footer() {
             </ul>
           </div>
           <div>
-            <h3 className="text-sm font-semibold mb-2">🗺️ 読書パス</h3>
+            <h3 className="text-sm font-semibold mb-2">順番に読む</h3>
             <ul className="space-y-1 text-xs text-[var(--muted)]">
               <li><Link href="/paths/" className="hover:text-[var(--accent)] transition-colors">すべてのパス</Link></li>
               <li><Link href="/recommend/" className="hover:text-[var(--accent)] transition-colors">おすすめを探す</Link></li>
             </ul>
           </div>
           <div>
-            <h3 className="text-sm font-semibold mb-2">📊 サイト情報</h3>
+            <h3 className="text-sm font-semibold mb-2">収録しているもの</h3>
             <ul className="space-y-1 text-xs text-[var(--muted)]">
               <li>📖 {stats.totalBooks}冊の本</li>
               <li>👤 {stats.totalAuthors}名の著者</li>
@@ -140,15 +140,15 @@ function Footer() {
             </ul>
           </div>
           <div>
-            <h3 className="text-sm font-semibold mb-2">📝 このサイトについて</h3>
+            <h3 className="text-sm font-semibold mb-2">この書棚について</h3>
             <p className="text-xs text-[var(--muted)] leading-relaxed">
-              世界の名作を厳選して紹介する読書ガイド。受賞作・文学史の古典を中心に、すべての本に選書理由を明記しています。
+              世界の小説と思想の本から、次の一冊までつながる読書案内。どこから読み、なぜその次へ進むのかを、収録済みの理由とともに紹介します。
               <span className="block mt-1">Amazonアソシエイト参加中。</span>
             </p>
           </div>
         </div>
         <div className="text-center text-xs text-[var(--muted)] border-t border-[var(--border)] pt-6">
-          📚 読書の羅針盤 — 世界の名作と出会うための読書ガイド
+          読書の羅針盤 / A BOOK LEADS TO ANOTHER
         </div>
       </div>
     </footer>

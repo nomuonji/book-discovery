@@ -102,18 +102,25 @@ export default async function PathDetailPage({ params }: PageProps) {
         <p>{path.descriptionJa}</p>
         <nav aria-label="この読書パスの入口"><a href="#reading-steps">一冊目からたどる ↓</a><Link href="/paths/">ほかの読書パス ↗</Link></nav>
       </header>
-      <div className="mb-10 reading-path-intro">
-        <div className="flex items-center gap-3 mb-3">
-          <h2 className="text-2xl sm:text-3xl font-bold">この道をどう読む？</h2>
-          <span className={`text-xs px-2.5 py-1 rounded-full font-medium ${difficultyColors[path.difficulty]}`}>
-            {difficultyLabels[path.difficulty]}
-          </span>
+      <nav className="reading-chapter-index" aria-labelledby="reading-chapter-index-heading">
+        <div className="reading-chapter-index-heading">
+          <span className="reading-interior-kicker">THE ROUTE AT A GLANCE / {difficultyLabels[path.difficulty]}</span>
+          <h2 id="reading-chapter-index-heading">この道の目次。</h2>
+          <p>各章の読みどころを確認して、気になる本からでも読み進められます。</p>
         </div>
-        <p className="text-[var(--muted)] max-w-2xl leading-relaxed">{path.descriptionJa}</p>
-        <p className="text-sm text-[var(--muted)] mt-2">
-          📖 全{stepsWithBooks.length}冊 · 順番に読むことをおすすめします
-        </p>
-      </div>
+        <ol>
+          {stepsWithBooks.map((step) => (
+            <li key={step.bookSlug}>
+              <a href={`#step-${step.order}`}>
+                <span>{String(step.order).padStart(2,"0")}</span>
+                <strong>{step.book.titleJa}</strong>
+                <small>{step.book.authorJa}</small>
+                <span aria-hidden="true">↓</span>
+              </a>
+            </li>
+          ))}
+        </ol>
+      </nav>
 
       {showEntryMap && (
         <section aria-labelledby="entry-map-heading" className="mb-10 bg-[var(--card)] border border-[var(--border)] rounded-lg p-5">

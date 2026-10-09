@@ -22,7 +22,7 @@ export function BookCard({book,reason,showAmazon=true}:BookCardProps){
      </div>
    </div>
    {showAmazon&&<div className="reading-entry-shop">
-     <a href={book.asin?getAmazonLink(book.asin):getAmazonSearchLink(book.title,book.author,book.titleJa,book.authorJa)} target="_blank" rel="noopener noreferrer">日本語版・国内で探す ↗</a>
+     <a href={book.asin?getAmazonLink(book.asin):getAmazonSearchLink(book.title,book.author,book.titleJa,book.authorJa)} target="_blank" rel="noopener noreferrer">{book.editionNoteJa?"英語版を国内で探す ↗":"日本語版・国内で探す ↗"}</a>
      <a href={getAmazonComSearchLink(book.titleEn||book.title,book.author)} target="_blank" rel="noopener noreferrer">原書を探す ↗</a>
    </div>}
  </article>

@@ -112,10 +112,10 @@ export default function RecommendPage() {
   };
 
   return (
-    <div className="max-w-5xl mx-auto px-4 py-8">
+    <div className="reading-interior reading-recommend max-w-5xl mx-auto px-4 py-8">
       <div className="max-w-2xl mb-9">
         <span className="text-xs font-semibold tracking-[0.18em] text-[var(--accent)]">NEXT BOOK FINDER</span>
-        <h1 className="text-2xl sm:text-3xl font-bold mt-2 mb-3">次に読む一冊を探す</h1>
+        <h1 className="text-2xl sm:text-3xl font-bold mt-2 mb-3 reading-index-title">読んだ本を、<br />次の本の地図に。</h1>
         <p className="text-[var(--muted)] leading-relaxed">
           好きな本・作家、または今読みたいテーマを入力してください。
           収録本どうしの推薦関係と選書データから、次の候補と「なぜつながるか」を表示します。

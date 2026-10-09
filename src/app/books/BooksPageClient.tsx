@@ -72,8 +72,9 @@ export function BooksPageClient() {
   const topTags = getAllTags().slice(0, 20);
 
   return (
-    <div className="max-w-5xl mx-auto px-4 py-8">
-      <h1 className="text-2xl font-bold mb-2">本を探す</h1>
+    <div className="reading-interior reading-books-catalog max-w-5xl mx-auto px-4 py-8">
+      <span className="reading-interior-kicker">THE OPEN SHELF / THE CATALOG</span>
+      <h1 className="text-2xl font-bold mb-2 reading-index-title">本を並べる、<br />理由をたどる。</h1>
       <p className="text-[var(--muted)] mb-6">
         全{getAllBooks().length}冊から、カテゴリ・ジャンル・国・年代で絞り込み。
       </p>

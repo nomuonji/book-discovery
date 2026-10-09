@@ -85,7 +85,7 @@ export default async function PathDetailPage({ params }: PageProps) {
   const showEntryMap = entryMap?.every((entry) => entry !== null) ? entryMap : null;
 
   return (
-    <div className="max-w-5xl mx-auto px-4 py-8">
+    <div className="reading-interior reading-path-detail max-w-5xl mx-auto px-4 py-8">
       {/* Breadcrumb */}
       <nav className="text-sm text-[var(--muted)] mb-6">
         <Link href="/" className="hover:text-[var(--accent)] transition-colors">ホーム</Link>
@@ -96,9 +96,15 @@ export default async function PathDetailPage({ params }: PageProps) {
       </nav>
 
       {/* Header */}
-      <div className="mb-10">
+      <header className="reading-interior-masthead reading-path-cover">
+        <span>THE READING ROUTE / {String(stepsWithBooks.length).padStart(2, "0")} BOOKS</span>
+        <h1>{path.titleJa}</h1>
+        <p>{path.descriptionJa}</p>
+        <nav aria-label="この読書パスの入口"><a href="#reading-steps">一冊目からたどる ↓</a><Link href="/paths/">ほかの読書パス ↗</Link></nav>
+      </header>
+      <div className="mb-10 reading-path-intro">
         <div className="flex items-center gap-3 mb-3">
-          <h1 className="text-2xl sm:text-3xl font-bold">{path.titleJa}</h1>
+          <h2 className="text-2xl sm:text-3xl font-bold">この道をどう読む？</h2>
           <span className={`text-xs px-2.5 py-1 rounded-full font-medium ${difficultyColors[path.difficulty]}`}>
             {difficultyLabels[path.difficulty]}
           </span>
@@ -136,16 +142,17 @@ export default async function PathDetailPage({ params }: PageProps) {
       )}
 
       {/* Steps */}
-      <div className="space-y-0">
-        {stepsWithBooks.map((step) => (
-          <div id={`step-${step.order}`} key={step.bookSlug} className="relative step-connector pb-8 pl-10 scroll-mt-6">
+      <div className="space-y-0 reading-steps" id="reading-steps">
+        {stepsWithBooks.map((step, index) => (
+          <div id={`step-${step.order}`} key={step.bookSlug} className="relative step-connector pb-8 pl-10 scroll-mt-6 reading-route-step">
             {/* Step number circle */}
             <div className="absolute left-0 top-0 w-10 h-10 rounded-full border-2 border-[var(--accent)] bg-[var(--background)] flex items-center justify-center font-bold text-sm text-[var(--accent)] z-10">
               {step.order}
             </div>
 
             {/* Step content */}
-            <div className="bg-[var(--card)] border border-[var(--border)] rounded-lg p-5">
+            <div className="bg-[var(--card)] border border-[var(--border)] rounded-lg p-5 reading-route-chapter">
+              <span className="reading-interior-kicker">CHAPTER {String(index+1).padStart(2,"0")} / {index===0?"はじめの一冊":"ここまで読んだら"}</span>
               <div className="flex flex-col sm:flex-row sm:items-start gap-4">
                 {/* Book card style */}
                 <Link

@@ -246,18 +246,20 @@ export default async function BookDetailPage({ params }: PageProps) {
               <span className="reading-interior-kicker">A BOOK AFTER THIS ONE</span>
               <h2 id="reading-next-book-heading">読み終えたら、次は。</h2>
               <Link href={"/books/" + recommendations[0].book.slug + "/"} className="reading-next-link">
-                <span className="reading-next-link-figure">02 <small>ANOTHER BOOK</small></span>
+                <span className="reading-next-link-figure">→ <small>ANOTHER BOOK</small></span>
                 <span className="reading-next-link-copy"><strong>{recommendations[0].book.titleJa}</strong><small>{recommendations[0].book.authorJa}</small><span>{recommendations[0].reasonJa}</span></span>
                 <span aria-hidden="true">↗</span>
               </Link>
-              <h2 className="text-lg font-semibold mb-3 flex items-center gap-2">
-                <span>🎯</span> この本が好きな人へのおすすめ
-              </h2>
-              <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-                {recommendations.slice(1).map((rec) => (
-                  <BookCard key={rec.toSlug} book={rec.book} reason={rec.reasonJa} />
-                ))}
-              </div>
+              {recommendations.length > 1 && (
+                <div className="reading-next-alternatives">
+                  <h3>ほかの方向にも、読み広げる。</h3>
+                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                    {recommendations.slice(1).map((rec) => (
+                      <BookCard key={rec.toSlug} book={rec.book} reason={rec.reasonJa} />
+                    ))}
+                  </div>
+                </div>
+              )}
             </section>
           )}
         </div>

@@ -704,17 +704,16 @@
     {
       "slug": "when-breath-becomes-air",
       "title": "When Breath Becomes Air",
-      "titleJa": "呼吸しながら、空の光るとき",
+      "titleJa": "いま、希望を語ろう : 末期がんの若き医師が家族と見つけた「生きる意味」",
       "author": "Paul Kalanithi",
-      "authorJa": "ポール・カラニティ",
+      "authorJa": "ポール・カラニシ",
       "country": "アメリカ",
       "year": 2016,
       "genre": [
         "ノンフィクション"
       ],
-      "descriptionJa": "36歳の脳神経外科医が、自らが末期がんに罹患したことを知る。医師として「死を扱う仕事」をしてきた男が、患者として死と向き合う。未完のままこの世を去った彼の遺稿は、死と生をめぐる最も誠実な手記となった。",
-      "whyReadYa": "",
-      "whyReadJa": "「限られた時間をどう生きるか」を、これほど直截に問う手記はない。涙なしには読めない。",
+      "descriptionJa": "英語原題は When Breath Becomes Air。国立国会図書館サーチの書誌ID 027680426（2026-10-09確認）は、日本語版を『いま、希望を語ろう : 末期がんの若き医師が家族と見つけた「生きる意味」』、著者をポール・カラニシ、出版社を早川書房、出版年を2016.11、原題を WHEN BREATH BECOMES AIR と記録している。英語版の著者表記は Paul Kalanithi で、原書の刊行年は2016年。早川書房の公式商品ページ（2026-10-09確認）は、訳者を田中文、刊行日を2016/11/15とする電子書籍を掲載していた。紙の本の現在の販売在庫は、この確認範囲では断定しない。",
+      "whyReadJa": "向く人: 英語原題から日本語版の正式邦題、著者表記、出版社、刊行年を同じページで確認したい人。医師が患者の側から残した記録を、出典のある版情報と一緒に見たい人。向かない可能性: 治療手順や、市場全体の現在の入手可否だけを知りたい人。このページは、確認できた書誌と出版社ページの範囲を超えて、在庫や作品評価を断定しない。",
       "tags": [
         "死",
         "医療",
@@ -722,10 +721,21 @@
         "自伝"
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/11463139-L.jpg",
-      "selectionReasonJa": "死を目前にした医師の手記。死と生をめぐる最も誠実な記録。",
+      "selectionReasonJa": "次の一冊を選ぶ前に、英語原題と日本語版の対応を確認する境界として残す。書誌項目の再掲ではなく、誤った邦題と著者表記を正本書誌に合わせるためのページ。",
       "titleEn": "When Breath Becomes Air",
-      "descriptionEn": "A 36-year-old neurosurgeon learns he has terminal cancer. A man who has spent his career 'dealing with death' as a doctor now confronts it as a patient. His unfinished manuscript became the most honest testament ever written about death and life.",
-      "whyReadEn": "No memoir asks 'how to live with limited time' more directly. Impossible to read without tears."
+      "descriptionEn": "The English title is When Breath Becomes Air. National Diet Library bibliographic record 027680426, checked 2026-10-09, lists the Japanese edition as 『いま、希望を語ろう : 末期がんの若き医師が家族と見つけた「生きる意味」』, author ポール・カラニシ, publisher Hayakawa Shobo, publication date 2016.11, and original title WHEN BREATH BECOMES AIR. The English-language author name is Paul Kalanithi, and the original edition is dated 2016. Hayakawa's official product page, checked the same day, listed an ebook with translator 田中文 and a publication date of 2016/11/15. Current paper-stock availability is not asserted from that check.",
+      "whyReadEn": "For readers who need the official Japanese title, author spelling, publisher and publication date alongside the English title. Not a treatment guide, and not a market-wide availability claim.",
+      "editionNoteJa": "日本語版はある。国立国会図書館サーチ書誌ID 027680426（2026-10-09確認）の正式邦題は『いま、希望を語ろう : 末期がんの若き医師が家族と見つけた「生きる意味」』、著者はポール・カラニシ、出版社は早川書房、出版年は2016.11、原題は WHEN BREATH BECOMES AIR。早川書房公式商品ページ（2026-10-09確認）は、訳者田中文、刊行日2016/11/15の電子書籍を掲載していた。紙の本の現在の販売在庫は、この確認範囲では断定しない。",
+      "sources": [
+        {
+          "label": "国立国会図書館サーチ: 書誌ID 027680426（正式邦題・著者・早川書房・2016.11・原題）",
+          "url": "https://ndlsearch.ndl.go.jp/books/R100000002-I027680426"
+        },
+        {
+          "label": "早川書房公式: いま、希望を語ろう（電子書籍、訳者田中文、刊行日2016/11/15、2026-10-09確認）",
+          "url": "https://www.hayakawa-online.co.jp/shop/g/g0000611908/"
+        }
+      ]
     },
     {
       "slug": "the-body-keeps-the-score",

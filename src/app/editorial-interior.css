@@ -1,0 +1,126 @@
+/* READING ROOM — global publication identity.
+ * Applies the literary wayfinding from the homepage to paths, catalog, book pages,
+ * recommendations, authors, categories and guide routes without changing data.
+ * Every written reason comes from curated site data, not generated reviews. */
+:root{--background:#f4eee4;--foreground:#302c32;--accent:#88485b;--accent-hover:#603849;--muted:#655d5c;--card:#fffaf0;--card-hover:#ede1d6;--border:#c9b8ac}
+body{background:var(--background);color:var(--foreground);font-family:"Hiragino Kaku Gothic ProN","Hiragino Sans","Noto Sans JP",system-ui,sans-serif;line-height:1.85}
+body>div>header.sticky,header.sticky{background:#f5eddf!important;border-bottom:3px solid #302c32!important;backdrop-filter:none!important}
+header.sticky>.max-w-5xl{max-width:1160px;min-height:70px;height:auto!important;padding-top:10px;padding-bottom:10px}
+.reading-site-wordmark{color:#763f54!important;font-size:clamp(18px,2vw,23px)!important}
+header.sticky nav a{font-size:13px;font-weight:750}
+header.sticky input{background:#fffaf2;border-radius:1px!important}
+body>div>footer,footer.border-t{background:#322d33!important;color:#f3e9dd!important;border-top:5px solid #bd8c81!important}
+footer.border-t>.max-w-5xl{max-width:1160px}
+footer.border-t h3{font-family:"Yu Mincho","Hiragino Mincho ProN",serif;font-size:16px}
+footer.border-t .text-\[var\(--muted\)\]{color:#c5b3ad!important}
+footer.border-t a{color:#efddd0!important}
+footer.border-t a:hover{color:#fff!important}
+footer.border-t .border-\[var\(--border\)\]{border-color:#74616c!important}
+.reading-interior{max-width:1160px!important;padding-top:34px!important;padding-bottom:80px!important}
+.reading-interior-kicker{display:block;color:#914e57;font:750 11px/1.5 var(--font-geist-mono),monospace;letter-spacing:.15em;margin:0 0 14px}
+.reading-index-title{font-family:"Yu Mincho","Hiragino Mincho ProN","Noto Serif JP",serif!important;font-weight:650!important;letter-spacing:-.07em!important;line-height:1.3!important;font-size:clamp(37px,5vw,59px)!important;margin-bottom:19px!important}
+.reading-interior>nav:first-child{font:700 11px/1.6 var(--font-geist-mono),monospace;letter-spacing:.03em;color:#77625e;border-bottom:1px solid #ccbaab;padding-bottom:18px;margin-bottom:27px}
+.reading-interior>nav:first-child a{color:#804b57}
+.reading-interior h2:not(.reading-paths-index h2){letter-spacing:-.045em}
+.reading-interior-masthead{display:flex;flex-direction:column;gap:9px;background:#3a3039;color:#f7eadc;border-bottom:7px solid #b68477;padding:clamp(27px,4.5vw,52px);margin:0 0 35px}
+.reading-interior-masthead>span{font:750 11px/1.5 var(--font-geist-mono),monospace;letter-spacing:.1em;color:#e9bb9f}
+.reading-interior-masthead>strong{font:650 clamp(31px,4vw,52px)/1.3 "Yu Mincho","Hiragino Mincho ProN",serif;letter-spacing:-.06em}
+.reading-interior-masthead>p{font-size:14px;color:#ddcfc7;margin:0}
+.reading-book-detail-layout{grid-template-columns:minmax(0,.65fr) minmax(0,1.35fr);gap:clamp(23px,4.5vw,60px)}
+.reading-book-detail-aside>.sticky{top:18px;border:1px solid #c5b1a2;background:#e8dccb;padding:19px}
+.reading-book-detail-aside .aspect-\[3\/4\]{border-radius:1px!important;box-shadow:7px 7px 0 #baada2!important;border:1px solid #aba09a}
+.reading-book-detail-aside .space-y-2>div{border-bottom:1px solid #c6b9ad;padding-bottom:10px;margin-bottom:13px}
+.reading-book-detail-aside .space-y-2>div:last-child{border:0}
+.reading-book-detail-aside .text-\[var\(--muted\)\]{color:#705e56}
+.reading-book-detail-aside .rounded-full{border-radius:0!important}
+.reading-book-detail-aside a.bg-amber-500{background:#873f51!important;color:#fef6e9!important;border-radius:1px!important;font-weight:800}
+.reading-book-detail-aside a.bg-amber-500:hover{background:#633545!important}
+.reading-book-detail-text{min-width:0}
+.reading-book-detail-text>div:first-child{padding:10px 0 30px;border-bottom:2px solid #342a32}
+.reading-book-detail-text h1{font:650 clamp(37px,4vw,55px)/1.4 "Yu Mincho","Hiragino Mincho ProN",serif!important;letter-spacing:-.06em;margin:8px 0 15px!important}
+.reading-book-detail-text>section{scroll-margin-top:85px}
+.reading-book-detail-text>section>h2{font:700 clamp(22px,2.4vw,28px)/1.45 "Yu Mincho","Hiragino Mincho ProN",serif}
+.reading-book-detail-text>section>p{font-size:15px;line-height:2.05;color:#524950}
+.reading-book-detail-text .rounded-r-lg,.reading-book-detail-text .rounded-lg{border-radius:1px!important}
+.reading-book-detail-text section.border-l-4{padding:25px 27px!important;border-left-width:5px;border-color:#87475a;background:#e6d9ce}
+.reading-book-detail-text section.border-l-4 h2{font:800 12px/1.5 var(--font-geist-mono),monospace!important;letter-spacing:.04em;color:#854457}
+.reading-book-detail-text section.border-l-4 p{font-size:15px;line-height:2;color:#3d3539}
+.reading-book-detail-text section.bg-\[var\(--card\)\]{border-top:3px solid #a46c74;background:#fffbf2}
+.reading-next-book-feature{border-top:5px solid #723e52!important;border-bottom:1px solid #c7b6ad;padding:34px 0}
+.reading-next-book-feature>h2{font:650 clamp(29px,3.3vw,44px)/1.4 "Yu Mincho","Hiragino Mincho ProN",serif!important;margin:0 0 23px}
+.reading-next-link{display:grid;grid-template-columns:110px minmax(0,1fr) 28px;gap:24px;align-items:center;padding:20px;background:#e3d5c2;text-decoration:none;color:#342b35}
+.reading-next-link:hover{background:#e9d7bf}
+.reading-next-link-figure{display:flex;flex-direction:column;justify-content:center;align-items:center;gap:15px;background:#71445a;color:#fcebd6;min-height:155px;font:650 62px/1 Georgia,serif}
+.reading-next-link-figure small{font:750 9px/1.5 var(--font-geist-mono),monospace;letter-spacing:.07em}
+.reading-next-link-copy strong{display:block;font:650 clamp(23px,2.6vw,36px)/1.36 "Yu Mincho","Hiragino Mincho ProN",serif}
+.reading-next-link-copy small{display:block;color:#77606c;font-size:12px;margin:8px 0}
+.reading-next-link-copy>span{display:block;font-size:13px;line-height:1.85;color:#5d4e54}
+.reading-next-link>span:last-child{font-size:24px;color:#8c4c64}
+.reading-next-book-feature>h2.text-lg{margin-top:25px}
+.reading-route-card{display:flex;flex-direction:column;min-height:235px;border-top:3px solid #734055;border-bottom:1px solid #c6b4a5;background:#fffaf0;color:#3d303c;padding:23px 26px;gap:13px;text-decoration:none;transition:background .18s}
+.reading-route-card:hover{background:#eaded3}
+.reading-route-card-overline{display:flex;justify-content:space-between;gap:10px;color:#8b5262;font:750 11px/1.5 var(--font-geist-mono),monospace;letter-spacing:.09em}
+.reading-route-card-overline small{font-size:11px;letter-spacing:0}
+.reading-route-card>strong{font:650 clamp(21px,2.5vw,28px)/1.36 "Yu Mincho","Hiragino Mincho ProN",serif;letter-spacing:-.04em}
+.reading-route-card>p{font-size:13px;line-height:1.8;color:#6f6364;margin:0}
+.reading-route-card-bottom{display:flex;justify-content:space-between;gap:10px;border-top:1px solid #dbc9b8;padding-top:11px;margin-top:auto;font-size:12px;color:#89566b}
+.reading-route-card-bottom>span:last-child{font-size:21px}
+.reading-path-cover{padding-top:clamp(32px,5vw,65px);padding-bottom:clamp(32px,5vw,65px)}
+.reading-path-cover h1{font:650 clamp(34px,5vw,66px)/1.35 "Yu Mincho","Hiragino Mincho ProN",serif;letter-spacing:-.06em;margin:14px 0}
+.reading-path-cover p{font-size:clamp(15px,1.8vw,19px);color:#decfc6;line-height:1.85;max-width:57ch}
+.reading-path-cover nav{display:flex;flex-wrap:wrap;gap:16px;margin-top:20px}
+.reading-path-cover nav a{border-bottom:1px solid #e2be9d;padding-bottom:5px;color:#f3e3cf;text-decoration:none;font-weight:750;font-size:13px}
+.reading-path-intro{border-bottom:2px solid #9e6d79;padding-bottom:22px}
+.reading-path-intro h2{font:700 23px/1.4 "Yu Mincho","Hiragino Mincho ProN",serif}
+.reading-route-step{scroll-margin-top:20px;padding-bottom:29px}
+.reading-route-step>.absolute{background:#75405b!important;color:#f7efe7!important;border:2px solid #f3ded6!important;font:700 16px/1 Georgia,serif}
+.reading-route-chapter{border:1px solid #bba99e!important;border-top:3px solid #9a6475!important;border-radius:0!important;background:#fffaf0!important;padding:clamp(18px,3vw,30px)!important}
+.reading-route-chapter>.reading-interior-kicker{margin-bottom:18px}
+.reading-route-chapter .font-semibold{font-family:"Yu Mincho","Hiragino Mincho ProN",serif;font-size:clamp(22px,2.4vw,29px);line-height:1.45}
+.reading-route-chapter p{line-height:1.9;color:#61575c}
+.reading-route-chapter span.text-xs{font-weight:750}
+.reading-books-catalog>p:first-of-type,.reading-category-index>p:first-of-type,.reading-paths-index>p:first-of-type{max-width:75ch;font-size:15px;line-height:1.95;margin-bottom:32px}
+.reading-entry-card{display:flex;flex-direction:column;min-width:0;background:#fffbf2;border-top:3px solid #7b4b5e;border-left:1px solid #c8b9b1;border-right:1px solid #c8b9b1;border-bottom:1px solid #c8b9b1;transition:background .2s}
+.reading-entry-card:hover{background:#f0e6dc}
+.reading-entry-main{display:grid;grid-template-columns:clamp(70px,8vw,105px) minmax(0,1fr);gap:18px;padding:19px;flex:1}
+.reading-entry-cover{aspect-ratio:3/4;position:relative;display:block;overflow:hidden;background:#674558;align-self:start;box-shadow:4px 5px 0 #c8b7a6}
+.reading-entry-cover-fallback{display:flex;height:100%;width:100%;flex-direction:column;align-items:center;justify-content:space-between;gap:10px;padding:9px;color:#f7efdf;text-align:left}
+.reading-entry-cover-fallback span{font:750 8px/1.5 var(--font-geist-mono),monospace;letter-spacing:.05em}
+.reading-entry-cover-fallback strong{font:650 15px/1.4 "Yu Mincho","Hiragino Mincho ProN",serif}
+.reading-entry-copy{min-width:0}
+.reading-entry-category{color:#9a6067;font:750 10px/1.6 var(--font-geist-mono),monospace;letter-spacing:.05em}
+.reading-entry-copy h3{font:700 clamp(19px,2vw,25px)/1.4 "Yu Mincho","Hiragino Mincho ProN",serif;letter-spacing:-.05em;margin:5px 0 7px}
+.reading-entry-copy h3 a{text-decoration:none}
+.reading-entry-copy h3 span{color:#915969;font:400 15px/1 system-ui}
+.reading-entry-origin{font-size:11px;line-height:1.5;color:#776b70}
+.reading-entry-author{font-size:12px;margin:7px 0;color:#76565d}
+.reading-entry-author a{color:inherit;text-decoration:underline;text-underline-offset:4px}
+.reading-entry-reason{padding:11px 0 7px;margin:11px 0 0;border-top:1px solid #d7c6b8;font-size:12px;color:#655964;line-height:1.85;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:5;overflow:hidden}
+.reading-entry-reason>span{display:block;color:#8f5160;font-weight:800;font-size:10px;letter-spacing:.05em;margin-bottom:3px}
+.reading-entry-tags{display:flex;gap:6px;flex-wrap:wrap;margin-top:12px}
+.reading-entry-tag{font-size:10px;border:1px solid #c9a6a5;padding:3px 8px;color:#865061}
+.reading-entry-shop{display:flex;flex-wrap:wrap;gap:4px 15px;padding:11px 18px;border-top:1px solid #d0c0b6;background:#f1e8de}
+.reading-entry-shop a{font-size:11px;font-weight:750;color:#79565b}
+.reading-entry-shop a:hover{color:#a34657}
+.reading-bookshelf-grid>.grid,.reading-interior .reading-routes-index-grid{gap:14px}
+.reading-books-catalog form input,.reading-recommend input{background:#fffaf1;border:1px solid #b8a69d;border-radius:1px!important;min-height:46px}
+.reading-books-catalog button,.reading-recommend button{border-radius:1px!important}
+.reading-books-catalog .rounded-full,.reading-recommend .rounded-full{border-radius:1px!important}
+.reading-books-catalog .rounded-xl,.reading-recommend .rounded-xl,.reading-literary-guide .rounded-xl,.reading-literary-guide .rounded-2xl{border-radius:1px!important}
+.reading-books-catalog .grid.sm\:grid-cols-2>div,.reading-recommend section.rounded-xl{background:#eee1d3;border-top:3px solid #946579;padding:22px}
+.reading-books-catalog .grid.sm\:grid-cols-2>div h2{font-size:12px;color:#895469;font-weight:750}
+.reading-category-index>div.mb-8,.reading-books-catalog>div.mb-8{padding:20px;border-top:3px solid #8b576c;background:#eee4d8}
+.reading-category-index .text-sm,.reading-author-detail .text-sm{line-height:1.8}
+.reading-author-detail>div.mb-10{padding:38px;background:#e9dccc;border-top:5px solid #744257}
+.reading-author-detail h2{font:650 clamp(20px,2.5vw,29px)/1.4 "Yu Mincho","Hiragino Mincho ProN",serif}
+.reading-author-detail section{border-top:1px solid #cfbeb1;padding-top:24px}
+.reading-recommend>div.max-w-2xl:first-child{background:#e7dccc;border-top:5px solid #754357;padding:29px;margin-bottom:20px}
+.reading-recommend>div.max-w-2xl:first-child h1{font-size:clamp(33px,4vw,51px)!important}
+.reading-literary-guide>header:first-child{border-top:5px solid #773f55;background:#e7d9c8;padding:clamp(21px,4vw,40px)}
+.reading-literary-guide>header h1{font-family:"Yu Mincho","Hiragino Mincho ProN",serif;font-weight:650;letter-spacing:-.05em}
+.reading-literary-guide section[id^="route-"]{border-top:4px solid #80516a;background:#fffbf2}
+.reading-literary-guide section[id^="route-"] h2{font:650 27px/1.45 "Yu Mincho","Hiragino Mincho ProN",serif}
+.reading-interior a:focus-visible{outline:3px solid #99516d;outline-offset:3px}
+@media(max-width:800px){.reading-book-detail-layout{grid-template-columns:1fr}.reading-book-detail-aside>.sticky{position:static;display:grid;grid-template-columns:minmax(90px,170px) minmax(0,1fr);gap:19px}.reading-book-detail-aside .aspect-\[3\/4\]{margin:0}.reading-route-step{padding-left:34px}.reading-route-step>.absolute{width:32px;height:32px}.reading-route-card{min-height:200px}}
+@media(max-width:640px){.reading-interior{padding-left:16px!important;padding-right:16px!important}.reading-interior-masthead{padding:26px 20px}.reading-book-detail-aside>.sticky{display:block}.reading-book-detail-aside .aspect-\[3\/4\]{max-width:190px;margin:0 auto 17px}.reading-next-link{grid-template-columns:62px minmax(0,1fr) 15px;gap:12px;padding:14px}.reading-next-link-figure{min-height:115px;font-size:39px}.reading-next-link-figure small{font-size:7px;text-align:center}.reading-route-card{padding:20px}.reading-entry-main{gap:12px;padding:14px;grid-template-columns:75px minmax(0,1fr)}.reading-entry-copy h3{font-size:18px}.reading-entry-shop{padding:11px 14px}.reading-recommend>div.max-w-2xl:first-child{padding:21px}.reading-routes-index-grid{grid-template-columns:1fr}.reading-index-title{font-size:clamp(32px,9vw,48px)!important}}
+@media(prefers-reduced-motion:reduce){.reading-entry-card,.reading-route-card{transition:none}}

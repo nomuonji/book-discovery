@@ -124,3 +124,10 @@ footer.border-t .border-\[var\(--border\)\]{border-color:#74616c!important}
 @media(max-width:800px){.reading-book-detail-layout{grid-template-columns:1fr}.reading-book-detail-aside>.sticky{position:static;display:grid;grid-template-columns:minmax(90px,170px) minmax(0,1fr);gap:19px}.reading-book-detail-aside .aspect-\[3\/4\]{margin:0}.reading-route-step{padding-left:34px}.reading-route-step>.absolute{width:32px;height:32px}.reading-route-card{min-height:200px}}
 @media(max-width:640px){.reading-interior{padding-left:16px!important;padding-right:16px!important}.reading-interior-masthead{padding:26px 20px}.reading-book-detail-aside>.sticky{display:block}.reading-book-detail-aside .aspect-\[3\/4\]{max-width:190px;margin:0 auto 17px}.reading-next-link{grid-template-columns:62px minmax(0,1fr) 15px;gap:12px;padding:14px}.reading-next-link-figure{min-height:115px;font-size:39px}.reading-next-link-figure small{font-size:7px;text-align:center}.reading-route-card{padding:20px}.reading-entry-main{gap:12px;padding:14px;grid-template-columns:75px minmax(0,1fr)}.reading-entry-copy h3{font-size:18px}.reading-entry-shop{padding:11px 14px}.reading-recommend>div.max-w-2xl:first-child{padding:21px}.reading-routes-index-grid{grid-template-columns:1fr}.reading-index-title{font-size:clamp(32px,9vw,48px)!important}}
 @media(prefers-reduced-motion:reduce){.reading-entry-card,.reading-route-card{transition:none}}
+
+/* Tag shelves follow the same book/card/document system as authors and categories. */
+.reading-tag-index .reading-tag-neighbors{border-radius:1px!important;border-top:3px solid #825068;background:#e9dcd0;padding:21px!important}
+.reading-tag-index .reading-tag-neighbors h2{color:#7a4c61;font-weight:800;font-size:12px}
+.reading-tag-end{display:flex;flex-wrap:wrap;justify-content:space-between;gap:20px;border-top:2px solid #7c4e61;padding:22px 0;margin-top:33px}
+.reading-tag-end a{font-size:13px;font-weight:750;color:#824d60}
+.reading-tag-books{padding-top:12px}

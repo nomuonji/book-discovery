@@ -58,7 +58,7 @@ export default async function AuthorPage({ params }: PageProps) {
     .slice(0, 5);
 
   return (
-    <div className="max-w-5xl mx-auto px-4 py-8">
+    <div className="reading-interior reading-author-detail max-w-5xl mx-auto px-4 py-8">
       <nav className="text-sm text-[var(--muted)] mb-6">
         <Link href="/" className="hover:text-[var(--accent)] transition-colors">ホーム</Link>
         <span className="mx-2">/</span>
@@ -69,7 +69,7 @@ export default async function AuthorPage({ params }: PageProps) {
 
       {/* Author Header */}
       <div className="mb-10">
-        <h1 className="text-2xl sm:text-3xl font-bold mb-1">{author.nameJa}</h1>
+        <span className="reading-interior-kicker">WRITER'S SHELF / {author.country}</span><h1 className="text-2xl sm:text-3xl font-bold mb-1 reading-index-title">{author.nameJa}</h1>
         <p className="text-[var(--muted)]">
           {author.name} · 📍 {author.country} · 📖 {author.books.length}冊
         </p>
@@ -87,7 +87,7 @@ export default async function AuthorPage({ params }: PageProps) {
 
       {startHere.length > 0 && (
         <section className="mb-12">
-          <h2 className="text-lg font-semibold mb-2">アルベール・カミュはどれから読む？</h2>
+          <h2 className="text-lg font-semibold mb-2">{author.nameJa}はどれから読む？</h2>
           <p className="text-sm text-[var(--muted)] mb-4">
             カミュは小説と思想書の両方から入れます。読みたいものに近い入口を選んでください。
           </p>

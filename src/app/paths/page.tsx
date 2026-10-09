@@ -12,14 +12,15 @@ export default function PathsPage() {
   const paths = getAllPaths();
 
   return (
-    <div className="max-w-5xl mx-auto px-4 py-8">
-      <h1 className="text-2xl font-bold mb-2">読書パス</h1>
+    <div className="reading-interior reading-paths-index max-w-5xl mx-auto px-4 py-8">
+      <span className="reading-interior-kicker">THE READING ROUTES / 全{paths.length}ルート</span>
+      <h1 className="text-2xl font-bold mb-2 reading-index-title">読む順番に、意味がある。</h1>
       <p className="text-[var(--muted)] mb-8 max-w-2xl">
         テーマに沿って順番に読むことで、思想や文学の流れが立体的に見えてくる。
         各ステップに「なぜこの順番か」「ここで何を掴むか」の解説付き。
       </p>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 reading-routes-index-grid">
         {paths.map((path) => {
           const firstBook = path.steps.length > 0 ? getBookBySlug(path.steps[0].bookSlug) : undefined;
           return (

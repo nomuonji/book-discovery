@@ -63,7 +63,7 @@ export default async function BookDetailPage({ params }: PageProps) {
   };
 
   return (
-    <div className="max-w-5xl mx-auto px-4 py-8">
+    <div className="reading-interior reading-book-detail max-w-5xl mx-auto px-4 py-8">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(bookJsonLd) }}
@@ -76,8 +76,13 @@ export default async function BookDetailPage({ params }: PageProps) {
         <span>{book.title}</span>
       </nav>
 
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-        <div className="md:col-span-1">
+      <div className="reading-interior-masthead">
+        <span>BOOK RECORD / {book.year} / {book.country}</span>
+        <strong>一冊を、次の一冊につなぐ。</strong>
+        <p>この本の輪郭、読む理由、そして読み終えた先へ。</p>
+      </div>
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-8 reading-book-detail-layout">
+        <div className="md:col-span-1 reading-book-detail-aside">
           <div className="sticky top-20">
             <div className="aspect-[3/4] rounded-lg overflow-hidden shadow-md mb-4 relative">
               {book.coverUrl ? (
@@ -169,8 +174,9 @@ export default async function BookDetailPage({ params }: PageProps) {
           </div>
         </div>
 
-        <div className="md:col-span-2 space-y-8">
+        <div className="md:col-span-2 space-y-8 reading-book-detail-text">
           <div>
+            <span className="reading-interior-kicker">THIS BOOK / 作品案内</span>
             <h1 className="text-2xl sm:text-3xl font-bold mb-1">{book.editionNoteJa ? book.title : book.titleJa}</h1>
             <p className="text-[var(--muted)]">
               {book.authorJa} / {book.country} / {book.year}年
@@ -236,12 +242,19 @@ export default async function BookDetailPage({ params }: PageProps) {
           )}
 
           {recommendations.length > 0 && (
-            <section>
+            <section className="reading-next-book-feature" aria-labelledby="reading-next-book-heading">
+              <span className="reading-interior-kicker">A BOOK AFTER THIS ONE</span>
+              <h2 id="reading-next-book-heading">読み終えたら、次は。</h2>
+              <Link href={"/books/" + recommendations[0].book.slug + "/"} className="reading-next-link">
+                <span className="reading-next-link-figure">02 <small>ANOTHER BOOK</small></span>
+                <span className="reading-next-link-copy"><strong>{recommendations[0].book.titleJa}</strong><small>{recommendations[0].book.authorJa}</small><span>{recommendations[0].reasonJa}</span></span>
+                <span aria-hidden="true">↗</span>
+              </Link>
               <h2 className="text-lg font-semibold mb-3 flex items-center gap-2">
                 <span>🎯</span> この本が好きな人へのおすすめ
               </h2>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-                {recommendations.map((rec) => (
+                {recommendations.slice(1).map((rec) => (
                   <BookCard key={rec.toSlug} book={rec.book} reason={rec.reasonJa} />
                 ))}
               </div>

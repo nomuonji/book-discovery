@@ -33,7 +33,7 @@ export default async function CategoryPage({ params }: PageProps) {
   const books = getBooksByCategory(slug);
 
   return (
-    <div className="max-w-5xl mx-auto px-4 py-8">
+    <div className="reading-interior reading-category-index max-w-5xl mx-auto px-4 py-8">
       <nav className="text-sm text-[var(--muted)] mb-6">
         <Link href="/" className="hover:text-[var(--accent)] transition-colors">ホーム</Link>
         <span className="mx-2">/</span>
@@ -42,7 +42,7 @@ export default async function CategoryPage({ params }: PageProps) {
         <span>{cat.label}</span>
       </nav>
 
-      <h1 className="text-2xl font-bold mb-2">{cat.label}</h1>
+      <span className="reading-interior-kicker">SHELF / {books.length} BOOKS</span><h1 className="text-2xl font-bold mb-2 reading-index-title">{cat.label}</h1>
       <p className="text-[var(--muted)] mb-6 max-w-2xl">{cat.description}</p>
 
       <div className="mb-8">

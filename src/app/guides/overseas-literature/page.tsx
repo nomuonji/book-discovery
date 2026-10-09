@@ -69,7 +69,7 @@ export default function OverseasLiteratureGuidePage() {
   })).filter((item) => item.route !== null);
 
   return (
-    <main className="max-w-5xl mx-auto px-4 py-10 sm:py-14">
+    <main className="reading-interior reading-literary-guide max-w-5xl mx-auto px-4 py-10 sm:py-14">
       <header className="max-w-3xl mb-10">
         <span className="text-xs font-semibold tracking-[0.18em] text-[var(--accent)]">
           FIRST BOOK GUIDE

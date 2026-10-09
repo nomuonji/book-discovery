@@ -7,6 +7,12 @@ import { getAllPaths, getBookBySlug, getStats } from "@/lib/data";
 export default function HomePage() {
   const paths = getAllPaths();
   const stats = getStats();
+  // Demonstrate an existing editorial connection, rather than inventing a recommendation.
+  const examplePath = paths.find((path) => path.slug === "existentialism-to-modern-thought");
+  const exampleSteps = examplePath?.steps.slice(0, 2).flatMap((step) => {
+    const book = getBookBySlug(step.bookSlug);
+    return book ? [{ step, book }] : [];
+  }) ?? [];
 
   const featuredSlugs = [
     "the-stranger", "my-brilliant-friend", "what-we-talk-about-when-we-talk-about-love",
@@ -75,13 +81,47 @@ export default function HomePage() {
         </div>
       </section>
 
+      {examplePath && exampleSteps.length === 2 && (
+        <section aria-labelledby="reading-trail-title" className="max-w-5xl mx-auto px-4 py-10">
+          <div className="border-y-2 border-[var(--accent)] py-8 sm:py-10">
+            <div className="flex flex-col md:flex-row md:items-end md:justify-between gap-4 mb-8">
+              <div>
+                <p className="text-xs font-semibold tracking-[0.18em] text-[var(--accent)] mb-2">TWO BOOKS / ONE THREAD</p>
+                <h2 id="reading-trail-title" className="text-2xl sm:text-3xl font-bold tracking-tight mb-2">一冊のあとに、もう一冊。</h2>
+                <p className="text-[var(--muted)] max-w-xl leading-relaxed">
+                  次に何を読むかは、似たジャンルだけでは決まらない。
+                  実際の読書パスから、二冊のあいだにある理由をひとつ紹介します。
+                </p>
+              </div>
+              <Link href={`/paths/${examplePath.slug}/`} className="text-sm text-[var(--accent)] hover:underline shrink-0">
+                この読書パスを全部読む →
+              </Link>
+            </div>
+            <ol className="grid gap-4 md:grid-cols-2">
+              {exampleSteps.map(({ step, book }, index) => (
+                <li key={book.slug} className="relative border-l-4 border-[var(--accent)] bg-[var(--card)] px-5 py-5 sm:px-7">
+                  <p className="text-xs font-semibold text-[var(--accent)] mb-2">
+                    {index === 0 ? "01 / ここから" : "02 / その次に"}
+                  </p>
+                  <h3 className="font-bold text-lg mb-1">
+                    <Link href={`/books/${book.slug}/`} className="hover:underline">{book.titleJa}</Link>
+                  </h3>
+                  <p className="text-xs text-[var(--muted)] mb-3">{book.authorJa}</p>
+                  <p className="text-sm leading-relaxed">{step.noteJa}</p>
+                </li>
+              ))}
+            </ol>
+          </div>
+        </section>
+      )}
+
       <section className="max-w-5xl mx-auto px-4 py-8">
         <div className="flex items-end justify-between mb-6">
           <div>
             <h2 className="text-xl font-bold">読書パス</h2>
             <p className="text-sm text-[var(--muted)] mt-1">「何を、どの順番で読むか」まで決めたい人へ</p>
           </div>
-          <Link href="/paths/" className="text-sm text-[var(--accent)] hover:underline shrink-0">17本すべて見る →</Link>
+          <Link href="/paths/" className="text-sm text-[var(--accent)] hover:underline shrink-0">{paths.length}本すべて見る →</Link>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
           {paths.slice(0, 6).map((path) => {

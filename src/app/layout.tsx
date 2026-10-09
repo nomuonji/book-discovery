@@ -38,8 +38,8 @@ function Header() {
   return (
     <header className="sticky top-0 z-50 bg-[var(--background)]/90 backdrop-blur border-b border-[var(--border)]">
       <div className="max-w-5xl mx-auto px-4 h-14 flex items-center justify-between gap-4">
-        <Link href="/" className="text-lg font-bold tracking-tight text-[var(--accent)] hover:opacity-80 transition-opacity shrink-0">
-          📚 読書の羅針盤
+        <Link href="/" className="reading-site-wordmark text-lg font-bold tracking-tight text-[var(--accent)] hover:opacity-80 transition-opacity shrink-0">
+          読書の羅針盤
         </Link>
 
         {/* Simple search form (hidden on smallest screens) */}

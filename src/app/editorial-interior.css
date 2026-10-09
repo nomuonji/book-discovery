@@ -131,3 +131,6 @@ footer.border-t .border-\[var\(--border\)\]{border-color:#74616c!important}
 .reading-tag-end{display:flex;flex-wrap:wrap;justify-content:space-between;gap:20px;border-top:2px solid #7c4e61;padding:22px 0;margin-top:33px}
 .reading-tag-end a{font-size:13px;font-weight:750;color:#824d60}
 .reading-tag-books{padding-top:12px}
+
+.reading-next-alternatives{margin-top:28px;border-top:1px solid #bda99e;padding-top:24px}
+.reading-next-alternatives>h3{font:650 clamp(20px,2.4vw,28px)/1.4 "Yu Mincho","Hiragino Mincho ProN",serif;margin:0 0 17px}

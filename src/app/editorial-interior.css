@@ -134,3 +134,16 @@ footer.border-t .border-\[var\(--border\)\]{border-color:#74616c!important}
 
 .reading-next-alternatives{margin-top:28px;border-top:1px solid #bda99e;padding-top:24px}
 .reading-next-alternatives>h3{font:650 clamp(20px,2.4vw,28px)/1.4 "Yu Mincho","Hiragino Mincho ProN",serif;margin:0 0 17px}
+
+/* Actual chapter index links preserve the reader's place and replace repeated dek. */
+.reading-chapter-index{display:grid;grid-template-columns:minmax(210px,.65fr) minmax(0,1.35fr);gap:35px;padding:26px 0 34px;margin-bottom:29px;border-bottom:2px solid #89566c}
+.reading-chapter-index-heading h2{font:650 clamp(22px,2.4vw,31px)/1.4 "Yu Mincho","Hiragino Mincho ProN",serif;margin:0 0 9px}
+.reading-chapter-index-heading p{color:#726167;line-height:1.8;font-size:13px}
+.reading-chapter-index ol{list-style:none;margin:0;padding:0;border-top:1px solid #c9b8af}
+.reading-chapter-index li a{display:grid;grid-template-columns:27px minmax(0,1fr) 140px 14px;gap:10px;align-items:center;padding:13px 7px;border-bottom:1px solid #c9b8af;text-decoration:none}
+.reading-chapter-index li a:hover{background:#e7ddcf}
+.reading-chapter-index li a>span:first-child{color:#8a5063;font:750 14px/1 Georgia,serif}
+.reading-chapter-index li a strong{font-size:13px;line-height:1.5}
+.reading-chapter-index li a small{color:#7b6d6c;font-size:11px}
+.reading-chapter-index li a>span:last-child{color:#9a6174}
+@media(max-width:750px){.reading-chapter-index{grid-template-columns:1fr;gap:18px}.reading-chapter-index li a{grid-template-columns:24px minmax(0,1fr) 16px}.reading-chapter-index li a small{grid-column:2;grid-row:2}.reading-chapter-index li a>span:last-child{grid-column:3;grid-row:1/3}}

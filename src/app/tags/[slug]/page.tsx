@@ -42,7 +42,7 @@ export default async function TagPage({ params }: PageProps) {
   const relatedTags = allTags.filter((t) => t.slug !== decoded && books.some((b) => b.tags.includes(t.slug))).slice(0, 20);
 
   return (
-    <div className="max-w-5xl mx-auto px-4 py-8">
+    <div className="reading-interior reading-tag-index max-w-5xl mx-auto px-4 py-8">
       <nav className="text-sm text-[var(--muted)] mb-6">
         <Link href="/" className="hover:text-[var(--accent)] transition-colors">ホーム</Link>
         <span className="mx-2">/</span>
@@ -51,19 +51,21 @@ export default async function TagPage({ params }: PageProps) {
         <span>#{decoded}</span>
       </nav>
 
-      <h1 className="text-2xl font-bold mb-2">
+      <span className="reading-interior-kicker">THEMATIC SHELF / {books.length} BOOKS</span>
+      <h1 className="text-2xl font-bold mb-2 reading-index-title">
         タグ「<span className="text-[var(--accent)]">{decoded}</span>」の本
       </h1>
       <p className="text-sm text-[var(--muted)] mb-6">📚 {books.length}冊</p>
 
       {relatedTags.length > 0 && (
-        <div className="mb-8 p-4 bg-[var(--card)] border border-[var(--border)] rounded-lg">
+        <div className="mb-8 p-4 bg-[var(--card)] border border-[var(--border)] rounded-lg reading-tag-neighbors">
           <h2 className="text-xs font-medium text-[var(--muted)] mb-2">関連タグ</h2>
           <TagCluster tags={relatedTags} />
         </div>
       )}
 
-      <BookGrid books={books} />
+      <div className="reading-tag-books"><BookGrid books={books} /></div>
+      <nav className="reading-tag-end"><Link href="/books/">← すべての本を眺める</Link><Link href="/paths/">読む順番から探す ↗</Link></nav>
     </div>
   );
 }

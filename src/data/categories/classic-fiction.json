@@ -781,8 +781,8 @@
       "genre": [
         "小説"
       ],
-      "descriptionJa": "「私は病気だ……しかし私は私の病気を誇りに思っている」。社会から退却し、地下室で自己嫌悪と誇りを紡ぐ男の独白。近代の合理主義と人間の矛盾を問う、ドストエフスキーにして実存主義の先駆けとなった問題作。",
-      "whyReadJa": "サルトルが「実存主義の始まり」と呼んだ一冊。ニーチェやカミュに至る思想の原点を、文学として体験できる。",
+      "descriptionJa": "1864年発表。人付き合いから退いた名前のない元官吏が、読者に向かって自分の考えを語りかける作品。前半は理性的に行動する人間という考え方への反発と自己弁護、後半は過去の将校との確執、昔の知人たちとの会食、リーザとの出会いへ進む。筋を追うだけでは掴みにくいのは、語り手自身が発言を覆し、他人にも自分にも意地悪な説明を重ねるからだ。",
+      "whyReadJa": "「わかっているのに、わざと損な選択をしてしまう人間」を読みたい人に向く。第一部の抽象的な独白を読み切るより、第二部で主人公が他人にどう接するかを照らし合わせると、理屈と行動の食い違いが見えてくる。一方、好感を持てる主人公やテンポのよい事件中心の物語を求める人には、最初の一冊としては負荷が高い。",
       "tags": [
         "ロシア文学",
         "実存主義",
@@ -790,10 +790,58 @@
         "19世紀"
       ],
       "coverUrl": "https://covers.openlibrary.org/b/id/10445973-L.jpg",
-      "selectionReasonJa": "実存主義の先駆け。ドストエフスキーが人間の矛盾と自己欺瞞を描いた問題作。",
+      "selectionReasonJa": "長編へ進む前に、ドストエフスキーの「自分を正当化する言葉と、他者を傷つける行動」を短い二部構成で読む入口。実存主義という後世のラベルだけでなく、語り手の矛盾を具体的な場面で確かめられる。",
       "titleEn": "Notes from Underground",
-      "descriptionEn": "'I am a sick man... but I am proud of my sickness.' The monologue of a man who withdraws from society and weaves self-loathing and pride in his underground room. A problem-novel that questions modern rationalism and human contradiction—Dostoevsky as the forerunner of existentialism.",
-      "whyReadEn": "The book Sartre called 'the beginning of existentialism.' You can experience, as literature, the origin of the thinking that leads to Nietzsche and Camus."
+      "descriptionEn": "First published in 1864, this two-part novella gives a voice to an unnamed, withdrawn former civil servant. His first section argues against tidy accounts of rational self-interest; his second recalls encounters with an officer, former schoolmates, and Liza. His claims about himself repeatedly clash with his actions. Read the narrator critically rather than treating him as Dostoevsky's spokesman.",
+      "whyReadEn": "For readers interested in self-deception and the gap between stated beliefs and behavior. The abstract first part becomes clearer when tested against the social encounters of part two. If you need a sympathetic lead or plot-first pacing, this is a demanding starting point.",
+      "readingGuideJa": {
+        "intro": "結論から言うと、これは「孤独な男の暗い日記」ではなく、自分の知性を盾にして人との関係を壊していく人間を、読者が観察する小説。哲学の入門書のつもりで思想だけを抜き出すより、第二部に描かれる行動と第一部の理屈を突き合わせる読み方が適している。",
+        "spoilerScope": "ここでは二部構成と主要な人物・場面までは紹介する。リーザとの場面がどう決着するかなど、終盤の展開は書かない。",
+        "sections": [
+          {
+            "heading": "何が書かれている？――二つの部を別の仕事として読む",
+            "body": "第一部「地下室」では、語り手が自分の病や悪意、行動できなさをめぐって、想像上の聞き手に反論を重ねる。第二部「べた雪にまつわる話」では、その語り手が若いころの出来事を振り返る。抽象的な主張から具体的な回想へ切り替わることが、この作品の仕掛けだ。第一部で同意できなくても、そこで語られた理屈が第二部でどのように破綻するかを見ればよい。"
+          },
+          {
+            "heading": "なぜわざと不合理なことをするのか",
+            "body": "彼が反発するのは、人間の行動を利益計算だけで説明できる、という見通しだ。ところが彼自身は、その批判を他人への軽蔑や、自分の屈辱を正当化する道具にもしている。「自由でいたい」という言葉は、自分を傷つける自由まで守るのか。読者は、主張の正しさと語り手の振る舞いを分けて考える必要がある。これは本文に基づく読解上の問いであり、語り手の意見がそのまま著者の結論という意味ではない。"
+          },
+          {
+            "heading": "第二部で観察したい三つの場面",
+            "body": "将校に無視されたと感じて長く執着すること、昔の知人たちとの会食で居場所を失いながら対抗心を募らせること、リーザを相手に自分の言葉の力を試してしまうこと。三つを並べると、「被害者としての自己像」と「相手を傷つける側の行動」の往復が見えてくる。嫌な人物だと切り捨てる前に、彼がなぜその瞬間に別の行動を選べなかったのかを考えると読書が進む。"
+          },
+          {
+            "heading": "向いている人・ほかの作品を先に読んだほうがよい人",
+            "body": "内省的で矛盾の多い一人称の語りや、自由意志をめぐる問いに興味があれば向いている。対して、事件が連続する長編を読みたいなら『罪と罰』から入る選択もある。ただし『罪と罰』も心理描写に時間を使う小説であり、単純に読みやすいという比較ではない。『地下室の手記』を途中で止めたくなったら、先に第二部の具体的な回想を読んで第一部へ戻るという読書順も試せる。"
+          },
+          {
+            "heading": "どの日本語訳を選ぶ？",
+            "body": "新潮文庫の江川卓訳『地下室の手記』、光文社古典新訳文庫の安岡治子訳『地下室の手記』、集英社の亀山郁夫訳『新訳 地下室の記録』という選択肢がある。題名に「記録」と付く版も同じ原作。版ごとの読みやすさや訳の優劣は、ここでは実際の訳文を比較していないので断定しない。まず図書館や試し読みで第一部冒頭の文体を比べ、自分が語り手の息苦しい声を追える訳を選ぶのが確実だ。"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "label": "Project Gutenberg：英訳原文（Constance Garnett訳、二部構成と人物・場面の確認）",
+          "url": "https://www.gutenberg.org/files/600/600-h/600-h.htm"
+        },
+        {
+          "label": "新潮社：江川卓訳『地下室の手記』書誌・作品案内",
+          "url": "https://www.shinchosha.co.jp/book/201009/"
+        },
+        {
+          "label": "光文社古典新訳文庫：安岡治子訳『地下室の手記』",
+          "url": "https://www.kotensinyaku.jp/books/book28/"
+        },
+        {
+          "label": "集英社：亀山郁夫訳『新訳 地下室の記録』",
+          "url": "https://www.shueisha.co.jp/books/items/contents.html?isbn=978-4-08-773482-9"
+        },
+        {
+          "label": "国立国会図書館：『地下室の手記』安岡治子訳の書誌",
+          "url": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008536473"
+        }
+      ]
     },
     {
       "slug": "crime-and-punishment",

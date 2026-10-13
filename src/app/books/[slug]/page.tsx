@@ -213,6 +213,25 @@ export default async function BookDetailPage({ params }: PageProps) {
             <p className="text-[var(--muted)] leading-relaxed">{book.whyReadJa}</p>
           </section>
 
+          {book.readingGuideJa && (
+            <section className="space-y-5" aria-labelledby="reading-guide-heading">
+              <div className="border-t border-[var(--border)] pt-6">
+                <span className="reading-interior-kicker">READER'S GUIDE / 読む前の手引き</span>
+                <h2 id="reading-guide-heading" className="text-xl font-semibold mt-2 mb-3">この作品をどう読む？</h2>
+                <p className="leading-relaxed">{book.readingGuideJa.intro}</p>
+                <p className="text-sm text-[var(--muted)] mt-4 border-l-2 border-[var(--accent)] pl-3">
+                  ネタバレ範囲：{book.readingGuideJa.spoilerScope}
+                </p>
+              </div>
+              {book.readingGuideJa.sections.map((section) => (
+                <div key={section.heading} className="space-y-2">
+                  <h3 className="text-lg font-semibold">{section.heading}</h3>
+                  <p className="leading-relaxed text-[var(--muted)]">{section.body}</p>
+                </div>
+              ))}
+            </section>
+          )}
+
           {book.sources && book.sources.length > 0 && (
             <section>
               <h2 className="text-sm font-semibold mb-2">出典・参考</h2>

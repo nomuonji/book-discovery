@@ -26,6 +26,12 @@ export interface Book {
   sources?: { label: string; url: string }[];
   /** 日本語版の有無や公式邦題の確認範囲。ある場合だけ詳細ページ冒頭に出す。 */
   editionNoteJa?: string;
+  /** 手動で裏付けを確認した読書ガイド。メタデータ再掲ではなく独自の読書上の判断を提供する。 */
+  readingGuideJa?: {
+    intro: string;
+    spoilerScope: string;
+    sections: { heading: string; body: string }[];
+  };
 }
 
 /** レコメンド */

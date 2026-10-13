@@ -7,7 +7,13 @@ import { FilterNavButton } from "@/components/FilterNavButton";
 import { getBookBySlug, getRecommendationsFrom, getPathsContainingBook, getAllBooks } from "@/lib/data";
 import { getAmazonLink, getAmazonSearchLink, getAmazonComSearchLink, AMAZON_DISCLAIMER } from "@/lib/amazon";
 import { buildMetadata } from "@/lib/seo";
-import { ReadingPath } from "@/types";
+import { ReadingPath, Book } from "@/types";
+
+function hasOfficialJapaneseTitle(book: Pick<Book, "slug" | "titleJa" | "editionNoteJa">) {
+  // Only this NDL-verified Japanese edition is eligible; other books keep the
+  // existing edition-note fallback until their bibliographic match is checked.
+  return book.slug === "when-breath-becomes-air" && Boolean(book.editionNoteJa) && !book.titleJa.includes("未確認");
+}
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -22,7 +28,8 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const { slug } = await params;
   const book = getBookBySlug(slug);
   if (!book) return { title: "Not Found" };
-  const title = book.editionNoteJa
+  const officialJapaneseTitle = hasOfficialJapaneseTitle(book);
+  const title = book.editionNoteJa && !officialJapaneseTitle
     ? `${book.title}（${book.authorJa}）`
     : `${book.titleJa}（${book.authorJa}）`;
   const description = book.editionNoteJa
@@ -47,14 +54,15 @@ export default async function BookDetailPage({ params }: PageProps) {
 
   const recommendations = getRecommendationsFrom(slug);
   const paths = getPathsContainingBook(slug);
-  const structuredName = book.editionNoteJa ? book.title : book.titleJa;
+  const officialJapaneseTitle = hasOfficialJapaneseTitle(book);
+  const structuredName = book.editionNoteJa && !officialJapaneseTitle ? book.title : book.titleJa;
 
   const bookJsonLd = {
     "@context": "https://schema.org",
     "@type": "Book",
     name: structuredName,
-    alternateName: book.editionNoteJa ? book.titleJa : book.title,
-    inLanguage: book.editionNoteJa ? "en" : undefined,
+    alternateName: book.editionNoteJa && !officialJapaneseTitle ? book.titleJa : book.title,
+    inLanguage: book.editionNoteJa && !officialJapaneseTitle ? "en" : undefined,
     author: { "@type": "Person", name: book.authorJa },
     datePublished: String(book.year),
     genre: book.genre,
@@ -156,7 +164,7 @@ export default async function BookDetailPage({ params }: PageProps) {
                   rel="noopener noreferrer"
                   className="block w-full text-center text-sm py-2.5 rounded-lg bg-amber-500 hover:bg-amber-600 text-amber-950 font-medium transition-colors"
                 >
-                  {book.editionNoteJa ? "🛒 Amazon.co.jpで英語版を探す" : "🛒 Amazonで見る（日本語版）"}
+                  {book.editionNoteJa && !officialJapaneseTitle ? "🛒 Amazon.co.jpで英語版を探す" : "🛒 Amazonで見る（日本語版）"}
                 </a>
                 <a
                   href={getAmazonComSearchLink(book.titleEn || book.title, book.author)}
@@ -177,7 +185,10 @@ export default async function BookDetailPage({ params }: PageProps) {
         <div className="md:col-span-2 space-y-8 reading-book-detail-text">
           <div>
             <span className="reading-interior-kicker">THIS BOOK / 作品案内</span>
-            <h1 className="text-2xl sm:text-3xl font-bold mb-1">{book.editionNoteJa ? book.title : book.titleJa}</h1>
+            <h1 className="text-2xl sm:text-3xl font-bold mb-1">{book.editionNoteJa && !officialJapaneseTitle ? book.title : book.titleJa}</h1>
+            {officialJapaneseTitle && (
+              <p className="text-sm text-[var(--muted)] mb-1">原題: {book.title}</p>
+            )}
             <p className="text-[var(--muted)]">
               {book.authorJa} / {book.country} / {book.year}年
             </p>

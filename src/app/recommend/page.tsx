@@ -130,7 +130,10 @@ export default function RecommendPage() {
               value={query}
               onChange={(event) => setQuery(event.target.value)}
               onKeyDown={(event) => {
-                if (event.key === "Enter") handleSearch();
+                if (event.key !== "Enter") return;
+                if (event.nativeEvent.isComposing || event.nativeEvent.keyCode === 229) return;
+                event.preventDefault();
+                handleSearch();
               }}
               placeholder="本・作家・テーマを入力 例：異邦人、村上春樹、孤独"
               className="w-full px-4 py-3 rounded-lg border border-[var(--border)] bg-[var(--card)] focus:outline-none focus:ring-2 focus:ring-[var(--accent)] focus:border-transparent text-sm"

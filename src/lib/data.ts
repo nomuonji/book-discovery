@@ -232,17 +232,22 @@ export function getBooksByDecade(decade: number): Book[] {
 }
 
 export function searchBooks(query: string): Book[] {
-  const q = query.toLowerCase();
-  return getAllBooks().filter(
-    (b) =>
-      b.title.toLowerCase().includes(q) ||
-      b.titleJa.includes(q) ||
-      b.author.toLowerCase().includes(q) ||
-      b.authorJa.includes(q) ||
-      b.tags.some((t) => t.includes(q)) ||
-      b.genre.some((g) => g.includes(q)) ||
-      b.country.includes(q) ||
-      b.descriptionJa.includes(q)
+  const normalizeSearchText = (value: string) =>
+    value.normalize("NFKC").toLowerCase();
+  const q = normalizeSearchText(query.trim());
+  if (!q) return getAllBooks();
+
+  return getAllBooks().filter((b) =>
+    [
+      b.title,
+      b.titleJa,
+      b.author,
+      b.authorJa,
+      ...b.tags,
+      ...b.genre,
+      b.country,
+      b.descriptionJa,
+    ].some((value) => normalizeSearchText(value).includes(q))
   );
 }
 

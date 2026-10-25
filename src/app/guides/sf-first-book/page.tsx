@@ -68,8 +68,24 @@ function buildRoute(slug: string) {
   const book = getBookBySlug(slug);
   if (!book) return null;
 
-  const next = getRecommendationsFrom(slug).find((rec) => rec.type !== "reading-path");
+  const nextFromGraph = getRecommendationsFrom(slug).find((rec) => rec.type !== "reading-path");
   const path = getPathsContainingBook(slug)[0];
+
+  // This collection has no outgoing recommendation or curated path yet.
+  // Keep the reader's next step useful by linking to an existing catalog record.
+  const curatedNext =
+    slug === "stories-of-your-life-and-others"
+      ? {
+          book: getBookBySlug("the-left-hand-of-darkness"),
+          reasonJa:
+            "短編で思考実験の切れ味を味わったら、次は長編で社会の前提をずらす一冊へ。『闇の左手』は性別や文化の違いから、人間という概念を考え直す読書へつなげられます。",
+        }
+      : null;
+  const next =
+    nextFromGraph ??
+    (curatedNext?.book
+      ? { book: curatedNext.book, reasonJa: curatedNext.reasonJa }
+      : undefined);
 
   return { book, next, path };
 }

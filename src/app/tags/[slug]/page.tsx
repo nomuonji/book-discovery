@@ -57,6 +57,19 @@ export default async function TagPage({ params }: PageProps) {
       </h1>
       <p className="text-sm text-[var(--muted)] mb-6">📚 {books.length}冊</p>
 
+      {decoded === "SF" && (
+        <div className="mb-8 p-4 bg-[var(--card)] border border-[var(--border)] rounded-lg">
+          <p className="text-sm mb-2">
+            <Link href="/guides/sf-first-book/" className="text-[var(--accent)] font-medium hover:underline">
+              SF小説の最初の一冊を読みたい体験から選ぶ
+            </Link>
+          </p>
+          <p className="text-xs text-[var(--muted)]">
+            71冊の棚から一冊を決めるのが難しいときは、読みたい体験と読書負荷から入口を選べます。
+          </p>
+        </div>
+      )}
+
       {relatedTags.length > 0 && (
         <div className="mb-8 p-4 bg-[var(--card)] border border-[var(--border)] rounded-lg reading-tag-neighbors">
           <h2 className="text-xs font-medium text-[var(--muted)] mb-2">関連タグ</h2>

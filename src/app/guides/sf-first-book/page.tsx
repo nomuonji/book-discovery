@@ -104,7 +104,7 @@ export default function SfFirstBookGuidePage() {
         </span>
         <h1 className="text-3xl sm:text-4xl font-bold mt-3 mb-4 leading-tight">
           SF小説の最初の一冊を、<br className="hidden sm:block" />
-          読みたい体験から選ぶ
+          読みたい体験から最初の一冊を選ぶ
         </h1>
         <p className="text-[var(--muted)] leading-relaxed">
           大量の作品名を眺める前に、まず「どんな体験を読みたいか」から一冊だけ選びます。

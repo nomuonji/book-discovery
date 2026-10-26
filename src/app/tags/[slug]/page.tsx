@@ -2,8 +2,10 @@ import { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { BookGrid } from "@/components/BookGrid";
+import { JsonLd } from "@/components/JsonLd";
 import { TagCluster } from "@/components/TagBadge";
 import { getBooksByTag, getAllTags, isIndexableTag } from "@/lib/data";
+import { breadcrumbListNode, collectionPageNode } from "@/lib/jsonld";
 import { buildMetadata } from "@/lib/seo";
 
 interface PageProps {
@@ -43,6 +45,21 @@ export default async function TagPage({ params }: PageProps) {
 
   return (
     <div className="reading-interior reading-tag-index max-w-5xl mx-auto px-4 py-8">
+      <JsonLd
+        data={[
+          collectionPageNode({
+            name: `タグ「${decoded}」の本`,
+            description: `「${decoded}」のタグが付いた本の一覧。全${books.length}冊。`,
+            path: `/tags/${encodeURIComponent(decoded)}`,
+            numberOfItems: books.length,
+          }),
+          breadcrumbListNode([
+            { name: "ホーム", path: "/" },
+            { name: "本を探す", path: "/books" },
+            { name: `#${decoded}`, path: `/tags/${encodeURIComponent(decoded)}` },
+          ]),
+        ]}
+      />
       <nav className="text-sm text-[var(--muted)] mb-6">
         <Link href="/" className="hover:text-[var(--accent)] transition-colors">ホーム</Link>
         <span className="mx-2">/</span>

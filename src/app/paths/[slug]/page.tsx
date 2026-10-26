@@ -2,7 +2,9 @@ import { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { JsonLd } from "@/components/JsonLd";
 import { getAllPaths, getPathWithBooks, getBookBySlug } from "@/lib/data";
+import { breadcrumbListNode, orderedItemListNode, webPageNode } from "@/lib/jsonld";
 import { buildMetadata } from "@/lib/seo";
 
 interface PageProps {
@@ -86,6 +88,28 @@ export default async function PathDetailPage({ params }: PageProps) {
 
   return (
     <div className="reading-interior reading-path-detail max-w-5xl mx-auto px-4 py-8">
+      <JsonLd
+        data={[
+          webPageNode({
+            name: path.titleJa,
+            description: path.descriptionJa,
+            path: `/paths/${path.slug}`,
+          }),
+          // ページに並んでいる順番そのまま。読む順序があるので ItemListOrderAscending。
+          orderedItemListNode(
+            `${path.titleJa}の読書順`,
+            stepsWithBooks.map((step) => ({
+              name: step.book.titleJa,
+              path: `/books/${step.book.slug}`,
+            })),
+          ),
+          breadcrumbListNode([
+            { name: "ホーム", path: "/" },
+            { name: "読書パス", path: "/paths" },
+            { name: path.titleJa, path: `/paths/${path.slug}` },
+          ]),
+        ]}
+      />
       {/* Breadcrumb */}
       <nav className="text-sm text-[var(--muted)] mb-6">
         <Link href="/" className="hover:text-[var(--accent)] transition-colors">ホーム</Link>

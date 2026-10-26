@@ -2,8 +2,10 @@ import { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { BookGrid } from "@/components/BookGrid";
+import { JsonLd } from "@/components/JsonLd";
 import { TagCluster } from "@/components/TagBadge";
 import { getAuthorBySlug, getRecommendationsForAuthor, getAllAuthors, isIndexableAuthor } from "@/lib/data";
+import { breadcrumbListNode, profilePageNode } from "@/lib/jsonld";
 import { buildMetadata } from "@/lib/seo";
 
 interface PageProps {
@@ -59,6 +61,23 @@ export default async function AuthorPage({ params }: PageProps) {
 
   return (
     <div className="reading-interior reading-author-detail max-w-5xl mx-auto px-4 py-8">
+      <JsonLd
+        data={[
+          profilePageNode({
+            name: author.nameJa,
+            path: `/authors/${author.slug}`,
+            personName: author.name,
+            alternateName: author.nameJa,
+            description: author.bioJa || undefined,
+            country: author.country,
+          }),
+          breadcrumbListNode([
+            { name: "ホーム", path: "/" },
+            { name: "本を探す", path: "/books" },
+            { name: author.nameJa, path: `/authors/${author.slug}` },
+          ]),
+        ]}
+      />
       <nav className="text-sm text-[var(--muted)] mb-6">
         <Link href="/" className="hover:text-[var(--accent)] transition-colors">ホーム</Link>
         <span className="mx-2">/</span>

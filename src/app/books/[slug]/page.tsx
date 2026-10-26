@@ -4,8 +4,10 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { BookCard } from "@/components/BookCard";
 import { FilterNavButton } from "@/components/FilterNavButton";
+import { JsonLd } from "@/components/JsonLd";
 import { getBookBySlug, getRecommendationsFrom, getPathsContainingBook, getAllBooks } from "@/lib/data";
 import { getAmazonLink, getAmazonSearchLink, getAmazonComSearchLink, AMAZON_DISCLAIMER } from "@/lib/amazon";
+import { breadcrumbListNode } from "@/lib/jsonld";
 import { buildMetadata } from "@/lib/seo";
 import { ReadingPath, Book } from "@/types";
 
@@ -72,9 +74,15 @@ export default async function BookDetailPage({ params }: PageProps) {
 
   return (
     <div className="reading-interior reading-book-detail max-w-5xl mx-auto px-4 py-8">
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(bookJsonLd) }}
+      <JsonLd
+        data={[
+          bookJsonLd,
+          breadcrumbListNode([
+            { name: "ホーム", path: "/" },
+            { name: "本を探す", path: "/books" },
+            { name: structuredName, path: `/books/${book.slug}` },
+          ]),
+        ]}
       />
       <nav className="text-sm text-[var(--muted)] mb-6">
         <Link href="/" className="hover:text-[var(--accent)] transition-colors">ホーム</Link>

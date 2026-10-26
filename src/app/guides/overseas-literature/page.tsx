@@ -1,4 +1,6 @@
 import Link from "next/link";
+import { JsonLd } from "@/components/JsonLd";
+import { breadcrumbListNode, webPageNode } from "@/lib/jsonld";
 import { buildMetadata } from "@/lib/seo";
 import {
   getBookBySlug,
@@ -70,6 +72,20 @@ export default function OverseasLiteratureGuidePage() {
 
   return (
     <main className="reading-interior reading-literary-guide max-w-5xl mx-auto px-4 py-10 sm:py-14">
+      <JsonLd
+        data={[
+          webPageNode({
+            name: "海外文学おすすめ｜最初の一冊を6つの読書タイプから選ぶ",
+            description:
+              "海外文学を何から読めばいいか迷う人へ。読みたい体験から最初の一冊を6冊に絞り、その本の次に読む一冊や読書パスまで案内します。",
+            path: "/guides/overseas-literature",
+          }),
+          breadcrumbListNode([
+            { name: "ホーム", path: "/" },
+            { name: "海外文学おすすめ", path: "/guides/overseas-literature" },
+          ]),
+        ]}
+      />
       <header className="max-w-3xl mb-10">
         <span className="text-xs font-semibold tracking-[0.18em] text-[var(--accent)]">
           FIRST BOOK GUIDE

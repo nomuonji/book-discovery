@@ -1,7 +1,9 @@
 import Link from "next/link";
 import { BookGrid } from "@/components/BookGrid";
 import { CategoryNav } from "@/components/CategoryNav";
+import { JsonLd } from "@/components/JsonLd";
 import { getAllPaths, getBookBySlug, getStats } from "@/lib/data";
+import { organizationNode, webSiteNode } from "@/lib/jsonld";
 
 export default function HomePage() {
   const paths = getAllPaths();
@@ -20,6 +22,7 @@ export default function HomePage() {
 
   return (
     <div className="reading-home">
+      <JsonLd data={[webSiteNode(), organizationNode()]} />
       <section className="reading-hero" aria-labelledby="reading-hero-title">
         <div className="reading-hero-inner">
           <div className="reading-hero-copy">

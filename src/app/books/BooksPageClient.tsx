@@ -71,14 +71,10 @@ export function BooksPageClient() {
   const decades = getAllDecades();
   const topTags = getAllTags().slice(0, 20);
 
+  // 見出し（h1）と説明文は page.tsx 側でサーバー描画する。
+  // ここに置くと useSearchParams のバイルアウトで静的HTMLから消えるため。
   return (
-    <div className="reading-interior reading-books-catalog max-w-5xl mx-auto px-4 py-8">
-      <span className="reading-interior-kicker">THE OPEN SHELF / THE CATALOG</span>
-      <h1 className="text-2xl font-bold mb-2 reading-index-title">本を並べる、<br />理由をたどる。</h1>
-      <p className="text-[var(--muted)] mb-6">
-        全{getAllBooks().length}冊から、カテゴリ・ジャンル・国・年代で絞り込み。
-      </p>
-
+    <div>
       <div className="mb-8 max-w-md">
         <form action="/books/" method="GET" className="relative">
           {genreFilter && <input type="hidden" name="genre" value={genreFilter} />}

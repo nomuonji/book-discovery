@@ -21,8 +21,19 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const { slug } = await params;
   const author = getAuthorBySlug(slug);
   if (!author) return { title: "Not Found" };
+  // サイト名の接尾辞（" | 読書の羅針盤" = 9文字）を足して70字を超えないよう、
+  // 長い名前では原綴りの括弧を落とす（2026-10-27: ゲーテのページが71字だった）。
+  const tail = "の代表作・おすすめ本と著書一覧";
+  const withLatin = `${author.nameJa}（${author.name}）${tail}`;
+  const withoutLatin = `${author.nameJa}${tail}`;
+  const title =
+    [...withLatin].length <= 61
+      ? withLatin
+      : [...withoutLatin].length <= 61
+        ? withoutLatin
+        : `${author.nameJa}の著書一覧`;
   return buildMetadata({
-    title: `${author.nameJa}（${author.name}）の代表作・おすすめ本と著書一覧`,
+    title,
     description: authorDescription(author),
     path: `/authors/${author.slug}`,
     robots: isIndexableAuthor(author) ? undefined : { index: false, follow: true },

@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"]
 
 export const metadata: Metadata = {
   title: { default: "読書の羅針盤 — 世界の名作と出会う", template: "%s | 読書の羅針盤" },
-  description: "文学史に残る古典から現代の受賞作まで、厳選した世界の名作を日本語で発見できる読書ガイド。村上春樹好きにおすすめの海外文学から、実存主義の読書パスまで。",
+  description: `文学史に残る古典から現代の受賞作まで、厳選した世界の名作を日本語で発見できる読書ガイド。村上春樹好きにおすすめの海外文学から、実存主義の読書パスまで。全${getStats().totalBooks}冊を収録し、ジャンル・国・出版年から次の一冊を探せます。`,
   metadataBase: new URL(siteUrl("/")),
   alternates: { canonical: siteUrl("/") },
   openGraph: {

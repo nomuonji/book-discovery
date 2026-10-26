@@ -5,6 +5,7 @@ import { BookGrid } from "@/components/BookGrid";
 import { JsonLd } from "@/components/JsonLd";
 import { TagCluster } from "@/components/TagBadge";
 import { getAuthorBySlug, getRecommendationsForAuthor, getAllAuthors, isIndexableAuthor } from "@/lib/data";
+import { authorDescription } from "@/lib/descriptions";
 import { breadcrumbListNode, profilePageNode } from "@/lib/jsonld";
 import { buildMetadata } from "@/lib/seo";
 
@@ -22,9 +23,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   if (!author) return { title: "Not Found" };
   return buildMetadata({
     title: `${author.nameJa}（${author.name}）の代表作・おすすめ本と著書一覧`,
-    description: author.slug === "albert-camus"
-      ? "アルベール・カミュとは、1942年『異邦人』で知られるフランス語の作家。実存主義者のラベルは本人が好まず、小説・不条理・反抗の4冊から次の一冊を選べます。"
-      : `${author.nameJa}の代表作と著書${author.books.length}冊の一覧。どれから読むかと関連するおすすめ本を紹介します。`,
+    description: authorDescription(author),
     path: `/authors/${author.slug}`,
     robots: isIndexableAuthor(author) ? undefined : { index: false, follow: true },
   });

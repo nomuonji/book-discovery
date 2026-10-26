@@ -5,6 +5,7 @@ import { BookGrid } from "@/components/BookGrid";
 import { JsonLd } from "@/components/JsonLd";
 import { TagCluster } from "@/components/TagBadge";
 import { getBooksByTag, getAllTags, isIndexableTag } from "@/lib/data";
+import { tagDescription } from "@/lib/descriptions";
 import { breadcrumbListNode, collectionPageNode } from "@/lib/jsonld";
 import { buildMetadata } from "@/lib/seo";
 
@@ -27,7 +28,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   if (!tag) return { title: "Not Found" };
   return buildMetadata({
     title: `「${decoded}」タグの本`,
-    description: `「${decoded}」に関連する洋書・思想書の一覧。`,
+    description: tagDescription(decoded, getBooksByTag(decoded)),
     path: `/tags/${encodeURIComponent(decoded)}`,
     robots: isIndexableTag(tag) ? undefined : { index: false, follow: true },
   });

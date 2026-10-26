@@ -9,21 +9,56 @@
  */
 
 import type { Book, ReadingPath } from "@/types";
-import { getAllAuthors, getAllPaths, getRecommendationsForAuthor } from "@/lib/data";
+import {
+  getAllAuthors,
+  getAllPaths,
+  getPathsContainingBook,
+  getRecommendationsForAuthor,
+  getRecommendationsFrom,
+  getStats,
+} from "@/lib/data";
 
 export const DESCRIPTION_MIN = 90;
 export const DESCRIPTION_MAX = 135;
 
 const SENTENCE_END = /[。！？]/;
 const NOISE = /[。「」、！？——・…\s]/g;
+const ATTRIBUTE_ESCAPES: Record<string, string> = {
+  "&": "&amp;",
+  '"': "&quot;",
+  "<": "&lt;",
+  ">": "&gt;",
+};
 
 export function charLength(value: string): number {
   return [...value].length;
 }
 
+/**
+ * `<meta name="description" content="...">` に書いたあとの長さ。
+ *
+ * 属性値は `&` `"` `<` `>` が実体参照に置き換わるので、
+ * `ファスト&スロー` を含む説明は画面上の文字数より4文字長く出力される。
+ * 上限判定は「実際にHTMLへ出る長さ」で行う（実体参照で1字超えるのを防ぐ）。
+ */
+export function attributeLength(value: string): number {
+  return charLength(value.replace(/[&"<>]/g, (char) => ATTRIBUTE_ESCAPES[char]));
+}
+
 /** -512 → 紀元前512年（画面の年表記に合わせる） */
 export function yearLabel(year: number): string {
   return year < 0 ? `紀元前${-year}年` : `${year}年`;
+}
+
+// ---------------------------------------------------------------- ホーム
+
+/**
+ * ホームの説明。
+ * `app/layout.tsx` の metadata と、WebSite / Organization の JSON-LD が
+ * この戻り値を共有する（同じ文を2箇所で組み立てない）。
+ */
+export function homeDescription(): string {
+  return `文学史に残る古典から現代の受賞作まで、厳選した世界の名作を日本語で発見できる読書ガイド。村上春樹好きにおすすめの海外文学から、実存主義の読書パスまで。全${getStats().totalBooks}冊を収録し、ジャンル・国・出版年から次の一冊を探せます。`;
 }
 
 /** slug から決まる 0-999 の値。並び順の揺らぎにだけ使い、内容は変えない。 */
@@ -84,7 +119,7 @@ export function composeDescription(
   for (let i = 0; i < core.length; i++) {
     const sentence = core[i];
     if (!sentence) continue;
-    if (charLength(result + sentence) > DESCRIPTION_MAX) continue;
+    if (attributeLength(result + sentence) > DESCRIPTION_MAX) continue;
     if (result && isRedundant(sentence, result)) {
       used.add(i);
       continue;
@@ -98,7 +133,7 @@ export function composeDescription(
       const sentence = extras[i];
       if (!sentence) continue;
       if (charLength(result) >= DESCRIPTION_MIN) break;
-      if (charLength(result + sentence) > DESCRIPTION_MAX) continue;
+      if (attributeLength(result + sentence) > DESCRIPTION_MAX) continue;
       if (isRedundant(sentence, result)) continue;
       result += sentence;
     }
@@ -137,6 +172,20 @@ export function clipToSentenceEnd(text: string, max: number): string {
     }
   }
   return "";
+}
+
+// ---------------------------------------------------------------- カテゴリページ
+
+/**
+ * 一覧の説明文。ページに実際に並べている冊数をそのまま使い、
+ * 分類（カテゴリの説明）と絞り込みの軸だけを書く。
+ * カテゴリページの meta description と CollectionPage の JSON-LD はこの戻り値を使う。
+ */
+export function categoryDescription(
+  cat: { label: string; description: string },
+  bookCount: number,
+): string {
+  return `${cat.label}の本の一覧。${cat.description}全${bookCount}冊を収録し、著者・国・出版年から絞り込めます。各冊のページでは次に読む一冊も案内しています。`;
 }
 
 // ---------------------------------------------------------------- タグページ
@@ -317,6 +366,25 @@ export function bookDescription(book: Book, nextBook?: Book, path?: ReadingPath)
   );
 }
 
+/**
+ * 書籍詳細ページの description。
+ * meta description と Book の JSON-LD は、この戻り値ひとつを共有する。
+ *
+ * 画面に出ている本文（日本語版の注記／作品紹介）を優先し、
+ * 文の途中で切れないよう文末まで戻してから 90 文字に満たない場合だけ
+ * 読む理由・次に読む一冊・読書パスで補う。
+ */
+export function bookPageDescription(book: Book): string {
+  const raw = book.editionNoteJa ?? book.descriptionJa;
+  const sliced = raw.slice(0, 120);
+  // 120文字で切ると文の途中で終わることがあるため、文末まで戻す
+  const existing = /[。！？]$/.test(sliced.replace(/\s+/g, "")) ? sliced : clipToSentenceEnd(raw, 120);
+  if (charLength(existing) >= DESCRIPTION_MIN) return existing;
+  const nextBook = getRecommendationsFrom(book.slug)[0]?.book;
+  const path = getPathsContainingBook(book.slug)[0];
+  return bookDescription(book, nextBook, path);
+}
+
 // ---------------------------------------------------------------- 読書パス詳細
 
 export function pathDescription(
@@ -344,4 +412,18 @@ export function pathDescription(
     [...splitSentences(path.descriptionJa), tails[h % tails.length], closers[h % closers.length]],
     [`読む順番と、そこで掴む概念を一覧できます。`],
   );
+}
+
+/**
+ * 読書パス詳細ページの description。
+ * meta description と WebPage の JSON-LD は、この戻り値ひとつを共有する。
+ * パスの説明文が 90 文字以上あればそれをそのまま使い、足りないときだけ
+ * 収録冊数と最初／最後の書名で組み立てる。
+ */
+export function pathPageDescription(
+  path: ReadingPath,
+  stepsWithBooks: { order: number; book: Book }[],
+): string {
+  const existing = path.descriptionJa.slice(0, 120);
+  return charLength(existing) >= DESCRIPTION_MIN ? existing : pathDescription(path, stepsWithBooks);
 }

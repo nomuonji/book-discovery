@@ -8,10 +8,13 @@ import {
   getRecommendationsFrom,
 } from "@/lib/data";
 
+// 一覧の説明はメタ情報と構造化データで同じ文面を使う（ページに実在する内容だけ）。
+const GUIDE_DESCRIPTION =
+  "海外文学を何から読めばいいか迷う人へ。読みたい体験から最初の一冊を6冊に絞り、その本の次に読む一冊や読書パスまで案内します。異邦人（フランス）から華麗なるギャツビー（アメリカ）まで、国も年代も異なる6冊です。";
+
 export const metadata = buildMetadata({
   title: "海外文学おすすめ｜最初の一冊を6つの読書タイプから選ぶ",
-  description:
-    "海外文学を何から読めばいいか迷う人へ。読みたい体験から最初の一冊を6冊に絞り、その本の次に読む一冊や読書パスまで案内します。異邦人（フランス）から華麗なるギャツビー（アメリカ）まで、国も年代も異なる6冊です。",
+  description: GUIDE_DESCRIPTION,
   path: "/guides/overseas-literature",
 });
 
@@ -76,8 +79,7 @@ export default function OverseasLiteratureGuidePage() {
         data={[
           webPageNode({
             name: "海外文学おすすめ｜最初の一冊を6つの読書タイプから選ぶ",
-            description:
-              "海外文学を何から読めばいいか迷う人へ。読みたい体験から最初の一冊を6冊に絞り、その本の次に読む一冊や読書パスまで案内します。",
+            description: GUIDE_DESCRIPTION,
             path: "/guides/overseas-literature",
           }),
           breadcrumbListNode([

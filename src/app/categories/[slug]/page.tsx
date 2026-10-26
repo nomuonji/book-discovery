@@ -5,6 +5,7 @@ import { BookGrid } from "@/components/BookGrid";
 import { CategoryNav } from "@/components/CategoryNav";
 import { JsonLd } from "@/components/JsonLd";
 import { getBooksByCategory, getCategoryBySlug, getAllCategories } from "@/lib/data";
+import { categoryDescription } from "@/lib/descriptions";
 import { breadcrumbListNode, collectionPageNode } from "@/lib/jsonld";
 import { buildMetadata } from "@/lib/seo";
 
@@ -16,20 +17,13 @@ export async function generateStaticParams() {
   return getAllCategories().map((c) => ({ slug: c.slug }));
 }
 
-/**
- * 一覧の説明文。ページに実際に並べている冊数をそのまま使い、
- * 分類（カテゴリの説明）と絞り込みの軸だけを書く。
- */
-function categoryDescription(cat: { label: string; description: string }, bookCount: number) {
-  return `${cat.label}の本の一覧。${cat.description}全${bookCount}冊を収録し、著者・国・出版年から絞り込めます。各冊のページでは次に読む一冊も案内しています。`;
-}
-
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { slug } = await params;
   const cat = getCategoryBySlug(slug);
   if (!cat) return { title: "Not Found" };
   return buildMetadata({
     title: `${cat.label} — カテゴリ別一覧`,
+    // meta と JSON-LD で同じ戻り値を使う（文面は descriptions.ts だけが決める）
     description: categoryDescription(cat, getBooksByCategory(slug).length),
     path: `/categories/${cat.slug}`,
   });

@@ -8,18 +8,19 @@
  * 方針:
  * - ページに実際に並んでいるデータだけを入れる（冊数はデータから数える）。
  * - 評価・価格・レビュー・受賞などの推測値は入れない。
+ * - ページ直下のノードの `description` は、同じページの `<meta name="description">`
+ *   と同じ値にする。文面はここで組み立てず、各ページが
+ *   src/lib/descriptions.ts の戻り値をそのまま渡す（2箇所で別々に作らない）。
  */
 
+import { homeDescription } from "./descriptions";
 import { DEFAULT_OG_IMAGE, SITE_NAME, SITE_URL, siteUrl } from "./seo";
 
 export type JsonLdNode = Record<string, unknown>;
 
 const CONTEXT = "https://schema.org";
 
-/** サイト全体の基本情報。WebSite と Organization で同じ名前・URLを使う。 */
-const SITE_DESCRIPTION =
-  "文学史に残る古典から現代の受賞作まで、厳選した世界の名作を日本語で発見できる読書ガイド。";
-
+/** サイト全体の基本情報。WebSite と Organization で同じ名前・URL・説明を使う。 */
 export function webSiteNode(): JsonLdNode {
   return {
     "@context": CONTEXT,
@@ -27,7 +28,7 @@ export function webSiteNode(): JsonLdNode {
     name: SITE_NAME,
     alternateName: "A BOOK LEADS TO ANOTHER",
     url: siteUrl("/"),
-    description: SITE_DESCRIPTION,
+    description: homeDescription(),
     inLanguage: "ja",
   };
 }
@@ -38,7 +39,7 @@ export function organizationNode(): JsonLdNode {
     "@type": "Organization",
     name: SITE_NAME,
     url: siteUrl("/"),
-    description: SITE_DESCRIPTION,
+    description: homeDescription(),
     logo: {
       "@type": "ImageObject",
       // 画像はページURLではないので、末尾スラッシュを付ける siteUrl() は使わない。
@@ -166,7 +167,10 @@ export interface ProfilePageOptions {
   path: string;
   personName: string;
   alternateName?: string;
-  description?: string;
+  /** ページの説明。meta description と同じ値を渡す。 */
+  description: string;
+  /** 画面に出している著者紹介（Person 自身の説明。ページの説明とは別物） */
+  personDescription?: string;
   /** 画面に出している国名（データ上の表記のまま） */
   country?: string;
 }
@@ -178,13 +182,14 @@ export function profilePageNode(opts: ProfilePageOptions): JsonLdNode {
     name: opts.personName,
   };
   if (opts.alternateName) person.alternateName = opts.alternateName;
-  if (opts.description) person.description = opts.description;
+  if (opts.personDescription) person.description = opts.personDescription;
   if (opts.country) person.nationality = opts.country;
 
   return {
     "@context": CONTEXT,
     "@type": "ProfilePage",
     name: opts.name,
+    description: opts.description,
     url: siteUrl(opts.path),
     inLanguage: "ja",
     isPartOf: {

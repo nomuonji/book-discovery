@@ -28,6 +28,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   if (!tag) return { title: "Not Found" };
   return buildMetadata({
     title: `「${decoded}」タグの本`,
+    // meta と JSON-LD で同じ戻り値を使う（文面は descriptions.ts だけが決める）
     description: tagDescription(decoded, getBooksByTag(decoded)),
     path: `/tags/${encodeURIComponent(decoded)}`,
     robots: isIndexableTag(tag) ? undefined : { index: false, follow: true },
@@ -50,7 +51,7 @@ export default async function TagPage({ params }: PageProps) {
         data={[
           collectionPageNode({
             name: `タグ「${decoded}」の本`,
-            description: `「${decoded}」のタグが付いた本の一覧。全${books.length}冊。`,
+            description: tagDescription(decoded, books),
             path: `/tags/${encodeURIComponent(decoded)}`,
             numberOfItems: books.length,
           }),

@@ -67,7 +67,10 @@ export default async function AuthorPage({ params }: PageProps) {
             path: `/authors/${author.slug}`,
             personName: author.name,
             alternateName: author.nameJa,
-            description: author.bioJa || undefined,
+            // ページの説明は meta description と同じ戻り値
+            description: authorDescription(author),
+            // Person 自身の説明は、画面に出している著者紹介
+            personDescription: author.bioJa || undefined,
             country: author.country,
           }),
           breadcrumbListNode([

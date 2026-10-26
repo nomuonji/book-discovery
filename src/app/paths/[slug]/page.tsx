@@ -4,7 +4,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { JsonLd } from "@/components/JsonLd";
 import { getAllPaths, getPathWithBooks, getBookBySlug } from "@/lib/data";
-import { charLength, DESCRIPTION_MIN, pathDescription } from "@/lib/descriptions";
+import { pathPageDescription } from "@/lib/descriptions";
 import { breadcrumbListNode, orderedItemListNode, webPageNode } from "@/lib/jsonld";
 import { buildMetadata } from "@/lib/seo";
 
@@ -22,12 +22,10 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const path = getPathWithBooks(slug);
   if (!path) return { title: "Not Found" };
   const firstCover = path.stepsWithBooks[0]?.book.coverUrl;
-  const existing = path.descriptionJa.slice(0, 120);
-  const description =
-    charLength(existing) >= DESCRIPTION_MIN ? existing : pathDescription(path, path.stepsWithBooks);
   return buildMetadata({
     title: `${path.titleJa} — 読書パス`,
-    description,
+    // meta と JSON-LD で同じ戻り値を使う（文面は descriptions.ts だけが決める）
+    description: pathPageDescription(path, path.stepsWithBooks),
     path: `/paths/${path.slug}`,
     images: firstCover ? [{ url: firstCover, alt: path.titleJa }] : undefined,
   });
@@ -96,7 +94,8 @@ export default async function PathDetailPage({ params }: PageProps) {
         data={[
           webPageNode({
             name: path.titleJa,
-            description: path.descriptionJa,
+            // meta description と同じ戻り値
+            description: pathPageDescription(path, stepsWithBooks),
             path: `/paths/${path.slug}`,
           }),
           // ページに並んでいる順番そのまま。読む順序があるので ItemListOrderAscending。

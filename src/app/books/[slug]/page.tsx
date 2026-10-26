@@ -6,7 +6,7 @@ import { BookCard } from "@/components/BookCard";
 import { FilterNavButton } from "@/components/FilterNavButton";
 import { JsonLd } from "@/components/JsonLd";
 import { getBookBySlug, getRecommendationsFrom, getPathsContainingBook, getAllBooks } from "@/lib/data";
-import { bookDescription, charLength, clipToSentenceEnd, DESCRIPTION_MIN } from "@/lib/descriptions";
+import { bookPageDescription } from "@/lib/descriptions";
 import { getAmazonLink, getAmazonSearchLink, getAmazonComSearchLink, AMAZON_DISCLAIMER } from "@/lib/amazon";
 import { breadcrumbListNode } from "@/lib/jsonld";
 import { buildMetadata } from "@/lib/seo";
@@ -35,17 +35,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const title = book.editionNoteJa && !officialJapaneseTitle
     ? `${book.title}（${book.authorJa}）`
     : `${book.titleJa}（${book.authorJa}）`;
-  const description = (() => {
-    const raw = book.editionNoteJa ?? book.descriptionJa;
-    const sliced = raw.slice(0, 120);
-    // 120文字で切ると文の途中で終わることがあるため、文末まで戻す
-    const existing = /[。！？]$/.test(sliced.replace(/\s+/g, "")) ? sliced : clipToSentenceEnd(raw, 120);
-    if (charLength(existing) >= DESCRIPTION_MIN) return existing;
-    // 90文字に満たないときだけ、画面上の事実（読む理由・次に読む一冊・読書パス）で補う
-    const nextBook = getRecommendationsFrom(slug)[0]?.book;
-    const path = getPathsContainingBook(slug)[0];
-    return bookDescription(book, nextBook, path);
-  })();
+  const description = bookPageDescription(book);
   return buildMetadata({
     title,
     description,
@@ -78,7 +68,8 @@ export default async function BookDetailPage({ params }: PageProps) {
     datePublished: String(book.year),
     genre: book.genre,
     image: book.coverUrl || undefined,
-    description: book.editionNoteJa || book.descriptionJa,
+    // meta description と同じ戻り値（descriptions.ts が唯一の組み立て元）
+    description: bookPageDescription(book),
   };
 
   return (
